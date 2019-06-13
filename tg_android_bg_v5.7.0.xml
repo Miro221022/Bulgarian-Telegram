@@ -441,7 +441,7 @@
   <string name="BlockedUsersCount_other">%1$d блокирани потребители</string>
   <string name="BlockedUsersCount_two">%1$d блокирани потребители</string>
   <string name="BlockedUsersCount_zero">%1$d блокирани потребители</string>
-  <string name="BlockedUsersInfo">Блокираните потребители няма да могат да се свържат с вас и няма да видят времето na последното ви посещение.</string>
+  <string name="BlockedUsersInfo">Блокираните потребители няма да могат да се свържат с вас и няма да видят времето на последното ви посещение.</string>
   <string name="BlockUser">Блокиране на потребител</string>
   <string name="Blue">Синьо</string>
   <string name="BlurLinear">Линейно</string>
@@ -720,7 +720,7 @@
   <string name="ClearSearchAlert">Наистина ли искате да изчистите историята на търсенията ви?</string>
   <string name="ClearSearchAlertTitle">Изчистване на историята на търсенията</string>
   <string name="Close">Затвори</string>
-  <string name="CloseEditor">ЗАТВАРЯНЕ НА РЕДАКТОР</string>
+  <string name="CloseEditor">ЗАТВАРЯНЕ НА РЕДАКТОРА</string>
   <string name="Code">Код</string>
   <string name="CodeExpired">Кодът изтече, влезте отново</string>
   <string name="ColorBlue">Син</string>
@@ -2336,7 +2336,7 @@
   <string name="Save">Запази</string>
   <string name="SavedMessages">Запазени съобщения</string>
   <string name="SavedMessagesInfo">Препратете тук, за да запишете.</string>
-  <string name="SaveTheme">СЪХРАНЯВАНЕ НА ТЕМА</string>
+  <string name="SaveTheme">ЗАПАЗВАНЕ НА ТЕМАТА</string>
   <string name="SaveToDownloads">Запази в изтеглянията</string>
   <string name="SaveToGallery">Запазване в галерията</string>
   <string name="SaveToGallerySettings">Запазване в Галерия</string>
@@ -2522,12 +2522,12 @@
   <string name="Stickers_two">%1$d стикери</string>
   <string name="Stickers_zero">%1$d стикери</string>
   <string name="StickersAndMasks">Стикери и маски</string>
-  <string name="StickersCopy">Копирай връзката</string>
-  <string name="StickersHide">Архивирай</string>
+  <string name="StickersCopy">Копиране на връзката</string>
+  <string name="StickersHide">Архивиране</string>
   <string name="StickersName">Стикери и маски</string>
-  <string name="StickersRemove">Премахни</string>
+  <string name="StickersRemove">Премахване</string>
   <string name="StickersRemoved">Стикерите са премахнати</string>
-  <string name="StickersShare">Сподели</string>
+  <string name="StickersShare">Споделяне</string>
   <string name="Stop">Спиране</string>
   <string name="StopAllLocationSharings">СПРИ ВСИЧКИ</string>
   <string name="StopDownload">Спри изтеглянето</string>
