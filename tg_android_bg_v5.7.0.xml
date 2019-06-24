@@ -181,6 +181,7 @@
   <string name="AddMutual">Добавяне на контакти към вашия канал</string>
   <string name="AddOneMemberAlertTitle">Добавяне на член</string>
   <string name="AddOneMemberForwardMessages">Показване на последните 100 съобщения до **%1$s**</string>
+  <string name="AddPeopleNearby">Добавяне на хора в близост</string>
   <string name="AddProxy">Добавяне на прокси</string>
   <string name="AddRecipient">Добавяне на получател</string>
   <string name="AddShortcut">Добавяне на пряк път</string>
@@ -506,6 +507,7 @@
   <string name="CantPlayVideo">Телеграм не може да възпроизведе видеото. Да се опита ли с външен плеър?</string>
   <string name="Caption">Надпис</string>
   <string name="Change">Промени</string>
+  <string name="ChangeChatBackground">Промяна на фона на чата</string>
   <string name="ChangeLanguageLater">Можете да промените езика по-късно от настройки.</string>
   <string name="ChangePasscode">Промяна на паролата</string>
   <string name="ChangePasscodeInfo">Ако настроите допълнителна парола, икона с катинар ще се появи в страницата с чатовете. Чукнете я, за да заключите и отключите вашия Телеграм.\n\nЗабележка: ако забравите паролата, ще трябва да изтриете и инсталирате отново приложението. Ще загубите всички тайни чатове.</string>
@@ -660,6 +662,7 @@
   <string name="ChatsException_two">%1$d чата</string>
   <string name="ChatsException_zero">%1$d чата</string>
   <string name="ChatsMute">Заглушаване</string>
+  <string name="ChatsNearbyHeader">Групи наблизо</string>
   <string name="ChatsSelected_few">%1$d чата</string>
   <string name="ChatsSelected_many">%1$d чата</string>
   <string name="ChatsSelected_one">%1$d чат</string>
@@ -1597,6 +1600,7 @@
   <string name="MuteDisable">Деактивиране</string>
   <string name="MuteFor">Заглуши за %1$s</string>
   <string name="MuteNotifications">Заглуши известията</string>
+  <string name="NearbyCreateGroup">Създаване на локална група</string>
   <string name="NearbyPlaces">ИЛИ ИЗБЕРЕТЕ МЯСТО</string>
   <string name="NetworkUsage">Използване на данни</string>
   <string name="NetworkUsageMobile">МОБИЛНИ</string>
@@ -1629,7 +1633,7 @@
   <string name="NobodyLikesSpam1">За съжаление, можете да изпращате съобщения само на взаимни контакти в момента.</string>
   <string name="NobodyLikesSpam2">За съжаление, можете да добавяте само взаимни контакти в групи в момента.</string>
   <string name="NobodyLikesSpam3">Съжаляваме, имате ограничение за публикуване в публични групи.</string>
-  <string name="NoCallLog">Не сте направили никакви разговори все още.</string>
+  <string name="NoCallLog">Все още не сте провеждали разговори.</string>
   <string name="NoChats">Все още няма чатове...</string>
   <string name="NoChatsContactsHelp">Започнете разговор като натиснете бутона с молив долу вдясно\nили чукнете бутон меню за повече опции.</string>
   <string name="NoChatsHelp">Започнете разговор като натиснете\nбутона ново съобщение долу вдясно или\nчукнете бутон меню за повече опции.</string>
@@ -2121,6 +2125,18 @@
   <string name="PaymentTransactionTotal">Обща сума</string>
   <string name="PaymentWarning">Предупреждение</string>
   <string name="PaymentWarningText">Нито Телеграм, нито %1$s ще имат достъп до информацията за Вашата кредитна карта. Детайлите на кредитната карта ще бъдат управлявани само от системата за плащане, %2$s.\n\nПлащанията ще отидат директно до разработчика на %1$s. Телеграм не може да предостави никакви гаранции, затова продължете на свой собствен риск. В случай на проблеми, моля свържете се с разработчика на %1$s или с Вашата банка.</string>
+  <string name="PeopleNearbyAccessInfo">"Използвайте този раздел за бърза обмяна на телефонни номера с хората около вас.
+
+Моля, включете достъпа до местоположение, за да активирате тази функция."</string>
+  <string name="PeopleNearbyAllowAccess">Разрешаване на достъп</string>
+  <string name="PeopleNearbyEmpty">Търсене на потребители около вас...</string>
+  <string name="PeopleNearbyGps">Включване</string>
+  <string name="PeopleNearbyGpsInfo">"Използвайте този раздел за бърза обмяна на телефонни номера с хората около вас.
+
+Моля, включете услугите за местоположение, за да активирате тази функция."</string>
+  <string name="PeopleNearbyHeader">Хора в близост</string>
+  <string name="PeopleNearbyInfo">Помолете приятеля си в близост да отвори тази страница за обмен на телефонни номера.</string>
+  <string name="PeopleNearby">Хора в близост</string>
   <string name="PermissionContacts">За да можете да се свързвате с приятелите си от всички ваши устройства, контактите ви ще бъдат периодично синхронизирани с криптирани сървъри на Телеграм.</string>
   <string name="PermissionDrawAboveOtherApps">Телеграм има нужда от достъп нда се показва над другите приложения, за да възпроизвежда видео и режим Картина-в-картината.</string>
   <string name="PermissionNoAudio">Телеграм се нуждае от достъп до микрофона ви, за да може да изпращате гласови съобщения.</string>
@@ -2530,12 +2546,12 @@
   <string name="StickersShare">Споделяне</string>
   <string name="Stop">Спиране</string>
   <string name="StopAllLocationSharings">СПРИ ВСИЧКИ</string>
-  <string name="StopDownload">Спри изтеглянето</string>
+  <string name="StopDownload">Спиране на изтеглянето</string>
   <string name="StopLiveLocation">Спри споделянето</string>
   <string name="StopLiveLocationAlertAll">Сигурни ли сте, че искате да споделяте локацията си на живо?</string>
   <string name="StopLiveLocationAlertToGroup">Сигурни ли сте, че искате да спрете споделянето на локацията си на живо с %1$s?</string>
   <string name="StopLiveLocationAlertToUser">Сигурни ли сте, че искате да спрете споделянето на локацията си на живо с %1$s?</string>
-  <string name="StopLoading">Спри изтеглянето?</string>
+  <string name="StopLoading">Спиране на изтеглянето?</string>
   <string name="StopPoll">Спиране на анкетата</string>
   <string name="StopPollAlertText">Ако спрете сега тази анкета, вече никой няма да може да гласува. Действието не може да се отмени.</string>
   <string name="StopPollAlertTitle">Спиране на анкетата?</string>
@@ -2810,7 +2826,7 @@
   <string name="Vote_two">%1$d гласа</string>
   <string name="Vote_zero">%1$d гласа</string>
   <string name="WaitingForNetwork">В очакване на мрежа...</string>
-  <string name="WaitMore">Изчакайте още</string>
+  <string name="WaitMore">Изчакване</string>
   <string name="Warmth">Топлина</string>
   <string name="WebSessionsTitle">Вписване с Телеграм</string>
   <string name="Weeks_few">%1$d седмици</string>
@@ -2867,4 +2883,5 @@
   <string name="YourPasswordSuccessText">Паролата ви за удостоверяване в 2 стъпки вече е активна.</string>
   <string name="YourPhone">Вашият телефон</string>
   <string name="YouWereKicked">Бяхте премахнат от тази група</string>
+  
 </resources>
