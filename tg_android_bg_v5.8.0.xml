@@ -1601,7 +1601,10 @@
   <string name="MuteFor">Заглуши за %1$s</string>
   <string name="MuteNotifications">Заглуши известията</string>
   <string name="NearbyCreateGroup">Създаване на локална група</string>
-  <string name="NearbyPlaces">ИЛИ ИЗБЕРЕТЕ МЯСТО</string>
+  <string name="NearbyCreateGroupInfo">Всеки, в близост до това местоположение (съседи, колеги, състуденти, участници в събития, посетители на мястото) ще може да вижда групата ви в секцията „Хора в близост“.</string>
+  <string name="NearbyCreateGroupInfo2">Ако създадете несвързана група на това местоположение, може да загубите възможността да създавате групи, базирани на местоположението.</string>
+  <string name="NearbyPlaces">Или изберете място</string>
+  <string name="NearbyStartGroup">Стартиране на група</string>
   <string name="NetworkUsage">Използване на данни</string>
   <string name="NetworkUsageMobile">МОБИЛНИ</string>
   <string name="NetworkUsageRoaming">РОУМИНГ</string>
@@ -2214,6 +2217,7 @@
   <string name="PrivacyForwardsEverybody">Свързване към профила ви</string>
   <string name="PrivacyForwardsInfo">Когато бъдат препратени към други чатове, съобщенията, които изпращате няма да се върнат към профила ви.</string>
   <string name="PrivacyForwardsInfo2">Можете да добавяте потребители или цели групи като изключения, което ще замени горните настройки.</string>
+  <string name="PrivacyForwardsMessageLine">Райнхард, трябва да ви намерим нови мелодии &#127926;.</string>
   <string name="PrivacyForwardsNobody">Не е връзка към профила ви</string>
   <string name="PrivacyForwardsTitle">Кой може да добавя връзка към профила ми при препращане на моите съобщения?</string>
   <string name="PrivacyLastSeen">Последна активност</string>
