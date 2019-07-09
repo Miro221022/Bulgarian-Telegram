@@ -903,6 +903,11 @@
   <string name="DiscussionUnlinkChannelAlert">Наистина ли искате да прекратите връзката **%1$s** от този канал?</string>
   <string name="DiscussionUnlinkGroup">Без връзка към групата</string>
   <string name="DiscussionUnlinkGroupAlert">Наистина ли искате да прекратите връзката **%1$s** от тази група?</string>
+  <string name="DistanceUnits">Единици за разстояние</string>
+  <string name="DistanceUnitsAutomatic">Автоматично</string>
+  <string name="DistanceUnitsKilometers">Километри</string>
+  <string name="DistanceUnitsMiles">Мили</string>
+  <string name="DistanceUnitsTitle">Единици за разстояние</string>
   <string name="DocumentsTitle">Споделени файлове</string>
   <string name="Done">Готово</string>
   <string name="Draft">Чернова</string>
@@ -1775,6 +1780,9 @@
   <string name="NotificationsCustomize">Персонализация</string>
   <string name="NotificationsDefaultOff">По подразбиране (Изключени)</string>
   <string name="NotificationsDefaultOn">По подразбиране (Включени)</string>
+  <string name="NotificationsDeleteAllException">Изтриване на всички изключения</string>
+  <string name="NotificationsDeleteAllExceptionAlert">Сигурни ли сте,че искате да изтриете всички изключения?</string>
+  <string name="NotificationsDeleteAllExceptionTitle">Изтриване на всички изключения</string>
   <string name="NotificationsEnableCustom">Включване на потребителски уведомления</string>
   <string name="NotificationsExceptions">Изключения</string>
   <string name="NotificationsExceptionsAlert">Моля, имайте предвид, че **%1$s** са изброени като изключения и няма да бъдат засегнати от тази промяна.</string>
@@ -2887,5 +2895,4 @@
   <string name="YourPasswordSuccessText">Паролата ви за удостоверяване в 2 стъпки вече е активна.</string>
   <string name="YourPhone">Вашият телефон</string>
   <string name="YouWereKicked">Бяхте премахнат от тази група</string>
-  
 </resources>
