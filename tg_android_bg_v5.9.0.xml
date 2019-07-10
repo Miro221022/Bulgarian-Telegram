@@ -551,7 +551,7 @@
   <string name="ChannelDeletedUndo">Каналът е изтрит.</string>
   <string name="ChannelDeleteFromList">Изтриване от този списък</string>
   <string name="ChannelDeleteInfo">Ще загубите всички съобщения в този канал.</string>
-  <string name="ChannelDeleteMenu">Изтрий канала</string>
+  <string name="ChannelDeleteMenu">Изтриване на канала</string>
   <string name="ChannelDiscuss">ОБСЪЖДАНЕ</string>
   <string name="ChannelEdit">Редактирай</string>
   <string name="ChannelEditPermissions">Редакция на разрешенията</string>
@@ -714,7 +714,7 @@
   <string name="ClearCacheInfo">Освободете дисково пространство на устройството си; вашите медии ще останат в облака.</string>
   <string name="ClearFewChatsTitle">Изчисти %1$s</string>
   <string name="ClearHistory">Изчистване на историята</string>
-  <string name="ClearHistoryCache">Изтрий от кеша</string>
+  <string name="ClearHistoryCache">Изтриване от кеша</string>
   <string name="ClearHistoryOptionAlso">Изчистване на историята също за %1$s</string>
   <string name="ClearMediaCache">Изчистване на кеша</string>
   <string name="ClearOtherSessionsHelp">Отписване от всички устройства, освен това.</string>
@@ -833,11 +833,11 @@
   <string name="DeclineDeactivate">Откажи и декативирай</string>
   <string name="Default">По подразбиране</string>
   <string name="DefaultRingtone">По подразбиране</string>
-  <string name="Delete">Изтрий</string>
+  <string name="Delete">Изтриване</string>
   <string name="DeleteAccountHelp">Ако не се появите на линия поне веднъж през този период, вашият профил ще бъде изтрит, включително всички  съобщения и контакти.</string>
-  <string name="DeleteAccountIfAwayFor2">Изтрий профила при неактивност от</string>
+  <string name="DeleteAccountIfAwayFor2">Изтриване на профила при неактивност от</string>
   <string name="DeleteAccountTitle">Самоунищожение на профила</string>
-  <string name="DeleteAll">Изтрий всички</string>
+  <string name="DeleteAll">Изтриване на всички</string>
   <string name="DeleteAllFrom">Изтрий всичко от %1$s</string>
   <string name="DeleteAllMessagesAlert">Внимание! Това ще **изтрие всички съобщения** в този чат за **двамата** участници.</string>
   <string name="DeleteAndExit">Изтрий и напусни групата</string>
@@ -855,7 +855,7 @@
   <string name="DeleteGif">Изтриване на GIF?</string>
   <string name="DeleteLocalization">Изтриване на локализация?</string>
   <string name="DeleteMega">Изтриване на групата</string>
-  <string name="DeleteMegaMenu">Изтрий групата</string>
+  <string name="DeleteMegaMenu">Изтриване на групата</string>
   <string name="DeleteMessagesOption">Изтриване на съобщенията ми</string>
   <string name="DeleteMessagesOptionAlso">Изтриване и за %1$s</string>
   <string name="DeleteMessagesText">Можете също да изтриете %1$s което изпратихте от **%2$s**\ чрез маркиране на \"Изтриване на съобщенията ми\".</string>
@@ -867,8 +867,8 @@
   <string name="DeleteReportSpam">Докладвай спам</string>
   <string name="DeleteSingleMessagesTitle">Изтриване на съобщението</string>
   <string name="DeleteThemeAlert">Наистина ли искате да изтриете тази тема?</string>
-  <string name="DeleteThisChat">Изтрий този чат</string>
-  <string name="DeleteThisGroup">Изтрий тази група</string>
+  <string name="DeleteThisChat">Изтриване на този чат</string>
+  <string name="DeleteThisGroup">Изтриване на тази група</string>
   <string name="DescriptionInfo">Можете да предоставите допълнително описание за вашия канал.</string>
   <string name="DescriptionOptionalPlaceholder">Описание (по избор)</string>
   <string name="DescriptionPlaceholder">Описание</string>
@@ -1929,7 +1929,7 @@
   <string name="PassportDeleteDocumentAddress">Изтрий подробности за адреса</string>
   <string name="PassportDeleteDocumentAlert">Сигурни ли сте, че искате да изтриете този документ?</string>
   <string name="PassportDeleteDocumentPersonal">Изтрий лични данни</string>
-  <string name="PassportDeleteEmailAlert">Изтрий имейл?</string>
+  <string name="PassportDeleteEmailAlert">Изтриване на имейла?</string>
   <string name="PassportDeleteInfo">Изтриване</string>
   <string name="PassportDeletePersonalAlert">Сигурни ли сте, че искате да изтриете вашите лични данни?</string>
   <string name="PassportDeletePhoneAlert">Да изтрия ли телефонния номер?</string>
