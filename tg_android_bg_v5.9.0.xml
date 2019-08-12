@@ -1440,6 +1440,7 @@
   <string name="LanguageUnknownTitle">Недостатъчни данни</string>
   <string name="LanguageUnofficial">Неофициални езици</string>
   <string name="LanguageUnsupportedError">Няма такъв език</string>
+  <string name="LargeEmoji">Големи емотикони</string>
   <string name="LastName">Фамилия (по избор)</string>
   <string name="LastSeen">последно видян</string>
   <string name="LastSeenContacts">Моите контакти</string>
@@ -1503,6 +1504,7 @@
   <string name="LogOutInfo">Помнете, отписването убива всичките ви тайни чатове.</string>
   <string name="LogOutTitle">Излизане</string>
   <string name="Long">Продължителна</string>
+  <string name="LoopAnimatedStickers">Loop Animated Stickers</string>
   <string name="LowDiskSpaceMessage">Вашето устройство почти няма свободно дисково пространство. За да освободите място, можете да настройте Теелграм да кешира само скорошната медия.</string>
   <string name="LowDiskSpaceNeverRemove">Никога не премахвай</string>
   <string name="LowDiskSpaceTitle">Внимание</string>
@@ -2896,4 +2898,19 @@
   <string name="YourPasswordSuccessText">Паролата ви за удостоверяване в 2 стъпки вече е активна.</string>
   <string name="YourPhone">Вашият телефон</string>
   <string name="YouWereKicked">Бяхте премахнат от тази група</string>
+  <string name="SlowModeHint">"Активиран е бавен режим. Можете да изпратите
+следващото си съобщение след %1$s"</string>
+  <string name="Slowmode">Бавен режим</string>
+  <string name="SlowmodeSelectSendError">"Активиран е бавен режим. Не можете да изберете повече елементи."</string>
+  <string name="SlowmodeSendError">"Активиран е бавен режим. Не можете да изпращате повече от едно съобщение наведнъж."</string>
+  <string name="SlowmodeSendErrorTooLong">"За съжаление този текст е твърде дълъг, за да се изпрати като едно съобщение.
+
+Бавният режим е активиран. Не можете да изпращате повече от едно съобщение наведнъж."</string>
+  <string name="EventLogToggledSlowmodeOff">un1 деактивира бавния режим</string>
+  <string name="EventLogToggledSlowmodeOn">un1 задайте таймера за бавен режим на %1$s</string>
+  <string name="SlowmodeInfoOff">Изберете колко често членовете могат да изпращат съобщение.</string>
+  <string name="SlowmodeHours">%1$dч</string>
+  <string name="SlowmodeSeconds">%1$dс</string>
+  <string name="SlowmodeMinutes">%1$dм</string>
+  <string name="SlowmodeOff">Изкл.</string>
 </resources>
