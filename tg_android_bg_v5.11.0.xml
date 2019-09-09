@@ -916,7 +916,7 @@
   <string name="EditAdmin">Редактиране на админ</string>
   <string name="EditAdminAddAdmins">Добавяне на нови админи</string>
   <string name="EditAdminAddUsers">Добавяне на потребители</string>
-  <string name="EditAdminAddUsersViaLink">Покана чрез линк</string>
+  <string name="EditAdminAddUsersViaLink">Покана чрез връзка</string>
   <string name="EditAdminBanUsers">Забрана на потребители</string>
   <string name="EditAdminCantEdit">Не може да редактирате правата на този админ.</string>
   <string name="EditAdminChangeChannelInfo">Промяна на информацията на канал</string>
@@ -984,7 +984,7 @@
   <string name="EnterListName">Въведете име на списъка</string>
   <string name="EnterNewFirstPasscode">Въведете парола</string>
   <string name="EnterNewPasscode">Въведете новата си парола</string>
-  <string name="EnterThemeName">Въведете име на тема</string>
+  <string name="EnterThemeName">Въведете име на темата</string>
   <string name="EnterYourPasscode">Въведете паролата си</string>
   <string name="ErrorOccurred">Възникна грешка.</string>
   <string name="ErrorSendRestrictedMedia">За съжаление, админите на тази група са Ви ограничили от възможността да изпращате медия.</string>
@@ -2635,7 +2635,7 @@
   <string name="ThemeDarkBlue">Тъмно синя</string>
   <string name="ThemeGraphite">Графит</string>
   <string name="ThemeInfo">Изберете потребителски цветови схеми</string>
-  <string name="ThemePreview">Преглед на тема</string>
+  <string name="ThemePreview">Преглед на темата</string>
   <string name="Times_few">%1$d пъти</string>
   <string name="Times_many">%1$d пъти</string>
   <string name="Times_one">%1$d път</string>
@@ -2913,4 +2913,70 @@
   <string name="SlowmodeSeconds">%1$dс</string>
   <string name="SlowmodeMinutes">%1$dм</string>
   <string name="SlowmodeOff">Изкл.</string>
+  <string name="BlockUserMultiTitle">Блокирай потребителя</string>
+  <string name="ReportSpamUser">БЛОКИРАЙ</string>
+  <string name="SendWithoutCompression">Изпращане без компресия</string>
+  <string name="SendWithoutGrouping">Изпращане без групиране</string>
+  <string name="SendWithoutSound">Изпращане без звук</string>
+  <string name="SetReminder">Задаване на напомняне</string>
+  <string name="MessageScheduleEditTime">Пренасрочване</string>
+  <string name="MessageScheduleSend">Изпрати сега</string>
+  <string name="MessageScheduleToday">Днес</string>
+  <string name="MessageScheduledBotAction">Това действие ще бъде достъпно след публикуване на съобщението.</string>
+  <string name="MessageScheduledLimitReached">За съжаление не можете да планирате повече от 100 съобщения.</string>
+  <string name="MessageScheduledOn">Насрочено за %1$s</string>
+  <string name="MessageScheduledReminderNotification" />
+  <string name="MessageScheduledVote">Гласуването ще стане достъпно след публикуването на съобщението.</string>
+  <string name="RemindDayAt">"'Напомни на' MMM d 'в' HH:mm"</string>
+  <string name="RemindDayYearAt">"'Напомни на' MMM d yyyy 'в' HH:mm"</string>
+  <string name="RemindTodayAt">"'Напомни днес в' HH:mm"</string>
+  <string name="Reminders">Напомняния</string>
+  <string name="PhotosSelected_few">%1$d избрани снимки</string>
+  <string name="PhotosSelected_many">%1$d избрани снимки</string>
+  <string name="PhotosSelected_one">%1$d избрана снимка</string>
+  <string name="PhotosSelected_other">%1$d избрани снимки</string>
+  <string name="PhotosSelected_two">%1$d избрани снимки</string>
+  <string name="PhotosSelected_zero">%1$d избрани снимки</string>
+  <string name="Create">Създай</string>
+  <string name="PrivacyPhoneTitle2">Кой може да ме намери чрез моя номер?</string>
+  <string name="ExportTheme">Изпращане</string>
+  <string name="ThemeSetUrl">Генериране на връзка</string>
+  <string name="ThemeSetUrlHelp">Връзките към темите трябва да са по-дълги от 5 символа и могат да използват a-z, 0-9 и подчертаване.</string>
+  <string name="ThemeUrl">Theme Link</string>
+  <string name="UseDifferentTheme">Използвайте друга тема</string>
+  <string name="UseDifferentThemeInfo">Можете също така да използвате съществуваща потребителска тема като основа за вашата тема.</string>
+  <string name="ThemeCreateHelp">"Всеки може да инсталира вашата тема, използвайки тази връзка. Когато промените темата, тя ще бъде актуализирана за всички потребители, които са я инсталирали.
+
+Темата ще се основава на текущо избраните от вас тема и тапет."</string>
+  <string name="ThemeCreateHelp2">"Можете да промените връзката на вашата тема.
+
+Връзките към теми трябва да са по-дълги от 5 символа и могат да използват a-z, 0-9 и подчертаване."</string>
+  <string name="ThemeHelpLink">"Темата ви ще се актуализира за всички потребители всеки път, когато я промените. Всеки може да я инсталира с помощта на тази връзка:
+%1$s"</string>
+  <string name="ThemeInstallCount_few">%1$d потребители използват тази тема</string>
+  <string name="ThemeInstallCount_many">%1$d потребители използват тази тема</string>
+  <string name="ThemeInstallCount_one">%1$d потребител използва тази тема</string>
+  <string name="ThemeInstallCount_other">%1$d потребители използват тази тема</string>
+  <string name="ThemeInstallCount_two">%1$d потребители използват тази тема</string>
+  <string name="ThemeInstallCount_zero">%1$d потребители използват тази тема</string>
+  <string name="ThemeNameInvalid">За съжаление името на темата е невалидно.</string>
+  <string name="ThemeNamePlaceholder">Име</string>
+  <string name="ThemeNotFound">Темата не е намерена</string>
+  <string name="ThemeNotSupported">За съжаление тази цветова тема все още не поддържа вашето устройство.</string>
+    <string name="ThemePreviewDialogMessage1">Напомня ми на китайско доказателство...</string>
+    <string name="ThemePreviewDialogMessage2">"хей, актуализирах изходния код."</string>
+    <string name="ThemePreviewDialogMessage3" />
+    <string name="ThemePreviewDialogMessage4">Някакви идеи?</string>
+    <string name="ThemePreviewDialogMessage5">Ха-ха-ха!</string>
+    <string name="ThemePreviewDialogMessage6">Здравей!</string>
+    <string name="ThemePreviewDialogMessage7">Това не са дроидите, които търсите.</string>
+    <string name="ThemePreviewDialogMessage8">Някой каза ли фъстъчено масло?</string>
+    <string name="ThemePreviewLine1">Приятелю, трябва да ти намерим нови мелодии .</string>
+    <string name="ThemePreviewLine2">"В момента дори не мога да те приема сериозно."</string>
+    <string name="ThemePreviewLine3">Ах, деца днес сте с техно музика! Трябва да се насладите на класиката, като Тодоров!</string>
+    <string name="ThemePreviewLine4">Донеси го! ЖИВЕЯ за това!</string>
+    <string name="ThemePreviewSongPerformer">Мирослав Тодоров</string>
+    <string name="ThemePreviewTitle">Райнхард</string>
+	<string name="EditThemeTitle">Редактиране на темата</string>
+	<string name="OpenTheme">ВИЖ ТЕМАТА</string>
 </resources>
