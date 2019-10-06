@@ -2757,7 +2757,7 @@
   <string name="UserRestrictionsInviteUsers">Добавяне на членове</string>
   <string name="UserRestrictionsNoChangeInfo">промяна на информацията</string>
   <string name="UserRestrictionsNoEmbedLinks">без вградени връзки</string>
-  <string name="UserRestrictionsNoInviteUsers">добавяне на членове</string>
+  <string name="UserRestrictionsNoInviteUsers">"не може да се добавят потребители"</string>
   <string name="UserRestrictionsNoPinMessages">без закачване</string>
   <string name="UserRestrictionsNoRead">не може да чете</string>
   <string name="UserRestrictionsNoSend">не може да изпраща съобщения</string>
@@ -2979,4 +2979,11 @@
     <string name="ThemePreviewTitle">Райнхард</string>
 	<string name="EditThemeTitle">Редактиране на темата</string>
 	<string name="OpenTheme">ВИЖ ТЕМАТА</string>
+	<string name="ScheduleMessage">Изпращане по график</string>
+    <string name="ScheduledMessages">Планирани съобщения</string>
+	<string name="SendTodayAt">"'Изпрати днес в' HH:mm"</string>
+	<string name="TypeScheduleMessage">Съобщение по график</string>
+	<string name="NoScheduledMessages">Тук все още няма планирани съобщения...</string>
+	<string name="Schedule">График</string>
+	<string name="LoopAnimatedStickers">Безкрайна анимация на стикерите</string>
 </resources>
