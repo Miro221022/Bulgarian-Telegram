@@ -46,7 +46,7 @@
   <string name="AccDescrMsgNotPlayed">Не е изпълнено</string>
   <string name="AccDescrMsgRead">Видяно</string>
   <string name="AccDescrMsgUnread">Не е видяно</string>
-  <string name="AccDescrMusicInfo">%2$s by %1$s</string>
+  <string name="AccDescrMusicInfo">%2$s от %1$s</string>
   <string name="AccDescrMuteMic">Заглушаване на микрофона</string>
   <string name="AccDescrMyLocation">Моето местоположение</string>
   <string name="AccDescrOpenChat">Отваряне на чата</string>
@@ -756,7 +756,7 @@
   <string name="Code">Код</string>
   <string name="CodeExpired">Кодът изтече, влезте отново</string>
   <string name="ColorBlue">Син</string>
-  <string name="ColorCyan">Циан</string>
+  <string name="ColorCyan">Зелено-сив</string>
   <string name="ColorDark">Тъмен</string>
   <string name="ColorGreen">Зелен</string>
   <string name="ColorOrange">Оранжев</string>
@@ -1162,8 +1162,8 @@
   <string name="EventLogToggledInvitesHistoryOn">un1 направи видима историята в групата за новите членове</string>
   <string name="EventLogToggledInvitesOff">un1 изключи покани в групата</string>
   <string name="EventLogToggledInvitesOn">un1 включи покани в групата</string>
-  <string name="EventLogToggledSignaturesOff">un1 изключи подписи</string>
-  <string name="EventLogToggledSignaturesOn">un1 включи подписи</string>
+  <string name="EventLogToggledSignaturesOff">un1 изключени подписа</string>
+  <string name="EventLogToggledSignaturesOn">un1 включени подписа</string>
   <string name="EventLogToggledSlowmodeOff">un1 деактивира бавния режим</string>
   <string name="EventLogToggledSlowmodeOn">un1 задайте таймера за бавен режим на %1$s</string>
   <string name="EventLogUnpinnedMessages">un1 откачи съобщението</string>
@@ -1511,7 +1511,7 @@
   <string name="items_other">%1$d елемента</string>
   <string name="items_two">%1$d елемента</string>
   <string name="items_zero">%1$d елемента</string>
-  <string name="January">January</string>
+  <string name="January">Януари</string>
   <string name="JoinGroup">ВЛЕЗ В ГРУПАТА</string>
   <string name="JoinToGroupErrorFull">Съжаляваме, но групата вече е пълна.</string>
   <string name="JoinToGroupErrorNotExist">Съжаляваме, такъв чат изглежда не съществува.</string>
@@ -1603,7 +1603,7 @@
   <string name="LogOutInfo">Помнете, отписването убива всичките ви тайни чатове.</string>
   <string name="LogOutTitle">Излизане</string>
   <string name="Long">Продължителна</string>
-  <string name="LoopAnimatedStickers">Loop Animated Stickers</string>
+  <string name="LoopAnimatedStickers">Безкрайна анимация на стикерите</string>
   <string name="LowDiskSpaceMessage">Вашето устройство почти няма свободно дисково пространство. За да освободите място, можете да настройте Теелграм да кешира само скорошната медия.</string>
   <string name="LowDiskSpaceNeverRemove">Никога не премахвай</string>
   <string name="LowDiskSpaceTitle">Внимание</string>
