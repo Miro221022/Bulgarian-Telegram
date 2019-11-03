@@ -2986,4 +2986,7 @@
 	<string name="NoScheduledMessages">Тук все още няма планирани съобщения...</string>
 	<string name="Schedule">График</string>
 	<string name="LoopAnimatedStickers">Безкрайна анимация на стикерите</string>
+	<string name="MarkAllAsRead">Маркирай всички като прочетени</string>
+	<string name="PinInTheList">Закачи отгоре в списъка</string>
+	<string name="HideAboveTheList">Скриване от списъка</string>
 </resources>
