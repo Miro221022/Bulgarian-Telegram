@@ -245,7 +245,7 @@
   <string name="Appearance">Външен вид</string>
   <string name="ApplyLocalizationFile">Прилагане като превод</string>
   <string name="ApplyTheme">ПРИЛАГАНЕ</string>
-  <string name="ApplyThemeFile">Прилагане на файла на тема</string>
+  <string name="ApplyThemeFile">Прилагане като тема</string>
   <string name="AppName">Телеграм</string>
   <string name="AppNameBeta">Телеграм</string>
   <string name="April">Април</string>
@@ -397,7 +397,7 @@
   <string name="AutoDownloadVideos">Видеоклипове</string>
   <string name="AutoDownloadVideosOn">Видеоклипове</string>
   <string name="AutoDownloadVideosTitle">Автоматично изтегляне на видеоклипове и GIF-ове</string>
-  <string name="AutoLock">Авт. заключване</string>
+  <string name="AutoLock">Автоматично заключване</string>
   <string name="AutoLockDisabled">Деактивирано</string>
   <string name="AutoLockInfo">Изисква се парола ако сте неактивен.</string>
   <string name="AutoLockInTime">След %1$s</string>
@@ -481,7 +481,7 @@
   <string name="BotStatusCantRead">няма достъп до съобщенията</string>
   <string name="BotStatusRead">има достъп до съобщенията</string>
   <string name="BotStop">Спри бота</string>
-  <string name="BotUnblock">РЕСТАРТ</string>
+  <string name="BotUnblock">СТАРТ</string>
   <string name="Brown">Кафяво</string>
   <string name="BuiltInThemes">Вградени теми</string>
   <string name="BytesReceived">Получени байта</string>
