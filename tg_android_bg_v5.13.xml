@@ -248,7 +248,7 @@
   <string name="AnonymousPoll">Анонимна анкета</string>
   <string name="ApkRestricted">Инсталирането на АPK е ограничено за това приложение. Можете да го разрешите от настройките на системата.</string>
   <string name="Appearance">Външен вид</string>
-  <string name="AppFolderInfo">Покажи папката на приложенията</string>
+  <string name="AppFolderInfo">Преглед на папката на приложението</string>
   <string name="ApplyLocalizationFile">Прилагане като превод</string>
   <string name="ApplyTheme">ПРИЛАГАНЕ</string>
   <string name="ApplyThemeFile">Прилагане като тема</string>
