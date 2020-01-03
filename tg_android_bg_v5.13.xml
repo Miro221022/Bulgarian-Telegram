@@ -1536,7 +1536,7 @@
   <string name="InviteToChannelError">Съжаляваме, но вие не може да добавяте потребителя в канали поради неговите настройки за поверителност.</string>
   <string name="InviteToGroupByLink">Покана за група чрез връзка</string>
   <string name="InviteToGroupError">Съжаляваме, но вие не може да добавяте потребителя в групи поради неговите настройки за поверителност.</string>
-  <string name="InviteToTelegram">ПОКАЗА ЗА ТЕЛЕГРАМ</string>
+  <string name="InviteToTelegram">ПОКАНА ЗА ТЕЛЕГРАМ</string>
   <string name="InviteUser">Потребителят все още няма Телеграм, да се изпрати ли покана?</string>
   <string name="IsRecordingAudio">%1$s записва гласово съобщение...</string>
   <string name="IsRecordingRound">%1$s записва видео съобщение...</string>
@@ -2870,7 +2870,6 @@
   <string name="TelegramContacts_zero">%1$d контакти в Телеграм</string>
   <string name="TelegramFaq">Телеграм ЧЗВ</string>
   <string name="TelegramFAQ">Телеграм ЧЗВ</string>
-  <string name="TelegramFaqUrl">https://telegram.org/faq</string>
   <string name="TelegramPassport">Телеграм Паспорт</string>
   <string name="TelegramPassportCreatePassword">СЪЗДАЙ ПАРОЛА</string>
   <string name="TelegramPassportCreatePasswordInfo">Създайте парола, за да защитите вашите лични данни с шифроване от край до край.\n\nТази парола също ще се изисква, когато влезете в Телеграм на ново устройство.</string>
