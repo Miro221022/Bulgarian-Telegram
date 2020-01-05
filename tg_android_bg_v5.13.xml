@@ -384,7 +384,7 @@
   <string name="AutoDownloadLow">Ниско</string>
   <string name="AutoDownloadMaxFileSize">Максимален размер на файла</string>
   <string name="AutoDownloadMaxVideoSize">Максимален размер на видео</string>
-  <string name="AutoDownloadMedia">Автоматично изтегляне на мултимедия</string>
+  <string name="AutoDownloadMedia">Автоматично изтегляне на медия</string>
   <string name="AutoDownloadMedium">Средно</string>
   <string name="AutoDownloadOff">Изключено</string>
   <string name="AutoDownloadOnAllChats">Включено във всички чатове</string>
@@ -434,7 +434,7 @@
   <string name="AutoNightUpdateLocation">Обнови локацията</string>
   <string name="AutoNightUpdateLocationInfo">Определянето на часовете за изгрев и залез изисква еднократна проверка на приблизителната ви локация. Данните за това се съхраняват само локално на вашето устройство.\n\nЗалез: %1$s\nИзгрев: %2$s</string>
   <string name="AutoplayGIF">GIF-ове</string>
-  <string name="AutoplayMedia">Автоматично изпълнение на мултимедия</string>
+  <string name="AutoplayMedia">Автоматично изпълнение на медия</string>
   <string name="AutoplayVideo">Видеоклипове</string>
   <string name="AutoplayVideoInfo">Натиснете бутоните за силата на звука, за да включите звука.</string>
   <string name="Available">На разположение</string>
@@ -549,7 +549,7 @@
   <string name="ChangeChatBackground">Промяна на фона на чата</string>
   <string name="ChangeLanguageLater">Можете да промените езика по-късно от настройки.</string>
   <string name="ChangePasscode">Промяна на паролата</string>
-  <string name="ChangePasscodeInfo">Ако настроите допълнителна парола, икона с катинар ще се появи в страницата с чатовете. Чукнете я, за да заключите и отключите вашия Телеграм.\n\nЗабележка: ако забравите паролата, ще трябва да изтриете и инсталирате отново приложението. Ще загубите всички тайни чатове.</string>
+  <string name="ChangePasscodeInfo">Ако настроите допълнителна парола, икона с катинар ще се появи в страницата с чатовете. Докоснете я, за да заключите и отключите вашия Телеграм.\n\nЗабележка: ако забравите паролата, ще трябва да изтриете и инсталирате отново приложението. Ще загубите всички тайни чатове.</string>
   <string name="ChangePassword">Промяна на паролата</string>
   <string name="ChangePermissions">Промяна на разрешенията</string>
   <string name="ChangePhoneHelp">Ще изпратим SMS с код за потвърждение на вашия нов номер.</string>
@@ -1394,7 +1394,7 @@
   <string name="GroupUserCantBot">Съжаляваме, твърде много ботове в тази група.</string>
   <string name="GroupUserLeftError">Съжаляваме, но потребителя реши да напусне тази група, така че не може да го поканите тук отново.</string>
   <string name="Hashtags">ХАШТАГОВЕ</string>
-  <string name="HidAccount">Профилът бе скрит от потребителя</string>
+  <string name="HidAccount">Профилът е скрит от потребителя</string>
   <string name="HiddenName">Изтрит профил</string>
   <string name="HideAboveTheList">Скриване от списъка</string>
   <string name="HideOnTop">Скрий</string>
@@ -2416,7 +2416,7 @@
   <string name="PrivacyCallsP2PHelp">Деактивирането на партньорската мрежа ще препредава всички обаждания през сървърите на Telegram, за да избегне разкриването на вашия IP адрес, но може леко да се намали качеството на звука.</string>
   <string name="PrivacyClearPayment">Информация за плащане</string>
   <string name="PrivacyClearShipping">Информация за доставка</string>
-  <string name="PrivacyDeleteCloudDrafts">Изтриване на всички чернови в Облака</string>
+  <string name="PrivacyDeleteCloudDrafts">Изтриване на всички чернови в облака</string>
   <string name="PrivacyExceptions">Изключения</string>
   <string name="PrivacyFloodControlError">Съжаляваме, твърде много заявки. Настройките за поверителност не могат да се променят сега, моля изчакайте.</string>
   <string name="PrivacyForwards">Препратени съобщения</string>
@@ -2847,7 +2847,7 @@
   <string name="SyncContacts">Синхронизация на контакти</string>
   <string name="SyncContactsAdded">Контактите от това устройство бяха добавени към вашия профил.</string>
   <string name="SyncContactsDelete">Изтриване на синхронизираните контакти</string>
-  <string name="SyncContactsDeleteText">Това ще премахне вашите контакти от сървърите на Telegram.\n\nАко е активирана \'** Sync Contacts **\', контактите ще бъдат синхронизирани отново.</string>
+  <string name="SyncContactsDeleteText">Това ще премахне вашите контакти от сървърите на Telegram.\n\nАко е активирана \'** Синхронизация на контакти **\', контактите ще бъдат синхронизирани отново.</string>
   <string name="SyncContactsDeleteTitle">Изтриване на контактите</string>
   <string name="SyncContactsInfoOff">Включете, за да синхронизирате контактите от това устройство с профила си.</string>
   <string name="SyncContactsInfoOn">Контактите от това устройство ще бъдат добавени към вашия профил.</string>
