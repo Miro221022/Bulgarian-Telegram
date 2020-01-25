@@ -140,6 +140,7 @@
   <string name="ActionPinnedNoText">un1 закачи съобщение</string>
   <string name="ActionPinnedPhoto">un1 закачи снимка</string>
   <string name="ActionPinnedPoll">un1 закачи анкета</string>
+  <string name="ActionPinnedQuiz">un1 закачи викторина</string>
   <string name="ActionPinnedRound">un1 закачи видео съобщение</string>
   <string name="ActionPinnedSticker">un1 закачи стикер</string>
   <string name="ActionPinnedText">un1 закачи \"%1$s\"</string>
@@ -246,6 +247,13 @@
   <string name="AndOther_zero">и %1$d други</string>
   <string name="AnimatedStickers">Анимирани стикери</string>
   <string name="AnonymousPoll">Анонимна анкета</string>
+  <string name="AnonymousQuizPoll">Анонимна викторина</string>
+  <string name="Answer_few">%1$d отговора</string>
+  <string name="Answer_many">%1$d отговора</string>
+  <string name="Answer_one">%1$d отговор</string>
+  <string name="Answer_other">%1$d отговора</string>
+  <string name="Answer_two">%1$d отговора</string>
+  <string name="Answer_zero">%1$d отговора</string>
   <string name="ApkRestricted">Инсталирането на АPK е ограничено за това приложение. Можете да го разрешите от настройките на системата.</string>
   <string name="Appearance">Външен вид</string>
   <string name="AppFolderInfo">Преглед на папката на приложението</string>
@@ -619,6 +627,7 @@
   <string name="ChannelMessageNoText">%1$s публикува съобщение</string>
   <string name="ChannelMessagePhoto">%1$s публикува снимка</string>
   <string name="ChannelMessagePoll2">%1$s публикува анкета %2$s</string>
+  <string name="ChannelMessageQuiz2">%1$s публикува викторина %2$s</string>
   <string name="ChannelMessageRound">%1$s публикува видео съобщение</string>
   <string name="ChannelMessageSticker">%1$s публикува стикер</string>
   <string name="ChannelMessageStickerEmoji">%1$s  публикува %2$s стикер</string>
@@ -1196,6 +1205,7 @@
   <string name="EventLogRestrictedUntil">променени ограничения за %1$s\n\nПродължителност: %2$s</string>
   <string name="EventLogSelectedEvents">Избрани действия</string>
   <string name="EventLogStopPoll">un1 спря анкетата:</string>
+  <string name="EventLogStopQuiz">un1 спря викторината:</string>
   <string name="EventLogToggledInvitesHistoryOff">un1 скри историята в групата за новите членове</string>
   <string name="EventLogToggledInvitesHistoryOn">un1 направи видима историята в групата за новите членове</string>
   <string name="EventLogToggledInvitesOff">un1 изключи покани в групата</string>
@@ -1735,6 +1745,7 @@
   <string name="MessageScheduledOn">Насрочено за %1$s</string>
   <string name="MessageScheduledUntilOnline">График докато сте онлайн</string>
   <string name="MessageScheduledVote">Гласуването ще стане достъпно след публикуването на съобщението.</string>
+  <string name="MessageScheduledVoteResults">Резултатите от анкетите ще станат достъпни след публикуването на съобщението.</string>
   <string name="MessageScheduleEditTime">Пренасрочване</string>
   <string name="MessageScheduleSend">Изпрати сега</string>
   <string name="MessageScheduleToday">Днес</string>
@@ -1801,6 +1812,7 @@
   <string name="NewMessages_zero">%1$d нови съобщения</string>
   <string name="NewMessageTitle">Ново съобщение</string>
   <string name="NewPoll">Нова анкета</string>
+  <string name="NewQuiz">Нова викторина</string>
   <string name="NewSecretChat">Нов таен чат</string>
   <string name="NewTheme">Нова тема</string>
   <string name="NewThemePreviewLine1">Знаеш ли колко е часът?</string>
@@ -1887,6 +1899,8 @@
   <string name="NotificationActionPinnedPhotoChannel">%1$s закачи снимка</string>
   <string name="NotificationActionPinnedPoll2">%1$s закачи анкета %3$s в групата %2$s</string>
   <string name="NotificationActionPinnedPollChannel2">%1$s закачи анкета %2$s</string>
+  <string name="NotificationActionPinnedQuiz2">%1$s закачи викторина %3$s в групата %2$s</string>
+  <string name="NotificationActionPinnedQuizChannel2">%1$s закачи викторина %2$s</string>
   <string name="NotificationActionPinnedRound">%1$s закачи видео съобщение в групата %2$s</string>
   <string name="NotificationActionPinnedRoundChannel">%1$s закачи видео съобщение</string>
   <string name="NotificationActionPinnedSticker">%1$s закачи стикер в групата %2$s</string>
@@ -1940,6 +1954,7 @@
   <string name="NotificationMessageGroupNoText">%1$s изпрати съобщение до групата %2$s</string>
   <string name="NotificationMessageGroupPhoto">%1$s изпрати снимка до групата %2$s</string>
   <string name="NotificationMessageGroupPoll2">%1$s изпрати анкета %3$s в групата %2$s</string>
+  <string name="NotificationMessageGroupQuiz2">%1$s изпрати викторина %3$s в групата %2$s</string>
   <string name="NotificationMessageGroupRound">%1$s изпрати видео съобщение до групата %2$s</string>
   <string name="NotificationMessageGroupSticker">%1$s изпрати стикер до групата %2$s</string>
   <string name="NotificationMessageGroupStickerEmoji">%1$s изпрати %3$s стикер до групата %2$s</string>
@@ -1952,6 +1967,7 @@
   <string name="NotificationMessageNoText">%1$s ви изпрати съобщение</string>
   <string name="NotificationMessagePhoto">%1$s ви изпрати снимка</string>
   <string name="NotificationMessagePoll2">%1$s ви изпрати анкета %2$s</string>
+  <string name="NotificationMessageQuiz2">%1$s ви изпрати викторина %2$s</string>
   <string name="NotificationMessageRound">%1$s Ви изпрати видео съобщение</string>
   <string name="NotificationMessageSDPhoto">%1$s ви изпрати самоунищожаваща се снимка</string>
   <string name="NotificationMessageSDVideo">%1$s Ви изпрати самоунищожаващо се видео</string>
@@ -2008,6 +2024,7 @@
   <string name="NoUsernameFound">Няма профил в Телеграм с това потребителско име.</string>
   <string name="November">Ноември</string>
   <string name="NoVotes">Няма гласували</string>
+  <string name="NoVotesQuiz">Никой не отговори</string>
   <string name="NowInContacts">%1$s вече е в списъка ви с контакти.</string>
   <string name="NumberUnknown">Неизвестен</string>
   <string name="October">Октомври</string>
@@ -2403,7 +2420,18 @@
   <string name="Points_two">%1$d</string>
   <string name="Points_zero">%1$d</string>
   <string name="Poll">Анкета</string>
+  <string name="PollAnonymous">Анонимно гласуване</string>
+  <string name="PollCantForwardSecretChat">За съжаление анкетите не могат да бъдат препращани към тайни чатове.</string>
+  <string name="PollCollapse">Свиване</string>
+  <string name="PollExpand">Разширяване</string>
+  <string name="PollMultiple">Няколко отговора</string>
   <string name="PollOptions">Възможни отговори</string>
+  <string name="PollQuiz">Режим викторина</string>
+  <string name="PollResults">Резултати от анкетите</string>
+  <string name="PollSelectOption">Изберете първо опция</string>
+  <string name="PollSubmitVotes">ГЛАСУВАЙ</string>
+  <string name="PollTapToSelect">Докоснете, за да изберете правилния отговор</string>
+  <string name="PollViewResults">ПРЕГЛЕД НА РЕЗУЛТАТИТЕ</string>
   <string name="PopupDisabled">Изключени</string>
   <string name="PopupEnabled">Включени</string>
   <string name="PopupNotification">Изскачащи известия</string>
@@ -2459,6 +2487,8 @@
   <string name="ProxyDetails">Детайли на прокси</string>
   <string name="ProxySettings">Настройки на прокси</string>
   <string name="PublicChannelsTooMuch">За съжаление, целевият потребител вече има твърде много обществени групи или канали. Моля, помолете ги да направят първо да направят една от от съществуващите си групи или канали скрити.</string>
+  <string name="PublicPoll">Анкета</string>
+  <string name="PublicPollCantForward">За съжаление публичните анкети не могат да бъдат препращани към канали.</string>
   <string name="Purple">Лилаво</string>
   <string name="Question">Въпрос</string>
   <string name="QuestionHint">Задайте въпрос</string>
@@ -2467,6 +2497,13 @@
   <string name="QuickReplyDefault2">Ще се обадя след малко.</string>
   <string name="QuickReplyDefault3">Ще се обадя по-късно.</string>
   <string name="QuickReplyDefault4">Сега не мога да говоря. Обади ми се по-късно.</string>
+  <string name="QuizAnswers">Отговори на викторина</string>
+  <string name="QuizInfo">Анкетите в режим викторина имат един верен отговор. Потребителите не могат да оттеглят отговорите си.</string>
+  <string name="QuizPoll">Викторина</string>
+  <string name="QuizWellDone">Много добре!</string>
+  <string name="QuizWellDoneInfo">Избрахте правилния отговор.</string>
+  <string name="QuizWrongAnswer">Грешен отговор!</string>
+  <string name="QuizWrongAnswerInfo">Не уцелихте правилната опция.</string>
   <string name="RaiseToSpeak">Повдигане, за говорене</string>
   <string name="RateCallDistorted">Речта беше изкривена</string>
   <string name="RateCallDropped">Обаждането приключи неочаквано</string>
@@ -2591,6 +2628,7 @@
   <string name="ScamMessage">ИЗМАМА</string>
   <string name="Schedule">График</string>
   <string name="ScheduledMessages">Планирани съобщения</string>
+  <string name="ScheduledOrNoSoundHint">Задръжте този бутон, за да планирате съобщението си или да го изпратите без звук.</string>
   <string name="ScheduleMessage">Изпращане по график</string>
   <string name="ScheduleWhenOnline">Изпрати когато %1$s е онлайн</string>
   <string name="ScreenCapture">Позволяване на заснемане на екрана</string>
@@ -2765,6 +2803,12 @@
   <string name="ShowInChat">Показване в чата</string>
   <string name="ShowNotificationsFor">Показвай известията за</string>
   <string name="ShowNotificationsForInfo">Изключете това, ако искате да получавате известия само от активния си профил.</string>
+  <string name="ShowVotes_few">Покажи още (%1$d)</string>
+  <string name="ShowVotes_many">Покажи още (%1$d)</string>
+  <string name="ShowVotes_one">Покажи още (%1$d)</string>
+  <string name="ShowVotes_other">Покажи още (%1$d)</string>
+  <string name="ShowVotes_two">Покажи още (%1$d)</string>
+  <string name="ShowVotes_zero">Покажи още (%1$d)</string>
   <string name="Shuffle">Случаен ред</string>
   <string name="SignUp">Вписване</string>
   <string name="SinglePhotosHelp">Отделно съобщение за всяка снимка</string>
@@ -2824,6 +2868,9 @@
   <string name="StopPoll">Спиране на анкетата</string>
   <string name="StopPollAlertText">Ако спрете сега тази анкета, вече никой няма да може да гласува. Действието не може да се отмени.</string>
   <string name="StopPollAlertTitle">Спиране на анкетата?</string>
+  <string name="StopQuiz">Спри викторината</string>
+  <string name="StopQuizAlertText">Ако спрете тази викторина сега, никой вече няма да може да гласува в него. Това действие не може да бъде отменено.</string>
+  <string name="StopQuizAlertTitle">Спиране на викторината?</string>
   <string name="StopVerification">Искате ли да спрете процеса на потвърждаване на телефонния номер?</string>
   <string name="StorageUsage">Използвано хранилище</string>
   <string name="Streaming">Поточно излъчване</string>
@@ -3166,6 +3213,7 @@
   <string name="WalletComment">Коментар (по избор)</string>
   <string name="WalletConfigType">Източник на конфигурация</string>
   <string name="WalletConfigTypeInfo">Използването на различна конфигурация ви позволява да промените адресите на Lite Server.</string>
+  <string name="WalletCongratulations">Поздравления</string>
   <string name="Warmth">Топлина</string>
   <string name="WebSessionsTitle">Вписване с Телеграм</string>
   <string name="Weeks_few">%1$d седмици</string>
