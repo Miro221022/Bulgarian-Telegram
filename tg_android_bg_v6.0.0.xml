@@ -1372,7 +1372,9 @@
   <string name="FollowersChartTitle">Последователи</string>
   <string name="FontSize">Размер на шрифта</string>
   <string name="FontSizePreviewLine1">Знаеш ли колко е часът?</string>
+  <string name="FontSizePreviewLine2">Във Видин е сутрин</string>
   <string name="FontSizePreviewName">Мирослав Тодоров</string>
+  <string name="FontSizePreviewReply">Добро утро</string>
   <string name="FontType">Тип на шрифта</string>
   <string name="FootsAway">%1$s фута</string>
   <string name="ForgotPassword">Забравена парола?</string>
@@ -1894,7 +1896,9 @@
   <string name="NewSecretChat">Нов таен чат</string>
   <string name="NewTheme">Нова тема</string>
   <string name="NewThemePreviewLine1">Знаеш ли колко е часът?</string>
+  <string name="NewThemePreviewLine3">Във Видин е сутрин</string>
   <string name="NewThemePreviewName">Мирослав Тодоров</string>
+  <string name="NewThemePreviewReply">Добро утро</string>
   <string name="NewThemePreviewReply2">Добро утро</string>
   <string name="NewThemeTitle">Нова тема</string>
   <string name="Next">Следващо</string>
