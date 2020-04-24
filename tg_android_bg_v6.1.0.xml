@@ -164,6 +164,8 @@
   <string name="AddAccount">Добавяне на профил</string>
   <string name="AddAdminErrorBlacklisted">За съжаление не можете да добавите този потребител като админ, защото те са в черния списък и Вие не можете да им премахнете забраната.</string>
   <string name="AddAdminErrorNotAMember">За съжаление не можете да добавите този потребител като админ, защото той не е член на тази група и Вие нямате право да го поканите.</string>
+  <string name="AddAnExplanation">Добавете обяснение</string>
+  <string name="AddAnExplanationInfo">Потребителите ще видят този текст, след като изберат грешен отговор, подходящ за образователни цели.</string>
   <string name="AddAnOption">Добавяне на отговор...</string>
   <string name="AddAnOptionInfo">Можете да добавите %1$s.</string>
   <string name="AddAnOptionInfoMax">Добавихте максималния брой възможни отговори.</string>
@@ -257,6 +259,7 @@
   <string name="Answer_other">%1$d отговора</string>
   <string name="Answer_two">%1$d отговора</string>
   <string name="Answer_zero">%1$d отговора</string>
+  <string name="AnswerOptions">Опции за отговор</string>
   <string name="ApkRestricted">Инсталирането на АPK е ограничено за това приложение. Можете да го разрешите от настройките на системата.</string>
   <string name="appcenter_distribute_dialog_actioned_on_disabled_toast">Разпространението бе деактивирано</string>
   <string name="appcenter_distribute_download_progress_number_format">%1$d МБ от %2$d МБ</string>
@@ -339,6 +342,7 @@
   <string name="AreYouSureDeleteSingleMessageMega">Наистина ли искате да изтриете това съобщение за всички?</string>
   <string name="AreYouSureDeleteThisChat">Наистина ли искате да изтриете този чат?</string>
   <string name="AreYouSureDeleteThisChatSavedMessages">Сигурни ли сте, че искате да изтриете **Запазени съобщения**?</string>
+  <string name="AreYouSureDeleteThisChatWithBot">Сигурни ли сте, че искате да изтриете чата с **%1$s** и да го блокирате?</string>
   <string name="AreYouSureDeleteThisChatWithGroup">Наистина ли искате да изтриете чата **%1$s**?</string>
   <string name="AreYouSureDeleteThisChatWithSecretUser">Наистина ли искате да изтриете тайния чата с **%1$s**?</string>
   <string name="AreYouSureDeleteThisChatWithUser">Наистина ли искате да изтриете чата с **%1$s**?</string>
@@ -543,6 +547,7 @@
   <string name="BytesSent">Изпратени байта</string>
   <string name="CacheClear">Изчистване</string>
   <string name="CacheEmpty">Празно</string>
+  <string name="CacheWasCleared">%s освободено на вашето устройство!</string>
   <string name="CalculatingSize">Изчисляване...</string>
   <string name="Call">Обаждане</string>
   <string name="CallAgain">Обаждане отново</string>
@@ -602,7 +607,7 @@
   <string name="ChannelAddedBy">un1 ви добави към този канал</string>
   <string name="ChannelAddedByNotification">%1$s ви добави към канала %2$s</string>
   <string name="ChannelAddException">Добавяне на изключение</string>
-  <string name="ChannelAddMembers">Добавяне на членове</string>
+  <string name="ChannelAddSubscribers">Добавяне на абонати</string>
   <string name="ChannelAddTo">Да се добави ли %1$s към канала?</string>
   <string name="ChannelAddToChannel">Добавяне към канал</string>
   <string name="ChannelAddToGroup">Добавяне към група</string>
@@ -731,7 +736,7 @@
   <string name="ChatList">Изглед на списъка с чатове</string>
   <string name="ChatListDefault">Две линии</string>
   <string name="ChatListExpanded">Три линии</string>
-  <string name="ChatLocation">Местоположение</string>
+  <string name="ChatLocation">Локация</string>
   <string name="Chats_few">%1$d чата</string>
   <string name="Chats_many">%1$d чата</string>
   <string name="Chats_one">%1$d чат</string>
@@ -803,6 +808,7 @@
   <string name="ClearHistory">Изчистване на историята</string>
   <string name="ClearHistoryCache">Изтриване от кеша</string>
   <string name="ClearHistoryOptionAlso">Изчистване на историята също за %1$s</string>
+  <string name="ClearLocalDatabase">Изчистване на локалната база данни</string>
   <string name="ClearMediaCache">Изчистване на кеша</string>
   <string name="ClearOtherSessionsHelp">Отписване от всички устройства, освен това.</string>
   <string name="ClearOtherWebSessionsHelp">Можете да влизате в уебсайтове, които поддържат вписване с Телеграм.</string>
@@ -815,6 +821,7 @@
   <string name="ClearSearchSingleAlertTitle">История на търсенията</string>
   <string name="ClearSearchSingleChatAlertText">Сигурни ли сте че искате да премахнете \"%1$s\" от историята на търсенето?</string>
   <string name="ClearSearchSingleUserAlertText">Сигурни ли сте че искате да премахнете \"%1$s\" от историята на търсенето?</string>
+  <string name="ClearTelegramCache">Изчистване на кеша</string>
   <string name="Close">Затвори</string>
   <string name="CloseEditor">ЗАТВАРЯНЕ НА РЕДАКТОРА</string>
   <string name="Code">Код</string>
@@ -935,6 +942,7 @@
   <string name="CustomShareInfo">Тези потребители ще могат или не да ви добавят към групи и канали, независимо от настройките по-горе.</string>
   <string name="CustomShareSettingsHelp">Тези настройки ще заместят стойностите по-горе.</string>
   <string name="CustomThemes">Потребителски теми</string>
+  <string name="DartInfo">Изпратете **:darts: ** емоджи, за да опитате късмета си.</string>
   <string name="DataSettings">Данни и хранилище</string>
   <string name="DataUsage">Използвано място и данни</string>
   <string name="Days_few">%1$d дни</string>
@@ -1019,15 +1027,18 @@
   <string name="DeleteTheme">Изтрий темата</string>
   <string name="DeleteThemeAlert">Наистина ли искате да изтриете тази тема?</string>
   <string name="DeleteThemeTitle">Изтриване на тема</string>
-  <string name="DeleteTheseChats">Изтрийте чатовете</string>
+  <string name="DeleteTheseChatsBothSides">Изтриване на чатове</string>
   <string name="DeleteThisChat">Изтриване на този чат</string>
+  <string name="DeleteThisChatBothSides">Изтриване на този чат</string>
   <string name="DeleteThisGroup">Изтриване на тази група</string>
   <string name="DescriptionInfo">Можете да предоставите допълнително описание за вашия канал.</string>
   <string name="DescriptionOptionalPlaceholder">Описание (по избор)</string>
   <string name="DescriptionPlaceholder">Описание</string>
   <string name="Devices">Устройства</string>
+  <string name="DeviceStorage">Хранилище на устройството</string>
   <string name="DialogPin">Закачи</string>
   <string name="DialogUnpin">Откачи</string>
+  <string name="DiceEmojiInfo">Изпратете %1$s емоджи, за да опитате късмета си.</string>
   <string name="DidNotGetTheCode">Не получихте кода?</string>
   <string name="DidNotGetTheCodeSms">Изпращане на кода като SMS</string>
   <string name="Digits_few">%1$d цифри</string>
@@ -1140,6 +1151,7 @@
   <string name="EmptyExceptions">Няма</string>
   <string name="EnableAllStreamingInfo">Някои видеоклипове няма да могат да се предават поточно - например всички видеоклипове, които са били изпратени чрез Телеграм 4.7 или по-стара версия.</string>
   <string name="EnableAnimations">Активиране на анимации</string>
+  <string name="EnabledNotifications">Активирани известия</string>
   <string name="EnabledPasswordText">Активирахте удостоверяването в две стъпки\nЗа да влизате в профила ви в Телеграм, ще се нуждаете от паролата, която настроихте тук.</string>
   <string name="EnableStreaming">Излъчване на аудио и видео</string>
   <string name="EncryptedChatStartedIncoming">Присъединихте се към тайния чат.</string>
@@ -1372,9 +1384,7 @@
   <string name="FollowersChartTitle">Последователи</string>
   <string name="FontSize">Размер на шрифта</string>
   <string name="FontSizePreviewLine1">Знаеш ли колко е часът?</string>
-  <string name="FontSizePreviewLine2">Във Видин е сутрин</string>
   <string name="FontSizePreviewName">Мирослав Тодоров</string>
-  <string name="FontSizePreviewReply">Добро утро</string>
   <string name="FontType">Тип на шрифта</string>
   <string name="FootsAway">%1$s фута</string>
   <string name="ForgotPassword">Забравена парола?</string>
@@ -1704,6 +1714,7 @@
   <string name="LocalDatabaseClearText">Наистина ли искате да изчистите кешираните текстови съобщения?</string>
   <string name="LocalDatabaseClearTextTitle">Изчистване на локалната база данни</string>
   <string name="LocalDatabaseInfo">Изчистването на локалната база данни ще изтрие текста на кешираните съобщения и ще компресира базата данни, за да спести място във вътрешната памет. Телеграм се нуждае от някой данни, за да работи, така че размера на базата данни няма да достигне до нула.\n\nОперацията може да отнеме няколко минути.</string>
+  <string name="LocalDatabaseSize">%s локална база данни на Telegram</string>
   <string name="LocalDocumentCache">Документи</string>
   <string name="LocalGifCache">GIF-ове</string>
   <string name="LocalMusicCache">Музика</string>
@@ -1896,9 +1907,7 @@
   <string name="NewSecretChat">Нов таен чат</string>
   <string name="NewTheme">Нова тема</string>
   <string name="NewThemePreviewLine1">Знаеш ли колко е часът?</string>
-  <string name="NewThemePreviewLine3">Във Видин е сутрин</string>
   <string name="NewThemePreviewName">Мирослав Тодоров</string>
-  <string name="NewThemePreviewReply">Добро утро</string>
   <string name="NewThemePreviewReply2">Добро утро</string>
   <string name="NewThemeTitle">Нова тема</string>
   <string name="Next">Следващо</string>
@@ -2150,6 +2159,7 @@
   <string name="Orange">Оранжево</string>
   <string name="OtherLoginCode">Вашият код за вписване е **%1$s**. Въведете го в приложението Телеграм, където се опитвате да влезете.\n\nНе давайте този код на никого.</string>
   <string name="OtherSessions">Активни сесии</string>
+  <string name="OtherStickers">Още стикери</string>
   <string name="OtherWebSessions">Свързани уебсайтове</string>
   <string name="OutgoingCalls">Изходящи обаждания</string>
   <string name="P2PContacts">Моите контакти</string>
@@ -2505,7 +2515,7 @@
   <string name="PollCollapse">Свиване</string>
   <string name="PollExpand">Разширяване</string>
   <string name="PollMultiple">Няколко отговора</string>
-  <string name="PollOptions">Възможни отговори</string>
+  <string name="PollQuestion">Въпрос за анкетата</string>
   <string name="PollQuiz">Режим викторина</string>
   <string name="PollResults">Резултати от анкетите</string>
   <string name="PollSelectOption">Изберете първо опция</string>
@@ -2570,7 +2580,6 @@
   <string name="PublicPoll">Анкета</string>
   <string name="PublicPollCantForward">За съжаление публичните анкети не могат да бъдат препращани към канали.</string>
   <string name="Purple">Лилаво</string>
-  <string name="Question">Въпрос</string>
   <string name="QuestionHint">Задайте въпрос</string>
   <string name="QuickReplyCustom">Съобщение по избор...</string>
   <string name="QuickReplyDefault1">Сега не мога да говоря. Какво става?</string>
@@ -2594,6 +2603,7 @@
   <string name="RateCallSilentRemote">Другата страна не можеше да ме чуе</string>
   <string name="Recent">ПОСЛЕДНИ</string>
   <string name="RecentFiles">Последни файлове</string>
+  <string name="RecentFilesAZ">Файлове А-Я</string>
   <string name="RecentlyViewed">Наскоро видяни</string>
   <string name="RecentlyViewedHide">СКРИЙ</string>
   <string name="RecentPosts">Последни публикации</string>
@@ -2734,8 +2744,10 @@
   <string name="SearchInSettings">Настройки за търсене и ЧЗВ</string>
   <string name="SearchMembers">Търсене на членове</string>
   <string name="SearchMessages">СЪОБЩЕНИЯ</string>
+  <string name="SearchMusic">Търсене на музика</string>
   <string name="SearchRecentFiles">Търсене на последни файлове</string>
   <string name="SearchStickersHint">Търсене на набор от стикери.</string>
+  <string name="SearchTrendingStickersHint">Търсете популярни стикери</string>
   <string name="Seconds_few">%1$d секунди</string>
   <string name="Seconds_many">%1$d секунди</string>
   <string name="Seconds_one">%1$d секунда</string>
@@ -2772,6 +2784,7 @@
   <string name="SendContactToText">Искате ли да изпратите този контакт до **%1$s**?</string>
   <string name="SendDayAt">\'Изпрати на\' d MMM \'в\' HH:mm</string>
   <string name="SendDayYearAt">\'Изпрати на\' d MMM yyyy \'в\' HH:mm</string>
+  <string name="SendDice">ИЗПРАТИ</string>
   <string name="SendGameToGroupText">Искате ли да споделите тази игра в **%1$s**?</string>
   <string name="SendGameToText">Искате ли да споделите тази игра в **%1$s**?</string>
   <string name="SendGifPreview">Изпрати GIF</string>
@@ -2937,6 +2950,7 @@
   <string name="StartEncryptedChat">Започни таен чат</string>
   <string name="StartMessaging">Да започваме</string>
   <string name="StartText">Потвърдете кода на държавата\nи въведете телефонния си номер.</string>
+  <string name="StatisticOverview">Преглед</string>
   <string name="Statistics">Статистика</string>
   <string name="Stickers_few">%1$d стикера</string>
   <string name="Stickers_many">%1$d стикера</string>
@@ -3017,6 +3031,7 @@
   <string name="TapToSendLocation">Докоснете, за да изпратите това местоположение</string>
   <string name="TapToViewAsList">Докоснете, за да видите като списък.</string>
   <string name="Teal">Синьозелено</string>
+  <string name="TelegramCacheSize">%s Телеграм кеш</string>
   <string name="TelegramContacts_few">%1$d контакти в Телеграм</string>
   <string name="TelegramContacts_many">%1$d контакти в Телеграм</string>
   <string name="TelegramContacts_one">%1$d контакт в Телеграм</string>
@@ -3113,6 +3128,8 @@
   <string name="TosDeclineDeleteAccount">Внимание, това необратимо ще изтрие вашия Телеграм профил заедно с всички данни, които съхранявате в облака Телеграм.\n\Важно: Можете да спрете сега и да експортирате данните си, преди да изтриете профила си, вместо да ги загубите. (За да направите това, отворете последната версия на Телграм за компютър и отидете в Настройки &gt; Експортиране на данни.)</string>
   <string name="TosUpdateDecline">Много съжаляваме, но това означава, че трябва да се разделим тук. За разлика от другите, ние не използваме данните ви за насочване на реклами или други търговски цели. Телеграм съхранява само информацията, от която се нуждае, за да функционира като богата на функции облачна услуга. Можете да коригирате начина, по който използваме данните ви (например изтриване на синхронизирани контакти) в Поверителност и сигурност в Настройки.\n\nНо ако не сте съгласни със скромните нужди на Телеграм, няма да е възможно да предоставим тази услуга. Можете да деактивирате профила си сега или да разгледате още и да го деактивирате по-късно, ако смятате, че не сте доволни от начина, по който използваме данните ви.</string>
   <string name="TotalDataUsage">Общо</string>
+  <string name="TotalDeviceFreeSize">%s свободно</string>
+  <string name="TotalDeviceSize">%s други данни</string>
   <string name="TurnPasswordOff">Деактивирай паролата</string>
   <string name="TurnPasswordOffPassport">Внимание! Цялата информация във вашия Телеграм Паспорт ще бъде загубена!</string>
   <string name="TurnPasswordOffQuestion">Наистина ли искате да деактивирате вашата парола?</string>
@@ -3286,6 +3303,7 @@
   <string name="Views_two">%1$s прегледа</string>
   <string name="Views_zero">%1$s прегледа</string>
   <string name="ViewsBySourceChartTitle">Преглед по източник</string>
+  <string name="ViewsPerPost">Преглеждания на публикация</string>
   <string name="Vignette">Винетка</string>
   <string name="Voice_few">%1$d гласови съобщения</string>
   <string name="Voice_many">%1$d гласови съобщения</string>
