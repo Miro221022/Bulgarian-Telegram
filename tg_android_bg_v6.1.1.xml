@@ -2576,6 +2576,15 @@
   <string name="ProxyConnections">Свързвания</string>
   <string name="ProxyDetails">Детайли на прокси</string>
   <string name="ProxySettings">Настройки на прокси</string>
+  <string name="PsaHide">Скрий</string>
+  <string name="PsaHideChatAlertText">Сигурни ли сте, че искате да скриете избрания чат?</string>
+  <string name="PsaHideChatAlertTitle">Скриване на чата</string>
+  <string name="PsaInfo_covid">Това съобщение ви предоставя съобщение за обществена услуга във връзка с продължаващата пандемия Covid-19. Learn more about this initiative at https://telegram.org/blog/coronavirus</string>
+  <string name="PsaInfoDefault">Информационен тест за PSA</string>
+  <string name="PsaMessage_covid">Известие за Covid-19</string>
+  <string name="PsaMessageDefault">Важно известие</string>
+  <string name="PsaMessageInfo_covid">Това съобщение ви предоставя съобщение за обществена услуга във връзка с продължаващата пандемия Covid-19. Learn more about this initiative at https://telegram.org/blog/coronavirus</string>
+  <string name="PsaMessageInfoDefault">Това е важно известие.</string>
   <string name="PublicChannelsTooMuch">За съжаление, целевият потребител вече има твърде много обществени групи или канали. Моля, помолете ги да направят първо да направят една от от съществуващите си групи или канали скрити.</string>
   <string name="PublicPoll">Анкета</string>
   <string name="PublicPollCantForward">За съжаление публичните анкети не могат да бъдат препращани към канали.</string>
@@ -2842,6 +2851,7 @@
   <string name="SetTimer">Задай таймер за самоунищожение</string>
   <string name="SETTINGS">Настройки</string>
   <string name="Settings">Настройки</string>
+  <string name="SettingsDebug">Отстраняване на грешки</string>
   <string name="SettingsFaqSearchTitle">Често задавани въпроси</string>
   <string name="SettingsHelp">Помощ</string>
   <string name="SettingsNoRecent">Няма скорошни търсения</string>
@@ -2888,6 +2898,7 @@
   <string name="Shares_two">%1$s споделяния</string>
   <string name="Shares_zero">%1$s споделяния</string>
   <string name="ShareSendTo">Изпрати до...</string>
+  <string name="SharesPerPost">Споделяния на публикацията</string>
   <string name="ShareTelegram">Споделяне на Телеграм...</string>
   <string name="ShareTheme">Споделяне на тема</string>
   <string name="ShareYouLocationInfo">Това ще изпрати вашата текуща локация до бота.</string>
