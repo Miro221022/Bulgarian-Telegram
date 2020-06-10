@@ -1553,7 +1553,7 @@
   <string name="GroupUserCantBot">Съжаляваме, твърде много ботове в тази група.</string>
   <string name="GroupUserLeftError">Съжаляваме, но потребителя реши да напусне тази група, така че не може да го поканите тук отново.</string>
   <string name="GrowthChartTitle">Растеж</string>
-  <string name="Hashtags">ХАШТАГОВЕ</string>
+  <string name="Hashtags">ОТБЕЛЯЗВАНИЯ</string>
   <string name="HidAccount">Профилът е скрит от потребителя</string>
   <string name="HiddenName">Изтрит профил</string>
   <string name="HideAboveTheList">Скриване от списъка</string>
@@ -2730,7 +2730,7 @@
   <string name="RevokeLinkAlert">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nГрупата \\"**%2$s**\" ще стане частна.</string>
   <string name="RevokeLinkAlertChannel">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nКаналът \\"**%2$s**\\" ще стане частен.</string>
   <string name="Satellite">Сателит</string>
-  <string name="Saturation">Наситеност</string>
+  <string name="Saturation">Насищане</string>
   <string name="Save">Запази</string>
   <string name="SaveChangesAlertText">Искате ли да приложите новите цветове, които сте избрали?</string>
   <string name="SaveChangesAlertTitle">Запазване на промените?</string>
@@ -3339,7 +3339,7 @@
   <string name="Views_zero">%1$s прегледа</string>
   <string name="ViewsBySourceChartTitle">Преглед по източник</string>
   <string name="ViewsPerPost">Преглеждания на публикация</string>
-  <string name="Vignette">Винетка</string>
+  <string name="Vignette">Скица</string>
   <string name="Voice_few">%1$d гласови съобщения</string>
   <string name="Voice_many">%1$d гласови съобщения</string>
   <string name="Voice_one">%1$d гласово съобщение</string>
