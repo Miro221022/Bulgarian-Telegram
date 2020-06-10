@@ -364,7 +364,7 @@
   <string name="ArticleByAuthor">от %1$s</string>
   <string name="ArticleDateByAuthor">%1$s от %2$s</string>
   <string name="AskAQuestion">Задайте въпрос</string>
-  <string name="AskAQuestionInfo">Моля, забележете, че поддръжката на Телеграм е направена от доброволци. Опитваме се да отговаряме възможно най-бързо, но това може да отнеме известно време.\n\nМоля, погледнете &lt;a href=\"https://telegram.org/faq#general-questions\"&gt;Телеграм ЧЗВ&lt;/a&gt;:там има отговори на повечето въпроси и важни съвети при &lt;a href=\"https://telegram.org/faq#troubleshooting\"&gt;отстраняване на проблеми&lt;/a&gt;.</string>
+  <string name="AskAQuestionInfo">Моля, обърнете внимание, че поддръжката на Telegram се извършва от доброволци. Опитваме се да отговорим възможно най-бързо, но може да отнеме известно време\n\nМоля, погледнете &lt;a href=\"https://telegram.org/faq#general-questions\"&gt;Телеграм ЧЗВ&lt;/a&gt;,там има отговори на повечето въпроси и важни съвети за &lt;a href=\"https://telegram.org/faq#troubleshooting\"&gt;отстраняване на проблеми&lt;/a&gt;.</string>
   <string name="AskButton">Попитайте доброволец</string>
   <string name="AttachAudio">Гласово съобщение</string>
   <string name="AttachBotsHelp">Превъртете надолу за ботове</string>
@@ -376,20 +376,20 @@
   <string name="AttachGif">GIF</string>
   <string name="AttachGifRestricted">Администраторите от тази група са ви забранили да изпращате GIF-ове до %1$s</string>
   <string name="AttachGifRestrictedForever">Администраторите от тази група са ви забранили да изпращате GIF-ове.</string>
-  <string name="AttachInlineRestricted">Админите на тази група Ви ограничиха от изпращане на вградено съдържание тук до %1$s</string>
-  <string name="AttachInlineRestrictedForever">Админите на тази група Ви ограничиха от изпращане на вградено съдържание тук</string>
+  <string name="AttachInlineRestricted">Администраторите на тази група са Ви забранили изпращане на вградено съдържание тук до %1$s</string>
+  <string name="AttachInlineRestrictedForever">Администраторите на тази група Ви забраниха да изпращате вградено съдържание тук</string>
   <string name="AttachLiveLocation">Локация на живо</string>
   <string name="AttachLiveLocationIsSharing">%1$s споделя с %2$s</string>
   <string name="AttachLocation">Местоположение</string>
-  <string name="AttachMediaRestricted">Админите на тази група Ви ограничиха от изпращане на медия до %1$s</string>
-  <string name="AttachMediaRestrictedForever">Админите на тази група Ви ограничиха от изпращане на медия тук</string>
+  <string name="AttachMediaRestricted">Администраторите на тази група Ви забраниха изпращане на медия до %1$s</string>
+  <string name="AttachMediaRestrictedForever">Администраторите на тази група Ви забраниха изпращане на медия тук</string>
   <string name="AttachMusic">Музика</string>
   <string name="AttachPhoto">Снимка</string>
   <string name="AttachPhotoExpired">Снимката изтече</string>
   <string name="AttachRound">Видео съобщение</string>
   <string name="AttachSticker">Стикер</string>
-  <string name="AttachStickersRestricted">Админите на тази група Ви ограничиха от изпращане на стикери тук до %1$s</string>
-  <string name="AttachStickersRestrictedForever">Админите на тази група Ви ограничиха от изпращане на стикери тук</string>
+  <string name="AttachStickersRestricted">Администраторите на тази група Ви забраниха изпращане на стикери тук до %1$s</string>
+  <string name="AttachStickersRestrictedForever">Администраторите на тази група Ви забраниха изпращане на стикери тук</string>
   <string name="AttachVideo">Видео</string>
   <string name="AttachVideoExpired">Видеото изтече</string>
   <string name="AudioAutodownload">Гласови съобщения</string>
@@ -428,7 +428,7 @@
   <string name="AutoDownloadOnAllChats">Включено във всички чатове</string>
   <string name="AutoDownloadOnFor">Включено за %1$s</string>
   <string name="AutoDownloadOnMobileData">На мобилни данни</string>
-  <string name="AutoDownloadOnMobileDataInfo">Включете, ако искате медията да бъде автоматично изтеглена на мобилни данни.</string>
+  <string name="AutoDownloadOnMobileDataInfo">Включете, ако искате медията да бъде автоматично изтеглена чрез мобилни данни.</string>
   <string name="AutoDownloadOnRoamingData">При роуминг</string>
   <string name="AutoDownloadOnRoamingDataInfo">Включете, ако искате медията да се изтегля автоматично при роуминг.</string>
   <string name="AutoDownloadOnUpToFor">До %1$s за %2$s</string>
@@ -936,7 +936,7 @@
   <string name="CurvesRed">ЧЕРВЕН</string>
   <string name="CustomCallInfo">Тези потребители ще или няма да могат да ви се обаждат, независимо от настройките по-горе.</string>
   <string name="CustomHelp">Важно: няма да можете да виждате последна активност за хората, с които не споделяте вашата последна активност. Вместо това ще бъде показвана приблизителна последна активност (скоро, тази седмица, този месец).</string>
-  <string name="CustomNotifications">Потребителски уведомления</string>
+  <string name="CustomNotifications">Потребителски известия</string>
   <string name="CustomP2PInfo">Обажданията в партньорска мрежа ще се използват или няма да се използват с тези потребители, независимо от настройките по-горе.</string>
   <string name="CustomShareInfo">Тези потребители ще могат или не да ви добавят към групи и канали, независимо от настройките по-горе.</string>
   <string name="CustomShareSettingsHelp">Тези настройки ще заместят стойностите по-горе.</string>
@@ -1035,7 +1035,7 @@
   <string name="DescriptionOptionalPlaceholder">Описание (по избор)</string>
   <string name="DescriptionPlaceholder">Описание</string>
   <string name="Devices">Устройства</string>
-  <string name="DeviceStorage">Хранилище на устройството</string>
+  <string name="DeviceStorage">Хранилище в устройството</string>
   <string name="DialogPin">Закачи</string>
   <string name="DialogUnpin">Откачи</string>
   <string name="DiceEmojiInfo">Изпратете емотикона %1$s, за да опитате късмета си.</string>
@@ -1085,7 +1085,7 @@
   <string name="Draft">Чернова</string>
   <string name="Edit">Редактиране</string>
   <string name="EditAdmin">Редактиране на админ</string>
-  <string name="EditAdminAddAdmins">Добавяне на нови админи</string>
+  <string name="EditAdminAddAdmins">Добавяне на нови администратори</string>
   <string name="EditAdminAddUsers">Добавяне на потребители</string>
   <string name="EditAdminAddUsersViaLink">Покана чрез връзка</string>
   <string name="EditAdminBanUsers">Забрана на потребители</string>
@@ -1144,7 +1144,7 @@
   <string name="EmojiUseDefault">Използване на системните емотикони</string>
   <string name="EmpryUsersPlaceholder">Добавяне</string>
   <string name="EmptyExceptions">Няма</string>
-  <string name="EnableAllStreamingInfo">Някои видеоклипове няма да могат да се предават поточно - например всички видеоклипове, които са били изпратени чрез Телеграм 4.7 или по-стара версия.</string>
+  <string name="EnableAllStreamingInfo">Някои видеоклипове няма да могат да се излъчват - например всички видеоклипове, които са били изпратени чрез Телеграм 4.7 или по-стара версия.</string>
   <string name="EnableAnimations">Активиране на анимации</string>
   <string name="EnabledNotifications">Активирани известия</string>
   <string name="EnabledPasswordText">Активирахте удостоверяването в две стъпки\nЗа да влизате в профила ви в Телеграм, ще се нуждаете от паролата, която настроихте тук.</string>
@@ -1175,15 +1175,15 @@
   <string name="EnterThemeNameEdit">Докоснете ** Създай **, ако искате да споделите темата си с други хора или персонализирате всеки цвят ръчно.\n\nМоля, въведете името на темата:</string>
   <string name="EnterYourPasscode">Въведете паролата си</string>
   <string name="ErrorOccurred">Възникна грешка.</string>
-  <string name="ErrorSendRestrictedMedia">За съжаление, админите на тази група са Ви ограничили от възможността да изпращате медия.</string>
+  <string name="ErrorSendRestrictedMedia">За съжаление, администраторите на тази група са Ви забранили възможността да изпращате медия.</string>
   <string name="ErrorSendRestrictedMediaAll">За съжаление изпращането на медии не е позволено в тази група.</string>
   <string name="ErrorSendRestrictedPolls">За съжаление администраторите на тази група са ви забранили да изпращате анкети.</string>
   <string name="ErrorSendRestrictedPollsAll">За съжаление изпращането на анкети не е позволено в тази група.</string>
-  <string name="ErrorSendRestrictedStickers">За съжаление, админите на тази група са Ви ограничили от възможността да изпращате стикери.</string>
+  <string name="ErrorSendRestrictedStickers">За съжаление, администраторите на тази група са Ви забранили възможността да изпращате стикери.</string>
   <string name="ErrorSendRestrictedStickersAll">За съжаление изпращането на стикери не е позволено в тази група.</string>
   <string name="EventLog">Скорошни действия</string>
   <string name="EventLogAdded">un1 добави un2</string>
-  <string name="EventLogAllAdmins">Всички админи</string>
+  <string name="EventLogAllAdmins">Всички администратори</string>
   <string name="EventLogAllEvents">Всички действия</string>
   <string name="EventLogChangedChannelLink">un1 промени връзката на канала:</string>
   <string name="EventLogChangedGroupLink">un1 промени връзката на групата:</string>
@@ -1217,7 +1217,7 @@
   <string name="EventLogFilterEditedMessages">Редактирани съобщения</string>
   <string name="EventLogFilterGroupInfo">Информация за групата</string>
   <string name="EventLogFilterLeavingMembers">Напускащи членове</string>
-  <string name="EventLogFilterNewAdmins">Нови админи</string>
+  <string name="EventLogFilterNewAdmins">Нови администратори</string>
   <string name="EventLogFilterNewMembers">Нови членове</string>
   <string name="EventLogFilterNewRestrictions">Нови ограничения</string>
   <string name="EventLogFilterPinnedMessages">Закачени съобщения</string>
@@ -1645,7 +1645,7 @@
   <string name="June">Юни</string>
   <string name="KeepMedia">Съхранение на медията</string>
   <string name="KeepMediaForever">Завинаги</string>
-  <string name="KeepMediaInfo">Снимки, видео и други файлове от чатове в облака, които **не сте преглеждали** през този период ще бъдат премахнати от това устройство с цел спестяване на място.\n\nВсичките мултимедийни файлове ще останат в облака на Телеграм и при нужда, може да бъде изтеглена отново.</string>
+  <string name="KeepMediaInfo">Снимки, видео и други файлове от чатове в облака, които **не сте преглеждали** през този период ще бъдат премахнати от това устройство с цел спестяване на място.\n\nВсичките мултимедийни файлове ще останат в облака на Телеграм и при нужда, могат да бъдат изтеглени отново.</string>
   <string name="KickFromBroadcast">Премахни от списък за излъчване</string>
   <string name="KickFromGroup">Премахни от групата</string>
   <string name="KMetersAway2">на %1$s км</string>
@@ -1950,7 +1950,7 @@
   <string name="NoMedia">Споделяйте снимки и видео в този чат и ги преглеждайте на всяко ваше устройство.</string>
   <string name="NoMediaAutoDownload">Без медия</string>
   <string name="NoMediaSecret">Снимките и видеоклиповете от този чат ще бъдат показани тук.</string>
-  <string name="NoMessages">Все още тук няма съобщения...</string>
+  <string name="NoMessages">Тук все още няма съобщения...</string>
   <string name="NoOtherSessions">Няма други активни сесии</string>
   <string name="NoOtherSessionsInfo">Можете да влезете в Телеграм от друг телефон, таблет или компютри, използвайки същия телефонен номер. Всички ваши данни ще бъдат синхронизирани мигновено.</string>
   <string name="NoOtherWebSessions">Няма активни вписвания.</string>
@@ -2090,7 +2090,7 @@
   <string name="NotificationsDeleteAllException">Изтриване на всички изключения</string>
   <string name="NotificationsDeleteAllExceptionAlert">Сигурни ли сте,че искате да изтриете всички изключения?</string>
   <string name="NotificationsDeleteAllExceptionTitle">Изтриване на всички изключения</string>
-  <string name="NotificationsEnableCustom">Включване на потребителски уведомления</string>
+  <string name="NotificationsEnableCustom">Включване на потребителски известия</string>
   <string name="NotificationsExceptions">Изключения</string>
   <string name="NotificationsExceptionsAlert">Моля, имайте предвид, че **%1$s** са изброени като изключения и няма да бъдат засегнати от тази промяна.</string>
   <string name="NotificationsExceptionsSingleAlert">Моля, имайте предвид, че **%1$s** е посочена като изключение и няма да бъде засегната от тази промяна.</string>
@@ -2540,7 +2540,7 @@
   <string name="PopupEnabled">Включени</string>
   <string name="PopupNotification">Изскачащи известия</string>
   <string name="PreviewFeedback2">Грешно оформление?</string>
-  <string name="PriorityInfo">Уведомленията с по-голям приоритет ще работят независимо дали телефон е в режим \"Не безпокой\".</string>
+  <string name="PriorityInfo">Известията с по-голям приоритет ще работят независимо дали телефон е в режим \"Не безпокойте\".</string>
   <string name="PrivacyAddAnException">Добавете потребители или групи</string>
   <string name="PrivacyAdvanced">Допълнитени</string>
   <string name="PrivacyBots">Ботове и уебсайтове</string>
@@ -2572,9 +2572,8 @@
   <string name="PrivacyPhoneInfo3">Потребителите, които добавят номера ви към своите контакти, ще го виждат в Telegram само ако са ваши контакти.</string>
   <string name="PrivacyPhoneTitle">Кой може да вижда телефонния ми номер?</string>
   <string name="PrivacyPhoneTitle2">Кой може да ме намери чрез моя номер?</string>
-  <string name="PrivacyPolicy">Декларация за поверителност</string>
+  <string name="PrivacyPolicy">Политика за поверителност</string>
   <string name="PrivacyPolicyAndTerms">Политика за поверителност и Условия за ползване</string>
-  <string name="PrivacyPolicyUrl">https://telegram.org/privacy</string>
   <string name="PrivacyProfilePhoto">Снимка на профила</string>
   <string name="PrivacyProfilePhotoInfo">Можете да ограничите кой може да вижда снимката на профила ви с прецизност.</string>
   <string name="PrivacyProfilePhotoInfo2">Тези настройки ще заместят стойностите по-горе.</string>
@@ -2584,7 +2583,7 @@
   <string name="PrivacyTitle">Поверителност</string>
   <string name="ProfileJoinChannel">Присъединяване към канала</string>
   <string name="ProfileJoinGroup">Присъединяване към групата</string>
-  <string name="ProfilePopupNotification">Изскачащи уведомления</string>
+  <string name="ProfilePopupNotification">Изскачащи известия</string>
   <string name="ProfilePopupNotificationInfo">Новите съобщения от този контакт ще се показват на екрана ви, когато не използвате Телеграм.</string>
   <string name="Proxy">Прокси</string>
   <string name="ProxyConnections">Свързвания</string>
@@ -2830,8 +2829,8 @@
   <string name="SendLiveLocationMenu">Сподели текущото местоположение</string>
   <string name="SendLocation">Изпращане на моята текуща локация</string>
   <string name="SendMessageLocation">Изпрати съобщение</string>
-  <string name="SendMessageRestricted">Админите на тази група Ви ограничиха от писане тук до %1$s</string>
-  <string name="SendMessageRestrictedForever">Админите на тази група Ви ограничиха от писане тук</string>
+  <string name="SendMessageRestricted">Администраторите на тази група Ви забраниха да пишете тук до %1$s</string>
+  <string name="SendMessageRestrictedForever">Администраторите на тази група Ви забраниха да пишете тук</string>
   <string name="SendMessagesToGroupText">Искате ли да изпратите това съобщение до **%1$s**?</string>
   <string name="SendMessagesToText">Искате ли да изпратите това съобщение до **%1$s**?</string>
   <string name="SendMessageTitle">Изпрати съобщение</string>
