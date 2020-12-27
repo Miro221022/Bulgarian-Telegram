@@ -48,7 +48,7 @@
   <string name="AccDescrLocationNotify">Известяване когато е в обхват</string>
   <string name="AccDescrMentionDown">Към следващото споменаване</string>
   <string name="AccDescrMirror">Огледало</string>
-  <string name="AccDescrMoreOptions">Повече опций</string>
+  <string name="AccDescrMoreOptions">Още опции</string>
   <string name="AccDescrMsgNotPlayed">Не е изпълнено</string>
   <string name="AccDescrMsgRead">Видяно</string>
   <string name="AccDescrMsgSending">Изпращане</string>
@@ -1284,7 +1284,7 @@
   <string name="EditPhoto">Отваряне в редактора</string>
   <string name="EditThemeColors">Редактиране на цветове</string>
   <string name="EditThemeTitle">Редактиране на темата</string>
-  <string name="EmailCopied">Имейлът е копиран в клипборда</string>
+  <string name="EmailCopied">Имейлът е копиран в буферната памет</string>
   <string name="EmailPasswordConfirmText2">За да завършите настройката за удостоверяване в две стъпки, проверете вашия имейл (не забравяйте папка Спам) и въведете кода, който ви изпратихме.</string>
   <string name="EmailPasswordConfirmText3">За да завършите настройката на имейл за възстановяване, проверете %1$s (не забравяйте папка Спам) и въведете кода, който ви изпратихме.</string>
   <string name="Emoji">Емотикони</string>
@@ -1794,6 +1794,7 @@
   <string name="Invitations_two">%1$d покани</string>
   <string name="Invitations_zero">%1$d покани</string>
   <string name="Invite">Покани</string>
+  <string name="Invited">поканен</string>
   <string name="InviteFriends">Поканете приятели</string>
   <string name="InviteFriendsHelp">Изберете контакти, за да ги поканите към Телеграм</string>
   <string name="InviteLink">Връзка с покана</string>
@@ -1888,8 +1889,8 @@
   <string name="LimitReached">Лимитът е достигнат</string>
   <string name="LinkAvailable">%1$s е на разположение.</string>
   <string name="LinkChecking">Проверка на името…</string>
-  <string name="LinkCopied">Връзката е копирана в клипборда</string>
-  <string name="LinkCopiedPrivate">Връзката е копирана в клипборда.\nТази връзка ще работи само за членове на този чат.</string>
+  <string name="LinkCopied">Връзката е копирана в буферната памет</string>
+  <string name="LinkCopiedPrivate">Връзката е копирана в буферната памет.\nТази връзка ще работи само за членове на този чат.</string>
   <string name="LinkCopiedPrivateInfo">Тази връзка ще работи само за членове на този чат.</string>
   <string name="LinkedChannel">Свързан канал</string>
   <string name="LinkInfo">Всеки, който има инсталиран Телеграм ще може да се присъедини към групата ви, като последва тази връзка.</string>
@@ -1909,6 +1910,7 @@
   <string name="Links_two">%1$d връзки</string>
   <string name="Links_zero">%1$d връзки</string>
   <string name="LinksTitle">Споделени връзки</string>
+  <string name="Listening">слушане</string>
   <string name="LiveLocationAlertGroup">Изберете за колко време хората в тази група ще виждат точното ви местоположение.</string>
   <string name="LiveLocationAlertPrivate">Изберете за колко време %1$s ще вижда точното ви местоположение.</string>
   <string name="LiveLocationContext">Локация на живо</string>
@@ -2329,7 +2331,7 @@
   <string name="NotificationMessageGameScored">%1$s постигна %3$s в играта %2$s</string>
   <string name="NotificationMessageGif">%1$s ви изпрати GIF</string>
   <string name="NotificationMessageGroupAudio">%1$s изпрати гласово съобщение до групата %2$s</string>
-  <string name="NotificationMessageGroupContact2">%1$s shared a contact %3$s in the group %2$s</string>
+  <string name="NotificationMessageGroupContact2">%1$s сподели контакт %3$s в групата %2$s</string>
   <string name="NotificationMessageGroupDocument">%1$s изпрати файл до групата %2$s</string>
   <string name="NotificationMessageGroupGame">%1$s покани групата %2$s да играе %3$s</string>
   <string name="NotificationMessageGroupGameScored">%1$s постигна %4$s в играта %3$s в групата %2$s</string>
@@ -2345,7 +2347,6 @@
   <string name="NotificationMessageGroupRound">%1$s изпрати видео съобщение до групата %2$s</string>
   <string name="NotificationMessageGroupSticker">%1$s изпрати стикер до групата %2$s</string>
   <string name="NotificationMessageGroupStickerEmoji">%1$s изпрати %3$s стикер до групата %2$s</string>
-  <string name="NotificationMessageGroupText">%1$s @ %2$s: %3$s</string>
   <string name="NotificationMessageGroupVideo">%1$s изпрати видео до групата %2$s</string>
   <string name="NotificationMessageInvoice">%1$s ви изпрати фактура за %2$s</string>
   <string name="NotificationMessageLiveLocation">%1$s ви изпрати локация на живо</string>
@@ -2358,10 +2359,8 @@
   <string name="NotificationMessageRound">%1$s Ви изпрати видео съобщение</string>
   <string name="NotificationMessageSDPhoto">%1$s ви изпрати самоунищожаваща се снимка</string>
   <string name="NotificationMessageSDVideo">%1$s Ви изпрати самоунищожаващо се видео</string>
-  <string name="NotificationMessagesPeopleDisplayOrder">%1$s %2$s</string>
   <string name="NotificationMessageSticker">%1$s ви изпрати стикер</string>
   <string name="NotificationMessageStickerEmoji">%1$s ви изпрати %2$s стикер</string>
-  <string name="NotificationMessageText">%1$s: %2$s</string>
   <string name="NotificationMessageVideo">%1$s ви изпрати видео</string>
   <string name="Notifications">Известия</string>
   <string name="NotificationsAddAnException">Добавяне на изключение</string>
@@ -2769,8 +2768,8 @@
   <string name="PermissionBackgroundLocation">За да споделите местоположението си на живо в този чат, Telegram се нуждае от достъп до местоположението Ви през цялото време, включително докато приложението е във фонов режим.\n\nЩе осъществяваме достъп до местоположението Ви само за продължителността, която изберете, и можете да спрете да го споделяте по всяко време. Няма да използваме местоположението Ви за други цели освен за споделянето му в този чат.</string>
   <string name="PermissionContacts">За да можете да се свързвате с приятелите си от всички ваши устройства, контактите ви ще бъдат периодично синхронизирани с криптирани сървъри на Телеграм.</string>
   <string name="PermissionDrawAboveOtherApps">Телеграм има нужда от достъп нда се показва над другите приложения, за да възпроизвежда видео и режим Картина-в-картината.</string>
-  <string name="PermissionDrawAboveOtherAppsGroupCall">Режимът на наслагване ви позволява да използвате \\"натискане за говорене\\" и да видите кой говори, дори когато сте извън Telegram.</string>
-  <string name="PermissionDrawAboveOtherAppsGroupCallTitle">Наслагване за гласов чат</string>
+  <string name="PermissionDrawAboveOtherAppsGroupCall">Режимът за показване върху други приожения ви позволява да използвате \\"натискане за говорене\\" и да видите кой говори, дори когато сте извън Telegram.</string>
+  <string name="PermissionDrawAboveOtherAppsGroupCallTitle">Режим за показване върху други приложения</string>
   <string name="PermissionDrawAboveOtherAppsTitle">Картина в картината</string>
   <string name="PermissionNoAudio">Телеграм се нуждае от достъп до микрофона ви, за да може да изпращате гласови съобщения.</string>
   <string name="PermissionNoAudioVideo">Телеграм има нужда от достъп до Вашия микрофон, за да можете да записвате видео.</string>
@@ -2781,7 +2780,7 @@
   <string name="PermissionStorage">Телеграм се нуждае от достъп до хранилището ви, за да може да изпращате и записвате снимки, видео, музика и др.</string>
   <string name="PermissionXiaomiLockscreen">Моля, позволете на Телеграм да се показва на заключен екран, за да могат обажданията да работят правилно.</string>
   <string name="Phone">Телефон</string>
-  <string name="PhoneCopied">Телефонът е копиран в клипборда</string>
+  <string name="PhoneCopied">Телефонът е копиран в буферната памет</string>
   <string name="PhoneHidden">Неизвестен</string>
   <string name="PhoneHome">Домашен</string>
   <string name="PhoneMain">Основен</string>
@@ -2976,11 +2975,11 @@
   <string name="RecentlyViewedHide">СКРИЙ</string>
   <string name="RecentPosts">Последни публикации</string>
   <string name="RecentStickers">Наскоро използвани</string>
-  <string name="Recipient_few">"%1$dполучатели "</string>
-  <string name="Recipient_many">"%1$dполучатели "</string>
+  <string name="Recipient_few">"%1$d получатели "</string>
+  <string name="Recipient_many">"%1$d получатели "</string>
   <string name="Recipient_one">%1$d получател</string>
-  <string name="Recipient_other">"%1$dполучатели "</string>
-  <string name="Recipient_two">"%1$dполучатели "</string>
+  <string name="Recipient_other">"%1$d получатели "</string>
+  <string name="Recipient_two">"%1$d получатели "</string>
   <string name="Recipient_zero">%1$d получатели</string>
   <string name="RecordingAudio">записва гласово съобщение...</string>
   <string name="RecordingRound">записва видео съобщение...</string>
@@ -3370,6 +3369,7 @@
   <string name="Sound">Звук</string>
   <string name="SoundDefault">По подразбиране</string>
   <string name="SoundMuted">Звукът е заглушен</string>
+  <string name="Speaking">говорене</string>
   <string name="Start">Начало</string>
   <string name="StartEncryptedChat">Започни таен чат</string>
   <string name="StartMessaging">Да започваме</string>
@@ -3493,7 +3493,7 @@
   <string name="TerminateWebSessionTitle">Прекъсни уебсайта</string>
   <string name="TermsOfService">Условия за ползване</string>
   <string name="TermsOfServiceLogin">С вашата регистрация вие се съгласявате с нашите \"Условия за ползване\"</string>
-  <string name="TextCopied">Текстът е копиран в клипборда</string>
+  <string name="TextCopied">Текстът е копиран в буферната памет</string>
   <string name="TextSelectionHit">Задръжте ** дума **, след това преместете курсора, за да изберете повече текст, който да копирате.</string>
   <string name="TextSizeHeader">Размер на текста на съобщенията</string>
   <string name="Theme">Тема</string>
