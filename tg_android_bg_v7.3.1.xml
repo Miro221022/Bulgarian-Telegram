@@ -63,6 +63,7 @@
   <string name="AccDescrNumberOfViews_other">Видяно %1$d пъти</string>
   <string name="AccDescrNumberOfViews_two">Видяно %1$d пъти</string>
   <string name="AccDescrOpenChat">Отваряне на чата</string>
+  <string name="AccDescrOpenInPhotoViewer">Отваряне в програма за преглед на снимки</string>
   <string name="AccDescrOpenMenu">Отворете менюто за управление</string>
   <string name="AccDescrOpenMenu2">Отвори менюто</string>
   <string name="AccDescrPageDown">Надолу</string>
@@ -116,6 +117,8 @@
   <string name="AccDescrStickerSet">Комплект стикери</string>
   <string name="AccDescrStopLiveLocation">Спиране на живото споделяне на местоположение</string>
   <string name="AccDescrSwitchCamera">Превключи камерата</string>
+  <string name="AccDescrSwitchToDayTheme">Превключване към дневна тема</string>
+  <string name="AccDescrSwitchToNightTheme">Превключване към нощна тема</string>
   <string name="AccDescrTakeMorePics">Заснемане на още една снимка</string>
   <string name="AccDescrUploadProgress">Качено %1$s от %2$s</string>
   <string name="AccDescrUserOptions">Потребителски опции</string>
@@ -474,7 +477,7 @@
   <string name="AudioUnknownTitle">Неизвестно заглавие</string>
   <string name="August">Август</string>
   <string name="AuthAnotherClient">Сканирай QR кода</string>
-  <string name="AuthAnotherClientInfo1">Изтеглете Telegramна компютъра си от *desktop.telegram.org*.</string>
+  <string name="AuthAnotherClientInfo1">Изтеглете Telegram на компютъра си от *desktop.telegram.org*.</string>
   <string name="AuthAnotherClientInfo2">Стартирайте Telegram Desktop, за да получите QR кода.</string>
   <string name="AuthAnotherClientInfo3">Сканирайте QR кода, за да свържете профила си.</string>
   <string name="AuthAnotherClientNotFound">Не е намерен знак за автентичност</string>
@@ -3578,6 +3581,7 @@
   <string name="TwoStepVerificationPasswordSet">Паролата е зададена!</string>
   <string name="TwoStepVerificationPasswordSetInfo">Тази парола ще бъде необходима, когато влезете на ново устройство в допълнение към кода, който получавате в SMS.</string>
   <string name="TwoStepVerificationSetPassword">Задаване на парола</string>
+  <string name="TwoStepVerificationShowPassword">Показване на паролата</string>
   <string name="TwoStepVerificationTitle">Потвърждаване в две стъпки</string>
   <string name="TypeLocationGroup">Връзка</string>
   <string name="TypeLocationGroupEdit">Докоснете, за да добавите постоянна връзка</string>
