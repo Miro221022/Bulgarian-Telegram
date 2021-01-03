@@ -3822,7 +3822,7 @@
   <string name="VoipGroupInviteAlreadyParticipant">Избраният потребител вече е в този гласов чат.</string>
   <string name="VoipGroupInvitedToVoiceChat">un1 покани un2 към гласовия чат</string>
   <string name="VoipGroupInvitedUser">Поканихте **%1$s** в гласовия чат.</string>
-  <string name="VoipGroupInviteMember">Поканете членовете</string>
+  <string name="VoipGroupInviteMember">Поканете членове</string>
   <string name="VoipGroupInviteText">Хей! Присъедини се към нашия гласов чат: %1$s</string>
   <string name="VoipGroupJoinAnonymousAdmin">За съжаление, не можете да се присъедините към гласови чатове като анонимен администратор.</string>
   <string name="VoipGroupJoinCall">Присъединете се към гласов чат</string>
@@ -3835,13 +3835,13 @@
   <string name="VoipGroupMuteMemberAlertTitle">Изключване на микрофона</string>
   <string name="VoipGroupOffline">В момента сте офлайн. Свържете се с интернет, за да се присъедините към гласови чатове.</string>
   <string name="VoipGroupOfflineAirplane">В момента сте с включен самолетен режим. Изключете го или се свържете с Wi-Fi, за да се присъедините към гласови чатове.</string>
-  <string name="VoipGroupOnlyAdminsCanSpeak">Новите участници са заглушени</string>
+  <string name="VoipGroupOnlyAdminsCanSpeak">Заглуши новите участници</string>
   <string name="VoipGroupOpenVoiceChat">Отворен гласов чат</string>
   <string name="VoipGroupRemovedFromGroup">**%1$s** премахнат от групата.</string>
   <string name="VoipGroupRemoveMemberAlertText">Искате ли да премахнете %1$s от групов чат?</string>
   <string name="VoipGroupRemoveMemberAlertTitle">Премахване на участник</string>
   <string name="VoipGroupSearchMembers">Търсене на членове за покана...</string>
-  <string name="VoipGroupShareInviteLink">Споделяне на връзка за покана</string>
+  <string name="VoipGroupShareInviteLink">Връзка за покана</string>
   <string name="VoipGroupUnmute">Включи звука</string>
   <string name="VoipGroupUserCanNowSpeak">**%1$s** вече може да говори.</string>
   <string name="VoipGroupUserCantNowSpeak">**%1$s** вече е заглушен в този чат.</string>
