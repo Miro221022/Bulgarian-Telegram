@@ -2110,12 +2110,12 @@
   <string name="MembersCountZero">до %1$s</string>
   <string name="MembersLanguageChartTitle">Основен език на членовете</string>
   <string name="MembersOverviewTitle">Членове</string>
-  <string name="MembersTalking_few">%1$s участника говорят</string>
-  <string name="MembersTalking_many">%1$s участника говорят</string>
-  <string name="MembersTalking_one">%1$s участник говори</string>
-  <string name="MembersTalking_other">%1$s участника говорят</string>
-  <string name="MembersTalking_two">%1$s участника говорят</string>
-  <string name="MembersTalking_zero">%1$s участника говорят</string>
+  <string name="MembersTalking_few">%1$s членове говорят</string>
+  <string name="MembersTalking_many">%1$s членове говорят</string>
+  <string name="MembersTalking_one">%1$s член говори</string>
+  <string name="MembersTalking_other">%1$s членове говорят</string>
+  <string name="MembersTalking_two">%1$s членове говорят</string>
+  <string name="MembersTalking_zero">%1$s членове говорят</string>
   <string name="MembersTalkingNobody">Никой не говори</string>
   <string name="Mention">Споменаване</string>
   <string name="Message">Съобщение</string>
@@ -2575,12 +2575,12 @@
   <string name="PaintOutlined">Очертаване</string>
   <string name="PaintPen">Писалка</string>
   <string name="PaintRegular">Нормално</string>
-  <string name="Participants_few">%1$d участника</string>
-  <string name="Participants_many">%1$d участника</string>
-  <string name="Participants_one">%1$d участник</string>
-  <string name="Participants_other">%1$d участника</string>
-  <string name="Participants_two">%1$d участника</string>
-  <string name="Participants_zero">%1$d участника</string>
+  <string name="Participants_few">%1$d членове</string>
+  <string name="Participants_many">%1$d членове</string>
+  <string name="Participants_one">%1$d член</string>
+  <string name="Participants_other">%1$d членове</string>
+  <string name="Participants_two">%1$d членове</string>
+  <string name="Participants_zero">%1$d членове</string>
   <string name="Passcode">Заключване с парола</string>
   <string name="PasscodeDoNotMatch">Паролите не съвпадат</string>
   <string name="PasscodePassword">Парола</string>
@@ -3940,7 +3940,7 @@
   <string name="VoipGroupRecordCall">Стартиране на запис</string>
   <string name="VoipGroupRemovedFromGroup">**%1$s** премахнат от групата.</string>
   <string name="VoipGroupRemoveMemberAlertText">Искате ли да премахнете %1$s от групов чат?</string>
-  <string name="VoipGroupRemoveMemberAlertTitle">Премахване на участник</string>
+  <string name="VoipGroupRemoveMemberAlertTitle">Премахване на член</string>
   <string name="VoipGroupSearchMembers">Търсене на членове за покана...</string>
   <string name="VoipGroupShareInviteLink">Връзка за покана</string>
   <string name="VoipGroupStopRecordCall">Спри записа</string>
@@ -4083,7 +4083,7 @@
   <string name="PrivacyForwardsMessageLine">Реинхард трябва ни малко помощ</string>
   <string name="ThemePreviewLine1">Да, аз също смятам така!</string>
     <string name="ThemePreviewDialog1">Мирослав Тодоров</string>
-    <string name="ThemePreviewDialog2">Успешен ден</string>
+    <string name="ThemePreviewDialog2">Забавление и хумор</string>
     <string name="ThemePreviewDialog3">Тодор Младенов</string>
     <string name="ThemePreviewDialog4">Иван Иванов</string>
     <string name="ThemePreviewDialog5">Телеграм в България</string>
@@ -4093,4 +4093,9 @@
     <string name="ThemePreviewDialogMessage1">Изглежда ми познато...</string>
     <string name="ThemePreviewDialogMessage3" />
 	<string name="ThemePreviewLine3Reply">Иван</string>
+	<string name="AreYouSureDeleteAndExitChannel">Наистина ли искате да изтриете и напуснете канала?</string>
+	<string name="DeleteChannelForAll">Изтриване за всички абонати</string>
+	<string name="ImportCount">%1$s от %2$s</string>
+    <string name="ImportFailedToUpload">Неуспешно качване на файла</string>
+	<string name="ImportFileTooLarge">Импортираният файл е твърде голям</string>
 </resources>
