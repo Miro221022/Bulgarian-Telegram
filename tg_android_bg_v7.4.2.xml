@@ -481,7 +481,7 @@
   <string name="AudioUnknownArtist">Неизвестен изпълнител</string>
   <string name="AudioUnknownTitle">Неизвестно заглавие</string>
   <string name="August">Август</string>
-  <string name="AuthAnotherClient">Сканирай QR кода</string>
+  <string name="AuthAnotherClient">Сканиране на QR код</string>
   <string name="AuthAnotherClientInfo1">Изтеглете Телеграм на компютъра си от *desktop.telegram.org*.</string>
   <string name="AuthAnotherClientInfo2">Стартирайте Телеграм на компютъра, за да получите QR кода.</string>
   <string name="AuthAnotherClientInfo3">Сканирайте QR кода, за да свържете профила си.</string>
@@ -1328,10 +1328,10 @@
   <string name="EnableAnimations">Активиране на анимации</string>
   <string name="EnabledNotifications">Активирани известия</string>
   <string name="EnabledPasswordText">Активирахте удостоверяването в две стъпки\nЗа да влизате в профила ви в Телеграм, ще се нуждаете от паролата, която настроихте тук.</string>
-  <string name="EnableStreaming">Излъчване на аудио и видео</string>
+  <string name="EnableStreaming">Излъчване на звук и видео</string>
   <string name="EncryptedChatStartedIncoming">Присъединихте се към тайния чат.</string>
   <string name="EncryptedChatStartedOutgoing">%s се присъедини към вашия таен чат.</string>
-  <string name="EncryptedDescription1">Криптирането е end-to-end</string>
+  <string name="EncryptedDescription1">Криптирането е от край до край</string>
   <string name="EncryptedDescription2">Без следи на сървърите ни</string>
   <string name="EncryptedDescription3">Има таймер за самоунищожение</string>
   <string name="EncryptedDescription4">Не позволява препращане</string>
