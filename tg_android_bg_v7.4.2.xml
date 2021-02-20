@@ -1152,7 +1152,7 @@
   <string name="DeleteBackground_other">Изтриване на %1$d фона</string>
   <string name="DeleteBackground_two">Изтриване на %1$d фона</string>
   <string name="DeleteBackground_zero">Изтриване на %1$d фона</string>
-  <string name="DeleteBanUser">Блокиране на потребители</string>
+  <string name="DeleteBanUser">Блокиране на потребителя</string>
   <string name="DeleteCalls">Изтриване на повиквания</string>
   <string name="DeleteCallsForEveryone">Изтрий за всички</string>
   <string name="DeleteChat">Изтрий и излез</string>
