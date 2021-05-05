@@ -4085,7 +4085,7 @@
   <string name="VoipAudioRoutingSpeaker">Говорител</string>
   <string name="VoipBusy">Линията е заета</string>
   <string name="VoipCallEnded">Обаждането завърши</string>
-  <string name="VoipChannelScheduleInfo">Абонатите на канала ще бъдат уведомени, че гласовият чат ще започне в %1$s.</string>
+  <string name="VoipChannelScheduleInfo">Абонатите на канала ще бъдат уведомени, че гласовият чат ще започне след %1$s.</string>
   <string name="VoipChannelStart2">Абонатите на този канал ще бъдат уведомени, след като стартирате гласовия чат.</string>
   <string name="VoipChatDisplayedAs">Ще бъдете показан(а) като:</string>
   <string name="VoipChatJoin">Присъединяване</string>
@@ -4171,7 +4171,7 @@
   <string name="VoipGroupRemoveMemberAlertTitle2">Премахване на участник</string>
   <string name="VoipGroupSaveFileHint">Заглавие на записа</string>
   <string name="VoipGroupScheduledVoiceChat">Планиран гласов чат</string>
-  <string name="VoipGroupScheduleInfo">Членовете на групата ще бъдат уведомени, че гласовият чат ще започне в %1$s.</string>
+  <string name="VoipGroupScheduleInfo">Членовете на групата ще бъдат уведомени, че гласовият чат ще започне след %1$s.</string>
   <string name="VoipGroupScheduleVoiceChat">Планиране на гласов чат</string>
   <string name="VoipGroupSearchMembers">Търсене на членове за покана...</string>
   <string name="VoipGroupSetReminder">Задаване на напомняне</string>
