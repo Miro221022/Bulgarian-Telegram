@@ -2341,7 +2341,7 @@
   <string name="MakeMyselfVisibleInfo">Потребителите наблизо ще могат да преглеждат вашия профил и да ви изпращат съобщения. Това може да ви помогне да намерите нови приятели, но също така може да привлече прекомерно внимание. Можете да спрете споделянето на потребителския си профил по всяко време.\n\nВашият телефонен номер ще остане скрит.</string>
   <string name="MakeMyselfVisibleTitle">Показване на профила ви?</string>
   <string name="ManageAllFilesRational">Моля, позволете на **Telegram** да управлява всички файлове, за да отвори файлов браузър в приложението</string>
-  <string name="ManageAllFilesRational2">Telegram се нуждае от разрешение за управление на всички файлове, за да премести стари кеш файлове в Scoped Storage</string>
+  <string name="ManageAllFilesRational2">Telegram се нуждае от разрешение за управление на всички файлове, за да премести стари кеш файлове в Изолирано хранилище</string>
   <string name="ManageChannel">Управление на канал</string>
   <string name="ManageChannelMenu">Управление на канал</string>
   <string name="ManageGroup">Управление на група</string>
@@ -2518,10 +2518,10 @@
   <string name="MetersFromYou2">%1$s м от Вас</string>
   <string name="MetersShort">%1$s м</string>
   <string name="Mi">мили</string>
-  <string name="MigrateOldFolder">Преместване на старата папка към Scoped Storage</string>
+  <string name="MigrateOldFolder">Преместване на старата папка към Изолирано хранилище</string>
   <string name="MigrateOldFolderButton">Преместване на файловете сега</string>
   <string name="MigrateOldFolderDescription">Поради промяна, направена от **Google**, трябва да преместим файловете, които сте изтеглили чрез **Telegram**, в нова папка.\n\nТова може да отнеме няколко минути. Можете да продължите да използвате приложението, докато файловете се преместват.</string>
-  <string name="MigrateOldFolderTitle">Преместване на файлове в Scoped Storage</string>
+  <string name="MigrateOldFolderTitle">Преместване на файлове в Изолирано хранилище</string>
   <string name="MigratingFiles">Преместване на файлове</string>
   <string name="MigrationNotification">Преместване</string>
   <string name="MilesAway">на %1$s миля</string>
