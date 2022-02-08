@@ -81,6 +81,7 @@
   <string name="AccDescrProfilePicture">Снимка на профила</string>
   <string name="AccDescrQuizCorrectAnswer">Правилен отговор</string>
   <string name="AccDescrQuizExplanation">Обяснение</string>
+  <string name="AccDescrReactionMentionDown">Преминаване към следващите непрочетени реакции</string>
   <string name="AccDescrReceivedDate">Получени %s</string>
   <string name="AccDescrRepeatList">Повторете, плейлист</string>
   <string name="AccDescrRepeatOff">Повторение, изключено</string>
@@ -669,6 +670,7 @@
   <string name="BlockUsersMessage">Искате ли да блокирате съобщенията и обажданията в Телеграм от **%1$s**?</string>
   <string name="BlockUserTitle">Блокирай %1$s</string>
   <string name="Blue">Синьо</string>
+  <string name="BlurInChat">Замъгляване в чата</string>
   <string name="BlurLinear">Линейно</string>
   <string name="BlurOff">Изкл</string>
   <string name="BlurRadial">Радиално</string>
@@ -1245,7 +1247,6 @@
   <string name="DaysSchedule_zero">%1$d дни</string>
   <string name="Deactivate">ИЗТРИВАНЕ СЕГА</string>
   <string name="DebugClearLogs">Изчисти отчетите</string>
-  <string name="DebugDrawSnowInChat">Сняг в чата</string>
   <string name="DebugMenu">Меню за отстраняване на грешки</string>
   <string name="DebugMenuCallSettings">Настройки за обаждания</string>
   <string name="DebugMenuCheckAppUpdate">Проверка за актуализация</string>
@@ -1350,6 +1351,7 @@
   <string name="Deletions_two">%1$d изтривания</string>
   <string name="Deletions_zero">%1$d изтривания</string>
   <string name="DescriptionInfo">Можете да предоставите допълнително описание за вашия канал.</string>
+  <string name="DescriptionMore">още</string>
   <string name="DescriptionOptionalPlaceholder">Описание (по избор)</string>
   <string name="DescriptionPlaceholder">Описание</string>
   <string name="Devices">Устройства</string>
@@ -1881,6 +1883,7 @@
   <string name="ForwardPreviewSendersNameVisibleChannel">Абонатите ще видят, че са препратени</string>
   <string name="ForwardPreviewSendersNameVisibleGroup">Членовете ще видят, че са препратени</string>
   <string name="ForwardSendMessages">Изпращане на съобщения</string>
+  <string name="ForwardsRestrictedInfoBot">Копирането и препращането не е разрешено от този бот.</string>
   <string name="ForwardsRestrictedInfoChannel">Копирането и препращането не е разрешено в този канал.</string>
   <string name="ForwardsRestrictedInfoGroup">Копирането и препращането не е разрешено в тази група.</string>
   <string name="ForwardTo">Препращане до...</string>
@@ -4011,6 +4014,8 @@
   <string name="ShowCaption">Показване на надпис</string>
   <string name="ShowForwardingOptions">Показване на опциите за препращане</string>
   <string name="ShowInChat">Показване в чата</string>
+  <string name="ShowLess">Покажи по-малко</string>
+  <string name="ShowMore">Покажи повече</string>
   <string name="ShowNotificationsFor">Показвай известията за</string>
   <string name="ShowNotificationsForInfo">Изключете това, ако искате да получавате известия само от активния си профил.</string>
   <string name="ShowSenderNames">Показване на имената на подателите</string>
@@ -4332,7 +4337,6 @@
   <string name="TranslateMessages">Превеждане на съобщения</string>
   <string name="TranslateMessagesInfo1">Бутонът \"Превод\" ще се появи, когато направите еднократно докосване на текстово съобщение.</string>
   <string name="TranslateMessagesInfo2">Google може да има достъп до съобщенията, които превеждате.</string>
-  <string name="TranslateMore">Преведи още...</string>
   <string name="TranslationFailedAlert1">Преводът е неуспешен. Опитайте отново по-късно.</string>
   <string name="TranslationFailedAlert2">Преводът е неуспешен.</string>
   <string name="TurnPasswordOff">Деактивирай паролата</string>
