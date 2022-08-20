@@ -456,7 +456,7 @@
   <string name="AppNameBeta">Телеграм</string>
   <string name="ApproveNewMembers">Одобряване на нови членове</string>
   <string name="ApproveNewMembersDescription">Включете това, ако искате потребителите да се присъединят само след като бъдат одобрени от администратор.</string>
-  <string name="AppUpdate">Update Telegram</string>
+  <string name="AppUpdate">Актуакизирай Телеграм</string>
   <string name="AppUpdateChangelogEmpty">**Какво ново?**\n\n• Поправки на грешки и подобрения.</string>
   <string name="AppUpdateDownloading">Изтегляне %1$d%%...</string>
   <string name="AppUpdateDownloadNow">Изтегли сега</string>
@@ -1058,7 +1058,7 @@
   <string name="ChannelUserCantAdd">Съжаляваме, но вие не може да добавите потребителя в каналите.</string>
   <string name="ChannelUserCantAdmin">Съжаляваме, твърде много администратори в този канал.</string>
   <string name="ChannelUserCantBot">Съжаляваме, твърде много ботове в този канал.</string>
-  <string name="ChannelUserLeftError">Съжаляваме, ако потребителя вече не е част от канал, трябва да сте в неговите контакти в Telegram, за да го добавите обратно.\n\nИмайте предвид, че той все още може да се присъедини чрез връзката за покана на канала, стига да не е в списъка с премахнати потребители.</string>
+  <string name="ChannelUserLeftError">Съжаляваме, ако потребителя вече не е част от канал, трябва да сте в неговите контакти в Телеграм, за да го добавите обратно.\n\nИмайте предвид, че той все още може да се присъедини чрез връзката за покана на канала, стига да не е в списъка с премахнати потребители.</string>
   <string name="ChannelUsernameHelp">Ако зададете постоянна връзка, други хора ще могат да намерят и да се присъединят към вашия канал.\n\nМожете да използвате a-z, 0-9 и подчертаване.\nМинималната дължина е 5 знака.</string>
   <string name="ChannelUsernamePlaceholder">връзка</string>
   <string name="ChannelVerifiedWarning">Внимание</string>
@@ -1378,7 +1378,7 @@
   <string name="CreateNewThemeMenu">Създаване на нова тема</string>
   <string name="CreatePasscode">Създайте парола</string>
   <string name="CreatePasscodeInfoPassword">Моля, въведете паролата, която ще използвате, за да отключите Телеграм.</string>
-  <string name="CreatePasscodeInfoPIN">Моля, въведете 4 цифри, които ще използвате, за да отключите Telegram.</string>
+  <string name="CreatePasscodeInfoPIN">Моля, въведете 4 цифри, които ще използвате, за да отключите Телеграм.</string>
   <string name="CreatePassword">Създай парола</string>
   <string name="CreateTheme">СЪЗДАВАНЕ НА ТЕМА</string>
   <string name="Crop">ИЗРЕЖИ</string>
@@ -2342,7 +2342,7 @@
   <string name="ImportMutualError">Можете да импортирате съобщения само в поверителни разговори с потребители, с които сте взаимни контакти.</string>
   <string name="ImportNotAdmin">Трябва да сте администратор в групата, за да импортирате съобщения.</string>
   <string name="ImportStickers">ИМПОРТИРАЙ %1$s</string>
-  <string name="ImportStickersDoneInfo">Импортирайте още стикери в Telegram и ги споделете с приятелите си.</string>
+  <string name="ImportStickersDoneInfo">Импортирайте още стикери в Телеграм и ги споделете с приятелите си.</string>
   <string name="ImportStickersDoneTitle">Стикерите са импортирани успешно!</string>
   <string name="ImportStickersEnterName">Въведете име</string>
   <string name="ImportStickersEnterNameInfo">Моля, изберете име за вашия комплект.</string>
@@ -2675,7 +2675,7 @@
   <string name="MakeMyselfVisibleInfo">Потребителите наблизо ще могат да преглеждат вашия профил и да ви изпращат съобщения. Това може да ви помогне да намерите нови приятели, но също така може да привлече прекомерно внимание. Можете да спрете споделянето на потребителския си профил по всяко време.\n\nВашият телефонен номер ще остане скрит.</string>
   <string name="MakeMyselfVisibleTitle">Показване на профила ви?</string>
   <string name="ManageAllFilesRational">Моля, позволете на **Телеграм** да управлява всички файлове, за да отвори файлов браузър в приложението</string>
-  <string name="ManageAllFilesRational2">Telegram се нуждае от разрешение за управление на всички файлове, за да премести стари кеш файлове в Изолирано хранилище</string>
+  <string name="ManageAllFilesRational2">Телеграм се нуждае от разрешение за управление на всички файлове, за да премести стари кеш файлове в Изолирано хранилище</string>
   <string name="ManageChannel">Управление на канал</string>
   <string name="ManageChannelMenu">Управление на канал</string>
   <string name="ManageDeviceStorage">Управление на хранилището в устройството</string>
@@ -2860,7 +2860,7 @@
   <string name="Mi">мили</string>
   <string name="MigrateOldFolder">Преместване на старата папка към Изолирано хранилище</string>
   <string name="MigrateOldFolderButton">Преместване на файловете сега</string>
-  <string name="MigrateOldFolderDescription">Поради промяна, направена от **Google**, трябва да преместим файловете, които сте изтеглили чрез **Telegram**, в нова папка.\n\nТова може да отнеме няколко минути. Можете да продължите да използвате приложението, докато файловете се преместват.</string>
+  <string name="MigrateOldFolderDescription">Поради промяна, направена от **Google**, трябва да преместим файловете, които сте изтеглили чрез **Телеграм**, в нова папка.\n\nТова може да отнеме няколко минути. Можете да продължите да използвате приложението, докато файловете се преместват.</string>
   <string name="MigrateOldFolderTitle">Преместване на файлове в Изолирано хранилище</string>
   <string name="MigratingFiles">Преместване на файлове</string>
   <string name="MigrationNotification">Преместване</string>
@@ -4380,7 +4380,7 @@
   <string name="September">Септември</string>
   <string name="ServiceNotifications">Сервизни известия</string>
   <string name="SessionsInfo">Контрол на сесиите ви в други устройства.</string>
-  <string name="SessionsListInfo">Официалното приложение Telegram е достъпно за Android, iPhone, iPad, Windows, macOS и Linux.</string>
+  <string name="SessionsListInfo">Официалното приложение Телеграм е достъпно за Android, iPhone, iPad, Windows, macOS и Linux.</string>
   <string name="SessionsSelfDestruct">Сесиите се самоунищожават</string>
   <string name="SessionsTitle">Активни сесии</string>
   <string name="Set">Задай</string>
@@ -5303,7 +5303,7 @@
   <string name="VoipMutedTapedForSpeak">Поискахте да говорите.</string>
   <string name="VoipMutedTapedForSpeakInfo">Нека говорщите да знаят</string>
   <string name="VoipMutedTapForSpeak">докоснете, ако искате да говорите</string>
-  <string name="VoipNeedCameraPermission">Telegram се нуждае от достъп до вашата камера, за да можете да осъществявате видео разговори.</string>
+  <string name="VoipNeedCameraPermission">Телеграм се нуждае от достъп до вашата камера, за да можете да осъществявате видео разговори.</string>
   <string name="VoipNeedMicCameraPermissionWithHint">**Телеграм** се нуждае от достъп до камера и микрофон, за да можете да провеждате видеообаждания. Докоснете Настройки -&gt; Разрешения и включете **Микрофон** и **Камера**.</string>
   <string name="VoipNeedMicPermissionWithHint">**Телеграм** се нуждае от достъп до микрофона, за да можете да извършвате обаждания. Докоснете Настройки -&gt; Разрешения и включете **Микрофон**.</string>
   <string name="VoipNoiseCancellation">Потискане на шума</string>
