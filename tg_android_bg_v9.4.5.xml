@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Български превод за Телеграм от Мирослав Тодоров       
+        -->
 <resources>
   <string name="Abort">Прекратяване</string>
   <string name="AbortEmail">Прекрати настройката</string>
@@ -22,6 +24,8 @@
   <string name="AccActionRecordVideo">Запис на видео</string>
   <string name="AccActionTakePicture">Заснемане</string>
   <string name="AccAutoDeleteTimer">Таймер за автоматично изтриване</string>
+  <string name="AccDescrArchivedChatsHidden">Архивираните чатове са скрити</string>
+  <string name="AccDescrArchivedChatsShown">Показани са архивирани чатове</string>
   <string name="AccDescrAspectRatio">Съотношение</string>
   <string name="AccDescrAttachButton">Прикрепяне на медия</string>
   <string name="AccDescrBackspace">Backspace</string>
@@ -46,6 +50,7 @@
   <string name="AccDescrCollapsePanel">Прибиране на панела</string>
   <string name="AccDescrContactSorting">Промяна на сортирането</string>
   <string name="AccDescrCustomEmoji">Персонализирани емотикони</string>
+  <string name="AccDescrDocumentType">%s файл,</string>
   <string name="AccDescrDownloadProgress">Изтеглено %1$s от %2$s</string>
   <string name="AccDescrEditing">Редактиране</string>
   <string name="AccDescrEmojiButton">Емотикони, стикери и GIF-ове</string>
@@ -79,6 +84,7 @@
   <string name="AccDescrMusicInfo">%2$s от %1$s</string>
   <string name="AccDescrMuteMic">Заглушаване на микрофона</string>
   <string name="AccDescrMyLocation">Моето местоположение</string>
+  <string name="AccDescrNotificationsMuted">Заглушен</string>
   <string name="AccDescrNumberOfPeopleReactions_few">%1$d потребители реагираха с %2$s</string>
   <string name="AccDescrNumberOfPeopleReactions_many">%1$d потребители реагираха с %2$s</string>
   <string name="AccDescrNumberOfPeopleReactions_one">%1$d потребител е реагирал с %2$s</string>
@@ -170,6 +176,7 @@
   <string name="AccDescrUnreadCount_other">%1$d непрочетени чата</string>
   <string name="AccDescrUnreadCount_two">%1$d непрочетени чата</string>
   <string name="AccDescrUploadProgress">Качено %1$s от %2$s</string>
+  <string name="AccDescrUserOnline">На линия</string>
   <string name="AccDescrUserOptions">Потребителски опции</string>
   <string name="AccDescrVerified">Потвърдено</string>
   <string name="AccDescrVideoCompressHigh">По-високо качество</string>
@@ -359,6 +366,7 @@
   <string name="AddedMembersToGroup_other">**%d членове** са добавени към групата</string>
   <string name="AddedSubscribersToChannel_other">**%d абонати** са добавени към канала</string>
   <string name="AddedToDoNotTranslate">**%s** е добавен към списъка \"Не превеждай\".</string>
+  <string name="AddedToDoNotTranslateOther">**%s** е добавен към списъка \"Не превеждай\".</string>
   <string name="AddedToFavorites">Стикерът беше добавен в любими</string>
   <string name="AddEmailSubtitle">Моля, въведете вашия валиден имейл адрес, за да защитите профила си.</string>
   <string name="AddEmailTitle">Добавете имейл</string>
@@ -673,6 +681,7 @@
   <string name="AudioAutodownload">Гласови съобщения</string>
   <string name="AudioSavedHint">Файлът е записан в музика</string>
   <string name="AudioSpeedFast">Звукът ще се възпроизвежда два пъти по-бързо.</string>
+  <string name="AudioSpeedMedium">Аудиото ще се възпроизвежда със скорост 1,5x.</string>
   <string name="AudioSpeedNormal">Звукът ще се възпроизвежда с нормална скорост.</string>
   <string name="AudiosSavedHint_few">%1$d файла са записани в музика</string>
   <string name="AudiosSavedHint_many">%1$d файлa са записани в музика</string>
@@ -1840,6 +1849,8 @@
   <string name="Downloading">Изтегляне се</string>
   <string name="DownloadsTabs">Изтегляния</string>
   <string name="Draft">Чернова</string>
+  <string name="DynamicPackOrder">Поръчка на динамичен пакет</string>
+  <string name="DynamicPackOrderInfo">Автоматично поставяне на наскоро използвани пакети стикери в предната част на панела.</string>
   <string name="Edit">Редактиране</string>
   <string name="EditAdmin">Администраторски права</string>
   <string name="EditAdminAddAdmins">Добавяне на нови администратори</string>
@@ -2315,9 +2326,7 @@
   <string name="FollowersChartTitle">Последователи</string>
   <string name="FontSize">Размер на шрифта</string>
   <string name="FontSizePreviewLine1">Знаеш ли колко е часът?</string>
-  <string name="FontSizePreviewLine2">В София сега е сутрин</string>
   <string name="FontSizePreviewName">Мирослав Тодоров</string>
-  <string name="FontSizePreviewReply">Добро утро!</string>
   <string name="FontType">Тип на шрифта</string>
   <string name="FootsAway">%1$s фута</string>
   <string name="FootsFromYou">%1$s фута от теб</string>
@@ -2937,6 +2946,24 @@
   <string name="LinksCreatedByThisAdmin">Връзки за покана, създадени от този администратор</string>
   <string name="LinksTitle">Споделени връзки</string>
   <string name="Listening">слушане</string>
+  <string name="LiteOptionsAutoplayChat">Автоматично пускане в чата</string>
+  <string name="LiteOptionsAutoplayGifs">Автоматично пускане на GIF файлове</string>
+  <string name="LiteOptionsAutoplayKeyboard">Автоматично пускане на клавиатурата</string>
+  <string name="LiteOptionsAutoplayReactions">Автоматично пускане в менюто за реакции</string>
+  <string name="LiteOptionsAutoplayVideo">Автоматично пускане на видеоклипове</string>
+  <string name="LiteOptionsBackground">Завъртане на фона</string>
+  <string name="LiteOptionsBlur">Замъгляване на нощната тема</string>
+  <string name="LiteOptionsCalls">Анимации в разговорите</string>
+  <string name="LiteOptionsChat">Анимации в чатовете</string>
+  <string name="LiteOptionsSpoiler">Анимиран ефект на спойлерите</string>
+  <string name="LiteOptionsTitle">Опции за пестене на енергия</string>
+  <string name="LiteOptionsTopics">Странично меню в темите</string>
+  <string name="LitePowerSaver">Пестене на енергия при изтощена батерия</string>
+  <string name="LitePowerSaverInfo">Автоматично превключване към ниско потребление на енергия, когато вашите устройства са в режим за пестене на батерията.</string>
+  <string name="LitePresetInfo">Можете да превключите на режим на ниска консумация, за да увеличите живота на батерията. Препоръчва се за слаби устройства.</string>
+  <string name="LitePresetTitle">Консумация на енергия</string>
+  <string name="LiteSmoothTransitions">Активиране на плавни преходи</string>
+  <string name="LiteSmoothTransitionsInfo">Можете да деактивирате анимирани преходи между различни секции на приложенията.</string>
   <string name="LiveLocationAlertGroup">Изберете за колко време хората в тази група ще виждат точното ви местоположение.</string>
   <string name="LiveLocationAlertPrivate">Изберете за колко време %1$s ще вижда точното ви местоположение.</string>
   <string name="LiveLocationContext">Локация на живо</string>
@@ -3149,7 +3176,6 @@
   <string name="MessageScheduledBotAction">Това действие ще бъде достъпно след публикуване на съобщението.</string>
   <string name="MessageScheduledLimitReached">За съжаление не можете да планирате повече от 100 съобщения.</string>
   <string name="MessageScheduledOn">Насрочено за %1$s</string>
-  <string name="MessageScheduledReminderNotification">📅 Напомняне</string>
   <string name="MessageScheduledUntilOnline">График докато сте онлайн</string>
   <string name="MessageScheduledVote">Гласуването ще стане достъпно след публикуването на съобщението.</string>
   <string name="MessageScheduledVoteResults">Резултатите от анкетите ще станат достъпни след публикуването на съобщението.</string>
@@ -3302,9 +3328,7 @@
   <string name="NewSecretChat">Нов таен чат</string>
   <string name="NewTheme">Нова тема</string>
   <string name="NewThemePreviewLine1">Знаеш ли колко е часът?</string>
-  <string name="NewThemePreviewLine3">В София е сутрин😎</string>
   <string name="NewThemePreviewName">Мирослав Тодоров</string>
-  <string name="NewThemePreviewReply">Добро утро!</string>
   <string name="NewThemePreviewReply2">Добро утро!</string>
   <string name="NewThemeTitle">Нова тема</string>
   <string name="NewTopic">Нова тема</string>
@@ -3518,8 +3542,6 @@
   <string name="NotificationMessageQuiz2">%1$s ви изпрати викторина %2$s</string>
   <string name="NotificationMessageRecurringPay">%1$s бяха заредени %2$s</string>
   <string name="NotificationMessageRound">%1$s Ви изпрати видео съобщение</string>
-  <string name="NotificationMessageScheduled">📅 Вие: %1$s</string>
-  <string name="NotificationMessageScheduledName">📅 Вие</string>
   <string name="NotificationMessageSDPhoto">%1$s ви изпрати самоунищожаваща се снимка</string>
   <string name="NotificationMessageSDVideo">%1$s Ви изпрати самоунищожаващо се видео</string>
   <string name="NotificationMessageSticker">%1$s ви изпрати стикер</string>
@@ -4156,6 +4178,7 @@
   <string name="PopupEnabled">Включени</string>
   <string name="PopupNotification">Изскачащи известия</string>
   <string name="PostingMembers">Публикуване на членове</string>
+  <string name="PowerUsage">Консумация на енергия</string>
   <string name="PremiumMore">Още</string>
   <string name="PremiumPreviewAdvancedChatManagement">Разширено управление на чатове</string>
   <string name="PremiumPreviewAdvancedChatManagementDescription">Инструменти за задаване на папката по подразбиране, автоматично архивиране и скриване на нови чатове от потребители които не са в контактите.</string>
@@ -4289,7 +4312,6 @@
   <string name="PrivacyForwardsEverybody">Свързване към профила ви</string>
   <string name="PrivacyForwardsInfo">Когато бъдат препратени към други чатове, съобщенията, които изпращате няма да се върнат към профила ви.</string>
   <string name="PrivacyForwardsInfo2">Можете да добавяте потребители или цели групи като изключения, което ще замени горните настройки.</string>
-  <string name="PrivacyForwardsMessageLine">Реинхард трябва ни малко помощ</string>
   <string name="PrivacyForwardsNobody">Не е връзка към профила ви</string>
   <string name="PrivacyForwardsTitle">Кой може да добавя връзка към профила ми при препращане на моите съобщения?</string>
   <string name="PrivacyLastSeen">Последна активност</string>
@@ -5114,8 +5136,11 @@
   <string name="SpeakingWithVolume">%1$d%% говори</string>
   <string name="Speed">Скорост</string>
   <string name="SpeedFast">Бърза</string>
+  <string name="SpeedHint">Дълго докосване за повече стойности на скоростта.</string>
+  <string name="SpeedMedium">Средна</string>
   <string name="SpeedNormal">Нормална</string>
   <string name="SpeedSlow">Бавна</string>
+  <string name="SpeedSuperFast">Супер бърза</string>
   <string name="SpeedVeryFast">Много бърза</string>
   <string name="SpeedVerySlow">Много бавна</string>
   <string name="Spoiler">Спойлер</string>
@@ -5375,13 +5400,11 @@
   <string name="ThemePreviewDialog8">Георги Иванов</string>
   <string name="ThemePreviewDialogMessage1">Изглежда ми познато...</string>
   <string name="ThemePreviewDialogMessage2">Всичко е обновено.</string>
-  <string name="ThemePreviewDialogMessage3">🤷♂️ Стикер</string>
   <string name="ThemePreviewDialogMessage4">Някакви идеи?</string>
   <string name="ThemePreviewDialogMessage5">Ха-ха-ха!</string>
   <string name="ThemePreviewDialogMessage6">Здравей!</string>
   <string name="ThemePreviewDialogMessage7">Това не са нещата, които търся.</string>
   <string name="ThemePreviewDialogMessage8">Имаш ли мнение?</string>
-  <string name="ThemePreviewLine1">Да, аз също смятам така!</string>
   <string name="ThemePreviewLine2">Да много се радвам и ти благодаря.</string>
   <string name="ThemePreviewLine3">Затова винаги споделям всичко с теб, защото знам, че го оценяваш!</string>
   <string name="ThemePreviewLine3Reply">Иван</string>
@@ -5678,6 +5701,7 @@
   <string name="UserRestrictionsNoSendMusic">без музика</string>
   <string name="UserRestrictionsNoSendPhotos">без снимки</string>
   <string name="UserRestrictionsNoSendPolls">без анкети</string>
+  <string name="UserRestrictionsNoSendRound">без кръг</string>
   <string name="UserRestrictionsNoSendStickers">без стикери и GIF-ове</string>
   <string name="UserRestrictionsNoSendText">не може да изпраща текстови съобщения</string>
   <string name="UserRestrictionsNoSendVideos">без видеоклипове</string>
