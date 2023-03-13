@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Български превод за Телеграм от Мирослав Тодоров       
-        -->
 <resources>
   <string name="Abort">Прекратяване</string>
   <string name="AbortEmail">Прекрати настройката</string>
@@ -65,6 +63,7 @@
   <string name="AccDescrInstantCamera">Незабавна камера</string>
   <string name="AccDescrIVHeading">Надпис</string>
   <string name="AccDescrIVTitle">Заглавие</string>
+  <string name="AccDescrLiteBatteryWhenBelow">активиран, когато е под%s%%</string>
   <string name="AccDescrLocationNotify">Известяване когато е в обхват</string>
   <string name="AccDescrMentionCount_few">%1$d споменавания</string>
   <string name="AccDescrMentionCount_many">%1$d споменавания</string>
@@ -123,6 +122,8 @@
   <string name="AccDescrQuizCorrectAnswer">Правилен отговор</string>
   <string name="AccDescrQuizExplanation">Обяснение</string>
   <string name="AccDescrQuizIncorrectAnswer">Неправилен отговор</string>
+  <string name="AccDescrRateTranscriptionDown">Понижи оценката</string>
+  <string name="AccDescrRateTranscriptionUp">Повиши оценката</string>
   <string name="AccDescrReactedWith">%1$s реагира с %2$s</string>
   <string name="AccDescrReactionMentionDown">Преминаване към следващите непрочетени реакции</string>
   <string name="AccDescrReceivedDate">Получени %s</string>
@@ -162,6 +163,7 @@
   <string name="AccDescrShowAccounts">Показване на профилите</string>
   <string name="AccDescrShowKeyboard">Показване на клавиатурата</string>
   <string name="AccDescrShutter">Затвор</string>
+  <string name="AccDescrSpeedSlider">Изберете скорост</string>
   <string name="AccDescrStickers">Стикери</string>
   <string name="AccDescrStickerSet">Комплект стикери</string>
   <string name="AccDescrStopLiveLocation">Спиране на живото споделяне на местоположение</string>
@@ -297,6 +299,7 @@
   <string name="ActionRequestedPeerUser">Споделихте потребител с un2</string>
   <string name="ActionRevokedInviteLinkClickable">un1 отмени връзка за покана un2</string>
   <string name="ActionsChartTitle">Действия</string>
+  <string name="ActionSkip">Пропускане</string>
   <string name="ActionSuggestPhoto">Предложена снимка</string>
   <string name="ActionSuggestPhotoFromYouDescription">Вие предложихте на %s да използват тази снимка за своя профил.</string>
   <string name="ActionSuggestPhotoShort">Предложена профилна снимка</string>
@@ -680,6 +683,7 @@
   <string name="AttachVoiceRestrictedForever">Администраторите на тази група са ви забранили да изпращате гласови съобщения тук.</string>
   <string name="AudioAutodownload">Гласови съобщения</string>
   <string name="AudioSavedHint">Файлът е записан в музика</string>
+  <string name="AudioSpeedCustom">Аудиото ще се възпроизвежда със скорост %1$sx.</string>
   <string name="AudioSpeedFast">Звукът ще се възпроизвежда два пъти по-бързо.</string>
   <string name="AudioSpeedMedium">Аудиото ще се възпроизвежда със скорост 1,5x.</string>
   <string name="AudioSpeedNormal">Звукът ще се възпроизвежда с нормална скорост.</string>
@@ -693,7 +697,7 @@
   <string name="AudioUnknownArtist">Неизвестен изпълнител</string>
   <string name="AudioUnknownTitle">Неизвестно заглавие</string>
   <string name="August">Август</string>
-  <string name="AuthAnotherClient">Сканиране на QR код</string>
+  <string name="AuthAnotherClient">Сканирай QR код</string>
   <string name="AuthAnotherClientInfo1">Изтеглете Телеграм на компютъра си от *desktop.telegram.org*.</string>
   <string name="AuthAnotherClientInfo2">Стартирайте Телеграм на компютъра, за да получите QR кода.</string>
   <string name="AuthAnotherClientInfo3">Сканирайте QR кода, за да свържете профила си.</string>
@@ -813,6 +817,7 @@
   <string name="AutoNightSchedule">График</string>
   <string name="AutoNightScheduled">Планирано</string>
   <string name="AutoNightSystemDefault">Системно по подразбиране</string>
+  <string name="AutoNightSystemModeOff">Темата по подразбиране на системата е деактивирана</string>
   <string name="AutoNightTheme">Автоматичен нощен режим</string>
   <string name="AutoNightThemeOff">Изключен</string>
   <string name="AutoNightTo">До</string>
@@ -928,6 +933,7 @@
   <string name="BotShare">Сподели</string>
   <string name="BotsMenuTitle">Меню</string>
   <string name="BotStart">СТАРТ</string>
+  <string name="BotStartAppPermission">Искате ли да стартирате приложението **%1$s** от бот **%2$s**?\n\nЩе има достъп до вашия **IP адрес** и основна информация за устройството.</string>
   <string name="BotStatusCantRead">няма достъп до съобщенията</string>
   <string name="BotStatusRead">има достъп до съобщенията</string>
   <string name="BotStop">Спри бота</string>
@@ -1094,6 +1100,7 @@
   <string name="ChannelBroadcast">Излъчване</string>
   <string name="ChannelCantOpenBanned">За съжаление, имате забрана за участие в публични групи.</string>
   <string name="ChannelCantOpenBannedByAdmin">За съжаление нямате достъп до този чат, защото сте били блокирани от администратор.</string>
+  <string name="ChannelCantOpenBannedByAdminTitle">Няма достъп до чата</string>
   <string name="ChannelCantOpenNa">Съжаляваме, този чат вече е недостъпен.</string>
   <string name="ChannelCantOpenPrivate">Съжаляваме, този чат вече е недостъпен.</string>
   <string name="ChannelCantOpenPrivate2">За съжаление този канал е поверителен.</string>
@@ -1122,6 +1129,9 @@
   <string name="ChannelHideMembersInfo">Включете, за да скриете списъка с членове в тази група. Администраторите ще останат видими.</string>
   <string name="ChannelInviteLinkTitle">Връзка с покана</string>
   <string name="ChannelInviteViaLink">Покани чрез връзка</string>
+  <string name="ChannelInviteViaLinkRestricted">Не можете да създадете връзка</string>
+  <string name="ChannelInviteViaLinkRestricted2">Този потребител не може да бъде поканен</string>
+  <string name="ChannelInviteViaLinkRestricted3">Тези потребители не могат да бъдат поканени</string>
   <string name="ChannelJoin">ПРИСЪЕДИНЯВАНЕ</string>
   <string name="ChannelJoined">Присъединихте се към този канал</string>
   <string name="ChannelJoinRequest">КАНДИДАТСТВАНЕ ЗА ПРИСЪЕДИНЕНЕ В ГРУПАТА</string>
@@ -1246,6 +1256,7 @@
   <string name="ChatListDefault">Две линии</string>
   <string name="ChatListExpanded">Три линии</string>
   <string name="ChatListSwipeGesture">Жест при плъзгане в списъка с чатове</string>
+  <string name="ChatListSwipeGestureInfo">Задайте кое действие искате да извършвате всеки път, когато плъзнете наляво в списъка с чатове.</string>
   <string name="ChatLocation">Локация</string>
   <string name="ChatNoTheme">Няма тема</string>
   <string name="ChatPerFolderLimitSubtitle">Добавете до %d чата във всяка от вашите папки</string>
@@ -1622,13 +1633,11 @@
   <string name="DebugMenuClearMediaCache">Изчистване на кеша от изпратена медия</string>
   <string name="DebugMenuClearWebViewCache">Изчисти кеша на WebView</string>
   <string name="DebugMenuDisableCamera">Изключи вградената камера</string>
-  <string name="DebugMenuDisableForceRtmpStreamFlag">Деактивирайте принудителния флаг за RTMP поток</string>
   <string name="DebugMenuDisableLogs">Деактивиране на отчетите</string>
   <string name="DebugMenuDisablePauseMusic">Изключване на музикална пауза при запис</string>
   <string name="DebugMenuDisableSmoothKeyboard">Деактивирай плавната клавиатура</string>
   <string name="DebugMenuDisableWebViewDebug">Деактивирайте отстраняването на грешки в WebView</string>
   <string name="DebugMenuEnableCamera">Включи вградената камера</string>
-  <string name="DebugMenuEnableForceRtmpStreamFlag">Активиране на принудителен флаг за RTMP поток</string>
   <string name="DebugMenuEnableLogs">Активирай логове</string>
   <string name="DebugMenuEnablePauseMusic">Включи музикална пауза при запис</string>
   <string name="DebugMenuEnableSmoothKeyboard">Активиране на плавната клавиатура</string>
@@ -1851,6 +1860,8 @@
   <string name="Draft">Чернова</string>
   <string name="DynamicPackOrder">Поръчка на динамичен пакет</string>
   <string name="DynamicPackOrderInfo">Автоматично поставяне на наскоро използвани пакети стикери в предната част на панела.</string>
+  <string name="DynamicPackOrderOff">Динамичният ред е изключен</string>
+  <string name="DynamicPackOrderOffInfo">Пакетите със стикери вече няма да се поставят на първо място всеки път, когато използвате стикер.</string>
   <string name="Edit">Редактиране</string>
   <string name="EditAdmin">Администраторски права</string>
   <string name="EditAdminAddAdmins">Добавяне на нови администратори</string>
@@ -2719,6 +2730,18 @@
   <string name="Invitations_zero">%1$d покани</string>
   <string name="Invite">Покани</string>
   <string name="InviteByQRCode">Покана чрез QR код</string>
+  <string name="InviteChannelRestrictedUsers_few">**%d потребители** са забранили добавянето им към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteChannelRestrictedUsers_many">**%d потребители** са забранили добавянето им към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteChannelRestrictedUsers_one">**%d потребител** е забранил добавянето му към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteChannelRestrictedUsers_other">**%d потребители** са забранили добавянето им към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteChannelRestrictedUsers_two">**%d потребители** са забранили добавянето им към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteChannelRestrictedUsers2_few">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsers2_many">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsers2_one">**%d потребител** може да бъде поканен само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsers2_other">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsers2_two">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsers2One">**%s** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на този канал ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteChannelRestrictedUsersOne">**%s** са забранили добавянето им към канали. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
   <string name="Invited">поканен</string>
   <string name="InviteExpired">Тази връзка за покана е изтекла.</string>
   <string name="InviteFriends">Поканете приятели</string>
@@ -2731,6 +2754,24 @@
   <string name="InviteLinkCount_two">%1$d връзки за покана</string>
   <string name="InviteLinkCount_zero">%1$d връзки за покана</string>
   <string name="InviteLinks">Връзки за покана</string>
+  <string name="InviteLinkSent_few">Връзката за покана е изпратена до %d потребители</string>
+  <string name="InviteLinkSent_many">Връзката за покана е изпратена до %d потребители</string>
+  <string name="InviteLinkSent_one">Връзката за покана е изпратена до %d потребител</string>
+  <string name="InviteLinkSent_other">Връзката за покана е изпратена до %d потребители</string>
+  <string name="InviteLinkSent_two">Връзката за покана е изпратена до %d потребители</string>
+  <string name="InviteLinkSentSingle">Връзката за покана е изпратена до **%s**</string>
+  <string name="InviteRestrictedUsers_few">**%d потребители** са забранили добавянето им към групи. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteRestrictedUsers_many">**%d потребители** са забранили добавянето им към групи. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteRestrictedUsers_one">**%d потребител** е забранил добавянето му към групи. Вместо това можете да му изпратите връзка за покана като съобщение.</string>
+  <string name="InviteRestrictedUsers_other">**%d потребители** са забранили добавянето им към групи. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteRestrictedUsers_two">**%d потребители** са забранили добавянето им към групи. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
+  <string name="InviteRestrictedUsers2_few">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsers2_many">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsers2_one">**%d потребител** може да бъде поканен само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsers2_other">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsers2_two">**%d потребители** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsers2One">**%s** могат да бъдат поканени само чрез връзка. Въпреки това администраторът на тази група ви е забранил да споделяте връзки за покана.</string>
+  <string name="InviteRestrictedUsersOne">**%s** са забранили добавянето им към групи. Вместо това можете да им изпратите връзка за покана като съобщение.</string>
   <string name="InviteRevokedHint">Връзката за покана е отменена.</string>
   <string name="InviteText2">Хей, използвам Телеграм за чат. Присъедини се! Свали го от тук: %1$s</string>
   <string name="InviteTextNum_few">Хей, използвам Телеграм за чат - както и %1$d от нашите контакти. Присъедини се към нас! Свали го от тук: %2$s</string>
@@ -2946,6 +2987,18 @@
   <string name="LinksCreatedByThisAdmin">Връзки за покана, създадени от този администратор</string>
   <string name="LinksTitle">Споделени връзки</string>
   <string name="Listening">слушане</string>
+  <string name="LiteBatteryAlwaysDisabled">Винаги деактивирано</string>
+  <string name="LiteBatteryAlwaysEnabled">Винаги активирано</string>
+  <string name="LiteBatteryDisabled">Изкл</string>
+  <string name="LiteBatteryEnabled">Вкл</string>
+  <string name="LiteBatteryInfoBelow">Автоматично намаляване на консумацията на енергия и анимациите, когато батерията ви е изтощена %s.</string>
+  <string name="LiteBatteryInfoDisabled">Никога не намалявай потреблението на енергия и запази всички анимации дори когато батерията е изтощена.</string>
+  <string name="LiteBatteryInfoEnabled">Винаги намалявай консумацията на енергия, независимо от нивото на батерията.</string>
+  <string name="LiteBatteryRestricted">Моля, изключете ежима на ниска консумаия, за да промените тези настройки.</string>
+  <string name="LiteBatteryTitle">Режим на ниска консумация</string>
+  <string name="LiteBatteryWhenBelow">Когато под %s</string>
+  <string name="LiteMode">Анимации</string>
+  <string name="LiteModeInfo">Намалете ефектите на движение, за да спестите енергия.</string>
   <string name="LiteOptionsAutoplayChat">Автоматично пускане в чата</string>
   <string name="LiteOptionsAutoplayGifs">Автоматично пускане на GIF файлове</string>
   <string name="LiteOptionsAutoplayKeyboard">Автоматично пускане на клавиатурата</string>
@@ -2955,13 +3008,14 @@
   <string name="LiteOptionsBlur">Замъгляване на нощната тема</string>
   <string name="LiteOptionsCalls">Анимации в разговорите</string>
   <string name="LiteOptionsChat">Анимации в чатовете</string>
+  <string name="LiteOptionsEmoji">Анимирани емотикони</string>
+  <string name="LiteOptionsScale">Увеличаване на анимациите</string>
   <string name="LiteOptionsSpoiler">Анимиран ефект на спойлерите</string>
+  <string name="LiteOptionsStickers">Анимирани стикери</string>
   <string name="LiteOptionsTitle">Опции за пестене на енергия</string>
   <string name="LiteOptionsTopics">Странично меню в темите</string>
   <string name="LitePowerSaver">Пестене на енергия при изтощена батерия</string>
   <string name="LitePowerSaverInfo">Автоматично превключване към ниско потребление на енергия, когато вашите устройства са в режим за пестене на батерията.</string>
-  <string name="LitePresetInfo">Можете да превключите на режим на ниска консумация, за да увеличите живота на батерията. Препоръчва се за слаби устройства.</string>
-  <string name="LitePresetTitle">Консумация на енергия</string>
   <string name="LiteSmoothTransitions">Активиране на плавни преходи</string>
   <string name="LiteSmoothTransitionsInfo">Можете да деактивирате анимирани преходи между различни секции на приложенията.</string>
   <string name="LiveLocationAlertGroup">Изберете за колко време хората в тази група ще виждат точното ви местоположение.</string>
@@ -3017,6 +3071,8 @@
   <string name="LowDiskSpaceNeverRemove">Никога не премахвай</string>
   <string name="LowDiskSpaceTitle">Внимание</string>
   <string name="LowDiskSpaceTitle2">Премахване на медия след</string>
+  <string name="LowPowerEnabledSubtitle">%s оставащо ниво на батерията</string>
+  <string name="LowPowerEnabledTitle">Режимът на ниска консумация е активиран</string>
   <string name="MainChannelProfilePhotoSetHint">Това е основната снимка на канала в момента.</string>
   <string name="MainChannelProfileVideoSetHint">Това е основното видео на канала в момента.</string>
   <string name="MainGroupProfilePhotoSetHint">Това е основната снимка на групата в момента.</string>
@@ -4887,6 +4943,7 @@
   <string name="SendingSms">Изпращане на SMS...</string>
   <string name="SendingVideo">Изпраща се видео...</string>
   <string name="SendingVideoStatus">изпраща видео...</string>
+  <string name="SendInviteLink">Изпращане на връзка за покана</string>
   <string name="SendItems">Изпрати %1$s</string>
   <string name="SendLiveLocation">Споделяне на локация в реално време за...</string>
   <string name="SendLiveLocationFor1h">за 1 час</string>
@@ -5154,6 +5211,7 @@
   <string name="SponsoredMessageInfoDescription3">Телеграм предлага безплатни и неограничени услуги за стотици милиони потребители, което включва значителни разходи за сървър и трафик. За да остане независим и да остане верен на своите ценности, Телеграм разработи платен инструмент за популяризиране на съобщения, като се има предвид поверителността на потребителите. Приветстваме отговорни рекламодатели на адрес:</string>
   <string name="SponsoredMessageInfoDescription4">Рекламите вече не трябва да бъдат синоними на злоупотреба с поверителността на потребителите. Нека предефинираме как една технологична компания трябва да работи - заедно.</string>
   <string name="SponsoredMessageRecommended">препоръчано</string>
+  <string name="SponsoredMessageSponsor">Информация за рекламодателя</string>
   <string name="Start">Начало</string>
   <string name="StartDayAt">\'Започва на\' d MMM \'в\' HH:mm</string>
   <string name="StartDayYearAt">\'Започва на\' d MMM yyyy \'в\' HH:mm</string>
@@ -5198,11 +5256,13 @@
   <string name="StickerSets_zero">%1$s комплекта стикери</string>
   <string name="StickersHide">Архивиране</string>
   <string name="StickersName">Стикери и маски</string>
+  <string name="StickersNameInfo">Управлявайте своите пакети стикери, емотикони и реакции.</string>
   <string name="StickersRemove">Премахване</string>
   <string name="StickersRemoved">Стикерите са премахнати</string>
   <string name="StickersRemovedInfo">%1$s вече не е във вашите стикери.</string>
   <string name="StickersReorder">Пренареждане</string>
   <string name="StickersReorderHint">Преместете стикери, за да пренаредите.</string>
+  <string name="StickersSettings">Настройки</string>
   <string name="StickersShare">Споделяне</string>
   <string name="Stop">Спиране</string>
   <string name="StopAllLocationSharings">СПРИ ВСИЧКИ</string>
@@ -5225,6 +5285,8 @@
   <string name="StorageCleared">Хранилището е изчистено</string>
   <string name="StorageCleared2">Всички медии могат да бъдат изтеглени отново от облака на Телеграм, ако имате нужда от тях отново.</string>
   <string name="StoragePath">Път към хранилището</string>
+  <string name="StoragePathFree">%1$s свободно</string>
+  <string name="StoragePathFreeValue">%1$s свободно, %2$s</string>
   <string name="StorageUsage">Използвано хранилище</string>
   <string name="StorageUsageCalculating">Изчисляване на размера на кеша...</string>
   <string name="StorageUsageInfo">Всички медии ще останат в облака на Телеграм и могат да бъдат изтеглени отново, ако имате нужда от тях отново.</string>
@@ -5674,6 +5736,7 @@
   <string name="UsernamesChannelHelp">Плъзнете и пуснете връзки, за да промените реда, в който ще се показват на страницата с информация за канала.</string>
   <string name="UsernamesProfileHeader">Подредба на потребителските имена</string>
   <string name="UsernamesProfileHelp">Плъзнете и пуснете връзки, за да промените реда, в който ще се показват на страницата ви с информация.</string>
+  <string name="UserRead">чете %s</string>
   <string name="UserRemovedBy">Премахнат от %1$s</string>
   <string name="UserRemovedFromChatHint">**%1$s** премахнат от **%2$s**</string>
   <string name="UserRestricted">Съжаляваме, не ви е позволено да направите това.</string>
@@ -5768,6 +5831,12 @@
   <string name="Videos_zero">%1$d видеоклипа</string>
   <string name="VideoSavedHint">Видеоклипът е запазен в галерията</string>
   <string name="VideoSavedToDownloadsHint">Видеото е записано в изтеглянията</string>
+  <string name="VideoSpeedCustom">Персонализирано %s</string>
+  <string name="VideoSpeedFast">Бързо</string>
+  <string name="VideoSpeedNormal">Нормално</string>
+  <string name="VideoSpeedSlow">Бавно</string>
+  <string name="VideoSpeedVeryFast">Много бързо</string>
+  <string name="VideoSpeedVerySlow">Много бавно</string>
   <string name="VideosSavedHint_few">%1$d видеоклипове, записани в галерията</string>
   <string name="VideosSavedHint_many">%1$d видеоклипа, записани в галерията</string>
   <string name="VideosSavedHint_one">Видеото е записано в галерията</string>
