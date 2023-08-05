@@ -593,11 +593,11 @@
   <string name="ArchiveSearchFilter">Архив</string>
   <string name="ArchiveSettings">Настройки за архивиране</string>
   <string name="ArchiveSettingUnmutedChats">Чатове от папки</string>
-  <string name="ArchiveSettingUnmutedChatsCheck">Винаги поддържай архивиран</string>
+  <string name="ArchiveSettingUnmutedChatsCheck">Винаги поддържай архивирани</string>
   <string name="ArchiveSettingUnmutedChatsInfo">Съхранявайте архивирани чатове от папки в архива, дори ако звукът им е включен и получават ново съобщение.</string>
   <string name="ArchiveSettingUnmutedFolders">Незаглушени чатове</string>
-  <string name="ArchiveSettingUnmutedFoldersCheck">Винаги поддържай архивиран</string>
-  <string name="ArchiveSettingUnmutedFoldersInfo">Съхранявайте архивираните чатове в архива, дори ако звукът им е включен, и получават ново съобщение.</string>
+  <string name="ArchiveSettingUnmutedFoldersCheck">Винаги поддържай архивирани</string>
+  <string name="ArchiveSettingUnmutedFoldersInfo">Съхраняване на архивираните чатове в архива, дори ако звукът им е включен и ако получат ново съобщение.</string>
   <string name="ArchiveStickersAlertMessage">Сигурни ли сте, че искате да архивирате избраните комплекти стикери?</string>
   <string name="ArchiveStickerSetsAlertTitle">Архивирай %1$s</string>
   <string name="ArchiveStories_few">Архивирай историите</string>
@@ -3918,7 +3918,7 @@
   <string name="NotificationsEnableCustom">Включване на потребителски известия</string>
   <string name="NotificationsExceptions">Изключения</string>
   <string name="NotificationsExceptionsAlert">Моля, имайте предвид, че **%1$s** са изброени като изключения и няма да бъдат засегнати от тази промяна.</string>
-  <string name="NotificationsExceptionsSingleAlert">Моля, имайте предвид, че **%1$s** е посочена като изключение и няма да бъде засегната от тази промяна.</string>
+  <string name="NotificationsExceptionsSingleAlert">Моля, имайте предвид, че **%1$s** е посочен като изключение и няма да бъде засегнат от тази промяна.</string>
   <string name="NotificationsForChannels">Известия за канали</string>
   <string name="NotificationsForChats">Известия за чатове</string>
   <string name="NotificationsForGroups">Известия за групи</string>
@@ -5718,7 +5718,7 @@
   <string name="StoryArchived_zero">%d истории са скрити от вашия профил</string>
   <string name="StoryArchivedFromProfile">Тази история е скрита от вашия профил.</string>
   <string name="StoryAutoExceptions">Автоматични изключения</string>
-  <string name="StoryAutoExceptionsInfo">Автоматично активирайте известията за истории от 5 потребители, с които контактувате най-често.</string>
+  <string name="StoryAutoExceptionsInfo">Автоматично активиране на известията за истории от 5 потребители, с които контактувате най-често.</string>
   <string name="StoryCameraDualHint">Включете двете камери едновременно</string>
   <string name="StoryCameraHint">Натиснете %s за да публикувате история за вашите контакти.</string>
   <string name="StoryCameraHint2">Правете снимки или видеоклипове, които да споделяте с всички ваши контакти или близки приятели наведнъж.</string>
