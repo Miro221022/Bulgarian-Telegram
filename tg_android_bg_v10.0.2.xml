@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2017 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2017
+          Android Localizer (aiLocalizer)
+        -->
 <resources>
   <string name="Abort">Прекратяване</string>
   <string name="AbortEmail">Прекрати настройката</string>
@@ -64,6 +84,7 @@
   <string name="AccDescrInstantCamera">Незабавна камера</string>
   <string name="AccDescrIVHeading">Надпис</string>
   <string name="AccDescrIVTitle">Заглавие</string>
+  <string name="AccDescrLike">Харесване</string>
   <string name="AccDescrLiteBatteryWhenBelow">активиран, когато е под%s%%</string>
   <string name="AccDescrLocationNotify">Известяване когато е в обхват</string>
   <string name="AccDescrMentionCount_few">%1$d споменавания</string>
@@ -394,6 +415,7 @@
   <string name="AddImage">Добавете изображение</string>
   <string name="AdditionalReactions">Допълнителни реакции</string>
   <string name="AdditionalReactionsDescription">Отключете по-широк спектър от реакции на съобщения, като се абонирате за Телеграм Премиум.</string>
+  <string name="AddLocation">ДОБАВИ МЕСТОПОЛОЖЕНИЕ</string>
   <string name="AddManyEmojiCount_few">Добавете %1$d емотикони</string>
   <string name="AddManyEmojiCount_many">Добавете %1$d емотикони</string>
   <string name="AddManyEmojiCount_one">Добавете емотикона</string>
@@ -488,6 +510,7 @@
   <string name="AllReactions">Всички реакции</string>
   <string name="AllSessionsTerminated">Всички останали сесии са прекратени.</string>
   <string name="AllVideos">Всички видеоклипове</string>
+  <string name="AllViewers">Всички зрители</string>
   <string name="AllWebSessionsTerminated">Всички уебсайтове са прекъснати.</string>
   <string name="AlmostDone">Почти е готово</string>
   <string name="ALongTimeAgo">последно видян доста отдавна</string>
@@ -872,6 +895,7 @@
   <string name="AutoplayVideo">Видеоклипове</string>
   <string name="AutoplayVideoInfo">Натиснете бутоните за силата на звука, за да включите звука.</string>
   <string name="Available">На разположение</string>
+  <string name="AvailableIn">Достъпен след %s</string>
   <string name="AvailableReactions">Налични реакции</string>
   <string name="AwaitingEncryption">Изчаква се %s да се появи на линия...</string>
   <string name="AwayTo">%1$s разтояние</string>
@@ -1113,6 +1137,8 @@
   <string name="CantAddBotAsAdmin">За съжаление ботовете могат да се добавят само към канали само като администратори.</string>
   <string name="CantPlayVideo">Телеграм не може да възпроизведе видеото. Да се опита ли с външен плеър?</string>
   <string name="Caption">Надпис</string>
+  <string name="CaptionPremiumSubtitle_other">Увеличете този лимит **%1$d** пъти до **%2$s** символа, като се абонирате за __Телеграм Премиум.__</string>
+  <string name="CaptionPremiumTitle">Максималната дължина достигната</string>
   <string name="CaptionsLimitSubtitle">Използвайте по-дълги описания за вашите снимки и видеоклипове</string>
   <string name="CaptionsLimitTitle">Надписи</string>
   <string name="CardNumberCopied">Номерът на картата е копиран в буферната памет</string>
@@ -2090,6 +2116,7 @@
   <string name="EnableReactionsChannelInfo">Позволете на абонатите да реагират на публикациите в канала.</string>
   <string name="EnableReactionsGroupInfo">Позволете на участниците да реагират на съобщенията в групата.</string>
   <string name="EnableSomeReactionsInfo">Членовете на групата могат да използват само някои разрешени емотикони като реакции на съобщения.</string>
+  <string name="EnableStealthMode">Активирай невидим режим</string>
   <string name="EnableStreaming">Излъчване на звук и видео</string>
   <string name="EncryptedChatStartedIncoming">Присъединихте се към тайния чат.</string>
   <string name="EncryptedChatStartedOutgoing">%s се присъедини към вашия таен чат.</string>
@@ -2291,6 +2318,7 @@
   <string name="ExpiredStoryMention">Историята, в която сте споменати, вече не е достъпна</string>
   <string name="ExpiredStoryMentioned">Историята, в която сте споменати %s вече не е на разположение</string>
   <string name="ExpiredViewsStub">Списъкът на зрителите не е наличен **24 часа** след изтичане на историята.</string>
+  <string name="ExpiredViewsStubPremiumDescription">За да отключите списъци със зрители за изтекли и запазени истории, абонирайте се за **Телеграм Премиум.**</string>
   <string name="ExportTheme">Изпращане</string>
   <string name="Exposure">Експонация</string>
   <string name="ExternalFolderInfo">Прегледайте външната си памет</string>
@@ -2853,10 +2881,15 @@
   <string name="HideCaption">Скриване на надписа</string>
   <string name="HideNewChatsAlertText">Получавате много нови чатове от потребители, които не са в списъка Ви с контакти. Искате ли такива чатове ** да бъдат автоматично заглушени** и ** архивирани**?</string>
   <string name="HideNewChatsAlertTitle">Скриване на новите чатове?</string>
+  <string name="HideNextViews">Скриване на следващите преглеждания</string>
+  <string name="HideNextViewsDescription">Скриване на преглежданията ми през следващите 25 минути.</string>
   <string name="HideOnTop">Скрий</string>
   <string name="HidePinnedMessages">СКРИВАНЕ НА ЗАКАЧЕНИТЕ СЪОБЩЕНИЯ</string>
+  <string name="HideRecentViews">Скриване на последните преглеждания</string>
+  <string name="HideRecentViewsDescription">Скриване на преглежданията ми през последните 5 минути.</string>
   <string name="HideSenderNames">Скриване на имената на подателите</string>
   <string name="HideSendersName">Скриване на името на подателя</string>
+  <string name="HideTranslation">Скриване на превода</string>
   <string name="Highlights">Акцентиране</string>
   <string name="HintRead">Прочети</string>
   <string name="HintSent">Доставено</string>
@@ -3148,6 +3181,7 @@
   <string name="LastSeenTitle">Кой може да вижда вашата активност?</string>
   <string name="Lately">последно видян скоро</string>
   <string name="Later">ПО-КЪСНО</string>
+  <string name="LearnMore">Научете повече</string>
   <string name="LeaveAComment">Напишете коментар</string>
   <string name="LeaveChannel">Напускане на канала</string>
   <string name="LeaveChannelMenu">Напускане</string>
@@ -3163,6 +3197,11 @@
   <string name="LedDisabled">Деактивирано</string>
   <string name="LightMode">Олекотен режим (бета)</string>
   <string name="LightModeInfoRow">Този режим изключва всички визуални ефекти в приложението. Препоръчва се само за онези устройства, които имат слаб процесор и малко памет.</string>
+  <string name="Likes_few">%d харесвания</string>
+  <string name="Likes_many">%d харесвания</string>
+  <string name="Likes_one">%d харесване</string>
+  <string name="Likes_other">%d харесвания</string>
+  <string name="Likes_two">%d харесвания</string>
   <string name="LimitByPeriod">Ограничение по период</string>
   <string name="LimitFree">Безплатно</string>
   <string name="LimitNumberOfUses">Ограничен брой ползвания</string>
@@ -3202,6 +3241,12 @@
   <string name="LimitReachedSharedFolders">Можете да имате само %1$d папки за споделяне.\nНадстройте до **Телеграм Премиум**, за да увеличите този лимит **%2$d**.</string>
   <string name="LimitReachedSharedFoldersLocked">Можете да имате само %1$d папки за споделяне. Работим, за да ви позволим да увеличите този лимит в бъдеще.</string>
   <string name="LimitReachedSharedFoldersPremium">Можете да имате само %1$d папки за споделяне. Опитайте да изтриете папка за споделяне.</string>
+  <string name="LimitReachedStoriesCount">Можете да публикувате **%1$d** истории за **24** часа.\nАбонирайте се за **Телеграм Премиум**, за да увеличите този лимит **%2$d**.</string>
+  <string name="LimitReachedStoriesCountPremium">За съжаление не можете да публикувате повече от **%1$d** истории.</string>
+  <string name="LimitReachedStoriesMonthly">Можете да публикувате **%1$d** истории за един месец.\nАбонирайте се за **Телеграм Премиум**, за да увеличите този лимит **%2$d**.</string>
+  <string name="LimitReachedStoriesMonthlyPremium">За съжаление не можете да публикувате повече от **%1$d** истории за един месец.</string>
+  <string name="LimitReachedStoriesWeekly">Можете да публикувате **%1$d** истории за една седмица.\nАбонирайте се за **Телеграм Премиум**, за да увеличите този лимит **%2$d**.</string>
+  <string name="LimitReachedStoriesWeeklyPremium">За съжаление не можете да публикувате повече от **%1$d** истории за една седмица.</string>
   <string name="LinkActionCopy">Копирай</string>
   <string name="LinkActionShare">Споделяне</string>
   <string name="LinkAvailable">%1$s е на разположение.</string>
@@ -3305,6 +3350,7 @@
   <string name="LocationNotifiationButtonGroup">Известяване, когато някой е на %1$s</string>
   <string name="LocationNotifiationButtonUser">Известяване когато %1$s е в рамките на %2$s</string>
   <string name="LocationNotifiationCloser">Вие вече сте по-близо от %1$s</string>
+  <string name="LocationOnMap">Местоположение на картата</string>
   <string name="LocationUpdated">актуализирано</string>
   <string name="LocationUpdatedFormatted">обновено %1$s</string>
   <string name="LocationUpdatedJustNow">актуализирано току-що</string>
@@ -3459,6 +3505,7 @@
   <string name="MessageContainsEmojiPacks_other">Това съобщение съдържа емотикони от **%d пакета**.</string>
   <string name="MessageContainsEmojiPacks_two">Това съобщение съдържа емотикони от **%d пакета**.</string>
   <string name="MessageContainsEmojiPackSingle">Това съобщение съдържа **%s**</string>
+  <string name="MessageContainsReactionPack">Тази реакция е емотикона от пакета %s.</string>
   <string name="MessageContainsReactionsPack">Тези реакции съдържат емотикони от %s пакета.</string>
   <string name="MessageContainsReactionsPacks_few">Тези реакции съдържат емотикони от **%d пакета**.</string>
   <string name="MessageContainsReactionsPacks_many">Тези реакции съдържат емотикони от **%d пакета**.</string>
@@ -3696,6 +3743,7 @@
   <string name="NoChatsHelp">Започнете разговор като натиснете\nбутона ново съобщение долу вдясно или\nчукнете бутон меню за повече опции.</string>
   <string name="NoComments">Тук все още няма коментари...</string>
   <string name="NoContacts">Все още няма контакти</string>
+  <string name="NoContactsViewed">Никой от вашите контакти не е видял тази история.</string>
   <string name="NoContactsYet">Все още нямате контакти в Телеграм</string>
   <string name="NoContactsYetLine1">Поканете приятели да опитат Телеграм</string>
   <string name="NoContactsYetLine2">Намерете хора наблизо, за да разговаряте</string>
@@ -3945,6 +3993,12 @@
   <string name="NotificationsOffUntil">Изключени до %1$s</string>
   <string name="NotificationsOn">Включени</string>
   <string name="NotificationsOther">Друго</string>
+  <string name="NotificationsPermissionAlert1">Получавайте известия за нови съобщения</string>
+  <string name="NotificationsPermissionAlert2">Научете, когато ви споменават в групи</string>
+  <string name="NotificationsPermissionAlert3">Заглушаване на конкретни чатове и типове чатове</string>
+  <string name="NotificationsPermissionAlertSubtitle">Моля, позволете на Телеграм да ви изпраща известия, за да поддържате връзка с приятелите и семейството си.</string>
+  <string name="NotificationsPermissionAlertTitle">Включи известията</string>
+  <string name="NotificationsPermissionContinue">Продължи</string>
   <string name="NotificationsPriorityHigh">Висока</string>
   <string name="NotificationsPriorityLow">Ниска</string>
   <string name="NotificationsPriorityMedium">Средна</string>
@@ -3991,6 +4045,7 @@
   <string name="NoTopicsDescriptionUser">По-старите съобщения от тази група бяха преместени в темата **’%s’**.</string>
   <string name="NoUsernameFound">Няма профил в Телеграм с това потребителско име.</string>
   <string name="November">Ноември</string>
+  <string name="NoViews">Няма преглеждания</string>
   <string name="NoViewsStub">Никой не е прегледал тази история досега.</string>
   <string name="NoVotes">Няма гласували</string>
   <string name="NoVotesQuiz">Никой не отговори</string>
@@ -4593,6 +4648,8 @@
   <string name="PremiumPreviewReactionsDescription">Допълнителни анимирани реакции на съобщения, достъпни само за Премиум абонати.</string>
   <string name="PremiumPreviewStickers">Премиум стикери</string>
   <string name="PremiumPreviewStickersDescription">Ексклузивни увеличени стикери с допълнителни ефекти, които се актуализират ежемесечно.</string>
+  <string name="PremiumPreviewStories">Надградени истории</string>
+  <string name="PremiumPreviewStoriesDescription">Приоритетен ред, невидим режим, постоянна хронология на преглежданията и др.</string>
   <string name="PremiumPreviewTranslations">Превод в реално време</string>
   <string name="PremiumPreviewTranslationsDescription">Превод в реално време на канали и чатове на други езици.</string>
   <string name="PremiumPreviewUploads">4ГБ размер за качване</string>
@@ -4604,6 +4661,20 @@
   <string name="PremiumStickers">Премиум стикери</string>
   <string name="PremiumStickersShort">Премиум</string>
   <string name="PremiumStickerTooltip">Този пакет съдържа първокласни стикери като този.</string>
+  <string name="PremiumStoriesCaption">По-дълги надписи</string>
+  <string name="PremiumStoriesCaptionDescription">Добавете десет пъти по-дълги надписи към вашите истории - до 2048 символа.</string>
+  <string name="PremiumStoriesExpiration">Валидност</string>
+  <string name="PremiumStoriesExpirationDescription">Задайте персонализирани валидност като 6 или 48 часа за вашите истории.</string>
+  <string name="PremiumStoriesFormatting">Връзки и форматиране</string>
+  <string name="PremiumStoriesFormattingDescription">Добавете връзки и форматиране в надписите на вашите истории.</string>
+  <string name="PremiumStoriesPriority">Приоритетен ред</string>
+  <string name="PremiumStoriesPriorityDescription">Получете повече преглеждания, тъй като вашите истории винаги се показват първи.</string>
+  <string name="PremiumStoriesSaveToGallery">Запазване на историите в галерията</string>
+  <string name="PremiumStoriesSaveToGalleryDescription">Запазете незащитените истории на други хора във вашата галерия.</string>
+  <string name="PremiumStoriesStealth">Невидим режим</string>
+  <string name="PremiumStoriesStealthDescription">Скрийте факта, че сте гледали историите на други хора.</string>
+  <string name="PremiumStoriesViews">Постоянна история на прегледите</string>
+  <string name="PremiumStoriesViewsDescription">Проверете кой отваря вашите истории - дори след изтичането им.</string>
   <string name="PremiumTierAnnual">Годишен</string>
   <string name="PremiumTierMonthly">Месечен</string>
   <string name="PremiumTierSemiannual">Половин година</string>
@@ -4879,6 +4950,7 @@
   <string name="Reacted_two">%1$s реагираха</string>
   <string name="Reacted_zero">%1$s реагираха</string>
   <string name="ReactionInDialog">Реагира с %s на вашето съобщение</string>
+  <string name="ReactionLongTapHint">Натиснете продължително за повече реакции</string>
   <string name="Reactions">Реакции</string>
   <string name="ReactionsAll">Всички</string>
   <string name="ReactionsCount_few">%1$d реакции</string>
@@ -4914,6 +4986,7 @@
   <string name="RecordingRound">записва видео съобщение...</string>
   <string name="RecordingVideoStatus">записва видео...</string>
   <string name="RecoveryEmail">Имейл за възстановяване</string>
+  <string name="RecoveryEmailSubtitle">Можете да зададете имейл за възстановяване, за да можете да нулирате паролата си и да възстановите достъпа до профила си в Телеграм.</string>
   <string name="RecoveryEmailTitle">Имейл за възстановяване</string>
   <string name="Red">Червено</string>
   <string name="ReEnterPassword">Въведете отново парола</string>
@@ -5165,6 +5238,7 @@
   <string name="SaveLinkHeader">ЗАПАЗИ</string>
   <string name="SaveOnAnnualPremiumMessage">Регистрирайте се за годишния план за абонамент за Телеграм Премиум сега, за да получите отстъпка.</string>
   <string name="SaveOnAnnualPremiumTitle">Спестете от абонамента си до **%1$d%%**</string>
+  <string name="SaveStoryToGalleryPremiumHint">**Абонирайте се за Премиум**, за да запазите незащитените истории на други хора във вашата галерия.</string>
   <string name="SaveTheme">ЗАПАЗВАНЕ НА ТЕМАТА</string>
   <string name="SaveToDownloads">Запазване в изтеглянията</string>
   <string name="SaveToGallery">Запазване в галерията</string>
@@ -5230,6 +5304,7 @@
   <string name="SearchImages">НАМЕРИ СНИМКИ</string>
   <string name="SearchImagesInfo">УЕБ ТЪРСЕНЕ</string>
   <string name="SearchImagesTitle">Търсене в мрежата</string>
+  <string name="SearchImagesType">Въведете за търсене.</string>
   <string name="SearchInSettings">Настройки за търсене и ЧЗВ</string>
   <string name="SearchMemberRequests">Търсене на заявки за членство</string>
   <string name="SearchMembers">Търсене на членове</string>
@@ -5375,6 +5450,9 @@
   <string name="SentSmsCode">Изпратихме SMS с код за активиране на вашия телефон **%1$s**.</string>
   <string name="SentSmsCodeTitle">Въведете код</string>
   <string name="September">Септември</string>
+  <string name="ServerErrorViewers">Информация за зрителите не е записана.</string>
+  <string name="ServerErrorViewersFull">Информация за останалите зрители не е записана.</string>
+  <string name="ServerErrorViewersTitle">Опа</string>
   <string name="ServiceNotifications">Сервизни известия</string>
   <string name="SessionsInfo">Контрол на сесиите ви в други устройства.</string>
   <string name="SessionsListInfo">Официалното приложение Телеграм е достъпно за Android, iPhone, iPad, Windows, macOS и Linux.</string>
@@ -5567,6 +5645,8 @@
   <string name="SoftUserLimitAlert">Ще можете да добавяте още потребители, след като завършите създаването на групата и я конвертирате в супергрупа.</string>
   <string name="SomeReactions">Някои реакции</string>
   <string name="SortBy">Сортиране по</string>
+  <string name="SortByReactions">Първо реакциите</string>
+  <string name="SortByTime">Първо най-новите</string>
   <string name="SortedByLastSeen">Сортирани по време на последно посещение</string>
   <string name="SortedByName">Сортирани по име</string>
   <string name="SortFirstName">Име</string>
@@ -5629,6 +5709,17 @@
   <string name="Statistics">Статистика</string>
   <string name="StatisticSearchUserHistory">Преглед на съобщенията</string>
   <string name="StatisticViews">Преглеждания</string>
+  <string name="StealthMode">Невидим режим</string>
+  <string name="StealthModeActiveHint">Невидим режим активен - %s</string>
+  <string name="StealthModeActiveHintShort">Невидим режим %s</string>
+  <string name="StealthModeConfirmMessage">Ако изпратите отговор или реакция, създателят на историята също ще ви види в списъка със зрители.</string>
+  <string name="StealthModeConfirmTitle">Сега сте в невидим режим</string>
+  <string name="StealthModeCooldownHint">Моля, изчакайте, докато **Невидим режим** е готов за използване отново.</string>
+  <string name="StealthModeHint">Включете Невидим режим, за да скриете факта, че сте гледали историите на хората от тях.</string>
+  <string name="StealthModeIsActive">Невидим режим е включен</string>
+  <string name="StealthModeOn">Невидим режим е включен</string>
+  <string name="StealthModeOnHint">Създателите на истории, които сте гледали през последните 5 минути или ще видите през следващите 25 минути, няма да ви видят в списъците на зрителите.</string>
+  <string name="StealthModePremiumHint">Абонирайте се за Телеграм Премиум, за да скриете факта, че сте гледали историите на хората от тях.</string>
   <string name="Stickers_few">%1$d стикера</string>
   <string name="Stickers_many">%1$d стикера</string>
   <string name="Stickers_one">%1$d стикер</string>
@@ -5693,7 +5784,7 @@
   <string name="Stories_zero">%d Истории</string>
   <string name="StoriesMovedToContacts">Истории на **%s** бяха преместени в **Архив**.</string>
   <string name="StoriesMovedToDialogs">Истории на **%s** бяха преместени в **Чатове**.</string>
-  <string name="StoriesPremiumHint">Публикуването на истории в момента е достъпно само за абонати на **Телеграм Премиум**.</string>
+  <string name="StoriesPremiumHint2">Публикуването на истории в момента е достъпно само за абонати на **Телеграм Премиум**.</string>
   <string name="StoriesSelected_few">%d Избрани</string>
   <string name="StoriesSelected_many">%d Избрани</string>
   <string name="StoriesSelected_one">%d Избрано</string>
@@ -5719,6 +5810,13 @@
   <string name="StoryArchivedFromProfile">Тази история е скрита от вашия профил.</string>
   <string name="StoryAutoExceptions">Автоматични изключения</string>
   <string name="StoryAutoExceptionsInfo">Автоматично активиране на известията за истории от 5 потребители, с които контактувате най-често.</string>
+  <string name="StoryBlockList_few">**%d потребители** няма да видят вашите истории.</string>
+  <string name="StoryBlockList_many">**%d потребители** няма да видят вашите истории.</string>
+  <string name="StoryBlockList_one">**%d потребител** няма да види вашите истории.</string>
+  <string name="StoryBlockList_other">**%d потребители** няма да видят вашите истории.</string>
+  <string name="StoryBlockList_two">**%d потребители** няма да видят вашите истории.</string>
+  <string name="StoryBlockList_zero">**%d потребители** няма да видят вашите истории.</string>
+  <string name="StoryBlockListEmpty">**Изберете хора**, които няма да видят вашите истории.</string>
   <string name="StoryCameraDualHint">Включете двете камери едновременно</string>
   <string name="StoryCameraHint">Натиснете %s за да публикувате история за вашите контакти.</string>
   <string name="StoryCameraHint2">Правете снимки или видеоклипове, които да споделяте с всички ваши контакти или близки приятели наведнъж.</string>
@@ -5748,6 +5846,7 @@
   <string name="StoryContainsStickersEmoji_zero">Тази история съдържа емотикони и стикери от **%d пакета**.</string>
   <string name="StoryContainsStickersEmojiFrom">Тази история съдържа емотикони и стикери от %s.</string>
   <string name="StoryContainsStickersFrom">Тази история съдържа стикери от %s.</string>
+  <string name="StoryDeleteContact">Изтриване на контакт</string>
   <string name="StoryDeleteDraft">Изтриване на чернова</string>
   <string name="StoryDisabledScreenshots">Изтеглянето и правенето на екранни снимки ще бъдат деактивирани за тази история.</string>
   <string name="StoryDisabledScreenshotsShare">Изтеглянето, споделянето и правенето на екранни снимки ще бъдат деактивирани за тази история.</string>
@@ -5766,6 +5865,8 @@
   <string name="StoryEnabledScreenshotsShare">Изтеглянето, споделянето и правенето на екранни снимки ще бъдат активирани за тази история.</string>
   <string name="StoryEnableKeep">Потребителите, на които е разрешено да видят историята ви, ще я видят на страницата ви, след като изтече.</string>
   <string name="StoryExpiredSubtitle">Тази история е изтекла</string>
+  <string name="StoryHideFrom">Скрий моите истории от %s</string>
+  <string name="StoryHidFromToast">%s няма да може да види вашите истории.</string>
   <string name="StoryHintPinchToZoom">Щипнете, за да увеличите</string>
   <string name="StoryHintSwipeToZoom">Плъзнете за увеличение</string>
   <string name="StoryKeep">Запази на страницата ми</string>
@@ -5811,21 +5912,26 @@
   <string name="StoryPeriodPremium_zero">Абонирайте се за **Телеграм Премиум**, за да могат вашите истории да изчезнат след %d часа.</string>
   <string name="StoryPhoto">Снимка</string>
   <string name="StoryPinnedToProfile">Тази история е закачена към вашия профил.</string>
+  <string name="StoryPremiumFormatting">Абонирайте се за **Телеграм Премиум**, за да добавите връзки и форматиране на текст към вашите истории.</string>
   <string name="StoryPrivacyAlertAsMessageSubtitle">Изберете получатели</string>
   <string name="StoryPrivacyAlertAsMessageTitle">Изпрати като съобщение</string>
+  <string name="StoryPrivacyAlertBlocklistSubtitle">Изберете хора</string>
+  <string name="StoryPrivacyAlertBlocklistTitle">Скрий историите ми от</string>
   <string name="StoryPrivacyAlertCloseFriendsSubtitle">Изберете близки приятели</string>
   <string name="StoryPrivacyAlertCloseFriendsTitle">Близки приятели</string>
   <string name="StoryPrivacyAlertEditTitle">Редактиране на настройките за поверителност</string>
   <string name="StoryPrivacyAlertExcludedContactsSubtitle">Изключване на контакти</string>
   <string name="StoryPrivacyAlertExcludedContactsTitle">Изключени контакти</string>
+  <string name="StoryPrivacyAlertExcludeFromEveryoneSubtitle">Изключване на контакти</string>
+  <string name="StoryPrivacyAlertExcludeFromEveryoneTitle">Всички освен...</string>
   <string name="StoryPrivacyAlertSelectContactsSubtitle">Изберете контакти</string>
   <string name="StoryPrivacyAlertSelectContactsTitle">Изберете контакти</string>
-  <string name="StoryPrivacyAlertSubtitle_few">Изберете за кого може да гледа %d часа</string>
-  <string name="StoryPrivacyAlertSubtitle_many">Изберете за кого може да гледа %d часа</string>
-  <string name="StoryPrivacyAlertSubtitle_one">Изберете за кого може да гледа %d час</string>
-  <string name="StoryPrivacyAlertSubtitle_other">Изберете за кого може да гледа %d часа</string>
-  <string name="StoryPrivacyAlertSubtitle_two">Изберете за кого може да гледа %d часа</string>
-  <string name="StoryPrivacyAlertSubtitle_zero">Изберете за кого може да гледа %d часа</string>
+  <string name="StoryPrivacyAlertSubtitle_few">Изберете кой може да види вашата история</string>
+  <string name="StoryPrivacyAlertSubtitle_many">Изберете кой може да види вашата история</string>
+  <string name="StoryPrivacyAlertSubtitle_one">Изберете кой може да види вашата история</string>
+  <string name="StoryPrivacyAlertSubtitle_other">Изберете кой може да види вашата история</string>
+  <string name="StoryPrivacyAlertSubtitle_two">Изберете кой може да види вашата история</string>
+  <string name="StoryPrivacyAlertSubtitle_zero">Изберете кой може да види вашата история</string>
   <string name="StoryPrivacyAlertSubtitleProfile">Изберете кой може да преглежда във вашия профил</string>
   <string name="StoryPrivacyAlertTitle">Споделете история</string>
   <string name="StoryPrivacyAllContacts">Контакти</string>
@@ -5847,6 +5953,12 @@
   <string name="StoryPrivacyContactsExclude_two">Контакти (-%d)</string>
   <string name="StoryPrivacyContactsExclude_zero">Контакти (-%d)</string>
   <string name="StoryPrivacyEveryone">Всеки</string>
+  <string name="StoryPrivacyEveryoneExclude_few">Всеки (-%d)</string>
+  <string name="StoryPrivacyEveryoneExclude_many">Всеки (-%d)</string>
+  <string name="StoryPrivacyEveryoneExclude_one">Всеки (-%d)</string>
+  <string name="StoryPrivacyEveryoneExclude_other">Всеки (-%d)</string>
+  <string name="StoryPrivacyEveryoneExclude_two">Всеки (-%d)</string>
+  <string name="StoryPrivacyEveryoneExclude_zero">Всеки (-%d)</string>
   <string name="StoryPrivacyHint">Задайте кой може да вижда вашата история</string>
   <string name="StoryPrivacyNone">Никой</string>
   <string name="StoryPrivacyOptionCloseFriends">Близки приятели</string>
@@ -5911,6 +6023,8 @@
   <string name="StorySharedToManyChats_other">Историята е препратена до **%1$d чата**.</string>
   <string name="StorySharedToManyChats_two">Историята е препратена до **%1$d чата**.</string>
   <string name="StorySharedToSavedMessages">Историята е препратена към **Запазени съобщения**</string>
+  <string name="StoryShowBackTo">Не скривай историите ми от %s</string>
+  <string name="StoryShownBackToToast">%s ще може да види вашите истории отново.</string>
   <string name="StorySoundMuted">Звукът вече е заглушен.</string>
   <string name="StorySoundNotMuted">Звукът вече не е заглушен.</string>
   <string name="StoryUnavailable">Историята не е налична</string>
@@ -5918,6 +6032,9 @@
   <string name="StoryUploadError">Грешка при качване на история</string>
   <string name="StoryUploading">Качване на история…</string>
   <string name="StoryVideo">Видео</string>
+  <string name="StoryViewLocation">Преглед на местоположение &gt;</string>
+  <string name="StoryViewsPremiumHint">За да отключите списъци със зрители за изтекли и запазени истории, абонирайте се за **Телеграм Премиум.**</string>
+  <string name="StoryViewsSortDescription">Изберете реда за списъка със зрители.</string>
   <string name="StoryYouMentionedTitle">Вие споменахте %s в история.</string>
   <string name="StoryYouMentionInDialog">Споменате %s</string>
   <string name="Streaming">Поточно излъчване</string>
@@ -6290,6 +6407,7 @@
   <string name="UpdatePhotoForRest">Актуализиране на публичната снимка</string>
   <string name="UpdateTelegram">Актуализиране на Телеграм</string>
   <string name="Updating">Актуализира се...</string>
+  <string name="UpgradedStories">Надградени истории</string>
   <string name="UpgradeGroup">Надграждане до супергрупа</string>
   <string name="UpgradePremiumMessage">Надстройте годишния план за плащане на Телеграм Премиум сега, за да се насладите на отстъпката.</string>
   <string name="UpgradePremiumPerMonth">Надграждане за %s на година</string>
@@ -6439,6 +6557,7 @@
   <string name="UsersCountTitle_other">%1$d потребители</string>
   <string name="UsersCountTitle_two">%1$d потребители</string>
   <string name="UsersCountTitle_zero">%1$d потребители</string>
+  <string name="UsersDeselectAll">Демаркирай всички</string>
   <string name="UserSetAsAdminHint">**%1$s** повишен до администратор</string>
   <string name="UserSetPhoto">Задайте снимка за %s</string>
   <string name="UserUnblocked">Потребителят е деблокиран</string>
@@ -6492,6 +6611,7 @@
   <string name="ViewChatList">Вижте списъка с чатове</string>
   <string name="ViewContact">ПРЕГЛЕД НА КОНТАКТА</string>
   <string name="ViewDiscussion">Преглед на дискусията</string>
+  <string name="Viewers">Зрители</string>
   <string name="ViewersWatching_few">%1$d гледа</string>
   <string name="ViewersWatching_many">%1$d гледа</string>
   <string name="ViewersWatching_one">%1$d гледа</string>
