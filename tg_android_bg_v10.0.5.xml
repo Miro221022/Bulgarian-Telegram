@@ -223,6 +223,7 @@
   <string name="ActionAttachMenuBotAllowed">Позволихте на този бот да ви изпраща съобщения, когато го добавихте към менюто си с прикачени файлове.</string>
   <string name="ActionBotAllowed">Позволявате на този бот да ви пише, когато се впишете в %1$s.</string>
   <string name="ActionBotAllowedApp">Позволихте на този бот да ви изпраща съобщения, когато влезете е %1$s.</string>
+  <string name="ActionBotAllowedWebapp">Позволихте на този бот да ви изпраща съобщения в своето уеб приложение</string>
   <string name="ActionBotDocumentAddress">Адрес</string>
   <string name="ActionBotDocumentBankStatement">Банково извлечение</string>
   <string name="ActionBotDocumentDriverLicence">Шофьорска книжка</string>
@@ -665,7 +666,9 @@
   <string name="AreYouSureSessionTitle">Прекратяване на сесията</string>
   <string name="AreYouSureShareMyContactInfo">Сигурни ли сте, че искате да споделите вашия телефонен номер?</string>
   <string name="AreYouSureShareMyContactInfoBot">Ботът ще знае вашия телефонен номер. Това може да е полезно при интегриране на други услуги.</string>
+  <string name="AreYouSureShareMyContactInfoBotUnblock">Това също ще деблокира бота.</string>
   <string name="AreYouSureShareMyContactInfoUser">Сигурни ли сте, че искате да споделите вашия телефонен номер %1$s с  **%2$s**?</string>
+  <string name="AreYouSureShareMyContactInfoWebapp">**%s** ще получи вашия телефонен номер. Това може да бъде полезно за интеграция с други услуги.</string>
   <string name="AreYouSureUnblockContact">Наистина ли искате да деблокирате този контакт?</string>
   <string name="AreYouSureWebSessions">Наистина ли искате да прекъснете връзката с всички уебсайтове, в които сте вписани с Телеграм?</string>
   <string name="ArticleByAuthor">от %1$s</string>
@@ -1010,6 +1013,8 @@
   <string name="BotWebViewOpenBot">Отвори бот</string>
   <string name="BotWebViewReloadPage">Презареждане на страницата</string>
   <string name="BotWebViewRequestAllow">Разреши</string>
+  <string name="BotWebViewRequestCameraMicPermission">Разрешавате ли на **%1$s** достъп до вашата камера и микрофон?\n\nРазработчикът на **%1$s** ще има достъп до вашата камера и микрофон, когато това уеб приложение е отворено.</string>
+  <string name="BotWebViewRequestCameraMicPermissionWithHint">Разрешавате ли на **%1$s** достъп до вашата камера и микрофон?\n\nРазработчикът на **%1$s** ще има достъп до вашата камера и микрофон, когато това уеб приложение е отворено.\n\nРазрешете достъпа до камерата в Настройки &gt; Разрешения &gt; Камера.</string>
   <string name="BotWebViewRequestCameraPermission">Разрешавате ли на **%1$s** достъп до камерата?\n\nРазработчикът на **%1$s** ще има достъп до вашата камера, когато това уеб приложение е отворено.</string>
   <string name="BotWebViewRequestCameraPermissionWithHint">Разрешавате ли на **%1$s** достъп до камерата?\n\nРазработчикът на **%1$s** ще има достъп до вашата камера, когато това уеб приложение е отворено.\n\nАктивирайте достъпа до камерата в Настройки &gt; Разрешения &gt; Камера.</string>
   <string name="BotWebViewRequestDontAllow">Не разрешавай</string>
@@ -1017,6 +1022,8 @@
   <string name="BotWebViewRequestGeolocationPermissionWithHint">Разрешавате ли на **%1$s** достъп до вашето местоположение?\n\nРазработчикът на **%1$s** ще има достъп до вашето местоположение, когато това уеб приложение е отворено.\n\nОтидете в Настройки &gt; Разрешения и включете **Местоположение**, за да споделяте данни за местоположението.</string>
   <string name="BotWebViewRequestMicrophonePermission">Разрешавате ли на **%1$s** достъп до вашия микрофон?\n\nРазработчикът на **%1$s** ще има достъп до вашия микрофон, когато това уеб приложение е отворено.</string>
   <string name="BotWebViewRequestMicrophonePermissionWithHint">Разрешавате ли на **%1$s** достъп до вашия микрофон?\n\nРазработчикът на **%1$s** ще има достъп до вашия микрофон, когато това уеб приложение е отворено.\n\nАктивирайте достъпа до микрофона в Настройки &gt; Разрешения &gt; Микрофон.</string>
+  <string name="BotWebViewRequestWriteMessage">Да се ​​разреши ли на този бот да ви изпраща съобщения?</string>
+  <string name="BotWebViewRequestWriteTitle">Разрешаване на съобщения</string>
   <string name="BotWebViewSettings">Настройки</string>
   <string name="BotWebViewStartPermission">Ще се свържете с уебсайта на този бот, за да стартирате неговото уеб приложение.</string>
   <string name="BroadcastGroup">Група за излъчване</string>
