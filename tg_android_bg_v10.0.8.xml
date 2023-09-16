@@ -397,7 +397,6 @@
   <string name="AddImage">Добавете изображение</string>
   <string name="AdditionalReactions">Допълнителни реакции</string>
   <string name="AdditionalReactionsDescription">Отключете по-широк спектър от реакции на съобщения, като се абонирате за Телеграм Премиум.</string>
-  <string name="AddLocation">ДОБАВИ МЕСТОПОЛОЖЕНИЕ</string>
   <string name="AddManyEmojiCount_few">Добавете %1$d емотикони</string>
   <string name="AddManyEmojiCount_many">Добавете %1$d емотикони</string>
   <string name="AddManyEmojiCount_one">Добавете емотикона</string>
@@ -959,6 +958,9 @@
   <string name="BotAddToGroupOrChannelInfo">Този бот може да управлява група или канал.</string>
   <string name="BotAddToMenu">Добавяне към менюто</string>
   <string name="BotAlreadyAddedToAttachMenu">Този бот вече е във вашето меню за прикачени файлове.</string>
+  <string name="BotAttachMenuShortcatAddedAttach">Пряк път за **%s** е добавен в менюто за прикачени файлове.</string>
+  <string name="BotAttachMenuShortcatAddedAttachAndSide">Пряк път за **%s** е добавен в менюто за прикачени файлове и страничното меню.</string>
+  <string name="BotAttachMenuShortcatAddedSide">Пряк път за **%s** е добавен в страничното меню.</string>
   <string name="BotCantAddToAttachMenu">Този бот не може да бъде добавен към менюто за прикачени файлове.</string>
   <string name="BotCantJoinGroups">Този бот не може да се присъединява към групи.</string>
   <string name="BotCantOpenAttachMenuBot">Този бот не може да се отваря в чатове с ботове.</string>
@@ -985,6 +987,7 @@
   <string name="BotPublicLink">Публична връзка</string>
   <string name="BotPublicLinks">Публични връзки</string>
   <string name="BotRemoveFromMenu">Премахване на **%1$s** от менюто за прикачени файлове?</string>
+  <string name="BotRemoveFromMenuAll">Това ще премахне преките пътища за**%1$s**  от всички менюта.</string>
   <string name="BotRemoveFromMenuTitle">Премахване на бота</string>
   <string name="BotRemoveInlineFromMenu">Премахване на **%1$s** от предложения?</string>
   <string name="BotRequestAttachPermission">**%1$s** иска да бъдат добавени като опция към менюто ви за прикачени файлове, за да можете да получите достъп до него от всеки чат.</string>
@@ -1004,6 +1007,8 @@
   <string name="BotUnblock">РЕСТАРТ</string>
   <string name="BotUsernameHelp">Тази връзка не може да се редактира. Можете да придобиете допълнителни потребителски имена на *Fragment*.</string>
   <string name="BotUsernamesHelp">Плъзнете и пуснете връзки, за да промените реда, в който ще се показват на страницата с информация за бота.</string>
+  <string name="BotWebAppDisclaimerCheck">Съгласен съм с **Условията за ползване**</string>
+  <string name="BotWebAppDisclaimerSubtitle">Вие сте на път да използвате мини приложение, управлявано от независима страна **която не е свързана с Телеграм**. Трябва да приемете Условията за ползване на мини приложения, за да продължите.</string>
   <string name="BotWebAppInstantViewOpen">Отвори приложението</string>
   <string name="BotWebViewChangesMayNotBeSaved">Промените, които сте направили, може да не бъдат запазени.</string>
   <string name="BotWebViewCloseAnyway">Затвори въпреки това</string>
@@ -1224,6 +1229,8 @@
   <string name="ChannelLeaveAlertWithName">Сигурни ли сте, че искате да напуснете **%1$s**?</string>
   <string name="ChannelLinkInfo">Всеки, който има инсталиран Телеграм ще може да се присъедини към канала ви, като последва тази връзка.</string>
   <string name="ChannelLinkTitle">Връзка</string>
+  <string name="ChannelManageMessages">Управление на съобщения</string>
+  <string name="ChannelManageStories">Управление на истории</string>
   <string name="ChannelMegaJoined">Присъединихте се към тази група</string>
   <string name="ChannelMembers">Членове</string>
   <string name="ChannelMembersInfo">Само администраторите на канала виждат този списък.</string>
@@ -1981,11 +1988,14 @@
   <string name="EditAdminChangeGroupInfo">Промяна на информацията на групата</string>
   <string name="EditAdminChannelTransfer">Прехвърляне на собственосста на канала</string>
   <string name="EditAdminDeleteMessages">Изтриване на съобщения на други</string>
+  <string name="EditAdminDeleteStories">Изтриване на истории на други</string>
   <string name="EditAdminEditMessages">Редактиране на съобщения на други</string>
+  <string name="EditAdminEditStories">Редактиране на истории на други</string>
   <string name="EditAdminGroupDeleteMessages">Изтриване на съобщения</string>
   <string name="EditAdminGroupTransfer">Прехвърляне на собствеността на групата</string>
   <string name="EditAdminPinMessages">Закачане на съобщения</string>
   <string name="EditAdminPostMessages">Публикуване на съобщения</string>
+  <string name="EditAdminPostStories">Публикуване на истории</string>
   <string name="EditAdminPromotedBy">Добавен от %1$s</string>
   <string name="EditAdminRank">Потребителска титла</string>
   <string name="EditAdminRankInfo">Потребителска титла, която ще бъде показвана на всички членове вместо \'%1$s\'.</string>
@@ -2819,6 +2829,10 @@
   <string name="GroupChats">Групови чатове</string>
   <string name="GroupContacts">Контакти в тази група</string>
   <string name="GroupCreateAutodeleteDescription">Автоматично изтриване на съобщения в тази група за всички след определен период от време.</string>
+  <string name="GroupCreateMembersFive">%1$s, %2$s, %3$s, %4$s и %5$s</string>
+  <string name="GroupCreateMembersFour">%1$s, %2$s, %3$s и %4$s</string>
+  <string name="GroupCreateMembersThree">%1$s, %2$s и %3$s</string>
+  <string name="GroupCreateMembersTwo">%1$s и %2$s</string>
   <string name="GroupDeletedUndo">Групата е изтрита.</string>
   <string name="GroupDescription1">До 200,000 члена</string>
   <string name="GroupDescription2">Постоянна история на чатовете</string>
@@ -4064,6 +4078,7 @@
   <string name="OpenBot">ОТВОРИ БОТА</string>
   <string name="OpenChannel">ОТВАРЯНЕ НА КАНАЛ</string>
   <string name="OpenChannel2">Отворяна на канала</string>
+  <string name="OpenChannelArchiveStories">Архивирани истории</string>
   <string name="OpenChannelPost">ВИЖ ПУБЛИКАЦИЯ</string>
   <string name="OpenFile">ОТВАРЯНЕ НА ФАЙЛА</string>
   <string name="OpenFragment">Отвори фрагмент</string>
@@ -4527,6 +4542,7 @@
   <string name="Photos_zero">%1$d снимки</string>
   <string name="PhotoSavedHint">Снимката е запазена в галерията</string>
   <string name="PhotoSavedToDownloadsHint">Снимката е запазена в изтеглянията</string>
+  <string name="PhotoShownOnce">Тази снимка може да се види само веднъж.</string>
   <string name="PhotosSavedHint_few">%1$d снимки, записани в галерията</string>
   <string name="PhotosSavedHint_many">%1$d снимки, записани в галерията</string>
   <string name="PhotosSavedHint_one">Снимката е записана в галерията</string>
@@ -4608,6 +4624,7 @@
   <string name="PostingMembers">Публикуване на членове</string>
   <string name="PowerUsage">Консумация на енергия</string>
   <string name="PremiumMore">Още</string>
+  <string name="PremiumNeeded">Необходим е премуим!</string>
   <string name="PremiumPreviewAdvancedChatManagement">Разширено управление на чатове</string>
   <string name="PremiumPreviewAdvancedChatManagementDescription">Инструменти за задаване на папката по подразбиране, автоматично архивиране и скриване на нови чатове от потребители които не са в контактите.</string>
   <string name="PremiumPreviewAdvancedChatManagementDescription2">Абонатите на Телеграм Премиум могат да зададат папка по подразбиране, автоматично архивиране и скриване на нови чатове от хора без контакти.</string>
@@ -4665,6 +4682,7 @@
   <string name="PremiumStoriesStealthDescription">Скрийте факта, че сте гледали историите на други хора.</string>
   <string name="PremiumStoriesViews">Постоянна история на прегледите</string>
   <string name="PremiumStoriesViewsDescription">Проверете кой отваря вашите истории - дори след изтичането им.</string>
+  <string name="PremiumSubscribers">Премиум абонати</string>
   <string name="PremiumTierAnnual">Годишен</string>
   <string name="PremiumTierMonthly">Месечен</string>
   <string name="PremiumTierSemiannual">Половин година</string>
@@ -4816,6 +4834,7 @@
   <string name="ProfilePopupNotificationInfo">Новите съобщения от този контакт ще се показват на екрана ви, когато не използвате Телеграм.</string>
   <string name="ProfileStories">Истории</string>
   <string name="ProfileStoriesArchive">Архив с истории</string>
+  <string name="ProfileStoriesArchiveChannelHint">Само администраторите могат да виждат архивирани истории, освен ако не изберете да ги публикувате в профила на канала.</string>
   <string name="ProfileStoriesArchiveCount_few">%d архивирани истории</string>
   <string name="ProfileStoriesArchiveCount_many">%d архивирани истории</string>
   <string name="ProfileStoriesArchiveCount_one">%d архивирана история</string>
@@ -5014,6 +5033,7 @@
   <string name="RemovedUser_two">%1$d премахнати потребители</string>
   <string name="RemovedUser_zero">%1$d премахнати потребители</string>
   <string name="RemoveFromListText">Чукнете и задръжте на потребителя за изтриване.</string>
+  <string name="RemoveFromPosts">Премахване от публикациите</string>
   <string name="RemoveFromRecent">Премахване от последни</string>
   <string name="RemoveGroupStickerSet">Премахване на комплекта стикери на групата</string>
   <string name="RemoveManyEmojiCount_few">Премахване на %1$d емотикони</string>
@@ -5046,6 +5066,7 @@
   <string name="RepeatNotifications">Повтарящи се известия</string>
   <string name="RepeatNotificationsNever">Никога</string>
   <string name="RepeatSong">Повторение на песента</string>
+  <string name="Replace">Замени</string>
   <string name="ReplacePhoto">Замяна на снимката</string>
   <string name="Replies_few">%1$d отговора</string>
   <string name="Replies_many">%1$d отговора</string>
@@ -5227,7 +5248,7 @@
   <string name="SaveImage">Запазването на изображението</string>
   <string name="SaveLink">Запис на връзката</string>
   <string name="SaveLinkHeader">ЗАПАЗИ</string>
-  <string name="SaveOnAnnualPremiumMessage">Регистрирайте се за годишния план за абонамент за Телеграм Премиум сега, за да получите отстъпка.</string>
+  <string name="SaveOnAnnualPremiumMessage">Вземете годишен абонамент за Телеграм Премиум сега, за да получите отстъпка.</string>
   <string name="SaveOnAnnualPremiumTitle">Спестете от абонамента си до **%1$d%%**</string>
   <string name="SaveStoryToGalleryPremiumHint">**Абонирайте се за Премиум**, за да запазите незащитените истории на други хора във вашата галерия.</string>
   <string name="SaveTheme">ЗАПАЗВАНЕ НА ТЕМАТА</string>
@@ -5252,6 +5273,7 @@
   <string name="SaveToGalleryVideosUpTo">Видеоклипове до %s</string>
   <string name="SaveToGIFs">Запази в GIF-ове</string>
   <string name="SaveToMusic">Запази в музика</string>
+  <string name="SaveToPosts">Запазване в публикациите</string>
   <string name="SaveToProfile">Запазване в профила</string>
   <string name="SaveVideo">Запазване на видеоклипа</string>
   <string name="SavingContentTitle">Запазване на съдържание</string>
@@ -5799,6 +5821,7 @@
   <string name="StoryArchived_two">%d истории са скрити от вашия профил</string>
   <string name="StoryArchived_zero">%d истории са скрити от вашия профил</string>
   <string name="StoryArchivedFromProfile">Тази история е скрита от вашия профил.</string>
+  <string name="StoryAudioRemove">Премахване на звука</string>
   <string name="StoryAutoExceptions">Автоматични изключения</string>
   <string name="StoryAutoExceptionsInfo">Автоматично активиране на известията за истории от 5 потребители, с които контактувате най-често.</string>
   <string name="StoryBlockList_few">**%d потребители** няма да видят вашите истории.</string>
@@ -5813,6 +5836,8 @@
   <string name="StoryCameraHint2">Правете снимки или видеоклипове, които да споделяте с всички ваши контакти или близки приятели наведнъж.</string>
   <string name="StoryCameraSavedDualBackHint">Докоснете тук, за да деактивирате втората камера</string>
   <string name="StoryCameraSavedDualFrontHint">Докоснете тук, за да деактивирате селфи камерата</string>
+  <string name="StoryChannelDisableKeep">Историята ще изчезне, след като изтече.</string>
+  <string name="StoryChannelEnableKeep">Потребителите, на които е разрешено да гледат вашата история, ще я видят в канала, след като изтече.</string>
   <string name="StoryCloseFriendsHint">Само хора от **%s** Списък с близки приятели могат да видят тази история</string>
   <string name="StoryContactsHint">Само **%s’s** контакти могат да видят тази история.</string>
   <string name="StoryContainsEmoji_few">Тази история съдържа емотикони от **%d пакета**.</string>
@@ -5862,6 +5887,13 @@
   <string name="StoryHintPinchToZoom">Щипнете, за да увеличите</string>
   <string name="StoryHintSwipeToZoom">Плъзнете за увеличение</string>
   <string name="StoryKeep">Запази на страницата ми</string>
+  <string name="StoryKeepChannel">Публикуване на страницата на канала</string>
+  <string name="StoryKeepChannelInfo_few">Запазете тази история на страницата на канала дори след като изтече след %d часа.</string>
+  <string name="StoryKeepChannelInfo_many">Запазете тази история на страницата на канала дори след като изтече след %d часа.</string>
+  <string name="StoryKeepChannelInfo_one">Запазете тази история на страницата на канала дори след като изтече след %d час.</string>
+  <string name="StoryKeepChannelInfo_other">Запазете тази история на страницата на канала дори след като изтече след %d часа.</string>
+  <string name="StoryKeepChannelInfo_two">Запазете тази история на страницата на канала дори след като изтече след %d часа.</string>
+  <string name="StoryKeepChannelInfo_zero">Запазете тази история на страницата на канала дори след като изтече след %d часа.</string>
   <string name="StoryKeepDraft">Запазване на черновата</string>
   <string name="StoryKeepInfo_few">Запазете тази история на страницата си дори след като изтече след %d часа. Ще се прилагат настройките за поверителност.</string>
   <string name="StoryKeepInfo_many">Запазете тази история на страницата си дори след като изтече след %d часа. Ще се прилагат настройките за поверителност.</string>
@@ -5894,6 +5926,8 @@
   <string name="StoryNotificationHidden_zero">%d истории бяха публикувани</string>
   <string name="StoryNotificationMention">ви спомена в история</string>
   <string name="StoryNotificationSingle">публикува история</string>
+  <string name="StoryOriginalSoundMuted">Оригиналният звук ще бъде премахнат.</string>
+  <string name="StoryOriginalSoundNotMuted">Оригиналният звук ще бъде запазен.</string>
   <string name="StoryPeriodHint">Изберете колко дълго историята ще бъде видима.</string>
   <string name="StoryPeriodKeep">Запази винаги</string>
   <string name="StoryPeriodPremium_few">Абонирайте се за **Телеграм Премиум**, за да могат вашите истории да изчезнат след %d часа.</string>
@@ -5903,8 +5937,11 @@
   <string name="StoryPeriodPremium_two">Абонирайте се за **Телеграм Премиум**, за да могат вашите истории да изчезнат след %d часа.</string>
   <string name="StoryPeriodPremium_zero">Абонирайте се за **Телеграм Премиум**, за да могат вашите истории да изчезнат след %d часа.</string>
   <string name="StoryPhoto">Снимка</string>
+  <string name="StoryPinnedToPosts">Тази история е закачена към публикациите в канала.</string>
+  <string name="StoryPinnedToPostsDescription">Запазените истории могат да се разглеждат от други в профила на канала, докато администратор не ги премахне.</string>
   <string name="StoryPinnedToProfile">Тази история е закачена към вашия профил.</string>
   <string name="StoryPremiumFormatting">Абонирайте се за **Телеграм Премиум**, за да добавите връзки и форматиране на текст към вашите истории.</string>
+  <string name="StoryPremiumWidgets">Абонирайте се за **Телеграм Премиум**, за да добавите до 5 реакции и отбелязвания към история.</string>
   <string name="StoryPrivacyAlertAsMessageSubtitle">Изберете получатели</string>
   <string name="StoryPrivacyAlertAsMessageTitle">Изпрати като съобщение</string>
   <string name="StoryPrivacyAlertBlocklistSubtitle">Изберете хора</string>
@@ -5979,6 +6016,7 @@
   <string name="StoryPrivacyRecipients_other">%d получатели</string>
   <string name="StoryPrivacyRecipients_two">%d получатели</string>
   <string name="StoryPrivacyRecipients_zero">%d получатели</string>
+  <string name="StoryReactionsHint">Изпратете реакция като лично съобщение</string>
   <string name="StoryReplyDisabled">Не можете да отговорите на тази история</string>
   <string name="StoryRestrictions">Ограничения за поверителност</string>
   <string name="StoryRestrictionsInfo">Настройките за поверителност на вашата история ще попречат на някои потребители, които сте маркирали (%s) да я видят.</string>
@@ -6020,6 +6058,7 @@
   <string name="StorySoundMuted">Звукът вече е заглушен.</string>
   <string name="StorySoundNotMuted">Звукът вече не е заглушен.</string>
   <string name="StoryUnavailable">Историята не е налична</string>
+  <string name="StoryUnpinnedFromPosts">Тази история е скрита от публикациите в канала.</string>
   <string name="StoryUnsupported">Тази история не се поддържа от вашата версия на Телеграм.</string>
   <string name="StoryUploadError">Грешка при качване на история</string>
   <string name="StoryUploading">Качване на история…</string>
@@ -6027,10 +6066,14 @@
   <string name="StoryViewLocation">Преглед на местоположение &gt;</string>
   <string name="StoryViewsPremiumHint">За да отключите списъци със зрители за изтекли и запазени истории, абонирайте се за **Телеграм Премиум.**</string>
   <string name="StoryViewsSortDescription">Изберете реда за списъка със зрители.</string>
+  <string name="StoryWidgetAudio">Звук</string>
+  <string name="StoryWidgetLocation">Местоположение</string>
+  <string name="StoryWidgetPhoto">Снимка</string>
   <string name="StoryYouMentionedTitle">Вие споменахте %s в история.</string>
   <string name="StoryYouMentionInDialog">Споменате %s</string>
   <string name="Streaming">Поточно излъчване</string>
   <string name="Strike">Зачеркване</string>
+  <string name="Style">Стил</string>
   <string name="SubscribeRequests">Заявки за абонамент</string>
   <string name="Subscribers_few">%1$d абонати</string>
   <string name="Subscribers_many">%1$d абонати</string>
@@ -6163,6 +6206,7 @@
   <string name="TerminateWebSessionTitle">Прекъсни уебсайта</string>
   <string name="TermsOfService">Условия за ползване</string>
   <string name="TermsOfServiceLogin">С вашата регистрация вие се съгласявате с нашите \"Условия за ползване\"</string>
+  <string name="TermsOfUse">Условия за ползване</string>
   <string name="TextCopied">Текстът е копиран в буферната памет</string>
   <string name="TextPlaceholder">Добави текст</string>
   <string name="TextSelectionHit">Задръжте ** дума **, след това преместете курсора, за да изберете повече текст, който да копирате.</string>
@@ -6224,6 +6268,17 @@
   <string name="ThisPhoto">Тази снимка</string>
   <string name="TimeLimitHelp">Можете да направите връзката да изтече след определено време.</string>
   <string name="TimeLimitHint">Задаване на времетраене по избор</string>
+  <string name="TimerPeriodDoNotDelete">Не изтривай</string>
+  <string name="TimerPeriodHint">Изберете колко време ще се съхранява медията след отваряне.</string>
+  <string name="TimerPeriodOnce">Виж веднъж</string>
+  <string name="TimerPeriodPhotoKeep">Снимката ще се запази.</string>
+  <string name="TimerPeriodPhotoSetOnce">Снимката е настроена за еднократно разглеждане</string>
+  <string name="TimerPeriodPhotoSetSeconds_one">Снимката ще бъде изтрита **%d** секунда след отваряне.</string>
+  <string name="TimerPeriodPhotoSetSeconds_other">Снимката ще бъде изтрита **%d** секунди след отваряне.</string>
+  <string name="TimerPeriodVideoKeep">Видеото ще се запази.</string>
+  <string name="TimerPeriodVideoSetOnce">Видеоклипът е настроен за еднократно гледане</string>
+  <string name="TimerPeriodVideoSetSeconds_one">Видеото ще бъде изтрито **%d** секунда след отваряне.</string>
+  <string name="TimerPeriodVideoSetSeconds_other">Видеото ще бъде изтрито **%d** секунди след отваряне.</string>
   <string name="Times_few">%1$d пъти</string>
   <string name="Times_many">%1$d пъти</string>
   <string name="Times_one">%1$d път</string>
@@ -6345,6 +6400,21 @@
   <string name="UnbanText">Натиснете и задръжте на потребител за премахване на забрана.</string>
   <string name="Unblock">Деблокирай</string>
   <string name="UnblockText">Чукнете и задръжте на потребителя за деблокиране.</string>
+  <string name="UnconfirmedAuthConfirm">Да, това съм аз</string>
+  <string name="UnconfirmedAuthConfirmed">Разрешено е ново влизане</string>
+  <string name="UnconfirmedAuthConfirmedMessage">Можете да проверите списъка с вашите активни влизания в **Настройки &gt; Устройства**.</string>
+  <string name="UnconfirmedAuthDeniedMessageMultiple">Прекратихме опити за влизане от: %s</string>
+  <string name="UnconfirmedAuthDeniedMessageSingle">Прекратихме опит за влизане от %s.</string>
+  <string name="UnconfirmedAuthDeniedTitle_one">Предотвратено е ново влизане</string>
+  <string name="UnconfirmedAuthDeniedTitle_other">Предотвратени са нови влизания</string>
+  <string name="UnconfirmedAuthDeniedWarning">Никога не изпращайте своя код за вход на никого или можете да загубите акаунта си в Телеграм!</string>
+  <string name="UnconfirmedAuthDeny">Не, не съм аз!</string>
+  <string name="UnconfirmedAuthMultiple_one">Открихме %d ново влизане в профила ви. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthMultiple_other">Открихме нови %d влизания във вашия профил. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthMultipleFrom_one" formatted="false">Открихме нови %d влизания в профила ви от %s. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthMultipleFrom_other" formatted="false">Открихме нови %d влизания в профила ви от %s. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthSingle">Открихме ново влизане в профила ви от %s. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthTitle">Някой току-що получи достъп до вашите съобщения!</string>
   <string name="Underline">Подчертано</string>
   <string name="Undo">ОТМЯНА</string>
   <string name="UndoAllCustom">Отменя всички потребителски настройки за известия за всички ваши контакти и групи</string>
@@ -6403,7 +6473,7 @@
   <string name="Updating">Актуализира се...</string>
   <string name="UpgradedStories">Надградени истории</string>
   <string name="UpgradeGroup">Надграждане до супергрупа</string>
-  <string name="UpgradePremiumMessage">Надстройте годишния план за плащане на Телеграм Премиум сега, за да се насладите на отстъпката.</string>
+  <string name="UpgradePremiumMessage">Надстройте до годишен абонамент за Телеграм Премиум сега, за да се насладите на отстъпката.</string>
   <string name="UpgradePremiumPerMonth">Надграждане за %s на година</string>
   <string name="UpgradePremiumPerYear">Надграждане за %s на година</string>
   <string name="UpgradePremiumTitle">Надстройте до Премиум с отстъпка от **%1$d%%**</string>
@@ -6582,6 +6652,7 @@
   <string name="Videos_zero">%1$d видеоклипа</string>
   <string name="VideoSavedHint">Видеоклипът е запазен в галерията</string>
   <string name="VideoSavedToDownloadsHint">Видеото е записано в изтеглянията</string>
+  <string name="VideoShownOnce">Това видео може да се гледа само веднъж.</string>
   <string name="VideoSpeedCustom">Персонализирано %s</string>
   <string name="VideoSpeedFast">Бързо</string>
   <string name="VideoSpeedNormal">Нормално</string>
