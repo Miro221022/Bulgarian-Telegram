@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Потребителски превод за Телеграм от Мирослав Тодоров-->
+<!--Потребителски преод за Телеграм от Мирослав Тодоров        -->
 <resources>
   <string name="Abort">Прекратяване</string>
   <string name="AbortEmail">Прекрати настройката</string>
@@ -2765,6 +2765,7 @@
   <string name="ForwardTo">Препращане до...</string>
   <string name="FreeOfTotal">Свободни %1$s от %2$s</string>
   <string name="FreshChangePhoneForbidden">От съображения за сигурност не можете да промените телефонния номер от устройство, което току-що сте свързали. Моля, използвайте по-ранна връзка или изчакайте няколко часа.</string>
+  <string name="FreshChangePhoneForbiddenTitle">Не може да се прекрати</string>
   <string name="From">От</string>
   <string name="FromCamera">От камера</string>
   <string name="FromChats_few">от %1$d чата</string>
@@ -3024,6 +3025,8 @@
   <string name="IncomingCallsCount_other">%1$d входящи обаждания</string>
   <string name="IncomingCallsCount_two">%1$d входящи обаждания</string>
   <string name="IncomingCallsCount_zero">%1$d входящи обаждания</string>
+  <string name="IncomingCallsSystemSetting">Известия за вътрешни обаждания</string>
+  <string name="IncomingCallsSystemSettingDescription">Можете да промените мелодията в Телеграм -&gt; Настройки -&gt; Известия и звуци.</string>
   <string name="IncorrectLocalization">Неправилен файл за локализация</string>
   <string name="IncorrectTheme">Неправилен файл на тема</string>
   <string name="IncreaseLimit">Увеличете лимита</string>
