@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Потребителски преод за Телеграм от Мирослав Тодоров        -->
+<!--Потребителски преод за Телеграм от Мирослав Тодоров-->
 <resources>
   <string name="Abort">Прекратяване</string>
   <string name="AbortEmail">Прекрати настройката</string>
@@ -3336,7 +3336,7 @@
   <string name="LiteBatteryAlwaysEnabled">Винаги активирано</string>
   <string name="LiteBatteryDisabled">Изкл</string>
   <string name="LiteBatteryEnabled">Вкл</string>
-  <string name="LiteBatteryInfoBelow">Автоматично намаляване на консумацията на енергия и анимациите, когато батерията ви е изтощена %s.</string>
+  <string name="LiteBatteryInfoBelow">Автоматично намаляване на консумацията на енергия и анимациите, когато батерията е изтощена %s.</string>
   <string name="LiteBatteryInfoDisabled">Никога не намалявай потреблението на енергия и запази всички анимации дори когато батерията е изтощена.</string>
   <string name="LiteBatteryInfoEnabled">Винаги намалявай консумацията на енергия, независимо от нивото на батерията.</string>
   <string name="LiteBatteryRestricted">Моля, изключете режима на ниска консумаия, за да промените тези настройки.</string>
@@ -3362,7 +3362,7 @@
   <string name="LitePowerSaver">Пестене на енергия при изтощена батерия</string>
   <string name="LitePowerSaverInfo">Автоматично превключване към ниско потребление на енергия, когато вашите устройства са в режим за пестене на батерията.</string>
   <string name="LiteSmoothTransitions">Активиране на плавни преходи</string>
-  <string name="LiteSmoothTransitionsInfo">Можете да деактивирате анимирани преходи между различни секции на приложенията.</string>
+  <string name="LiteSmoothTransitionsInfo">Можете да деактивирате анимираните преходи между различните секции на приложенията.</string>
   <string name="LiveLocationAlertGroup">Изберете за колко време хората в тази група ще виждат точното ви местоположение.</string>
   <string name="LiveLocationAlertPrivate">Изберете за колко време %1$s ще вижда точното ви местоположение.</string>
   <string name="LiveLocationContext">Локация на живо</string>
@@ -6469,7 +6469,7 @@
   <string name="UnconfirmedAuthMultiple_other">Открихме нови %d влизания във вашия профил. Вие ли сте това?</string>
   <string name="UnconfirmedAuthMultipleFrom_one" formatted="false">Открихме нови %d влизания в профила ви от %s. Вие ли сте това?</string>
   <string name="UnconfirmedAuthMultipleFrom_other" formatted="false">Открихме нови %d влизания в профила ви от %s. Вие ли сте това?</string>
-  <string name="UnconfirmedAuthSingle">Открихме ново влизане в профила ви от %s. Вие ли сте това?</string>
+  <string name="UnconfirmedAuthSingle">Засякохме ново влизане в профила ви от %s. Вие ли сте това?</string>
   <string name="UnconfirmedAuthTitle">Някой току-що получи достъп до вашите съобщения!</string>
   <string name="Underline">Подчертано</string>
   <string name="Undo">ОТМЯНА</string>
