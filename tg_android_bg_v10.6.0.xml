@@ -549,6 +549,7 @@
   <string name="AndOther_two">и %1$d други</string>
   <string name="AndOther_zero">и %1$d други</string>
   <string name="AnimatedStickers">Анимирани стикери</string>
+  <string name="AnonymousForward">Авторът е скрит</string>
   <string name="AnonymousNumber">Анонимен номер</string>
   <string name="AnonymousNumberNotice">Този номер не е свързан със SIM карта и е придобит на *Фрагмент.*</string>
   <string name="AnonymousPoll">Анонимна анкета</string>
@@ -702,6 +703,8 @@
   <string name="AreYouSureShareMyContactInfoUser">Сигурни ли сте, че искате да споделите вашия телефонен номер %1$s с  **%2$s**?</string>
   <string name="AreYouSureShareMyContactInfoWebapp">**%s** ще получи вашия телефонен номер. Това може да бъде полезно за интеграция с други услуги.</string>
   <string name="AreYouSureUnblockContact">Наистина ли искате да деблокирате този контакт?</string>
+  <string name="AreYouSureUnsaveFewMessages">Сигурни ли сте, че искате да изтриете тези съобщения?</string>
+  <string name="AreYouSureUnsaveSingleMessage">Сигурни ли сте, че искате да премахнете това съобщение от Запазени съобщения?</string>
   <string name="AreYouSureWebSessions">Наистина ли искате да прекъснете връзката с всички уебсайтове, в които сте вписани с Телеграм?</string>
   <string name="ArticleByAuthor">от %1$s</string>
   <string name="ArticleDateByAuthor">%1$s от %2$s</string>
@@ -738,6 +741,8 @@
   <string name="AttachMediaVideoDeselected">Изборът на видеоклипа е отказан.</string>
   <string name="AttachMenu">Прикрепи...</string>
   <string name="AttachMusic">Музика</string>
+  <string name="AttachOnceAudio">Еднократно гласово съобщение</string>
+  <string name="AttachOnceRound">Еднократно видео съобщение</string>
   <string name="AttachPhoto">Снимка</string>
   <string name="AttachPhotoExpired">Снимката изтече</string>
   <string name="AttachPhotoRestricted">Администраторите на тази група са ви забранили да изпращате снимки тук до %1$s</string>
@@ -785,6 +790,7 @@
   <string name="AuthAnotherClientScan">Сканиране на QR код</string>
   <string name="AuthAnotherClientTokenError">Маркерът е невалиден или вече е изтекъл.</string>
   <string name="AuthAnotherClientUrl">Този код може да помогне на някого да влезе в профила ви в Телеграм.\n\nЗа да потвърдите вписването в Телеграм, моля, отидете на Настройки&gt; Устройства&gt; Сканиране на QR и сканирайте на кода.</string>
+  <string name="AuthorHiddenDescription">Подателите на тези съобщения са ограничени да свързват името си при препращане.</string>
   <string name="AutoDelete1Day">1 ден</string>
   <string name="AutoDelete1Hour">1 час</string>
   <string name="AutoDelete1Month">1 месец</string>
@@ -1993,7 +1999,11 @@
   <string name="ClearHistoryCache">Изтриване от кеша</string>
   <string name="ClearHistoryForTheseDays">Изчистване на историята за тези дни</string>
   <string name="ClearHistoryForThisDay">Изчистване на историята за този ден</string>
+  <string name="ClearHistoryMessageMultiple_other">Сигурни ли сте, че искате да отмените запазването на съобщения от %d чата?</string>
+  <string name="ClearHistoryMessageSingle">Сигурни ли сте, че искате да отмените запазването на съобщения от %s?</string>
   <string name="ClearHistoryOptionAlso">Изчистване на историята също за %1$s</string>
+  <string name="ClearHistoryTitleMultiple_other">Отмяна на запазването на съобщения от %d чата</string>
+  <string name="ClearHistoryTitleSingle">Отмяна на запазването на съобщения от %s</string>
   <string name="ClearingCache">Изчистване на кеша…</string>
   <string name="ClearingCacheDescription">Моля, дръжте този прозорец отворен, докато Telegram изчиства кеша.</string>
   <string name="ClearLocalDatabase">Изчистване на локалната база данни</string>
@@ -3805,6 +3815,9 @@
   <string name="LimitReachedPinDialogsLocked">За съжаление не можете да закачите повече от %1$d чата. Откачете някои, които в момента са закачени. Работим, за да Ви позволим да увеличите този лимит в бъдеще.</string>
   <string name="LimitReachedPinDialogsPremium">За съжаление не можете да закачите повече от %1$d чата. Откачете някои, които в момента са закачени.</string>
   <string name="LimitReachedPinnedTopics">За съжаление не можете да закачите повече от %d теми.</string>
+  <string name="LimitReachedPinSavedDialogs">За съжаление не можете да закачите повече от %1$d. Откачете някои, които в момента са закачени или се абонирайте за **Телеграм Премиум**, за да увеличите лимита на **%2$d** чата.</string>
+  <string name="LimitReachedPinSavedDialogsLocked">За съжаление не можете да закачите повече от %1$d чата. Откачете някои отзакачените. Работим, за да ви позволим да увеличите този лимит в бъдеще.</string>
+  <string name="LimitReachedPinSavedDialogsPremium">За съжаление не можете да закачите повече от %1$d чата. Откачете някои от закачените.</string>
   <string name="LimitReachedPublicLinks">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал или надстройте до **Телеграм Премиум**, за да удвоите лимита до **%2$d** публични връзки.</string>
   <string name="LimitReachedPublicLinksLocked">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал. Работим, за да Ви позволим да увеличите този лимит в бъдеще.</string>
   <string name="LimitReachedPublicLinksPremium">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал.</string>
@@ -4258,6 +4271,7 @@
   <string name="MuteNotifications">Заглуши известията</string>
   <string name="MyChannels">Моите канали</string>
   <string name="MyGroups">Моите групи</string>
+  <string name="MyNotes">Моите бележки</string>
   <string name="MyStory">Моята история</string>
   <string name="NearbyCreateGroup">Създаване на локална група</string>
   <string name="NearbyCreateGroupInfo">Всеки, в близост до това местоположение (съседи, колеги, състуденти, участници в събития, посетители на мястото) ще може да вижда групата ви в секцията „Хора в близост“.</string>
@@ -5904,11 +5918,21 @@
   <string name="Save">Запази</string>
   <string name="SaveChangesAlertText">Искате ли да приложите новите цветове, които сте избрали?</string>
   <string name="SaveChangesAlertTitle">Запазване на промените?</string>
+  <string name="SavedDialogsTab">Чатове</string>
+  <string name="SavedDialogsTabCount_one">%d чат</string>
+  <string name="SavedDialogsTabCount_other">%d чата</string>
   <string name="SavedGifsLimitSubtitle">Запазете до %d GIF файлове във вашите любими GIF файлове</string>
   <string name="SavedGifsLimitTitle">Запазени GIF файлове</string>
   <string name="SavedMessages">Запазени съобщения</string>
+  <string name="SavedMessagesCount_one">%d запазено съобщение</string>
+  <string name="SavedMessagesCount_other">%d запазени съобщения</string>
+  <string name="SavedMessagesHint">Докоснете, за да видите вашите **Запазени съобщения**, организирани по тип или източник.</string>
   <string name="SavedMessagesInfo">Препратете тук, за да запишете.</string>
   <string name="SavedMessagesInfoQuote">Цитирайте тук, за да запазите.</string>
+  <string name="SavedMessagesTab">Запазени съобщения</string>
+  <string name="SavedOpenChannel">ОТВОРИ КАНАЛА</string>
+  <string name="SavedOpenChat">ОТВОРИ ЧАТА</string>
+  <string name="SavedOpenGroup">ОТВОРИ ГРУПАТА</string>
   <string name="SavedStories">Запазени истории</string>
   <string name="SaveException">Запазване на изключение</string>
   <string name="SaveForNotifications">Запази за известия</string>
@@ -6224,6 +6248,8 @@
   <string name="Shared_two">%1$s споделяния</string>
   <string name="Shared_zero">%1$s споделяния</string>
   <string name="SharedAudioFiles">Аудио файлове</string>
+  <string name="SharedContactAdd">ДОБАВЯНЕ</string>
+  <string name="SharedContactMessage">СЪОБЩЕНИЕ</string>
   <string name="SharedContent">Споделено съдържание</string>
   <string name="SharedContentTitle">Споделено съдържание</string>
   <string name="SharedFilesTab2">Файлове</string>
@@ -7193,6 +7219,8 @@
   <string name="UnreadMessages">Непрочетени съобщения</string>
   <string name="UnsavedChanges">Незапазени промени</string>
   <string name="UnsavedChangesMessage">Променихте настройките на тази връзка за покана. Прилагане на промените?</string>
+  <string name="UnsaveMessagesTitle">Отмяна на записа %1$s</string>
+  <string name="UnsaveSingleMessagesTitle">Отмяна на записа на съобщението</string>
   <string name="UnsupportedAttachment">Неподдържан прикачен файл</string>
   <string name="UnsupportedMedia">Съобщението не се поддържа от вашата версия на Телеграм. Актуализирайте приложението, за да го видите: https://telegram.org/update</string>
   <string name="UnsupportedMediaStandalone">Това съобщение не се поддържа от вашата версия на Телеграм. Актуализрайте приожението за преглед: https://telegram.org/dl</string>
@@ -7319,7 +7347,6 @@
   <string name="UserProfileColorResetApplied">Цветът на вашия профил е нулиран!</string>
   <string name="UserProfileHint">Изберете цвят и икона за вашия профил</string>
   <string name="UserProfileIcon">Добавете икони към профила</string>
-  <string name="UserRead">чете %s</string>
   <string name="UserRemovedBy">Премахнат от %1$s</string>
   <string name="UserRemovedFromChatHint">**%1$s** премахнат от **%2$s**</string>
   <string name="UserReplyIcon">Добавете икони към отговорите</string>
@@ -7408,6 +7435,10 @@
   <string name="VideoDoesNotSupportStreaming">Видеото не е оптимизирано за стрийминг. Може да се наложи пълното му изтегляне, за да го стартирате.</string>
   <string name="VideoMessagesAutodownload">Видео съобщения</string>
   <string name="VideoMessagesRestrictedByPrivacy">**%1$s** не приема видео съобщения.</string>
+  <string name="VideoOnceCloseMessage">Сигурни ли сте, че искате да спрете да слушате и да изтриете видео съобщение?</string>
+  <string name="VideoOnceCloseTitle">Затвори видео съобщението</string>
+  <string name="VideoOnceHint">Това видео съобщение може да се възпроизведе само веднъж.</string>
+  <string name="VideoOnceOutHint">Това съобщение ще изчезне веднъж след като **%s** се изпълни веднъж.</string>
   <string name="VideoPreview">Преглед на видеоклипа</string>
   <string name="VideoQualityIsTooLow">Качеството на видео е твърде ниско, за да се променят настройките за компресия.</string>
   <string name="Videos_few">%1$d видеоклипа</string>
@@ -7418,6 +7449,8 @@
   <string name="Videos_zero">%1$d видеоклипа</string>
   <string name="VideoSavedHint">Видеоклипът е запазен в галерията</string>
   <string name="VideoSavedToDownloadsHint">Видеото е записано в изтеглянията</string>
+  <string name="VideoSetOnceHint">Докоснете, за да зададете това съобщение на **Еднократно изпълнение**.</string>
+  <string name="VideoSetOnceHintEnabled">Получателят ще може да го изпълни само веднъж.</string>
   <string name="VideoShownOnce">Това видео може да се гледа само веднъж.</string>
   <string name="VideoSpeedCustom">Персонализирано %s</string>
   <string name="VideoSpeedFast">Бързо</string>
