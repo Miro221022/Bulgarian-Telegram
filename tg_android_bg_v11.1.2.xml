@@ -841,7 +841,7 @@
   <string name="AutoNightScheduled">Планирано</string>
   <string name="AutoNightSystemDefault">Системно по подразбиране</string>
   <string name="AutoNightSystemModeOff">Темата по подразбиране на системата е деактивирана</string>
-  <string name="AutoNightTheme">Автоматичен нощен режим</string>
+  <string name="AutoNightTheme">Нощен режим</string>
   <string name="AutoNightThemeOff">Изключен</string>
   <string name="AutoNightTo">До</string>
   <string name="AutoNightUpdateLocation">Обнови локацията</string>
@@ -1460,7 +1460,7 @@
   <string name="BrowserSettingsAddTitle">Добавете уебсайт</string>
   <string name="BrowserSettingsCacheClear">Изчистване на кеша</string>
   <string name="BrowserSettingsCacheClearText">Сигурни ли сте, че искате да изчистите кеша на браузъра %s?</string>
-  <string name="BrowserSettingsCookiesClear">Изчистване на бисквитките</string>
+  <string name="BrowserSettingsCookiesClear">Изчисти бисквитките</string>
   <string name="BrowserSettingsCookiesClearText">Сигурни ли сте, че искате да изчистите бисквитките на браузъра %s?\n\nТова може да ви отпише от сесиите на акаунта на уебсайта.</string>
   <string name="BrowserSettingsCookiesInfo">Изтрий всички бисквитки и кеша от браузъра в приложението Телеграм и миниприложенията.</string>
   <string name="BrowserSettingsCustomTabs">Нови страници в Телеграм</string>
@@ -1753,7 +1753,7 @@
   <string name="ChangePublicLimitReached">Съжаляваме, но вие сте създали твърде много публични връзки. Опитайте да изтриете или да направите поверителни някои от вашите групи или канали.</string>
   <string name="ChangeRecipient">Промяна на получателя</string>
   <string name="ChangeRecoveryEmail">Промяна на имейла за възстановяване.</string>
-  <string name="ChangeUserNameColor">Промяна на цвета на името</string>
+  <string name="ChangeUserNameColor">Цвят на името</string>
   <string name="ChangeWallpaperToColor">Сигурни ли сте, че искате да промените тапета за чат в цвят?</string>
   <string name="ChannelAddAdmin">Добави администратор</string>
   <string name="ChannelAddedBy">un1 ви добави към този канал</string>
@@ -2200,7 +2200,7 @@
   <string name="confirm_device_credential_password">Използвайте парола</string>
   <string name="ConfirmCorrectNumber">Това правилният номер ли е?</string>
   <string name="ConfirmCreatePasscode">Въведете отново вашата парола</string>
-  <string name="ConfirmSensitiveContentText">Потвърдете, че сте на възраст над 18 години и актуализирайте настройките си, за да видите потенциално изрично и чувствително съдържание.</string>
+  <string name="ConfirmSensitiveContentText">Потвърдете, че сте на възраст над 18 години и актуализирайте настройките си, за да видите потенциално чувствително съдържание.</string>
   <string name="ConfirmSensitiveContentTitle">Съдържание 18+</string>
   <string name="Connected">Свързан</string>
   <string name="ConnectedAccountsLimitSubtitle">Свържете %d профила с различни мобилни номера</string>
@@ -4275,7 +4275,7 @@
   <string name="NoHandleAppInstalled">Нямате приложение, което поддържа файлове от типа \'%1$s\', инсталирайте такова, за да продължите</string>
   <string name="NoHashtagStoriesTitle">Няма намерени истории</string>
   <string name="NoIconsFound">Няма намерени икони</string>
-  <string name="NoLimit">Без ограничение</string>
+  <string name="NoLimit">Неограничено</string>
   <string name="NoLogFound">**Няма намерени резултати**</string>
   <string name="NoLogFoundFiltered">**Няма резултати, съответстващи на вашите филтри**</string>
   <string name="NoMailInstalled">Моля, изпратете имейл до sms@stel.com и ни кажете за вашия проблем.</string>
@@ -5325,7 +5325,7 @@
   <string name="PrivacyLastSeen">Последна активност</string>
   <string name="PrivacyLastSeenPremium">Абонирайте се за Телеграм Премиум</string>
   <string name="PrivacyLastSeenPremiumForPremium">Абониран за Телеграм Премиум</string>
-  <string name="PrivacyLastSeenPremiumInfo">Ако се абонирате за Премиум, ще виждате времето за последно виждане и четене на други потребители, дори ако сте скрили своето от тях (освен ако не са го ограничили изрично).</string>
+  <string name="PrivacyLastSeenPremiumInfo">Ако се абонирате за Премиум, ще виждате времето за последно посещение и четене на други потребители, дори ако сте скрили своето от тях (освен ако не са го ограничили изрично).</string>
   <string name="PrivacyLastSeenPremiumInfoForPremium">Тъй като сте премиум абонат, ще видите последното време на посещение и четене на всички потребители, които го споделят с вас - дори ако криете своето.</string>
   <string name="PrivacyMessages">Съобщения</string>
   <string name="PrivacyMessagesContactsAndPremium">Моите контакти и Премиум потребители</string>
@@ -6276,7 +6276,7 @@
   <string name="ShowSenderNames">Показване на имената на подателите</string>
   <string name="ShowSendersName">Покажи името на подателя</string>
   <string name="ShowSensitiveContent">Показване на съдържание 18+</string>
-  <string name="ShowSensitiveContentInfo">Не скривай медии, които имат съдържание подходящо само за възрастни</string>
+  <string name="ShowSensitiveContentInfo">Не скривай съдържание подходящо само за възрастни</string>
   <string name="ShowStickers">Покажи стикери</string>
   <string name="ShowTranslateButton">Показване на бутона за превод</string>
   <string name="ShowTranslateChatButton">Превод на целия чат</string>
