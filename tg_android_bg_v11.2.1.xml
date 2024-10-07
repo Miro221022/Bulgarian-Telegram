@@ -4584,6 +4584,8 @@
   <string name="NotificationMessageScheduledName">📅 Вие</string>
   <string name="NotificationMessageSDPhoto">%1$s ви изпрати самоунищожаваща се снимка</string>
   <string name="NotificationMessageSDVideo">%1$s Ви изпрати самоунищожаващо се видео</string>
+  <string name="NotificationMessageStarGift_one">%2$s ви изпрати подарък на стойност %1$d звезда</string>
+  <string name="NotificationMessageStarGift_other">%2$s ви изпрати подарък на стойност %1$d звезди</string>
   <string name="NotificationMessageStarsGiveaway2">%1$s ви изпрати подарък от %3$s звезди %2$s</string>
   <string name="NotificationMessageSticker">%1$s ви изпрати стикер</string>
   <string name="NotificationMessageStickerEmoji">%1$s ви изпрати %2$s стикер</string>
