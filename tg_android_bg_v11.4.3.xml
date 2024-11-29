@@ -3392,6 +3392,8 @@
   <string name="GifSavedHint">Добавено към запазените GIF файлове</string>
   <string name="GifSavedToDownloadsHintLinked">GIF е запазен в **изтеглянията**.</string>
   <string name="GifsTab2">GIF файлове</string>
+  <string name="Gift2ActionBotInfo">Можете да покажете този подарък на вашата страница.</string>
+  <string name="Gift2ActionBotSavedInfo">Този подарък вече се вижда на вашата страница.</string>
   <string name="Gift2ActionConvertedInfo_one">Преобразувахте този подарък в %d звезда.</string>
   <string name="Gift2ActionConvertedInfo_other">Преобразувахте този подарък в %d звезди.</string>
   <string name="Gift2ActionInfo_one">Покажете този подарък на вашата страница или го конвертирайте в %d звезда.</string>
