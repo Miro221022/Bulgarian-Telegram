@@ -480,7 +480,7 @@
   <string name="AffiliateProgramAlert">Предупреждение</string>
   <string name="AffiliateProgramBot">Партньорска програма</string>
   <string name="AffiliateProgramBotOff">Изкл</string>
-  <string name="AffiliateProgramCommission">Комисия</string>
+  <string name="AffiliateProgramCommission">Комисионна</string>
   <string name="AffiliateProgramCommissionInfo">Определете процента от звездните приходи, които печелят вашите партньори за препращане на потребители към вашия бот.</string>
   <string name="AffiliateProgramDuration">Продължителност</string>
   <string name="AffiliateProgramDurationInfo">Задайте продължителността, за която партньорите ще печелят комисионни от препоръчани потребители.</string>
@@ -488,7 +488,7 @@
   <string name="AffiliateProgramEndedTitle">Партньорската програма приключи</string>
   <string name="AffiliateProgramExistingProgramsText">Разгледайте какво предлагат другите мини приложения.</string>
   <string name="AffiliateProgramExistingProgramsTitle">Преглед на съществуващи програми</string>
-  <string name="AffiliateProgramJoinedText">Вече можете да копирате рефералната връзка.</string>
+  <string name="AffiliateProgramJoinedText">Вече можете да копирате препоръчана връзка.</string>
   <string name="AffiliateProgramJoinedTitle">Присъединихте се към програмата</string>
   <string name="AffiliateProgramLinkCopiedText">Споделете тази връзка и спечелете **%1$s** от това, което харчат хората, които го използват **%2$s**!</string>
   <string name="AffiliateProgramLinkCopiedTitle">Връзката е копирана в клипборда</string>
@@ -1920,9 +1920,9 @@
   <string name="ChannelAdminSettings">Настройки на канала</string>
   <string name="ChannelAdminsInfo">Можете да добавяте администратори, които да помагат в управлението на вашия канал. Чукнете и задръжте, за да премахвате администратори.</string>
   <string name="ChannelAffiliateProgramFeature1">Получавайте гарантирани комисионни за разходи от препоръчани от вас потребители.</string>
-  <string name="ChannelAffiliateProgramFeature1Title">Надежден</string>
+  <string name="ChannelAffiliateProgramFeature1Title">Надеждно</string>
   <string name="ChannelAffiliateProgramFeature2">Проследявайте комисионните си от препоръчани потребители в реално време.</string>
-  <string name="ChannelAffiliateProgramFeature2Title">Прозрачен</string>
+  <string name="ChannelAffiliateProgramFeature2Title">Прозрачно</string>
   <string name="ChannelAffiliateProgramFeature3">Изберете мини приложение по-долу, вземете вашата препоръчана връзка и започнете да печелите звезди.</string>
   <string name="ChannelAffiliateProgramFeature3Title">Просто</string>
   <string name="ChannelAffiliateProgramJoinButton">Присъединете се към програмата</string>
@@ -1955,7 +1955,7 @@
   <string name="ChannelAffiliateProgramRowText">Разпространете връзки към мини приложения и спечелете дял от техните приходи в Stars.</string>
   <string name="ChannelAffiliateProgramRowTitle">Печелете звезди</string>
   <string name="ChannelAffiliatePrograms">Партньорски програми</string>
-  <string name="ChannelAffiliateProgramText">Печелете комисионна всеки път, когато потребител, който за първи път е влязъл в мини приложение чрез вашата реферална връзка, изразходва **Звезди** в него.</string>
+  <string name="ChannelAffiliateProgramText">Печелете комисионна всеки път, когато потребител, който за първи път е влязъл в мини приложение чрез вашата препоръчана връзка, изразходва **Звезди** в него.</string>
   <string name="ChannelAffiliateProgramTitle">Партньорски програми</string>
   <string name="ChannelAlertCreate2">Създаване на канал</string>
   <string name="ChannelAlertText">Каналите са нов инструмент за предаване на вашите съобщения до голяма аудитория.</string>
@@ -3147,13 +3147,13 @@
   <string name="ExpiredViewsStubPremiumDescription">За да отключите списъци със зрители за изтекли и запазени истории, абонирайте се за **Телеграм Премиум.**</string>
   <string name="ExplainStarsButton">Разбрах</string>
   <string name="ExplainStarsFeature1Text">Дайте на приятелите си подаръци, които могат да се запазят в техните профили или да се превърнат в звезди.</string>
-  <string name="ExplainStarsFeature1Title">Изпратете подаръци на приятели</string>
+  <string name="ExplainStarsFeature1Title">Изпращане на подаръци на приятели</string>
   <string name="ExplainStarsFeature2Text">Купете допълнително съдържание и услуги в миниприложенията на Телеграм. **Вижте примери &gt;**</string>
-  <string name="ExplainStarsFeature2Title">Използвайте звезди в мини приложения</string>
+  <string name="ExplainStarsFeature2Title">Използване на звезди в мини приложения</string>
   <string name="ExplainStarsFeature3Text">Получете достъп до платено съдържание и услуги в каналите на Телеграм.</string>
-  <string name="ExplainStarsFeature3Title">Отключете съдържание в каналите</string>
+  <string name="ExplainStarsFeature3Title">Отключване на съдържание в каналите</string>
   <string name="ExplainStarsFeature4Text">Подкрепете любимите си канали, като изпратите звездни реакции към техните публикации.</string>
-  <string name="ExplainStarsFeature4Title">Изпратете реакции със звезди</string>
+  <string name="ExplainStarsFeature4Title">Изпращане на реакции със звезди</string>
   <string name="ExplainStarsTitle">Какво представляват Stars?</string>
   <string name="ExplainStarsTitle2">Telegram Stars позволява на потребителите да:</string>
   <string name="ExportTheme">Изпращане</string>
@@ -5997,7 +5997,7 @@
   <string name="ProfileGiftsCount_one">%d подарък</string>
   <string name="ProfileGiftsCount_other">%d подаръци</string>
   <string name="ProfileGiftsInfo">Тези подаръци са ви изпратени от други потребители.\nДокоснете подарък, за да го конвертирате в звезди или да промените настройките му за поверителност.</string>
-  <string name="ProfileGiftsSend">Изпратете подаръци на приятели</string>
+  <string name="ProfileGiftsSend">Изпращане на подаръци на приятели</string>
   <string name="ProfileGiftsSendChannel">Изпратете подаръци на канала</string>
   <string name="ProfileHoursCopy">Копиране на часове</string>
   <string name="ProfileHoursEdit">Редактиране на часове</string>
