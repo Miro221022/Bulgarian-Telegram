@@ -2810,6 +2810,10 @@
   <string name="EditNumber">Редактиране на номера</string>
   <string name="EditNumberInfo">Искате ли да редактирате номера си?\n\n**%1$s**\n\nАко номерът по-горе е правилен, моля, изчакайте кода за потвърждение.</string>
   <string name="EditorMuteHint">Звукът вече е заглушен, така че видеото ще се възпроизвежда и повтаря като GIF.</string>
+  <string name="EditorSetCover">Редактиране на корицата</string>
+  <string name="EditorSetCoverGallery">Изберете от галерията</string>
+  <string name="EditorSetCoverSave">Запази корицата</string>
+  <string name="EditorSetCoverTitle">Изберете рамка</string>
   <string name="EditPack">редактиране</string>
   <string name="EditPhoto">Отваряне в редактора</string>
   <string name="EditProfileBio">Вашата биография</string>
@@ -3699,8 +3703,8 @@
   <string name="Gift2SendSelf_one">Купете подарък за ⭐️%d</string>
   <string name="Gift2SendSelf_other">Купете подарък за ⭐️%d</string>
   <string name="Gift2SoldOut">разпродадено</string>
-  <string name="Gift2SoldOut_one">Всички %d подаръци вече са продадени.</string>
-  <string name="Gift2SoldOut_other">Всички %d подаръци вече са продадени.</string>
+  <string name="Gift2SoldOutCount_one">Всички %d подаръци вече бяха продадени.</string>
+  <string name="Gift2SoldOutCount_other">Всички %d подаръци вече бяха продадени.</string>
   <string name="Gift2SoldOutSheetFirstSale">Първа продажба</string>
   <string name="Gift2SoldOutSheetLastSale">Последна продажба</string>
   <string name="Gift2SoldOutSheetSubtitle">Този подарък е разпродаден</string>
@@ -3748,6 +3752,7 @@
   <string name="Gift2TransferPriceText_other">Искате ли да прехвърлите собствеността на **%2$s** към **%3$s** за **%1$d Звезди**?</string>
   <string name="Gift2TransferredText">Прехвърлихте успешно **%1$s** към **%2$s**.</string>
   <string name="Gift2TransferredTitle">Подаръкът е прехвърлен</string>
+  <string name="Gift2TransferShort">Прехвърлете подарък</string>
   <string name="Gift2TransferText">Искате ли да прехвърлите собствеността на **%1$s** към **%2$s**?</string>
   <string name="Gift2TransferToTONAlertText">Можете да теглите само ако имате:</string>
   <string name="Gift2TransferToTONAlertText1">**Потвърждаването в две стъпки** е активирано преди повече от **7 дни**.</string>
@@ -5997,6 +6002,8 @@
   <string name="ProfileGiftsCount_one">%d подарък</string>
   <string name="ProfileGiftsCount_other">%d подаръци</string>
   <string name="ProfileGiftsInfo">Тези подаръци са ви изпратени от други потребители.\nДокоснете подарък, за да го конвертирате в звезди или да промените настройките му за поверителност.</string>
+  <string name="ProfileGiftsNotFoundButton">Вижте всички подаръци</string>
+  <string name="ProfileGiftsNotFoundTitle">Няма съвпадащи подаръци</string>
   <string name="ProfileGiftsSend">Изпращане на подаръци на приятели</string>
   <string name="ProfileGiftsSendChannel">Изпратете подаръци на канала</string>
   <string name="ProfileHoursCopy">Копиране на часове</string>
@@ -6009,6 +6016,7 @@
   <string name="ProfileLocationMaps">Отвори в Карти</string>
   <string name="ProfileLocationRemove">Премахване</string>
   <string name="ProfileLocationView">Виж местоположението</string>
+  <string name="ProfileMyStories">Моите истории</string>
   <string name="ProfileMyStoriesCount_one">%d запазена история</string>
   <string name="ProfileMyStoriesCount_other">%d запазени истории</string>
   <string name="ProfileMyStoriesTab">Запазено</string>
@@ -6316,6 +6324,7 @@
   <string name="ReportInfo">Моля, въведете всички допълнителни подробности, свързани с вашия отчет.</string>
   <string name="ReportMessages">ДОКЛАДВАНЕ НА СЪОБЩЕНИЯ</string>
   <string name="ReportMessagesCount">ДОКЛАДВАЙ %1$s</string>
+  <string name="ReportProfilePhoto">Докладвай</string>
   <string name="ReportReaction">Докладвайте реакция</string>
   <string name="ReportReactionAndBan">Блокирай и докладвай</string>
   <string name="ReportSelectMessages">Изберете съобщения</string>
@@ -7205,6 +7214,7 @@
   <string name="StarsSentText_one">Вие реагирахте с **%d** звезда.</string>
   <string name="StarsSentText_other">Вие реагирахте с **%d** звезди.</string>
   <string name="StarsSentTitle">Изпратени звезди!</string>
+  <string name="StarsSentTitleChannel">Звезди, изпратени като %s!</string>
   <string name="StarsSentUndo">Отмяна</string>
   <string name="StarsSubscribeButton">Абонирайте се</string>
   <string name="StarsSubscribeInfo">Като се абонирате, вие се съгласявате с **Условията за ползване**.</string>
