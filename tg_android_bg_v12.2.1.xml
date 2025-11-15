@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Bulgarian translation for Telegram app by Miroslav Todorov-->
+<!---->
 <resources>
   <string name="abc_action_bar_home_description">Придвижване към начало</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
@@ -264,6 +264,7 @@
   <string name="ActionForwardsEnabledGroup">un1 активира препращане от тази група</string>
   <string name="ActionForwardsRestrictedChannel">un1 забрани препращането от този канал</string>
   <string name="ActionForwardsRestrictedGroup">un1 забрани препращането от тази група</string>
+  <string name="ActionGiftAuctionSelf">Вие спечелихте търга с оферта от **un2**</string>
   <string name="ActionGiftChannel_one">**un1** изпрати подарък на **un2** за %d Звезда</string>
   <string name="ActionGiftChannel_other">**un1** изпрати подарък на **un2** за %d Звезди</string>
   <string name="ActionGiftInbound">un1 Ви изпрати подарък за **un2**</string>
@@ -1625,6 +1626,7 @@
   <string name="BotStatusCantRead">няма достъп до съобщенията</string>
   <string name="BotStatusRead">има достъп до съобщенията</string>
   <string name="BotUnblock">РЕСТАРТ</string>
+  <string name="BotUnblockNoCaps">Рестарт</string>
   <string name="BotUsernameHelp">Тази връзка не може да се редактира. Можете да придобиете допълнителни потребителски имена на *Fragment*.</string>
   <string name="BotUsernamesHelp">Плъзнете и пуснете връзки, за да промените реда, в който ще се показват на страницата с информация за бота.</string>
   <string name="BotUsers_one">%d потребител</string>
@@ -2174,8 +2176,11 @@
   <string name="ChannelInviteViaLinkRestricted3">Тези потребители не могат да бъдат поканени</string>
   <string name="ChannelJoin">ПРИСЪЕДИНЯВАНЕ</string>
   <string name="ChannelJoined">Присъединихте се към този канал</string>
+  <string name="ChannelJoinNoCaps">Присъединяване</string>
   <string name="ChannelJoinRequest">КАНДИДАТСТВАНЕ ЗА ПРИСЪЕДИНЕНЕ В ГРУПАТА</string>
+  <string name="ChannelJoinRequestNoCaps">Кандидатствайте за присъединяване към канала</string>
   <string name="ChannelJoinRequestSent">ЗАЯВКАТА ЗА ПРИСЪЕДИНЯВАНЕ Е ИЗПРАТЕНА</string>
+  <string name="ChannelJoinRequestSentNoCaps">Заявката за присъединяване е изпратена</string>
   <string name="ChannelLeaveAlert">Наистина ли напускате канала?</string>
   <string name="ChannelLeaveAlertWithName">Сигурни ли сте, че искате да напуснете **%1$s**?</string>
   <string name="ChannelLinkDirectMessages">Свържи към директни съобщения</string>
@@ -2209,6 +2214,7 @@
   <string name="ChannelMessageTodoDone2">%1$s зададе %2$s задачи</string>
   <string name="ChannelMessageVideo">%1$s публикува видео</string>
   <string name="ChannelMute">ЗАГЛУШИ</string>
+  <string name="ChannelMuteNoCaps">Заглуши</string>
   <string name="ChannelNeedBoostsDescription">Вашият канал се нуждае от %s, за да се разреши публикуването на истории.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
   <string name="ChannelNeedBoostsDescriptionForNewFeatures">**%1$s** изисква %2$s за отключване на нови функции.</string>
   <string name="ChannelNeedBoostsDescriptionNextLevel">Вашия канал се нуждае от %1$s, за да можете да публикувате **%2$s** на ден.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
@@ -2288,6 +2294,7 @@
   <string name="ChannelType">Тип на канала</string>
   <string name="ChannelTypeHeader">Тип на канала</string>
   <string name="ChannelUnmute">НЕ ЗАГЛУШАВАЙ</string>
+  <string name="ChannelUnmuteNoCaps">Не заглушавай</string>
   <string name="ChannelUserAddLimit">Съжаляваме, можете да добавяте само първите 200 членове на канала. Обърнете внимание, че неограничен брой хора могат да се присъединят към канала чрез връзка.</string>
   <string name="ChannelUserCantAdd">Съжаляваме, но вие не може да добавите потребителя в каналите.</string>
   <string name="ChannelUserCantAdmin">Съжаляваме, твърде много администратори в този канал.</string>
@@ -2521,6 +2528,7 @@
   <string name="ColorWhite">Бял</string>
   <string name="ColorYellow">Жълт</string>
   <string name="Comment">Коментиране</string>
+  <string name="CommentFor">Коментар за ⭐️%s</string>
   <string name="Comments_one">%1$d коментар</string>
   <string name="Comments_other">%1$d коментара</string>
   <string name="CommentsCount_one">%1$d коментар</string>
@@ -3762,6 +3770,7 @@
   <string name="Gift2ActionTitle">Подарък от</string>
   <string name="Gift2ActionTitleAnonymous">Получихте подарък!</string>
   <string name="Gift2ActionTitleInAnonymous">%s получи подарък!</string>
+  <string name="Gift2ActionTitleTo">Подарък за</string>
   <string name="Gift2ActionTransfer">Прехвърли</string>
   <string name="Gift2ActionUnlist">Скрий</string>
   <string name="Gift2ActionUpgrade">Докоснете „Разопаковане“, за да превърнете този подарък в уникална колекционерска вещ.</string>
@@ -3774,6 +3783,20 @@
   <string name="Gift2ActionWearNeededPremium">Абонирайте се за **Телеграм Премиум**, за да носите колекционерски вещи.</string>
   <string name="Gift2ActionWearOff">Свали</string>
   <string name="Gift2ActionWearOffDone">Свалихте **%s**</string>
+  <string name="Gift2ActionWonActionText">Купихте този подарък на търг за %s Звезди.</string>
+  <string name="Gift2ActiveAuctionsActiveAuctionsTitle">%d Активни търгове</string>
+  <string name="Gift2ActiveAuctionsActiveAuctionTitle">Активен търг</string>
+  <string name="Gift2ActiveAuctionsActiveBidActive" formatted="false">Вашата оферта **%s** е класирана **#%d**</string>
+  <string name="Gift2ActiveAuctionsActiveBidOutbid">Вашата оферта **%s** е наддадена</string>
+  <string name="Gift2ActiveAuctionsActiveRaiseBid">Повишете офертата</string>
+  <string name="Gift2ActiveAuctionsActiveRound" formatted="false">Рунд %s от %s</string>
+  <string name="Gift2ActiveAuctionsActiveStatusOutbid">Бяхте надхвърлен.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinning1Place">Първо място.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinning2Place">Второ място.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinning3Place">Трето място.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningAll">Вие печелите всички тях.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOne">Вие печелите (%s).</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOtherPlace">%d място.</string>
   <string name="Gift2AddedToCollection">**%1$s** добавен към **%2$s**.</string>
   <string name="Gift2AddedToCollectionMany_one">**%1$d подарък ** добавен към **%2$s**.</string>
   <string name="Gift2AddedToCollectionMany_other">**%1$d подаръци ** добавени към **%2$s**.</string>
@@ -3791,6 +3814,52 @@
   <string name="Gift2AttributeOriginalDetailsSelf">Подарен спасен от %1$s на %2$s.</string>
   <string name="Gift2AttributeOriginalDetailsSelfComment">Подарено от %1$s на %2$s с коментара: “%3$s”</string>
   <string name="Gift2AttributeSymbol">Символ</string>
+  <string name="Gift2AuctionAlreadyParticipate">Вече участвате в търг за **%s**. Можете да участвате само в един търг. Спечелете текущия кръг или изчакайте, докато бъдете премахнат от списъка с участници.</string>
+  <string name="Gift2AuctionAlreadyParticipateSelf">Вие вече участвате в търг. Можете да участвате само в един търг. Спечелете текущия кръг или изчакайте, докато бъдете премахнат от списъка с участници.</string>
+  <string name="Gift2AuctionAlreadyParticipateTitle">Търг</string>
+  <string name="Gift2AuctionBidInfoLeft">излез</string>
+  <string name="Gift2AuctionBidInfoMinimumBid">минимална оферта</string>
+  <string name="Gift2AuctionBidInfoUntilNextRound">до следващия кръг</string>
+  <string name="Gift2AuctionBidStatusFuture">Вашата оферта ще бъде</string>
+  <string name="Gift2AuctionBidStatusOutbid">Били сте надхвърлени</string>
+  <string name="Gift2AuctionBidStatusWinning">Вие печелите</string>
+  <string name="Gift2AuctionCountdownFinished">Завършен</string>
+  <string name="Gift2AuctionEnded">Търгът приключи.</string>
+  <string name="Gift2AuctionInfo_one" formatted="false">%d подарък се пуска на различни интервали до върховия %d наддавач по сума на офертата.</string>
+  <string name="Gift2AuctionInfo_other" formatted="false">%d подаръци се пускат на различни интервали до върховите %d наддавачи по сума на офертата.</string>
+  <string name="Gift2AuctionInfo2_one" formatted="false">Топ **%d** участникът в търга ще получи **%s**\nтози кръг.</string>
+  <string name="Gift2AuctionInfo2_other" formatted="false">Топ **%d** участниците в търга ще получат **%s**\nтози кръг.</string>
+  <string name="Gift2AuctionInfoLearnMore">**Научете повече &gt;**</string>
+  <string name="Gift2AuctionJoin">Присъединете се към търга</string>
+  <string name="Gift2AuctionPlaceABid">Направете оферта</string>
+  <string name="Gift2AuctionPlaceABidTitle">Направете оферта</string>
+  <string name="Gift2AuctionPlaceACustomBid">Поставете персонализирана оферта</string>
+  <string name="Gift2AuctionPlaceACustomBidHint">Ако паднете под първите %d, вашата оферта ще се прехвърли към следващия кръг.</string>
+  <string name="Gift2AuctionPlaceACustomBidHint2">Персонализирана оферта...</string>
+  <string name="Gift2AuctionPlaceBid">Направете  ⭐️%s Наддаване</string>
+  <string name="Gift2AuctionPriceJoin">Присъединяване</string>
+  <string name="Gift2AuctionPriceView">Преглед</string>
+  <string name="Gift2AuctionsAcquiredAcceptedBid">Приета оферта</string>
+  <string name="Gift2AuctionsAcquiredDate">Дата</string>
+  <string name="Gift2AuctionsAcquiredGifts_one">%1$d Купен подарък</string>
+  <string name="Gift2AuctionsAcquiredGifts_other">%1$d Купени подаръци</string>
+  <string name="Gift2AuctionsAcquiredRecipient">Получател</string>
+  <string name="Gift2AuctionsAcquiredRound">кръг #%1$d</string>
+  <string name="Gift2AuctionsAcquiredTop">ТОП %d</string>
+  <string name="Gift2AuctionsBidHasBeenIncreased">Вашата оферта е увеличена</string>
+  <string name="Gift2AuctionsBidHasBeenPlaced">Вашата оферта е направена</string>
+  <string name="Gift2AuctionsChangeRecipient">Промяна на получателя</string>
+  <string name="Gift2AuctionsChangeRecipient2" formatted="false">Вече сте направили оферта за този подарък за **%s.** Искате ли да повишите офертата си и да промените получателя на **%s?**</string>
+  <string name="Gift2AuctionsItemsBought_one" formatted="false">%d %s закупен артикул &gt;</string>
+  <string name="Gift2AuctionsItemsBought_other">%1$d %2$s закупени артикули &gt;</string>
+  <string name="Gift2AuctionTableCurrentAvailability">Наличност</string>
+  <string name="Gift2AuctionTableCurrentRound">Текущ кръг</string>
+  <string name="Gift2AuctionTableEnded">Приключи</string>
+  <string name="Gift2AuctionTableStarted">Започна</string>
+  <string name="Gift2AuctionTapToBidMore">докоснете, за да предложите повече</string>
+  <string name="Gift2AuctionTimeLeft">%s остава</string>
+  <string name="Gift2AuctionTop3Winners">Топ 3 победители</string>
+  <string name="Gift2AuctionYourBid">вашата оферта</string>
   <string name="Gift2Availability">Наличност</string>
   <string name="Gift2Availability2ValueNone_one">Нито един от %1$d не е останал</string>
   <string name="Gift2Availability2ValueNone_other">Нито един от %1$d не е останал</string>
@@ -3798,6 +3867,7 @@
   <string name="Gift2Availability4Value_other">%1$d от %2$s остава</string>
   <string name="Gift2AvailabilityLeft_other">%d остава</string>
   <string name="Gift2AvailabilitySold_other">%d продаден</string>
+  <string name="Gift2AveragePriceHint" formatted="false">**%d Stars** е средната продажна цена за **%s** подаръка.</string>
   <string name="Gift2ButtonSell_one">продай за %d Звезда</string>
   <string name="Gift2ButtonSell_other">продай за %d Звезди</string>
   <string name="Gift2ButtonSendGift">изпрати подарък</string>
@@ -3925,6 +3995,7 @@
   <string name="Gift2LearnMoreText">Нека %s превърне подаръка си в уникална колекционерска вещ.</string>
   <string name="Gift2LearnMoreTitle">Направете уникален</string>
   <string name="Gift2Limited1OfRibbon">1 от %s</string>
+  <string name="Gift2LimitedAuction">търг</string>
   <string name="Gift2LimitedPremium">премиум</string>
   <string name="Gift2LimitedRibbon">ограничен</string>
   <string name="Gift2LimitedSlider">Ограничен</string>
@@ -4083,8 +4154,10 @@
   <string name="Gift2To">До</string>
   <string name="Gift2ToBalance_one">Преобразуване в %d звезда</string>
   <string name="Gift2ToBalance_other">Преобразуване в %d звезди</string>
+  <string name="Gift2TransactionAuctionBid">Оферта за търг</string>
   <string name="Gift2TransactionConverted">Преобразуван подарък</string>
   <string name="Gift2TransactionPrepaidUpgrade">Надстройка на подаръци</string>
+  <string name="Gift2TransactionRefundedAuctionBid">Възстановена оферта за търг</string>
   <string name="Gift2TransactionRefundedConverted">Възстановен е преобразуван подарък</string>
   <string name="Gift2TransactionRefundedSent">Възстановен изпратен подарък</string>
   <string name="Gift2TransactionRefundedUpgrade">Възстановена надстройка за подарък</string>
@@ -4173,6 +4246,18 @@
   <string name="Gift2WearStart">Започнете да носите</string>
   <string name="Gift2WearSubtitle">и получете тези предимства</string>
   <string name="Gift2WearTitle">Носете %s</string>
+  <string name="GiftAuctionInfo1Header_one">Топ %d Наддаващ</string>
+  <string name="GiftAuctionInfo1Header_other">Топ %d Наддаващи</string>
+  <string name="GiftAuctionInfo1Text_one" formatted="false">%d подарък се пуска на различни интервали до първият %d наддавач по сума на офертата.</string>
+  <string name="GiftAuctionInfo1Text_other" formatted="false">%d подаръци се пускат на различни интервали до първите %d наддавачи по сума на офертата.</string>
+  <string name="GiftAuctionInfo2Header">Пренасяне на оферта</string>
+  <string name="GiftAuctionInfo2Text_one">Ако вашата оферта надхвърли върха %d, тя автоматично ще се присъедини към следващия кръг.</string>
+  <string name="GiftAuctionInfo2Text_other">Ако вашата оферта нядхвърли върха %d, тя автоматично ще се присъедини към следващия кръг.</string>
+  <string name="GiftAuctionInfo3Header">Пропуснати наддавачи</string>
+  <string name="GiftAuctionInfo3Text">Ако офертата ви не спечели след последния кръг, вашите звезди ще бъдат напълно възстановени.</string>
+  <string name="GiftAuctionInfoHeader">Търг</string>
+  <string name="GiftAuctionInfoText">Включете се в битката за изключителни подаръци.</string>
+  <string name="GiftAuctionNotFound">Търгът за подаръци не беше намерен</string>
   <string name="GiftCollectionSharedTo">Колекция от подаръци, препратена на **%s**.</string>
   <string name="GiftCollectionSharedToManyChats_one">Колекция подаръци, препратена до ** чат **.</string>
   <string name="GiftCollectionSharedToManyChats_other">"Колекция подаръци, препратена на **%1$d "</string>
@@ -4353,8 +4438,11 @@
   <string name="GroupEmptyTitle1">Създадохте **група**.</string>
   <string name="GroupEmptyTitle2">Групите могат да имат:</string>
   <string name="GroupJoin">ПРИСЪЕДИНЯВАНЕ</string>
+  <string name="GroupJoinNoCaps">Присъединяване</string>
   <string name="GroupJoinRequest">КАНДИДАТСТВАЙТЕ ЗА ПРИСЪЕДИНЯВАНЕ КЪМ ГРУПАТА</string>
+  <string name="GroupJoinRequestNoCaps">Кандидатствайте за присъединяване към групата</string>
   <string name="GroupJoinRequestSent">ЗАЯВКАТА ЗА ПРИСЪЕДИНЯВАНЕ Е ИЗПРАТЕНА</string>
+  <string name="GroupJoinRequestSentNoCaps">Заявката за присъединяване е изпратена</string>
   <string name="GroupMembers">Членове</string>
   <string name="GroupMembersChartTitle">Членове на групата</string>
   <string name="GroupMessagesChargePrice">Зареждайте звезди за съобщения</string>
@@ -4438,6 +4526,7 @@
   <string name="HideNextViewsDescription">Скриване на преглежданията ми през следващите 25 минути.</string>
   <string name="HideOnTop">Скрий</string>
   <string name="HidePinnedMessages">СКРИВАНЕ НА ЗАКАЧЕНИТЕ СЪОБЩЕНИЯ</string>
+  <string name="HidePinnedMessagesNoCaps">Скриване на закачените съобщения</string>
   <string name="HideReadTime">Скрий времето на прочитане</string>
   <string name="HideReadTimeInfo">Скрийте времето, когато четете съобщения от хора, които не могат да видят вашето последно посещение. Ако включите това, тяхното време на прочитане също ще бъде скрито от вас.\nТази настройка не засяга груповите чатове.</string>
   <string name="HideRecentViews">Скриване на последните преглеждания</string>
@@ -4848,10 +4937,11 @@
   <string name="LiteOptionsAutoplayReactions">Автоматично пускане в менюто за реакции</string>
   <string name="LiteOptionsAutoplayVideo">Автоматично пускане на видеоклипове</string>
   <string name="LiteOptionsBackground">Завъртане на фона</string>
-  <string name="LiteOptionsBlur">Замъгляване на нощната тема</string>
+  <string name="LiteOptionsBlur2">Замъгляване</string>
   <string name="LiteOptionsCalls">Анимации в разговорите</string>
   <string name="LiteOptionsChat">Анимации в чатовете</string>
   <string name="LiteOptionsEmoji">Анимирани емотикони</string>
+  <string name="LiteOptionsLiquidGlass">Течно стъкло</string>
   <string name="LiteOptionsParticles">Частици</string>
   <string name="LiteOptionsScale">Увеличаване на анимациите</string>
   <string name="LiteOptionsSpoiler">Анимиран ефект на спойлерите</string>
@@ -4867,6 +4957,49 @@
   <string name="LiveLocationAlertPrivate">Изберете за колко време %1$s ще вижда точното ви местоположение.</string>
   <string name="LiveLocationContext">Локация на живо</string>
   <string name="LiveLocations">ЛОКАЦИИ НА ЖИВО</string>
+  <string name="LiveStoryAdminRole">администратор</string>
+  <string name="LiveStoryAlreadyStreaming">Вече сте пуснали излъчване на живо.</string>
+  <string name="LiveStoryAlreadyStreamingTitle">Вече сте на живо</string>
+  <string name="LiveStoryBadge">НА ЖИВО</string>
+  <string name="LiveStoryCommentPlaceholder">Коментирай</string>
+  <string name="LiveStoryCommentsDisabled">Коментарите са деактивирани</string>
+  <string name="LiveStoryDisconnected">Няма излъчване</string>
+  <string name="LiveStoryDisconnectedContinue">Продължаване на излъчването</string>
+  <string name="LiveStoryEnd">Край на предаването на живо</string>
+  <string name="LiveStoryEndAlertButton">Спри</string>
+  <string name="LiveStoryEndAlertText">Сигурни ли сте, че искате да спрете излъчването на живо?</string>
+  <string name="LiveStoryEndAlertTitle">Край на предаването на живо</string>
+  <string name="LiveStoryHighlightFeatureEmoji">емотикони</string>
+  <string name="LiveStoryHighlightFeatureLength">герои</string>
+  <string name="LiveStoryHighlightFeaturePin">закачване в чата</string>
+  <string name="LiveStoryHighlightHint">Докоснете тук, за да маркирате съобщение</string>
+  <string name="LiveStoryHighlightText">Маркирайте и закачете вашето съобщение, като добавите звезди за **%s**</string>
+  <string name="LiveStoryHighlightTitle">Маркирай и закачи</string>
+  <string name="LiveStoryMessageEditStars">Редактиране на звезди</string>
+  <string name="LiveStoryMessageRemoveStars">Премахване на звезди</string>
+  <string name="LiveStoryMessageSent">Изпратено %s</string>
+  <string name="LiveStoryPeerChange">промяна &gt;</string>
+  <string name="LiveStoryPricePerComment">Цена на коментар</string>
+  <string name="LiveStoryPricePerCommentFree">Безплатно</string>
+  <string name="LiveStoryPricePerCommentInfo">Цената, която зрителят трябва да плати, за да изпрати коментар.</string>
+  <string name="LiveStoryReactAdminCant">Не можете да изпращате звездни реакции към собствена история на живо.</string>
+  <string name="LiveStoryReactAdminEmptyText">Зрителите могат да ви изпращат звездни реакции и най-добрите податели ще се показват тук.</string>
+  <string name="LiveStoryReactAdminText">Зрителите могат да ви изпращат звездни реакции.</string>
+  <string name="LiveStoryReactAdminTitle">Получавайте звезди от зрителите</string>
+  <string name="LiveStoryReactText">Маркирайте и закачете вашето съобщение, като изпратите звезди на **%s**</string>
+  <string name="LiveStoryReactTitle">Реагиране със звезди</string>
+  <string name="LiveStoryRTMPDisable">Излъчвайте на живо от вашият телефон</string>
+  <string name="LiveStoryRTMPEnable">Свържете излъчване</string>
+  <string name="LiveStoryRTMPEnableInfo">Излъчвайте с друго приложение.</string>
+  <string name="LiveStoryRTMPRevoke">Отмяна на ключа за излъчване</string>
+  <string name="LiveStoryRTMPSettings">RTMP настройки</string>
+  <string name="LiveStorySettings">Настройки на живо излъчване</string>
+  <string name="LiveStorySettingsHeader">Настройки на живо излъчване</string>
+  <string name="LiveStoryStart">Стартирайте излъчване на живо</string>
+  <string name="LiveStoryTopPanelWatching_one">%d гледа</string>
+  <string name="LiveStoryTopPanelWatching_other">%d гледат</string>
+  <string name="LiveStoryWatching_one">%d гледа</string>
+  <string name="LiveStoryWatching_other">%d гледат</string>
   <string name="LiveStreamWillNotify">Ще бъдете уведомени, когато излъчването на живо започне.</string>
   <string name="LiveStreamWillNotNotify">Няма да бъдете уведомени, когато излъчването на живо започне.</string>
   <string name="Loading">Зарежда се...</string>
@@ -5076,6 +5209,35 @@
   <string name="MessageScheduledLimitReached">За съжаление не можете да планирате повече от 100 съобщения.</string>
   <string name="MessageScheduledOn">Насрочено за %1$s</string>
   <string name="MessageScheduledReminderNotification">📅 Напомняне</string>
+  <string name="MessageScheduledRepeatBiweekly">двуседмично</string>
+  <string name="MessageScheduledRepeatDaily">ежедневно</string>
+  <string name="MessageScheduledRepeatDeleteAll">Изтриване на всички бъдещи съобщения</string>
+  <string name="MessageScheduledRepeatDeletePostponeDays_one">Отложи до %d ден</string>
+  <string name="MessageScheduledRepeatDeletePostponeDays_other">Отложи до %d дни</string>
+  <string name="MessageScheduledRepeatDeletePostponeMonths_one">Отложи до %d месец</string>
+  <string name="MessageScheduledRepeatDeletePostponeMonths_other">Отложи до %d месеца</string>
+  <string name="MessageScheduledRepeatDeletePostponeSeconds">Отложи до %ds</string>
+  <string name="MessageScheduledRepeatDeletePostponeWeeks_one">Отложи до %d седмица</string>
+  <string name="MessageScheduledRepeatDeletePostponeWeeks_other">Отложи до %d седмици</string>
+  <string name="MessageScheduledRepeatDeletePostponeYear">Отлагане с 1 година</string>
+  <string name="MessageScheduledRepeatDeleteText">Сигурни ли сте, че искате да изтриете това насрочено съобщение? Това е повтарящо се съобщение.</string>
+  <string name="MessageScheduledRepeatDeleteTitle">Изтриване на повтарящо се съобщение</string>
+  <string name="MessageScheduledRepeatMonthly">месечно</string>
+  <string name="MessageScheduledRepeatMonthlyMany_one">%d-месчно</string>
+  <string name="MessageScheduledRepeatMonthlyMany_other">%d-месечно</string>
+  <string name="MessageScheduledRepeatOption">Повторяне:</string>
+  <string name="MessageScheduledRepeatOption3Monthly">На всеки 3 месеца</string>
+  <string name="MessageScheduledRepeatOption6Monthly">На всеки 6 месеца</string>
+  <string name="MessageScheduledRepeatOptionBiweekly">Двуседмично</string>
+  <string name="MessageScheduledRepeatOptionDaily">Ежедневно</string>
+  <string name="MessageScheduledRepeatOptionMonthly">Месечно</string>
+  <string name="MessageScheduledRepeatOptionNever">Никога</string>
+  <string name="MessageScheduledRepeatOptionWeekly">Ежеседмично</string>
+  <string name="MessageScheduledRepeatOptionYearly">Годишно</string>
+  <string name="MessageScheduledRepeatPremium">Абонирайте се за **Телеграм Премиум**, за да планирате повтарящи се съобщения.</string>
+  <string name="MessageScheduledRepeatSeconds">на всеки %1$ds</string>
+  <string name="MessageScheduledRepeatWeekly">седмично</string>
+  <string name="MessageScheduledRepeatYearly">годишно</string>
   <string name="MessageScheduledTodo">Контролен списък ще стане достъпен след публикуването на съобщението.</string>
   <string name="MessageScheduledUntilOnline">График докато сте онлайн</string>
   <string name="MessageScheduledVote">Гласуването ще стане достъпно след публикуването на съобщението.</string>
@@ -5732,6 +5894,8 @@
   <string name="OpenFile">ОТВАРЯНЕ НА ФАЙЛА</string>
   <string name="OpenFragment">Отвори фрагмент</string>
   <string name="OpenGift">ОТВОРИ</string>
+  <string name="OpenGiftAuctionActive">ПРИСЪЕДИНЯВАНЕ</string>
+  <string name="OpenGiftAuctionResults">ВИЖТЕ РЕЗУЛТАТИТЕ</string>
   <string name="OpenGroup">ВИЖ ГРУПАТА</string>
   <string name="OpenGroup2">Отваряне на група</string>
   <string name="OpenInBrowser">ОТВАРЯНЕ В...</string>
@@ -6534,6 +6698,7 @@
   <string name="PrivacyGiftsShowIcon">Показване на икона за подаръци в чатовете</string>
   <string name="PrivacyGiftsShowIconInfo">Показване на %s Подарък в полето за въвеждане на съобщения и за двамата участници във всички чатове.</string>
   <string name="PrivacyGiftsTitle">Кой може да показва подаръци в моя профил</string>
+  <string name="PrivacyGiftsTypeFromChannels">От канали</string>
   <string name="PrivacyGiftsTypeHeader">Разрешени типове подаръци</string>
   <string name="PrivacyGiftsTypeInfo">Изберете видовете подаръци, които позволявате на другите да ви изпращат.</string>
   <string name="PrivacyGiftsTypeLimited">Ограничено издание</string>
@@ -6553,6 +6718,10 @@
   <string name="PrivacyMessagesTitle">Кой може да ми изпраща съобщения?</string>
   <string name="PrivacyMiniapps">Мини приложения и ботове</string>
   <string name="PrivacyMiniappsText">всички ботове</string>
+  <string name="PrivacyMusic">Запазена музика</string>
+  <string name="PrivacyMusicInfo">Можете да ограничите кой може да вижда вашата музика с детайлна точност.</string>
+  <string name="PrivacyMusicInfo3">Можете да добавяте потребители или цели групи, които няма да виждат вашата музика.</string>
+  <string name="PrivacyMusicTitle">Кой може да вижда моята запазена музика в профила?</string>
   <string name="PrivacyP2P">Разговори в партньорска мрежа</string>
   <string name="PrivacyP2P2">Използване на партньорска мрежа с с</string>
   <string name="PrivacyP2PHeader">Партньорска мрежа</string>
@@ -6587,6 +6756,8 @@
   <string name="PrivacyUserTypes">Типове потребители</string>
   <string name="PrivacyValueBots">Мини приложения</string>
   <string name="PrivacyValueBotsAnd">Мини приложения и %s</string>
+  <string name="PrivacyValueChannels">Канали</string>
+  <string name="PrivacyValueChannelsAnd">Канали и %s</string>
   <string name="PrivacyValueEveryoneExceptBots">Освен мини приложения</string>
   <string name="PrivacyValueEveryoneExceptBotsMinus">Освен мини приложения (-%1$d)</string>
   <string name="PrivacyValueGiftsNone">Без</string>
@@ -7020,6 +7191,8 @@
   <string name="ReportInfo">Моля, въведете всички допълнителни подробности, свързани с вашия отчет.</string>
   <string name="ReportMessages">ДОКЛАДВАНЕ НА СЪОБЩЕНИЯ</string>
   <string name="ReportMessagesCount">ДОКЛАДВАЙ %1$s</string>
+  <string name="ReportMessagesCountNoCaps">Докладвай %1$s</string>
+  <string name="ReportMessagesNoCaps">Докладвайте съобщения</string>
   <string name="ReportProfilePhoto">Докладвай</string>
   <string name="ReportReaction">Докладвайте реакция</string>
   <string name="ReportReactionAndBan">Блокирай и докладвай</string>
@@ -7226,8 +7399,11 @@
   <string name="SavedMessagesProfileHint">Съобщенията, които сте изпратили в Запазени съобщения</string>
   <string name="SavedMessagesTab2">Запазено</string>
   <string name="SavedOpenChannel">ОТВОРИ КАНАЛА</string>
+  <string name="SavedOpenChannelNoCaps">Отворете канала</string>
   <string name="SavedOpenChat">ОТВОРИ ЧАТА</string>
+  <string name="SavedOpenChatNoCaps">Отворете чата</string>
   <string name="SavedOpenGroup">ОТВОРИ ГРУПАТА</string>
+  <string name="SavedOpenGroupNoCaps">Отворете групата</string>
   <string name="SavedStories">Запазени истории</string>
   <string name="SavedTagFilterByTag">Филтриране по етикет</string>
   <string name="SavedTagHideOtherMessages">Скриване на другите съобщения</string>
@@ -7933,6 +8109,7 @@
   <string name="Stars_other">%d звезди</string>
   <string name="StarsAcquired">Придобити звезди!</string>
   <string name="StarsAcquiredInfo_other">**%d Звезди** са добавени към вашия баланс.</string>
+  <string name="StarsAddHighlightedMessage">Добавете ⭐️%s</string>
   <string name="StarsBalance">Баланс</string>
   <string name="StarsBotSubscriptionCompleted">Абонаментът е закупен!</string>
   <string name="StarsBotSubscriptionCompletedInfo_other">Вие се абонирахте за **%2$s** в **%3$s** за **%1$d Звезди**/месец.</string>
@@ -7989,6 +8166,7 @@
   <string name="StarsMediaPurchaseCompletedInfo_other">**%1$d звезди** прехвърлени на **%2$s**.</string>
   <string name="StarsNano">Звезди</string>
   <string name="StarsNeededBizText">Купете **Звезди** и ги използвайте в **%s** и бизнеси.</string>
+  <string name="StarsNeededLiveComments">Купете **Звезди**, за да подчертаете коментари в истории на живо и да изпратите звездни реакции.</string>
   <string name="StarsNeededRemoveGiftDescription">Купете ** Звезди **, за да премахнете описанията на подаръците.</string>
   <string name="StarsNeededText">Купете **Звезди** и ги използвайте в **%s** и други мини приложения.</string>
   <string name="StarsNeededTextBuySubscription">Купете **Stars** и се абонирайте за **%s** и други канали.</string>
@@ -8030,7 +8208,10 @@
   <string name="StarsReactionTextSent_other">Вие изпратихте **%1$d** звезди в подкрепа на този пост.</string>
   <string name="StarsReactionTitle">Звездна реакция</string>
   <string name="StarsReactionTitle2">Звездна реакция</string>
+  <string name="StarsReactionTop">ТОП</string>
   <string name="StarsReactionTopSenders">Топ податели</string>
+  <string name="StarsReactionTopX_one">ТОП %d</string>
+  <string name="StarsReactionTopX_other">ТОП %d</string>
   <string name="StarsRefunded">Възстановяване</string>
   <string name="StarsSentAnonymouslyTitle">Звезди изпратени анонимно!</string>
   <string name="StarsSentText_one">Вие реагирахте с **%d** звезда.</string>
@@ -8105,6 +8286,7 @@
   <string name="StarsTransactionID">Номер на транзакцията</string>
   <string name="StarsTransactionIDCopied">Номерът на транзакцията е копиран в клипборда</string>
   <string name="StarsTransactionInApp">Покупка в приложението</string>
+  <string name="StarsTransactionLiveStoryMessageFee">Такса за коментар на история на живо</string>
   <string name="StarsTransactionMedia">Медия</string>
   <string name="StarsTransactionMessage">Публикувай</string>
   <string name="StarsTransactionMessageFee_one">Такса за %d съобщение</string>
@@ -8381,6 +8563,20 @@
   <string name="StoryLinkPreviewSubtitle">Можете да персонализирате връзката си</string>
   <string name="StoryLinkPreviewTitle">Преглед на връзката</string>
   <string name="StoryLinkURLPlaceholder">Въведете URL</string>
+  <string name="StoryLive">На живо</string>
+  <string name="StoryLiveAllowComments">Разрешаване на коментари</string>
+  <string name="StoryLiveBlockList_one">**%d потребител** няма да вижда вашите истории.</string>
+  <string name="StoryLiveBlockList_other">**%d потребители** няма да виждат вашите истории.</string>
+  <string name="StoryLiveBlockListEmpty">**Изберете потребители**, които няма да ви виждат на живо.</string>
+  <string name="StoryLiveKeepChannelInfo">Поддържайте това излъчване на живо в профила на канала.</string>
+  <string name="StoryLiveKeepGroupInfo">Поддържайте това излъчване на живо в профила на групата.</string>
+  <string name="StoryLiveKeepInfo">Поддържайте това излъчване на живо във вашия профил.</string>
+  <string name="StoryLiveNotificationSingle">стартира излъчване на живо!</string>
+  <string name="StoryLivePrivacyAlertSubtitleProfile">Изберете кой може да гледа вашето излъчване на живо</string>
+  <string name="StoryLivePrivacyAlertTitle">Стартирайте излъчване на живо</string>
+  <string name="StoryLivePrivacyButtonPost">Стартирайте излъчване на живо</string>
+  <string name="StoryLivePrivacyPublishAs">Започнете излъчване като</string>
+  <string name="StoryLivePrivacyWhoCanView">Кой може да гледа това на излъчване</string>
   <string name="StoryMentionedAction">Вижте историята</string>
   <string name="StoryMentionedTitle">**%s** ви спомена в история.</string>
   <string name="StoryMentionInDialog">Споменати сте в история</string>
@@ -8455,6 +8651,7 @@
   <string name="StoryPrivacyOptionSelectedContacts">Избрани контакти</string>
   <string name="StoryPrivacyOptionSelectedContactsDetail">редактиране на списъка</string>
   <string name="StoryPrivacyPublishAs">Публикувай историята като</string>
+  <string name="StoryPrivacyPublishLiveAs">Излъчване като</string>
   <string name="StoryPrivacyRecipients_one">%d получател</string>
   <string name="StoryPrivacyRecipients_other">%d получатели</string>
   <string name="StoryPrivacyWhoCanView">Кой може да види вашата история</string>
@@ -9050,6 +9247,7 @@
   <string name="Unmute">Не заглушавай</string>
   <string name="UnmuteNotifications">Не заглушавай</string>
   <string name="UnpinAllMessages">ОТКАЧИ ВСИЧКИ СЪОБЩЕНИЯ</string>
+  <string name="UnpinAllMessagesNoCaps">Откачване на всички съобщения</string>
   <string name="UnpinFromTop">Откачи отгоре</string>
   <string name="UnpinMessage">Откачи</string>
   <string name="UnpinMessageAlert">Искате ли да откачите това съобщение?</string>
@@ -9438,6 +9636,7 @@
   <string name="VoipChatStreamSettings">Настройки на излъчването</string>
   <string name="VoipChatStreamWithAnotherApp">Можете също да излъчвате с **друго приложение &gt;**</string>
   <string name="VoipChatStreamWithAnotherAppDescription">След като започнете да излъчвате в приложението си за излъчване, докоснете Стартиране на излъчване по-долу.</string>
+  <string name="VoipChatStreamWithAnotherAppDescriptionStory">След като започнете да излъчвате в приложението си за излъчване, докоснете Свързване на излъчване по-долу.</string>
   <string name="VoipChatUserJoined">**%1$s** се присъедини към гласовия чат.</string>
   <string name="VoipConference">Текущ видео чат</string>
   <string name="VoipConferenceAddPeople">Добавете член</string>
