@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!---->
+<!--///\\\**Потреботелски превод за приложението Телеграм от Мирослав Тодоров**///\\\**Custom translation for Telegram app by Miroslav Todorov**///\\\-->
 <resources>
   <string name="abc_action_bar_home_description">Придвижване към начало</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
@@ -3796,7 +3796,11 @@
   <string name="Gift2ActiveAuctionsActiveStatusWinning3Place">Трето място.</string>
   <string name="Gift2ActiveAuctionsActiveStatusWinningAll">Вие печелите всички тях.</string>
   <string name="Gift2ActiveAuctionsActiveStatusWinningOne">Вие печелите (%s).</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOtherNd">%dnd място</string>
   <string name="Gift2ActiveAuctionsActiveStatusWinningOtherPlace">%d място.</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOtherRd">%drd място</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOtherSt">%dst място</string>
+  <string name="Gift2ActiveAuctionsActiveStatusWinningOtherTh">%dth място</string>
   <string name="Gift2AddedToCollection">**%1$s** добавен към **%2$s**.</string>
   <string name="Gift2AddedToCollectionMany_one">**%1$d подарък ** добавен към **%2$s**.</string>
   <string name="Gift2AddedToCollectionMany_other">**%1$d подаръци ** добавени към **%2$s**.</string>
@@ -3819,6 +3823,7 @@
   <string name="Gift2AuctionAlreadyParticipateTitle">Търг</string>
   <string name="Gift2AuctionBidInfoLeft">излез</string>
   <string name="Gift2AuctionBidInfoMinimumBid">минимална оферта</string>
+  <string name="Gift2AuctionBidInfoUntilEndRound">последен кръг</string>
   <string name="Gift2AuctionBidInfoUntilNextRound">до следващия кръг</string>
   <string name="Gift2AuctionBidStatusFuture">Вашата оферта ще бъде</string>
   <string name="Gift2AuctionBidStatusOutbid">Били сте надхвърлени</string>
@@ -3830,7 +3835,11 @@
   <string name="Gift2AuctionInfo2_one" formatted="false">Топ **%d** участникът в търга ще получи **%s**\nтози кръг.</string>
   <string name="Gift2AuctionInfo2_other" formatted="false">Топ **%d** участниците в търга ще получат **%s**\nтози кръг.</string>
   <string name="Gift2AuctionInfoLearnMore">**Научете повече &gt;**</string>
+  <string name="Gift2AuctionInfoLearnMore2_one" formatted="false">%d подарък се пуска на различни интервали до топ %d наддавач по сума на офертата. **Научете повече &gt;**</string>
+  <string name="Gift2AuctionInfoLearnMore2_other" formatted="false">%d подаръка се пускат на различни интервали до топ %d наддавачи по сума на офертата. **Научете повече &gt;**</string>
   <string name="Gift2AuctionJoin">Присъединете се към търга</string>
+  <string name="Gift2AuctionMinimumBidIncreased_one">Трябва да предложите поне **%d звезда**.</string>
+  <string name="Gift2AuctionMinimumBidIncreased_other">Трябва да предложите поне **%d звезди**.</string>
   <string name="Gift2AuctionPlaceABid">Направете оферта</string>
   <string name="Gift2AuctionPlaceABidTitle">Направете оферта</string>
   <string name="Gift2AuctionPlaceACustomBid">Поставете персонализирана оферта</string>
@@ -3850,8 +3859,8 @@
   <string name="Gift2AuctionsBidHasBeenPlaced">Вашата оферта е направена</string>
   <string name="Gift2AuctionsChangeRecipient">Промяна на получателя</string>
   <string name="Gift2AuctionsChangeRecipient2" formatted="false">Вече сте направили оферта за този подарък за **%s.** Искате ли да повишите офертата си и да промените получателя на **%s?**</string>
-  <string name="Gift2AuctionsItemsBought_one" formatted="false">%d %s закупен артикул &gt;</string>
-  <string name="Gift2AuctionsItemsBought_other">%1$d %2$s закупени артикули &gt;</string>
+  <string name="Gift2AuctionsItemsBought2_one">%1$d %2$s закупен артикул &gt;</string>
+  <string name="Gift2AuctionsItemsBought2_other">%1$d %2$s закупени артикула &gt;</string>
   <string name="Gift2AuctionTableCurrentAvailability">Наличност</string>
   <string name="Gift2AuctionTableCurrentRound">Текущ кръг</string>
   <string name="Gift2AuctionTableEnded">Приключи</string>
@@ -4113,6 +4122,8 @@
   <string name="Gift2SentRemainsLimit_one">Можете да изпратите още **%d**.</string>
   <string name="Gift2SentRemainsLimit_other">Можете да изпратите още **%d**.</string>
   <string name="Gift2ShowGift">Показване</string>
+  <string name="Gift2SoldAuctionPreviewGifts_one">%d Подарък</string>
+  <string name="Gift2SoldAuctionPreviewGifts_other">%d Подаръка</string>
   <string name="Gift2SoldOut">разпродадено</string>
   <string name="Gift2SoldOutCount_one">Всички %d подаръци вече бяха продадени.</string>
   <string name="Gift2SoldOutCount_other">Всички %d подаръци вече бяха продадени.</string>
@@ -4992,6 +5003,8 @@
   <string name="LiveStoryRTMPEnable">Свържете излъчване</string>
   <string name="LiveStoryRTMPEnableInfo">Излъчвайте с друго приложение.</string>
   <string name="LiveStoryRTMPRevoke">Отмяна на ключа за излъчване</string>
+  <string name="LiveStoryRTMPRevokeText">Сигурни ли сте, че искате да генерирате отново своя ключ за излъчване?</string>
+  <string name="LiveStoryRTMPRevokeTitle">Отмяна на ключа за излъчване</string>
   <string name="LiveStoryRTMPSettings">RTMP настройки</string>
   <string name="LiveStorySettings">Настройки на живо излъчване</string>
   <string name="LiveStorySettingsHeader">Настройки на живо излъчване</string>
