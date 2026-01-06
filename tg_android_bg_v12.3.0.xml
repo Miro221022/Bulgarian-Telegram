@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--///\\\**Потреботелски превод за приложението Телеграм от Мирослав Тодоров**///\\\**Custom translation for Telegram app by Miroslav Todorov**///\\\-->
 <resources>
   <string name="abc_action_bar_home_description">Придвижване към начало</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
@@ -2316,6 +2315,7 @@
   <string name="Characters_one">%1$d символ</string>
   <string name="Characters_other">%1$d символа</string>
   <string name="CharactersPerMessage">%s на съобщение</string>
+  <string name="ChartInXTR">%s в Звезди</string>
   <string name="ChatAdmin">админ</string>
   <string name="ChatApplyTheme">Приложи темата</string>
   <string name="ChatArchived">Чатът е архивиран.</string>
@@ -2514,6 +2514,16 @@
   <string name="CloseTopic">Затвори темата</string>
   <string name="CloseTopics">Затвори темите</string>
   <string name="CloseTranslation">Затвори превода</string>
+  <string name="CocoonFeature1Text">Никоя трета страна няма достъп до данни, като например преводи, в **@cocoon**</string>
+  <string name="CocoonFeature1Title">Поверително</string>
+  <string name="CocoonFeature2Text">Cocoon позволи на Телеграм да намали разходите за превод с 6 пъти.</string>
+  <string name="CocoonFeature2Title">Ефективно</string>
+  <string name="CocoonFeature3Text">Всеки разработчик може да използва Cocoon за AI функции. Научете повече на**cocoon.org**</string>
+  <string name="CocoonFeature3Title">За всеки</string>
+  <string name="CocoonFooter">Искате ли да интегрирате Cocoon във вашите проекти?\nОбърнете се към **t.me/cocoon?direct**</string>
+  <string name="CocoonPoweredBy">Преводите се предоставят от\n**🥚 Cocoon**.</string>
+  <string name="CocoonPoweredByLink">**Как работи?**</string>
+  <string name="CocoonSubtitle">Cocoon (**По**верителна **Из**числителна **О**творена **М**режа)\nсе справя безопасно и ефективно с AI задачи.</string>
   <string name="Code">Код</string>
   <string name="CodeCopied">Кодът е копиран в клипборда</string>
   <string name="CodeExpired">Кодът изтече, влезте отново</string>
@@ -3844,6 +3854,7 @@
   <string name="Gift2AuctionCountdownFinished">Завършен</string>
   <string name="Gift2AuctionCountdownStartsIn">започва след %s</string>
   <string name="Gift2AuctionEnded">Търгът приключи.</string>
+  <string name="Gift2AuctionEndedNoDot">Търгът приключи</string>
   <string name="Gift2AuctionInfo_one" formatted="false">%d подарък се пуска на различни интервали до върховия %d наддавач по сума на офертата.</string>
   <string name="Gift2AuctionInfo_other" formatted="false">%d подаръци се пускат на различни интервали до върховите %d наддавачи по сума на офертата.</string>
   <string name="Gift2AuctionInfo2_one" formatted="false">Топ **%d** участникът в търга ще получи **%s**\nтози кръг.</string>
@@ -4092,6 +4103,7 @@
   <string name="Gift2PrepayUpgradeText">Нека %s превърнете подаръка си в уникален подарък.</string>
   <string name="Gift2PrepayUpgradeTitle">Направи уникален</string>
   <string name="Gift2PreviewRandomTraits">Случайни черти</string>
+  <string name="Gift2PreviewSelectedTraits">Избрани черти</string>
   <string name="Gift2PriceUnique">Уникален</string>
   <string name="Gift2ProfileInvisible4">Този подарък е скрит. ** Показване на профила&gt; **</string>
   <string name="Gift2ProfileMakeInvisible">Скриване от страницата ми</string>
@@ -6167,6 +6179,8 @@
   <string name="PasskeyFeatureTitle">Защитете акаунта си</string>
   <string name="PasskeyInfo">Вашият ключ за достъп се съхранява сигурно във вашия мениджър на пароли. **Научете повече &gt;**</string>
   <string name="PasskeyLastUsedOn">Последно използван %s</string>
+  <string name="PasskeyNoOptionsText">Инсталирайте приложение, което поддържа запазване на пароли на вашия телефон или физически счетоводни книги.</string>
+  <string name="PasskeyNoOptionsTitle">Няма приложение за ключове</string>
   <string name="PasskeyPopupText">Влезте с вашето лице, пръстов отпечатък или заключване на екрана</string>
   <string name="PasskeyPopupTitle">🔑 Защитете акаунта си</string>
   <string name="PasskeyTopInfo">Управлявайте своя ключ за достъп, съхраняван безопасно в облачната услуга, която изберете.</string>
@@ -8198,6 +8212,19 @@
   <string name="SponsoredMessageInfo2Description4">Рекламите вече не трябва да бъдат синоним на злоупотреба с поверителността на потребителите. Нека предефинираме как трябва да работи една технологична компания - заедно.</string>
   <string name="SponsoredMessageSponsor">Информация за рекламодателя</string>
   <string name="SponsoredMessageSponsorReportable">Информация за спонсора</string>
+  <string name="StakeDiceActionLost">un1 загуби 💎 %s</string>
+  <string name="StakeDiceActionWon">un1 спечели 💎 %s</string>
+  <string name="StakeDiceActionYouLost">Загубихте 💎 %s</string>
+  <string name="StakeDiceActionYouWon">Спечелихте 💎 %s</string>
+  <string name="StakeDiceButton">Запазване и пускане</string>
+  <string name="StakeDicePlaceholder">Вашият залог</string>
+  <string name="StakeDiceReturns">Резултати и връщания</string>
+  <string name="StakeDiceReturnsInfo">Серия се нулира след 3 🎲 или промяна на залога.</string>
+  <string name="StakeDiceText">Ограничен тест за игра на предстоящата платформа за мини-игри с емотикони за малка група потребители.</string>
+  <string name="StakeDiceTitle">Емоджи залог</string>
+  <string name="StakeDiceTitleBeta">Бета</string>
+  <string name="StakeDiceToast">Вашият залог: 💎</string>
+  <string name="StakeDiceToastButton">Изпрати</string>
   <string name="StarAffiliate">Партньор</string>
   <string name="StarAffiliateCommission">Комисионна</string>
   <string name="StarAffiliateMiniApp">Мини приложение</string>
@@ -8986,6 +9013,8 @@
   <string name="SuggestUserPhoto">Предложете снимка за %s</string>
   <string name="SuggestVideo">Предложете видео</string>
   <string name="SuggestVideoAlertMessage">Искате ли да предложите на **%s** да зададе този видеоклип за своя профил?</string>
+  <string name="SummarySubtitle">Докоснете, за да видите оригиналния текст</string>
+  <string name="SummaryTitle">AI Резюме</string>
   <string name="Support">Поддръжка</string>
   <string name="SupportStatus">поддръжка</string>
   <string name="SwipeDeleteChat">Изтриване</string>
