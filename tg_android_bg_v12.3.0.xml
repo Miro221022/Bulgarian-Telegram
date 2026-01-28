@@ -1328,7 +1328,7 @@
   <string name="BoostingReassignBoostTextPluralWithLink_other">За подкрепа на **%2$s**, преназначете предишни стимули или %3$s на приятел, за да получите **%1$d** допълнителна подкрепа.</string>
   <string name="BoostingReassignedFromPlural_one">%1$d стимул, преназначен от %2$s</string>
   <string name="BoostingReassignedFromPlural_other">%1$d стимули, преназначени от %2$s</string>
-  <string name="BoostingReceivedGiftDuration">Вашият подарък е **Telegram Premium**\nабонамент за %s.</string>
+  <string name="BoostingReceivedGiftDuration">Вашият подарък е **Телеграм Премиум**\nабонамент за %s.</string>
   <string name="BoostingReceivedGiftFrom">Получихте подарък\nот **%s**.</string>
   <string name="BoostingReceivedGiftNoName">Получихте подарък.</string>
   <string name="BoostingReceivedGiftOpenBtn">Отворете връзката за подарък</string>
@@ -2221,7 +2221,7 @@
   <string name="ChannelMuteNoCaps">Заглуши</string>
   <string name="ChannelNeedBoostsDescription">Вашият канал се нуждае от %s, за да се разреши публикуването на истории.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
   <string name="ChannelNeedBoostsDescriptionForNewFeatures">**%1$s** изисква %2$s за отключване на нови функции.</string>
-  <string name="ChannelNeedBoostsDescriptionNextLevel">Вашия канал се нуждае от %1$s, за да можете да публикувате **%2$s** на ден.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
+  <string name="ChannelNeedBoostsDescriptionNextLevel">Вашият канал се нуждае от %1$s, за да можете да публикувате **%2$s** на ден.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
   <string name="ChannelNeedBoostsForAutotranslationDescription">Вашият канал трябва да достигне ** ниво %d** за да активирате автоматично преобразуване на съобщения.\n\nПопитайте вашите ** Премиум ** абонати, за да увеличите канала си с тази връзка:</string>
   <string name="ChannelNeedBoostsForColorDescription">Вашият канал трябва да достигне **Ниво %d** за промяна на цвета на канала.\n\nПомолете вашите **Премиум** абонати да подкрепят канала ви с тази връзка:</string>
   <string name="ChannelNeedBoostsForCustomWallpaperDescription">Вашият канал трябва да достигне **Ниво %d** за да промените тапета на канала към персонализирана снимка.\n\nПомолете вашите **Премиум** абонати да разширят канала ви с тази връзка:</string>
