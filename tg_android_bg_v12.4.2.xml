@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--(((-))){{{-}}}Потребителски превод за приложението Телеграм от Мирослав Тодоров{{{-}}}(((-)))-->
+<!--Потребителски превод за приложението Телеграм от Мирослав Тодоров-->
 <resources>
   <string name="abc_action_bar_home_description">Придвижване към начало</string>
   <string name="abc_action_bar_up_description">Придвижване нагоре</string>
@@ -407,6 +407,7 @@
   <string name="ActionYouScoredInGame">Отбелязахте %1$s във un2</string>
   <string name="ActionYouSuggestBirthday">Предлагате да добавите дата на раждане</string>
   <string name="Add">Добави</string>
+  <string name="AddACaption">Добавете надпис</string>
   <string name="AddAccount">Добавяне на профил</string>
   <string name="AddAccountInfo1_one">Можете да добавите %d допълнителен профил.</string>
   <string name="AddAccountInfo1_other">Можете да добавите %d допълнителни акаунта.</string>
@@ -440,8 +441,10 @@
   <string name="AddContactChatNoCaps">Добавяне на контакт</string>
   <string name="AddContactFullChatNoCaps">Добави %1$s към Контакти</string>
   <string name="AddContactPhonebookTitle">Добави контакт</string>
+  <string name="AddContactQr">Добавете чрез QR код</string>
   <string name="AddContactShareNumber">Сподели моя телефонен номер</string>
   <string name="AddContactShareNumberInfo">Изключете това, за да предотвратите виждането на телефонния ви номер от %s.</string>
+  <string name="AddContactSync">Синхронизиране на контакт с телефона</string>
   <string name="AddContactTitle">Добавяне на контакт</string>
   <string name="Added">Добавено</string>
   <string name="AddedBy">добавено от %1$s %2$s</string>
@@ -653,7 +656,7 @@
   <string name="AppsTabInfoButton">Разбрах</string>
   <string name="AppsTabInfoText">Този каталог класира мини приложенията въз основа на техните дневни приходи, измерени в звезди. За да бъдат включени в списъка, разработчиците трябва да настроят основните си мини приложения в @botfather (както е описано [тук](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), да имат над **1000** потребители на ден и печелят дневни приходи над **1000** звезди въз основа на средната седмична стойност.</string>
   <string name="AppsTabInfoTitle">Топ мини приложения</string>
-  <string name="AppUpdate">Актуакизирай Телеграм</string>
+  <string name="AppUpdate">Актуализирай Телеграм</string>
   <string name="AppUpdateBeta">Актуализирайте Telegram Beta</string>
   <string name="AppUpdateChangelogEmpty">**Какво ново?**\n\n• Поправки на грешки и подобрения.</string>
   <string name="AppUpdateDownloading">Изтегляне %1$d%%...</string>
@@ -1547,6 +1550,7 @@
   <string name="BotFileDownloading">Изтегля се...</string>
   <string name="BotFileDownloadOpen">Отвори</string>
   <string name="BotForumAskForStartNewChat">Въведете съобщение, за да създадете нова тема.</string>
+  <string name="BotForumAskForStartNewChatForward">Препратете тук, за да създадете нова тема.</string>
   <string name="BotForumAskForStartNewChatTitle">Нова тема</string>
   <string name="BotForumContinueChat">Продължете последната тема</string>
   <string name="BotForumNewTopic">Нов чат</string>
@@ -8152,6 +8156,7 @@
   <string name="Shares_one">%1$s споделяне</string>
   <string name="Shares_other">%1$s споделяния</string>
   <string name="ShareSendTo">Изпрати до...</string>
+  <string name="ShareSendToNewTopic">Изпратете в нова тема</string>
   <string name="SharesPerPost">Споделяния на публикацията</string>
   <string name="SharesPerStory">Споделяния на история</string>
   <string name="ShareTelegram2">Споделете Телеграм</string>
@@ -9202,6 +9207,7 @@
   <string name="SwipeToReplyHintMessage">Плъзнете наляво всяко съобщение, за да отговорите на него.</string>
   <string name="SwipeUnmute">Не заглушавай</string>
   <string name="SwipeUnpin">Откачи</string>
+  <string name="SwitchAccountHint">Продължително докосване за превключване на профили</string>
   <string name="SwitchThemeToDay">Дневен режим</string>
   <string name="SwitchThemeToNight">Нощен режим</string>
   <string name="SyncContacts">Синхронизация на контакти</string>
