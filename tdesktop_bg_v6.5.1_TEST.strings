@@ -8168,7 +8168,7 @@
 "lng_settings_add_sendto" = "Поставете Телеграм в меню \"Изпрати до\"";
 "lng_settings_advanced" = "Разширени";
 "lng_settings_advanced_notifications" = "Позиция и брой на известията";
-"lng_settings_alert_linux" = "Привлече вниманието към прозореца";
+"lng_settings_alert_linux" = "Привличане на вниманието към прозореца";
 "lng_settings_alert_mac" = "Отскачане на иконата на Dock";
 "lng_settings_alert_windows" = "Мигане на иконата в лентата на задачите";
 "lng_settings_always_in_archive" = "Винаги да се съхранява в архив";
