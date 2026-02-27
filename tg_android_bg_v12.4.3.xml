@@ -2349,6 +2349,7 @@
   <string name="Characters_one">%1$d символ</string>
   <string name="Characters_other">%1$d символа</string>
   <string name="CharactersPerMessage">%s на съобщение</string>
+  <string name="ChartInUSD">%s в щатски долари</string>
   <string name="ChartInXTR">%s в Звезди</string>
   <string name="ChatAdmin">админ</string>
   <string name="ChatApplyTheme">Приложи темата</string>
@@ -4167,6 +4168,7 @@
   <string name="Gift2RarityHint">Само %s от такива колекционерски вещи имат този атрибут</string>
   <string name="Gift2Refunded">Този подарък беше понижен, тъй като беше направена заявка за възстановяване на плащането, свързано с този подарък и парите бяха върнати.</string>
   <string name="Gift2ReleasedBy">издадено от **%s**</string>
+  <string name="Gift2ReleasedBy2">от **%s**</string>
   <string name="Gift2RemoveDescriptionButton">Премахни за ⭐️%d</string>
   <string name="Gift2RemoveDescriptionText">Искате ли постоянно да премахнете това описание от вашия подарък?</string>
   <string name="Gift2RemoveDescriptionTitle">Премахване на описанието</string>
@@ -5020,7 +5022,7 @@
   <string name="LanguageCustom">Потребителски</string>
   <string name="LanguageCustomAlert">На път сте да приложите неофициален файл с превод (**%1$s**) който е завършен на %2$d%%.\n\nТова ще преведе целия интерфейс. Можете да предложите поправки на [панела за превод].\n\nМожете да промените езика по всяко време от Настройки.</string>
   <string name="LanguageName">Български</string>
-  <string name="LanguageNameInEnglish">Bulgarian</string>
+  <string name="LanguageNameInEnglish">Български</string>
   <string name="Languages_one">%1$d език</string>
   <string name="Languages_other">%1$d езика</string>
   <string name="LanguageSame">Вече използвате този файл с превод (**%1$s**). Можете да промените езика по всяко време от Настройки.</string>
