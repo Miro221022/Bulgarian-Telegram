@@ -3413,7 +3413,7 @@
   <string name="EventLogPromotedRemovedTitle">Заглавие</string>
   <string name="EventLogPromotedSendAnonymously">Анонимно изпращане</string>
   <string name="EventLogPromotedTitle">Заглавие: %1$s</string>
-  <string name="EventLogRankAdd">un1 зададе етикет на un2 в «%1$s»</string>
+  <string name="EventLogRankAdd">un1 зададе етикет «%1$s» на un2</string>
   <string name="EventLogRankEdit">un1 промени етикета на un2 от «%1$s» на «%2$s»</string>
   <string name="EventLogRankRemove">"un1 премахна на етикета на un2 в «%1$s» "</string>
   <string name="EventLogRankSelfAdd">un1 зададе техния етикет в «%1$s»</string>
