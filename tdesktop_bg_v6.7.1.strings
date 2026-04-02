@@ -799,7 +799,7 @@
 "lng_admin_log_muted_participant" = "{from} заглуши {user} в разговора";
 "lng_admin_log_muted_participant_channel" = "{from} заглуши {user} в поток на живо";
 "lng_admin_log_no_events_text" = "Няма забележими действия, предприети от членовете и администраторите на тази група през последните 48 часа.";
-"lng_admin_log_no_events_text_channel" = "Няма забележими действия, предприети\nот администраторите на този канал\\в последните 48 часа.";
+"lng_admin_log_no_events_text_channel" = "Няма забележими действия, предприети\nот администраторите на този канал\в последните 48 часа.";
 "lng_admin_log_no_events_title" = "Все още няма действия";
 "lng_admin_log_no_results_search_text" = "Няма намерени скорошни действия, които съдържат '{query}'.";
 "lng_admin_log_no_results_text" = "Не са открити скорошни действия, които отговарят на вашата заявка.";
@@ -5078,7 +5078,6 @@
 "lng_group_call_share" = "Споделяне на връзка за покана";
 "lng_group_call_share_button" = "Споделяне";
 "lng_group_call_share_speaker" = "Потребителите с тази връзка могат да говорят";
-"lng_group_call_sharing_screen_options" = "Опции за споделяне";
 "lng_group_call_speakers" = "Високоговорители";
 "lng_group_call_start_as_header" = "Започнете видео разговор като...";
 "lng_group_call_start_as_header_channel" = "Стартирайте предаването на живо като...";
@@ -7801,7 +7800,7 @@
 "lng_recent_hide_button" = "Скриване";
 "lng_recent_hide_sure" = "Сигурни ли сте, че искате да изчистите и деактивирате списъка с чести контакти?\n\nВинаги можете да включите тази функция отново в Настройки > Поверителност > Предлагане на чести контакти.";
 "lng_recent_hide_top" = "Премахни всички & Деактивирай";
-"lng_recent_none" = "Скорошни резултати от търсене\\ще се появят тук.";
+"lng_recent_none" = "Скорошни резултати от търсене\nще се появят тук.";
 "lng_recent_posts" = "Публикации";
 "lng_recent_remove" = "Премахване от Скорошни";
 "lng_recent_stickers" = "Наскоро използвани";
@@ -8139,7 +8138,6 @@
 "lng_rights_edit_admin_header" = "Какво може да прави този администратор?";
 "lng_rights_edit_admin_rank_about" = "Титла, която членовете ще виждат вместо '{title}'.";
 "lng_rights_edit_admin_rank_name" = "Персонализирана титла";
-"lng_rights_edit_tag_title" = "Редактиране на етикет";
 "lng_rights_gigagroup_about" = "Групите за излъчване могат да имат над 200 000 членове, но само администраторите могат да изпращат съобщения в тях.";
 "lng_rights_gigagroup_convert" = "Конвертиране в група за излъчване";
 "lng_rights_gigagroup_title" = "Група за излъчване";
@@ -8148,20 +8146,19 @@
 "lng_rights_group_ban" = "Забраняване на потребители";
 "lng_rights_group_delete" = "Изтриване на съобщения";
 "lng_rights_group_edit_rank" = "Редактирайте собствени етикети";
-"lng_rights_group_edit_rank_single" = "Редактирайте собствен етикет";
+
 "lng_rights_group_info" = "Промяна на информацията за групата";
 "lng_rights_group_invite" = "Добавяне на членове";
 "lng_rights_group_invite_link" = "Поканете потребители чрез връзка";
 "lng_rights_group_manage_calls" = "Управление на видео разговорите";
-"lng_rights_group_manage_ranks" = "Редактирайте етикетите на членовете";
+
 "lng_rights_group_pin" = "Закачване на съобщения";
 "lng_rights_group_topics" = "Управление на теми";
 "lng_rights_permission_cant_edit" = "Не можете да промените това разрешение.";
 "lng_rights_permission_for_all" = "Тази опция е разрешена за всички членове в разрешенията на групата.";
 "lng_rights_permission_in_discuss" = "Това разрешение не е налично в дискусионни групи.";
 "lng_rights_permission_unavailable" = "Това разрешение не е налично в публични групи.";
-"lng_rights_promote_member" = "Повишаване до администратор";
-"lng_rights_remove_member" = "Премахване от групата";
+
 "lng_rights_restriction_for_all" = "Тази опция е деактивирана за всички членове в разрешенията на групата.";
 "lng_rights_slowmode_about" = "Членовете ще могат да изпращат само едно съобщение за този интервал.";
 "lng_rights_slowmode_about_interval" = "Членовете ще могат да изпращат само едно съобщение {interval}.";
@@ -8199,7 +8196,7 @@
 "lng_rights_slowmode_seconds#zero" = "{count}с";
 "lng_rights_tag_about" = "Добавете кратък етикет до името на {name}.";
 "lng_rights_tag_about_self" = "Споделете вашата роля, титла или как сте известни в тази група. Вашият етикет е видим за всички членове.";
-"lng_rights_transfer_about" = "Това ще прехвърли пълните **права на собственик** за {group} на {user}. Новият собственик ще може свободно да премахне всички ваши администраторски привилегии или дори да ви забрани.";
+
 "lng_rights_transfer_channel" = "Прехвърляне на собствеността върху канала";
 "lng_rights_transfer_check" = "Проверка за сигурност";
 "lng_rights_transfer_check_about" = "Можете да прехвърлите собствеността на {user} само ако имате:";
@@ -8292,12 +8289,12 @@
 "lng_scheduled_video_tip_text" = "Видеото ще бъде публикувано, след като бъде оптимизирано за най-добро изживяване при гледане.";
 "lng_scheduled_video_tip_title" = "Подобряване на видеото...";
 "lng_scheduled_video_view" = "Преглед";
-"lng_screen_reader_bar_disable" = "Деактивиране";
-"lng_screen_reader_bar_text" = "Telegram работи в режим на екранен четец.";
-"lng_screen_reader_confirm_disable" = "Деактивиране";
-"lng_screen_reader_confirm_text" = "Телеграм откри, че софтуер за достъпност се използва във вашата система и работи в удобен режим на екранен четец.\n\nТова може да доведе до неочаквани промени в начина, по който работи потребителският интерфейс на Телеграм.\n\nАко не използвате софтуера за екранен четец с Телеграм, моля деактивирайте този режим.";
-"lng_screen_reader_settings_disable" = "Деактивирайте режима на екранен четец";
-"lng_screen_reader_settings_title" = "Четец на екрана";
+
+
+
+
+
+
 "lng_search_filter_all" = "Всички чатове";
 "lng_search_filter_channel" = "Канали";
 "lng_search_filter_group" = "Групови чатове";
@@ -8413,8 +8410,7 @@
 "lng_send_album" = "Изпрати като албум";
 "lng_send_anonymous_ph" = "Изпрати анонимно...";
 "lng_send_as_anonymous_admin" = "Анонимен администратор";
-"lng_send_as_documents" = "Изпратете като документи";
-"lng_send_as_documents_one" = "Изпрати като документ";
+
 "lng_send_as_premium_required" = "Абонирайте се за {link}, за да можете да коментирате от името на вашите канали в групови чатове.";
 "lng_send_as_premium_required_link" = "Телеграм Премиум";
 "lng_send_as_title" = "Изпрати съобщение като...";
@@ -8440,7 +8436,7 @@
 "lng_send_free_channel" = "Изпратете директно съобщение до администратора на {channel}.";
 "lng_send_gif_with_caption" = "Изпратете GIF с надпис";
 "lng_send_grouped" = "Групиране на елементите";
-"lng_send_high_quality" = "Високо качество";
+
 "lng_send_image" = "Изпращане на изображение";
 "lng_send_image_empty" = "Файл: {name} е празен и не може да бъде изпратен.";
 "lng_send_image_too_large" = "Файлът не може да бъде изпратен, защото е по-голям от 2 GB: {name}\n\nМожете да изпратите колкото искате файлове, но всеки трябва да е по-малък от 2 GB.";
@@ -8591,7 +8587,7 @@
 "lng_settings_channel_saved" = "Вашият личен канал беше актуализиран.";
 "lng_settings_channel_start" = "Стартирайте канал";
 "lng_settings_chat_corner_reaction" = "Бутон за реакция на съобщения";
-"lng_settings_chat_corner_reply" = "Бутон за отговор на съобщенията";
+
 "lng_settings_chat_message" = "Знаете ли колко е часът?";
 "lng_settings_chat_message_reply" = "Добро утро";
 "lng_settings_chat_message_reply_from" = "Боб Харис";
@@ -8940,7 +8936,7 @@
 "lng_settings_suggestion_phone_number_title" = "{phone} все още ли е вашият номер?";
 "lng_settings_system_integration" = "Системна интеграция";
 "lng_settings_system_spellchecker" = "Използване на системна проверка на правописа";
-"lng_settings_system_text_replace" = "Системни текстови замествания";
+
 "lng_settings_terminate_if" = "Ако сте неактивен от...";
 "lng_settings_terminate_title" = "Прекратяване на стари сесии";
 "lng_settings_theme_accent_title" = "Изберете цвят на акцента";
@@ -8952,7 +8948,7 @@
 "lng_settings_theme_name_color" = "Цвят на вашето име";
 "lng_settings_theme_night" = "Нощ";
 "lng_settings_theme_settings" = "Настройки на темата";
-"lng_settings_theme_system_accent_color" = "Системен акцентен цвят";
+
 "lng_settings_theme_tinted" = "Тъмно";
 "lng_settings_themes" = "Теми";
 "lng_settings_title_account_name" = "Показване на активния профил";
@@ -9230,17 +9226,8 @@
 "lng_sponsored_revenued_subtitle" = "Рекламите в Телеграм са много различни от рекламите на други платформи. Реклами като тази:";
 "lng_sponsored_title" = "Какво представляват спонсорирани съобщения?";
 "lng_sponsored_top_bar_hide" = "премахни";
-"lng_sr_bot_verified_badge" = "Потвърден бот";
-"lng_sr_cancel_search" = "Отмени търсенето";
-"lng_sr_clear_search" = "Изчистете търсенето";
-"lng_sr_close_panel" = "Затваряне на панела";
-"lng_sr_group_call_menu" = "Меню за видео чат";
-"lng_sr_playback_order" = "Ред на възпроизвеждане";
-"lng_sr_player_close" = "Затворете медийния плейър";
-"lng_sr_profile_menu" = "Меню на профила";
-"lng_sr_scroll_to_top" = "Превъртете до горе";
-"lng_sr_search_date" = "Търсене по дата";
-"lng_sr_verified_badge" = "Потвърден";
+
+
 "lng_stake_game_about" = "Ограничен тест за игра на предстоящата платформа за мини-игри с емотикони за малка група потребители.";
 "lng_stake_game_beta" = "Бета";
 "lng_stake_game_resets" = "Серията се нулира след 3 {emoji} или промяна на залога.";
@@ -9814,7 +9801,7 @@
 "lng_suggest_hide_new_to_settings" = "Отидете на Настройки";
 "lng_suggest_low_ton_fragment" = "Добавете средства чрез Fragment";
 "lng_suggest_low_ton_text" = "Можете да добавяте средства към баланса си чрез платформата на трета страна Fragment.";
-"lng_suggest_low_ton_title" = "\" {amount} TON е необходим\"";
+"lng_suggest_low_ton_title" = " {amount} TON е необходим";
 "lng_suggest_menu_edit_message" = "Редактиране на съобщение";
 "lng_suggest_menu_edit_price" = "Редактиране на цената";
 "lng_suggest_menu_edit_time" = "Редактиране на час";
@@ -9907,18 +9894,7 @@
 "lng_switch_masks" = "Маски";
 "lng_switch_stickers" = "Стикери";
 "lng_switch_to_this" = "Превключи на български";
-"lng_tag_info_add_my_tag" = "Добави мой етикет";
-"lng_tag_info_admins_only" = "Само администратори могат да задават етикети на членове в тази група.";
-"lng_tag_info_edit_my_tag" = "Редактиране на моя етикет";
-"lng_tag_info_preview_admin" = "Администраторски етикет";
-"lng_tag_info_preview_member" = "Членски етикет";
-"lng_tag_info_preview_owner" = "Етикет на собственика";
-"lng_tag_info_text_admin" = "Този зелен етикет {emoji} е администраторският етикет на {author} в {group}.";
-"lng_tag_info_text_owner" = "Този лилав етикет {emoji} е етикетът на собственик на {author} в {group}.";
-"lng_tag_info_text_user" = "Този сив етикет {emoji} е членски етикет на {author} в {group}.";
-"lng_tag_info_title_admin" = "Администраторски етикети";
-"lng_tag_info_title_owner" = "Етикети на собственика";
-"lng_tag_info_title_user" = "Членски етикети";
+
 "lng_tagged_view_saved" = "Преглед";
 "lng_terms_age#few" = "Потвърждавам, че съм {count} или повече";
 "lng_terms_age#many" = "Потвърждавам, че съм {count} или повече";
@@ -10038,7 +10014,7 @@
 "lng_translate_bar_to" = "Превод на {name}";
 "lng_translate_bar_to_other" = "Превод на {name}";
 "lng_translate_box_error" = "Преводът е неуспешен.";
-"lng_translate_box_error_language_pack_not_installed" = "Преводът изисква локален езиков пакет. Изтеглете го в системните настройки.";
+
 "lng_translate_box_original" = "Оригинал";
 "lng_translate_cocoon_done" = "Разбрах";
 "lng_translate_cocoon_efficient_text" = "Cocoon позволи на Телеграм да намали разходите за превод с 6 пъти.";
@@ -10068,9 +10044,7 @@
 "lng_translate_settings_one" = "Моля, изберете поне един език, за да може да се използва като език \"Превод на\".";
 "lng_translate_settings_show" = "Показване на бутона за превод";
 "lng_translate_settings_subtitle" = "Превод на съобщенията";
-"lng_translate_settings_use_platform_linux" = "Използвайте Crow Translate на KDE";
-"lng_translate_settings_use_platform_mac" = "Използвайте Apple преводи";
-"lng_translate_settings_use_platform_mac_about" = "Преводът на macOS няма да работи, докато не изтеглите локални езикови пакети в системните настройки.";
+
 "lng_translate_show_original" = "Показване на оригинала";
 "lng_translate_undo" = "Отмяна";
 "lng_tray_icon_text" = "Телеграм ще продължи работа в скрит режим.\nАко иконката му изчезне от трея, можете да я \nплъзнете отново тук от скритите икони.";
@@ -10145,15 +10119,14 @@
 "lng_url_auth_allow_messages" = "Разрешаване на {bot} да ми изпраща съобщения";
 "lng_url_auth_allow_messages_about" = "Това ще позволи на {bot} да ви изпраща съобщения";
 "lng_url_auth_allow_messages_label" = "Разрешаване на съобщения";
-"lng_url_auth_app_access" = "Това приложение ще получи вашето **име**, **потребителско име** и **профилна снимка**.";
+
 "lng_url_auth_device_label" = "Устройство";
 "lng_url_auth_ip_label" = "IP адрес";
 "lng_url_auth_login_attempt" = "Този опит за влизане дойде от устройството по-горе.";
 "lng_url_auth_login_button" = "Влезте";
 "lng_url_auth_login_option" = "Влезте в {domain} като {user}";
 "lng_url_auth_login_title" = "Влезте в {domain}";
-"lng_url_auth_match_code_info" = "Заявка за влизане от {domain}";
-"lng_url_auth_match_code_title" = "Докоснете емотиконата, показана на екрана ви за вход";
+
 "lng_url_auth_open_confirm" = "Искате ли да отворите {link}?";
 "lng_url_auth_phone_sure_deny" = "Откажи";
 "lng_url_auth_phone_sure_text" = "{domain} иска достъп до вашия телефонен номер **{phone}**.\n\nРазрешавате ли достъп?";
@@ -10165,7 +10138,7 @@
 "lng_url_auth_phone_toast_good_no_phone" = "Вече сте влезли в {domain}, но не сте предоставили достъп до телефонния си номер.";
 "lng_url_auth_phone_toast_good_title" = "Успешно влизане";
 "lng_url_auth_site_access" = "Този сайт ще получи вашето **име**, **потребителско име** и **профилна снимка**.";
-"lng_url_auth_unverified_app" = "Непотвърдено приложение";
+
 "lng_user_action_choose_sticker" = "{user} избира стикер";
 "lng_user_action_record_audio" = "{user} записва гласово съобщение";
 "lng_user_action_record_round" = "{user} записва видео съобщение";
@@ -10281,7 +10254,7 @@
 "lng_view_button_group" = "Преглед на група";
 "lng_view_button_iv" = "Моментален преглед";
 "lng_view_button_message" = "Вижте съобщението";
-"lng_view_button_newbot" = "Създаване на бот";
+
 "lng_view_button_request_join" = "Заявка за присъединяване";
 "lng_view_button_stickerset" = "Виж стикерите";
 "lng_view_button_story" = "Преглед на историята";
@@ -10346,3 +10319,4 @@
 "lng_you_paid_stars#other" = "Платихте {count} звезди.";
 "lng_you_paid_stars#two" = "Платихте {count} звезди.";
 "lng_you_paid_stars#zero" = "Платихте {count} звезди.";
+
