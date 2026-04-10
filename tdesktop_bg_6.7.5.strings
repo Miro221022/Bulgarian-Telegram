@@ -552,7 +552,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_sound_allowed" = "Разрешаване на звук";
 "lng_settings_alert_windows" = "Мигане на иконата в лентата на задачите";
 "lng_settings_alert_mac" = "Отскачане на иконата на Dock";
-"lng_settings_alert_linux" = "Привлече вниманието към прозореца";
+"lng_settings_alert_linux" = "Привлечи вниманието към прозореца";
 "lng_settings_badge_title" = "Брояч на значки";
 "lng_settings_include_muted" = "Да се броят и заглушените чатове";
 "lng_settings_include_muted_folders" = "Включи и заглушените чатове в папката";
@@ -778,7 +778,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_call_input_device" = "Входно устройство";
 "lng_settings_call_output_device" = "Изходно устройство";
 "lng_settings_call_section_other" = "Други настройки";
-"lng_settings_call_open_system_prefs" = "Отворете звуковите предпочитания на системата";
+"lng_settings_call_open_system_prefs" = "Отвори системните настройки за звук";
 "lng_settings_call_accept_calls" = "Приемайте повиквания на това у-во";
 "lng_settings_call_device_default" = "По подразбиране";
 
@@ -898,7 +898,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_edit_extensions_about" = "Отваряне на файлове със следните разширения без допълнително потвърждение.";
 "lng_settings_edit_ip_confirm" = "Предупреждение за разкриване на IP";
 "lng_settings_edit_ip_confirm_about" = "Показване на потвърждение при отваряне на файлове, които може да разкрият вашия IP адрес.";
-"lng_settings_clear_payment_info" = "Изчистване на информацията за плащане и доставка";
+"lng_settings_clear_payment_info" = "Изчисти информацията за плащане и доставка";
 "lng_settings_logged_in" = "Свързани уебсайтове";
 "lng_settings_logged_in_title" = "Влезли сте с Телеграм";
 "lng_settings_logged_in_description" = "Можете да влезете в уебсайтове, които поддържат влизане с Телеграм.";
@@ -1289,7 +1289,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_ask_sure" = "Моля, имайте предвид, че поддръжката на Телеграм се извършва от доброволци. Опитваме се да отговорим възможно най-бързо, но може да отнеме известно време.\n\nМоля, разгледайте често задаваните въпроси за Телеграм: има важни съвети и отговори за отстраняване на проблеми на повечето въпроси.";
 "lng_settings_faq_button" = "Отидете на ЧЗВ";
 "lng_settings_ask_ok" = "Попитайте доброволец";
-"lng_settings_faq" = "Често задавани въпроси за Телеграм";
+"lng_settings_faq" = "Телеграм ЧЗВ";
 "lng_settings_faq_subtitle" = "ЧЗВ";
 "lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
 "lng_settings_features" = "Функции на Телеграм";
@@ -1809,7 +1809,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_action_short_report" = "Докладвай";
 "lng_profile_action_short_leave" = "Напускане";
 "lng_profile_action_short_more" = "Още";
-"lng_profile_action_short_manage" = "Управлявайте";
+"lng_profile_action_short_manage" = "Управление";
 
 "lng_media_type_photos" = "Снимки";
 "lng_media_type_gifs" = "GIF файлове";
@@ -2146,8 +2146,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_manage_monoforum_price_about" = "Вашият канал ще получава {percent} от избраната такса ({amount}) за всяко входящо съобщение.";
 "lng_manage_monoforum_link_subtitle" = "Връзка към директни съобщения";
 
-"lng_manage_history_visibility_title" = "История на чатовете за нови членове";
-"lng_manage_history_visibility_shown" = "Видим";
+"lng_manage_history_visibility_title" = "История на чата за нови членове";
+"lng_manage_history_visibility_shown" = "Видима";
 "lng_manage_history_visibility_shown_about" = "Новите членове ще виждат съобщенията, които са изпратени преди да се присъединят.";
 "lng_manage_history_visibility_hidden" = "Скрит";
 "lng_manage_history_visibility_hidden_about" = "Новите членове няма да виждат по-ранни съобщения.";
@@ -2216,7 +2216,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_channel_add_members" = "Добавяне на членове";
 "lng_channel_add_users" = "Добавяне на потребители";
-"lng_channel_add_removed" = "Премахване на потребителя";
+"lng_channel_add_removed" = "Премахване на потребители";
 "lng_channel_add_exception" = "Добавяне на изключение";
 "lng_channel_admins" = "Администратори";
 "lng_channel_add_admin" = "Добавяне на администратор";
@@ -2704,8 +2704,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_copied" = "Връзката за покана е копирана в клипборда.";
 "lng_group_invite_no_room" = "Не може да се присъедините към тази група, защото има твърде много членове.";
 
-"lng_group_invite_copy" = "Копиране на връзката";
-"lng_group_invite_share" = "Споделяне на връзка";
+"lng_group_invite_copy" = "Копиране";
+"lng_group_invite_share" = "Споделяне";
 "lng_group_invite_reactivate" = "Повторно активиране на връзката";
 "lng_group_invite_delete" = "Изтриване на връзката";
 "lng_group_invite_no_joined" = "Още никой не се е присъединил";
@@ -3496,8 +3496,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_level#other" = "Ниво {count}";
 "lng_boost_level_unlocks#one" = "Ниво {count} отключва:";
 "lng_boost_level_unlocks#other" = "Ниво {count} отключва:";
-"lng_boost_channel_title_first" = "Активиране на истории за канал";
-"lng_boost_channel_title_first_group" = "Активиране на истории за група";
+"lng_boost_channel_title_first" = "Активиране на истории за канала";
+"lng_boost_channel_title_first_group" = "Активиране на истории за групата";
 "lng_boost_channel_needs_unlock#one" = "{channel} се нуждае от **{count}** подсилване, за да отключите нови функции.";
 "lng_boost_channel_needs_unlock#other" = "{channel} се нуждае от **{count}** подсилвания, за да отключите нови функции.";
 "lng_boost_channel_needs_first#one" = "{channel} се нуждае от още **{count}** подсилвания, за да активира публикуване на истории. Помогнете да стане възможно!";
@@ -3619,22 +3619,22 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_feature_link_style_channel#one" = "**{count}** стил за връзки и цитати";
 "lng_feature_link_style_channel#other" = "**{count}** стила за връзки и цитати";
 "lng_feature_link_emoji" = "Персонализирано лого за връзки и цитати";
-"lng_feature_emoji_status" = "**1000+** Emoji статуса";
+"lng_feature_emoji_status" = "**1000+** статуса с емотикони";
 "lng_feature_backgrounds_channel#one" = "**{count}** фон на канала";
 "lng_feature_backgrounds_channel#other" = "**{count}** фона на канала";
 "lng_feature_custom_background_channel" = "Персонализиран фон на канала";
 "lng_feature_backgrounds_group#one" = "**{count}** фон на групата";
 "lng_feature_backgrounds_group#other" = "**{count}** фона на групата";
 "lng_feature_custom_background_group" = "Персонализиран фон на групата";
-"lng_feature_custom_emoji_pack" = "Персонализиран Emoji пакет";
+"lng_feature_custom_emoji_pack" = "Персонализиран пакет с емотикони";
 "lng_feature_transcribe" = "Преобразуване на глас към текст";
 "lng_feature_autotranslate" = "Автоматичен превод на съобщения";
 "lng_feature_profile_color_channel#one" = "**{count}** цвят за корицата на канала";
-"lng_feature_profile_color_channel#other" = "**{count}** цветове за корицата на канала";
+"lng_feature_profile_color_channel#other" = "**{count}** цвята за корицата на канала";
 "lng_feature_profile_color_group#one" = "**{count}** цвят за корицата на групата";
-"lng_feature_profile_color_group#other" = "**{count}** цветове за корицата на групата";
-"lng_feature_profile_icon_channel" = "Персонализирано лого за корицата на канала";
-"lng_feature_profile_icon_group" = "Персонализирано лого за корицата на групата";
+"lng_feature_profile_color_group#other" = "**{count}** цвята за корицата на групата";
+"lng_feature_profile_icon_channel" = "Персонализирано лого за корицата";
+"lng_feature_profile_icon_group" = "Персонализирано лого за корицата";
 
 "lng_edit_topics_enable" = "Активиране на теми";
 "lng_edit_topics_about" = "Груповият чат ще бъде разделен на теми, създадени от администратори или потребители.";
@@ -6184,7 +6184,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_user_restrictions_header" = "Какво може да прави този член?";
 "lng_rights_default_restrictions_header" = "Какво могат да правят членовете на тази група?";
 "lng_rights_slowmode_header" = "Бавен режим";
-"lng_rights_slowmode_off" = "Изключено";
+"lng_rights_slowmode_off" = "Изкл";
 "lng_rights_slowmode_about" = "Членовете ще могат да изпращат само едно съобщение за този интервал.";
 "lng_rights_slowmode_about_interval" = "Членовете ще могат да изпращат само едно съобщение {interval}.";
 "lng_rights_slowmode_interval_seconds#one" = "на всяка {count} секунда";
@@ -6194,7 +6194,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_boosts_no_restrict" = "Не ограничавай подсилвания";
 "lng_rights_boosts_about" = "Включете това, за да позволявате винаги на потребителите, които са подкрепили вашата група, да изпращат съобщения и медии.";
 "lng_rights_boosts_about_on" = "Изберете колко подсилвания потребителят трябва да даде на групата, за да заобиколи ограниченията за изпращане на съобщения.";
-"lng_rights_charge_stars" = "Таксувайте звезди за съобщения";
+"lng_rights_charge_stars" = "Таксуване на звезди за съобщения";
 "lng_rights_charge_stars_about" = "Ако включите това, редовните членове на групата ще трябва да плащат звезди, за да изпращат съобщения.";
 "lng_rights_charge_price" = "Задайте цена на съобщение";
 "lng_rights_charge_price_about" = "Вашата група ще получи {percent} от избраната такса ({amount}) за всяко входящо съобщение.";
@@ -6261,7 +6261,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_group_pin" = "Закачване на съобщения";
 "lng_rights_group_topics" = "Управление на теми";
 "lng_rights_group_add_topics" = "Създаване на теми";
-"lng_rights_group_edit_rank" = "Редактирайте собствени етикети";
+"lng_rights_group_edit_rank" = "Редактиране на собствени етикети";
 "lng_rights_group_edit_rank_single" = "Редактирайте собствен етикет";
 "lng_rights_group_manage_calls" = "Управление на видео разговорите";
 "lng_rights_group_delete" = "Изтриване на съобщения";
@@ -6410,7 +6410,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_no_results_search_text" = "Няма намерени скорошни действия, които съдържат '{query}'.";
 "lng_admin_log_no_events_title" = "Все още няма действия";
 "lng_admin_log_no_events_text" = "Няма забележими действия, предприети от членовете и администраторите на тази група през последните 48 часа.";
-"lng_admin_log_no_events_text_channel" = "Няма забележими действия, предприети\nот администраторите на този канал\\в последните 48 часа.";
+"lng_admin_log_no_events_text_channel" = "Няма забележими действия, предприети\nот администраторите на този канал\nв последните 48 часа.";
 
 "lng_admin_log_empty_text" = "Празно";
 "lng_admin_log_changed_title_channel" = "{from} промени името на канала на «{title}»";
@@ -7080,7 +7080,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_filters_view_subtitle" = "Изглед на разделите";
 "lng_filters_vertical" = "Разделите да са отляво";
 "lng_filters_horizontal" = "Разделите да са отгоре";
-"lng_filters_enable_tags" = "Показване на етикети на папка";
+"lng_filters_enable_tags" = "Покажи етикетите на папката";
 "lng_filters_enable_tags_about" = "Показване на имена на папки за всеки чат в списъка с чатове.";
 "lng_filters_enable_tags_about_premium" = "Абонирайте се за **{link}** показване на имена на папки за всеки чат в списъка с чатове.";
 "lng_filters_tag_color_subtitle" = "Цвят на папката в списъка с чатове";
