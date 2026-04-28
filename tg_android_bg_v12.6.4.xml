@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <resources>
-    <!-- Потребителски превод за приложението Телеграм от Мирослав Тодоров -->
     <string name="AIEditor">AI редактор</string>
     <string name="AIEditorApply">Приложи</string>
     <string name="AIEditorChooseStyle">Изберете стил</string>
@@ -640,7 +639,7 @@
     <string name="AppIconChangedTo">Иконата на приложението е променена на %1$s</string>
     <string name="AppIconDefault">По подразбиране</string>
     <string name="AppIconNox">Nox</string>
-    <string name="AppIconPremium">Premium</string>
+    <string name="AppIconPremium">Премиум</string>
     <string name="AppIconTurbo">Turbo</string>
     <string name="AppIconVintage">Vintage</string>
     <string name="AppLocked">Телеграм е заключен</string>
