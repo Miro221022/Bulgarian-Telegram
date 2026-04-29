@@ -674,7 +674,7 @@
     <string name="AppsTab">Приложения</string>
     <string name="AppsTabInfo">Кои приложения са включени тук? **Научете &gt;**</string>
     <string name="AppsTabInfoButton">Разбрах</string>
-    <string name="AppsTabInfoText">Този каталог класира мини приложенията въз основа на техните дневни приходи, измерени в звезди. За да бъдат включени в списъка, разработчиците трябва да настроят основните си мини приложения в @botfather (както е описано [тук](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), да имат над **1000** потребители на ден и печелят дневни приходи над **1000** звезди въз основа на средната седмична стойност.</string>
+    <string name="AppsTabInfoText">Този каталог класира мини приложенията въз основа на техните дневни приходи, измерени в звезди. За да бъдат включени в списъка, разработчиците трябва да зададат основните си мини приложения в @botfather (както е описано [тук](https://core.telegram.org/bots/webapps#launching-the-main-mini-app)), да имат над **1000** потребители дневно и да печелят дневни приходи над **1000** звезди въз основа на средната седмична стойност.</string>
     <string name="AppsTabInfoTitle">Топ мини приложения</string>
     <string name="April">Април</string>
     <string name="Archive">Архивиране</string>
@@ -789,7 +789,7 @@
     <string name="ArticleByAuthor">от %1$s</string>
     <string name="ArticleDateByAuthor">%1$s от %2$s</string>
     <string name="AskAQuestion">Задайте въпрос</string>
-    <string name="AskAQuestionInfo">Моля, обърнете внимание, че поддръжката на Телеграм се извършва от доброволци. Опитваме се да отговорим възможно най-бързо, но може да отнеме известно време\n\nМоля, погледнете &lt;a href=\"https://telegram.org/faq#general-questions\"&gt;Телеграм ЧЗВ&lt;/a&gt;,там има отговори на повечето въпроси и важни съвети за &lt;a href=\"https://telegram.org/faq#troubleshooting\"&gt;отстраняване на проблеми&lt;/a&gt;.</string>
+    <string name="AskAQuestionInfo">"Моля, имайте предвид, че поddръжката на Telegram се извършва от доброволци. Опитваме се да реагираме възможно най-бързо, но може да отнеме известно време.\n\nМоля, разгледайте &lt;a href=\"https://telegram.org/faq#general-questions\"&gt;често задаваните въпроси за Telegram&lt;/a&gt;: има отговори на повечето въпроси и важни съвети за &lt;a href=\"https://telegram.org/faq#troubleshooting\"&gt;отстраняване на неизправности&lt;/a&gt;."</string>
     <string name="AskButton">Попитайте доброволец</string>
     <string name="AttachAudio">Гласово съобщение</string>
     <string name="AttachAudioRestricted">Администраторите на тази група са ви забранили да изпращате аудио тук до %1$s</string>
@@ -1367,7 +1367,7 @@
     <string name="BoostingQuantityPrizes">Количество награди</string>
     <string name="BoostingReason">Причина</string>
     <string name="BoostingReassignBoost">Преназначете подкрепа</string>
-    <string name="BoostingReassignBoostTextLink">**подарък Telegram Premium**</string>
+    <string name="BoostingReassignBoostTextLink">**подарък Телеграм Премиум**</string>
     <string name="BoostingReassignBoostTextPluralWithLink_one">За подкрепа на **%2$s**, преназначете предишни стиули или %3$s на приятел, за да получите **%1$d** допълнителна подкрепа.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_other">За подкрепа на **%2$s**, преназначете предишни стимули или %3$s на приятел, за да получите **%1$d** допълнителна подкрепа.</string>
     <string name="BoostingReassignBoosts">Преназначете подкрепа</string>
@@ -1377,7 +1377,7 @@
     <string name="BoostingReceivedGiftFrom">Получихте подарък\nот **%s**.</string>
     <string name="BoostingReceivedGiftNoName">Получихте подарък.</string>
     <string name="BoostingReceivedGiftOpenBtn">Отворете връзката за подарък</string>
-    <string name="BoostingReceivedPrizeDuration">Вашата награда е абонамент за **Telegram Premium** за %s.</string>
+    <string name="BoostingReceivedPrizeDuration">Вашата награда е абонамент за **Телеграм Премиум** за %s.</string>
     <string name="BoostingReceivedPrizeFrom">Спечелихте награда в раздаване, организирано от **%s**.</string>
     <string name="BoostingReceivedStars_one">Получихте награда от %1$d звезда от %2$s!</string>
     <string name="BoostingReceivedStars_other">Получихте награда от %1$d звезди от %2$s!</string>
@@ -1475,7 +1475,7 @@
     <string name="BoostingTelegramPremiumCountPlural_other">%1$d Телеграм Премиум</string>
     <string name="BoostingTelegramPremiumFor">Телеграм Премиум за %s</string>
     <string name="BoostingTo">В</string>
-    <string name="BoostingToBeDistributed">За ​​раздаване</string>
+    <string name="BoostingToBeDistributed">За раздаване</string>
     <string name="BoostingUnclaimed">Непотърсено</string>
     <string name="BoostingUnclaimedPrize">Непотърсена награда</string>
     <string name="BoostingUnclaimedPrizeDuration">Тази награда е абонамент за **Телеграм Премиум** за %s.</string>
@@ -2156,7 +2156,7 @@
     <string name="ChannelCantOpenPrivate2">За съжаление този канал е поверителен.</string>
     <string name="ChannelCantSendMessage">Съжаляваме, но не можете да изпращате съобщения до този канал.</string>
     <string name="ChannelCaptionLimitPremiumPromo_one">Направете надписа по-кратък или се абонирайте за *Телеграм Премиум*, за да удвоите лимита на **%1$s** символ.</string>
-    <string name="ChannelCaptionLimitPremiumPromo_other">Направете надписа по-кратък или се абонирайте за *Telegram PremiuТелеграм Премиумm*, за да удвоите лимита на **%1$s** символа.</string>
+    <string name="ChannelCaptionLimitPremiumPromo_other">Направете надписа по-кратък или се абонирайте за *Телеграм Премиум*, за да удвоите лимита на **%1$s** символа.</string>
     <string name="ChannelColorApplied">Цветът на канала ви е актуализиран!</string>
     <string name="ChannelColorApply">Прилагане на цвят и икона</string>
     <string name="ChannelColorHint">Можете да изберете индивидуален цвят, за да оцветите името на канала си, връзките, които изпраща и отговорите на съобщенията в него.</string>
@@ -5522,7 +5522,7 @@
     <string name="MessageScheduledRepeatDeleteText">Сигурни ли сте, че искате да изтриете това насрочено съобщение? Това е повтарящо се съобщение.</string>
     <string name="MessageScheduledRepeatDeleteTitle">Изтриване на повтарящо се съобщение</string>
     <string name="MessageScheduledRepeatMonthly">месечно</string>
-    <string name="MessageScheduledRepeatMonthlyMany_one">%d-месчно</string>
+    <string name="MessageScheduledRepeatMonthlyMany_one">%d-месечно</string>
     <string name="MessageScheduledRepeatMonthlyMany_other">%d-месечно</string>
     <string name="MessageScheduledRepeatOption">Повторяне:</string>
     <string name="MessageScheduledRepeatOption3Monthly">На всеки 3 месеца</string>
@@ -6963,7 +6963,7 @@
     <string name="PremiumTierAnnualYears_one">%d-година</string>
     <string name="PremiumTierAnnualYears_other">%d-година</string>
     <string name="PremiumTierMonthly">Месечен</string>
-    <string name="PremiumTierSemiannual">Половин година</string>
+    <string name="PremiumTierSemiannual">Половингодишен</string>
     <string name="PrepaidGiveawayMonths_one">%1$d-месец</string>
     <string name="PrepaidGiveawayMonths_other">%1$d-месец</string>
     <string name="PreparingSticker">Подготвя се стикер…</string>
@@ -7546,7 +7546,7 @@
     <string name="Report2CommentOptional">Добавяне на коментар (по избор)</string>
     <string name="Report2Send">Изпращане на доклад</string>
     <string name="ReportAd">Докладвай реклама</string>
-    <string name="ReportAdLearnMore">Научете повече за нашата Learn more about our [Рекламмна политика и насоки.](https://ads.telegram.org/guidelines)</string>
+    <string name="ReportAdLearnMore">Научете повече за нашите [Рекламни правила и насоки.](https://ads.telegram.org/guidelines)</string>
     <string name="ReportAlertReaction">Сигурни ли сте, че искате да докладвате реакция от този потребител?</string>
     <string name="ReportBot">Докладване</string>
     <string name="ReportChat">Докладване</string>
@@ -8471,7 +8471,7 @@
     <string name="SponsoredMessageAdWhatIsThis">какво е това?</string>
     <string name="SponsoredMessageAlertLearnMore">НАУЧЕТЕ ПОВЕЧЕ</string>
     <string name="SponsoredMessageInfo">Какво са спонсорирани\nсъобщения?</string>
-    <string name="SponsoredMessageInfo2Description1">За разлика от други приложения, Телеграм никога не използва вашите лични данни за насочване на реклами. [Научете повече в Политиката за поверителност](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)</string>
+    <string name="SponsoredMessageInfo2Description1">За разлика от други приложения, Telegram никога не използва вашите лични данни за насочване на реклами. [Научете повече в Политиката за поверителност](https://telegram.org/privacy#5-6-no-ads-based-on-user-data)</string>
     <string name="SponsoredMessageInfo2Description2">За разлика от други приложения, Телеграм не проследява дали сте докоснали спонсорирано съобщение и не ви профилира въз основа на вашата активност. Ние също така предотвратяваме външни връзки в спонсорирани съобщения, за да гарантираме, че трети страни не могат да шпионират нашите потребители. Вярваме, че всеки има право на поверителност и технологичните платформи трябва да го зачитат.</string>
     <string name="SponsoredMessageInfo2Description3">Телеграм предлага безплатна и неограничена услуга на стотици милиони потребители, което включва значителни разходи за сървър и трафик. За да остане независим и верен на ценностите си, Телеграм разработи платен инструмент за популяризиране на съобщения с оглед на поверителността на потребителите. Приветстваме отговорни рекламодатели на:</string>
     <string name="SponsoredMessageInfo2Description4">Рекламите вече не трябва да бъдат синоним на злоупотреба с поверителността на потребителите. Нека предефинираме как трябва да работи една технологична компания - заедно.</string>
@@ -10608,7 +10608,7 @@
     <string name="mr_chooser_looking_for_devices">Търсене на устройства...</string>
     <string name="mr_chooser_searching">Намиране на устройства</string>
     <string name="mr_chooser_title">Споделяне към</string>
-    <string name="mr_chooser_wifi_learn_more">&lt;a href=\"https://support.google.com/chromecast/?p=trouble-finding-devices\"&gt;Научете повече&lt;/a&gt;</string>
+    <string name="mr_chooser_wifi_learn_more">&lt;a href="https://support.google.com/chromecast/?p=trouble-finding-devices"&gt;Научете повече&lt;/a&gt;</string>
     <string name="mr_chooser_wifi_warning_description_car">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този автомобил</string>
     <string name="mr_chooser_wifi_warning_description_phone">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този телефон</string>
     <string name="mr_chooser_wifi_warning_description_tablet">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този таблет</string>

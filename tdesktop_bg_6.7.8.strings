@@ -327,7 +327,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_proxy_box_table_title" = "Прокси сървър";
 "lng_proxy_box_table_button" = "Свържете прокси";
 "lng_proxy_box_table_checking" = "Проверка...";
-"lng_proxy_box_table_available" = "Наличен (ping: {ping} ms)";
+"lng_proxy_box_table_available" = "Наличен (ping: {ping} мс)";
 "lng_proxy_box_table_unavailable" = "Не е наличен";
 "lng_proxy_box_server" = "Сървър";
 "lng_proxy_box_port" = "Порт";
@@ -523,7 +523,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bio_placeholder" = "Биография";
 
 "lng_collectible_username_title" = "{username} е колекционерско потребителско име, което принадлежи на";
-"lng_collectible_username_info" = "Това потребителско име е закупено от **Fragment** на {date} за {price}";
+"lng_collectible_username_info" = "Това потребителско име е закупено на **Fragment** на {date} за {price}";
 "lng_collectible_username_copy" = "Копирай връзката";
 "lng_collectible_phone_title" = "{phone} е колекционерски телефонен номер, който принадлежи на";
 "lng_collectible_phone_info" = "Този телефонен номер е закупен от **Fragment** на {date} за {price}";
@@ -913,7 +913,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_settings_suggestion_phone_number_title" = "{phone} все още ли е вашият номер?";
 "lng_settings_suggestion_phone_number_about" = "Поддържайте номера си актуален, за да сте сигурни, че винаги можете да влезете в Телеграм. {link}";
-"lng_settings_suggestion_phone_number_about_link" = "https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do";
 "lng_settings_suggestion_phone_number_change" = "Моля, променете телефонния си номер в официалното приложение Телеграм на телефона си възможно най-скоро.. {emoji}";
 "lng_settings_suggestion_password_title" = "Вашата парола";
 "lng_settings_suggestion_password_about" = "Вашият акаунт е защитен с двуетапно потвърждаване. Спомняте ли си паролата все още?";
@@ -1295,7 +1294,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_ask_ok" = "Попитайте доброволец";
 "lng_settings_faq" = "Често задавани въпроси за Телеграм";
 "lng_settings_faq_subtitle" = "ЧЗВ";
-"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
 "lng_settings_features" = "Функции на Телеграм";
 "lng_settings_credits" = "Моите звезди";
 "lng_settings_currency" = "Моят TON";
@@ -1430,7 +1428,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_phone_number_warning" = "Потребителите, които имат вашия номер, записан в своите контакти, също ще го видят в Телеграм.";
 "lng_edit_privacy_phone_number_always_empty" = "Винаги споделяй с";
 "lng_edit_privacy_phone_number_never_empty" = "Никога не споделяйте с";
-"lng_edit_privacy_phone_number_exceptions" = "Добавете потребители или групи, за да замените настройките по-горе.";
+"lng_edit_privacy_phone_number_exceptions" = "Добавете потребители или групи, за да замените настройките по-горе.";
 "lng_edit_privacy_phone_number_always_title" = "Винаги споделяй с";
 "lng_edit_privacy_phone_number_never_title" = "Никога не споделяйте с";
 
@@ -1504,7 +1502,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_calls_never_title" = "Никога не позволявай";
 
 "lng_edit_privacy_calls_p2p_title" = "Peer-to-peer в разговори";
-"lng_edit_privacy_calls_p2p_header" = "Използване на peer-to-peer с";
+"lng_edit_privacy_calls_p2p_header" = "Използвайте peer-to-peer с";
 "lng_edit_privacy_calls_p2p_always_empty" = "Винаги позволявай";
 "lng_edit_privacy_calls_p2p_never_empty" = "Никога не позволявай";
 "lng_edit_privacy_calls_p2p_exceptions" = "Peer-to-peer в разговорите ще се използва или няма да се използва с тези потребители, независимо от настройките по-горе.";
@@ -1601,7 +1599,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_bot_settings" = "Настройки на бот";
 "lng_profile_bot_help" = "Помощ за бот";
 "lng_profile_bot_privacy" = "Правила за поверителност на бота";
-"lng_profile_bot_privacy_url" = "https://telegram.org/privacy-tpa";
 "lng_profile_common_groups#one" = "{count} обща група";
 "lng_profile_common_groups#other" = "{count} общи групи";
 "lng_profile_similar_channels#one" = "{count} подобен канал";
@@ -1779,7 +1776,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_open_app_terms" = "Общи условия за мини приложения";
 "lng_profile_open_photo" = "Отворете снимка";
 "lng_profile_bot_permissions_title" = "Разрешаване на достъп до";
-"lng_profile_bot_emoji_status_access" = "Emoji статус";
+"lng_profile_bot_emoji_status_access" = "Състояние с емотикони";
 "lng_info_add_as_contact" = "Добавяне към контакти";
 "lng_profile_shared_media" = "Споделена медия";
 "lng_profile_suggest_photo" = "Предложи профилна снимка";
@@ -2035,7 +2032,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_star_ref_update" = "Актуализиране на партньорска програма";
 "lng_star_ref_update_info" = "Чрез актуализиране на партньорската програма, вие се съгласявате с {terms} на партньорските програми.";
 "lng_star_ref_button_link" = "Правила и условия";
-"lng_star_ref_tos_url" = "https://telegram.org/tos/affiliate-program";
 "lng_star_ref_warning_title" = "Предупреждение";
 "lng_star_ref_warning_text" = "След като стартирате партньорската програма, няма да можете да намалите нейната комисионна или продължителност. Можете само да увеличите тези параметри или да прекратите програмата, което ще деактивира всички разпространени преди това препоръчани връзки.";
 "lng_star_ref_warning_change" = "Тази промяна е необратима. Няма да можете да намалите комисионната или продължителността. Можете само да увеличите тези параметри или да прекратите програмата, което ще деактивира всички споделени преди това препоръчани връзки.";
@@ -2072,7 +2068,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_star_ref_simple_about" = "Изберете мини приложение по-долу, вземете вашата препоръчана връзка и започнете да печелите звезди.";
 "lng_star_ref_duration_forever" = "Завинаги";
 "lng_star_ref_one_about" = "{app} ще споделя {amount} от всеки потребител, които сте препоръчали {duration}.";
-"lng_star_ref_one_about_for_forever" = "за **lifetime**";
+"lng_star_ref_one_about_for_forever" = "за **цял живот**";
 "lng_star_ref_one_about_for_months#one" = "за **{count} месец**";
 "lng_star_ref_one_about_for_months#other" = "за **{count} месеца**";
 "lng_star_ref_one_about_for_years#one" = "за **{count} година**";
@@ -2785,7 +2781,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_subscription_toast" = "За да промените абонаментната такса, създайте нова връзка за покана с различна цена.";
 "lng_group_invite_subscription_about" = "Таксувайте абонаментна такса от хора, които се присъединят към вашия канал чрез тази връзка. {link}";
 "lng_group_invite_subscription_about_link" = "Научете повече {emoji}";
-"lng_group_invite_subscription_about_url" = "https://telegram.org/tos/stars";
 "lng_group_invite_subscription_info_subtitle" = "Абонаментна такса";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / месец {multiplier} {total}";
 "lng_group_invite_subscription_info_title_none" = "{emoji} {price} / месец";
@@ -2945,10 +2940,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_unlock_emoji" = "Отключване на анимирани емотикони";
 "lng_premium_unlock_status" = "Отключване на състоянието с емотикони";
 
-"lng_premium_subscribe_months_24" = "2-годишен";
+"lng_premium_subscribe_months_24" = "Двугодишен";
 "lng_premium_subscribe_months_12" = "Годишен";
-"lng_premium_subscribe_months_6" = "Полугодишно";
-"lng_premium_subscribe_months_1" = "Месечно";
+"lng_premium_subscribe_months_6" = "Половингодишен";
+"lng_premium_subscribe_months_1" = "Месечен";
 "lng_premium_subscribe_total" = "{cost} на година";
 "lng_premium_subscribe_button" = "Абонирайте се за {cost} на месец";
 
@@ -3112,8 +3107,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_gifts_about_user3" = "Дайте на **{user}**, **{second_user}** и **{name}** достъп до изключителни функции.";
 "lng_premium_gifts_about_user_more#one" = "Дайте на **{user}**, **{second_user}**, **{name}** и още **{count}** приятел достъп до изключителни функции.";
 "lng_premium_gifts_about_user_more#other" = "Дайте на **{user}**, **{second_user}**, **{name}** и още **{count}** приятели достъп до изключителни функции.";
-"lng_premium_gifts_about_reward#one" = "You will receive {emoji}**{count}** подсилвания.";
-"lng_premium_gifts_about_reward#other" = "You will receive {emoji}**{count}** подсилвания.";
+"lng_premium_gifts_about_reward#one" = "Ще получите {emoji}**{count}** подсилване.";
+"lng_premium_gifts_about_reward#other" = "Ще получите {emoji}**{count}** подсилвания.";
 "lng_premium_gifts_about_paid_title" = "Подаръкът е изпратен!";
 "lng_premium_gifts_about_paid1" = "**{user}** беше уведомен за закупените от вас подаръци.";
 "lng_premium_gifts_about_paid2" = "**{user}** и **{second_user}** бяха уведомени за закупените от вас подаръци.";
@@ -3149,7 +3144,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_business_button_sponsored" = "Не скривай реклами";
 "lng_business_about_sponsored" = "Като абонат на Премиум не виждате никакви реклами в Телеграм, но можете да ги включите, например, за да видите собствените си реклами, които сте пуснали на {link}";
 "lng_business_about_sponsored_link" = "Платформата за реклами на Телеграм {emoji}";
-"lng_business_about_sponsored_url" = "https://ads.telegram.org";
 
 "lng_credits_summary_title" = "Телеграм Звезди";
 "lng_credits_summary_about" = "Купете Звезди, за да отключите съдържание и услуги в мини приложения на Телеграм.";
@@ -3164,7 +3158,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_summary_options_more" = "Още опции";
 "lng_credits_summary_options_about" = "Продължавайки и купувайки Звезди, вие се съгласявате с {link}.";
 "lng_credits_summary_options_about_link" = "Правила и условия";
-"lng_credits_summary_options_about_url" = "https://telegram.org/tos/stars";
 "lng_credits_summary_earn_title" = "Печелете Звезди";
 "lng_credits_summary_earn_about" = "Разпространете връзки към мини приложения и спечелете дял от техните приходи в Звезди.";
 "lng_credits_summary_history_tab_full" = "Всички транзакции";
@@ -3213,7 +3206,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_box_out_confirm#one" = "Потвърди и плати {emoji} {count} Звезда";
 "lng_credits_box_out_confirm#other" = "Потвърди и плати {emoji} {count} Звезди";
 "lng_credits_box_out_about" = "Преглед на {link} за Звезди.";
-"lng_credits_box_out_about_link" = "https://telegram.org/tos/stars";
 "lng_credits_media_done_title" = "Мултимедията е отключена";
 "lng_credits_media_done_text#one" = "**{count} Звезда** е прехвърлена на {chat}.";
 "lng_credits_media_done_text#other" = "**{count} Звезди** са прехвърлени на {chat}.";
@@ -3311,7 +3303,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_small_balance_for_message" = "Купете **Звезди**, за да изпращате съобщения до {user}.";
 "lng_credits_small_balance_for_messages" = "Купете **Звезди**, за да изпращате съобщения.";
 "lng_credits_small_balance_for_suggest" = "Купете **Звезди**, за да предложите публикация в {channel}.";
-"lng_credits_small_balance_for_offer" = "Купете **Stars**, за да направите оферта за този подарък.";
+"lng_credits_small_balance_for_offer" = "Купете **Звезди**, за да предложите за този подарък.";
 "lng_credits_small_balance_for_search" = "Купете **Звезди**, за да търсите в обществени публикации.";
 "lng_credits_small_balance_fallback" = "Купете **Звезди**, за да отключите съдържание и услуги в Телеграм.";
 "lng_credits_purchase_blocked" = "За съжаление не можете да закупите този артикул с Телеграм Звезди.";
@@ -3449,7 +3441,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chatbots_not_found" = "Чатботът не е намерен.";
 "lng_chatbots_not_supported" = "Този бот все още не поддържа в Телеграм Бизнес.";
 "lng_chatbots_add" = "Добавяне";
-"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbot_status_can_reply" = "бот управлява този чат";
 "lng_chatbot_status_paused" = "бот на пауза";
 "lng_chatbot_status_views" = "бот има достъп до този чат";
@@ -3582,11 +3573,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_group_needs_level_wallpaper#one" = "Вашата група трябва да достигне **Ниво {count}**, за да смените тапета на групата.";
 "lng_boost_group_needs_level_wallpaper#other" = "Вашата група трябва да достигне **Ниво {count}**, за да смените тапета на групата.";
 
-"lng_boost_channel_title_status" = "Активиране на emoji статус";
-"lng_boost_channel_needs_level_status#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да настроите emoji статус.";
-"lng_boost_channel_needs_level_status#other" = "Вашият канал трябва да достигне **Ниво {count}**, за да настроите emoji статус.";
-"lng_boost_group_needs_level_status#one" = "Вашата група трябва да достигне **Ниво {count}**, за да настроите emoji статус.";
-"lng_boost_group_needs_level_status#other" = "Вашата група трябва да достигне **Ниво {count}**, за да настроите emoji статус.";
+"lng_boost_channel_title_status" = "Активирайте статус с емотикони";
+"lng_boost_channel_needs_level_status#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да зададете статус на емотикони.";
+"lng_boost_channel_needs_level_status#other" = "Вашият канал трябва да достигне **Ниво {count}**, за да зададете статус на емотикони.";
+"lng_boost_group_needs_level_status#one" = "Вашата група трябва да достигне **Ниво {count}**, за да зададе статус с емотикони.";
+"lng_boost_group_needs_level_status#other" = "Вашата група трябва да достигне **Ниво {count}**, за да зададе статус на емотикони.";
 
 "lng_boost_channel_title_reactions" = "Персонализирани реакции";
 "lng_boost_channel_needs_level_reactions#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да добавите **{same_count}**  персонализиран емотикон като реакция.";
@@ -3596,9 +3587,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_channel_needs_level_cpm#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да изключите рекламите.";
 "lng_boost_channel_needs_level_cpm#other" = "Вашият канал трябва да достигне **Ниво {count}**, за да изключите рекламите.";
 
-"lng_boost_group_title_emoji" = "Активиране на emoji пакет";
-"lng_boost_group_needs_level_emoji#one" = "Вашата група трябва да достигне **Ниво {count}**, за да настроите emoji пакет.";
-"lng_boost_group_needs_level_emoji#other" = "Вашата група трябва да достигне **Ниво {count}**, за да настроите emoji пакет.";
+"lng_boost_group_title_emoji" = "Активиране на пакет с емотикони";
+"lng_boost_group_needs_level_emoji#one" = "Вашата група трябва да достигне **Ниво {count}**, за да зададе пакет емотикони.";
+"lng_boost_group_needs_level_emoji#other" = "Вашата група трябва да достигне **Ниво {count}**, за да зададе пакет емотикони.";
 
 "lng_boost_channel_title_wear" = "Носене на предмет";
 "lng_boost_channel_needs_level_wear#one" = "Вашият канал се нуждае от **Ниво {count}**, за да носи колекционерски предмети.";
@@ -3607,10 +3598,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_channel_ask" = "Помолете вашите **Премиум** абонати да подкрепят канала ви с тази връзка:";
 "lng_boost_channel_ask_button" = "Копиране на връзката";
 //"lng_boost_channel_or" = "or";
-//"lng_boost_channel_gifting" = "Boost your channel by gifting your subscribers Телеграм Премиум. {link}";
+//"lng_boost_channel_gifting" = "Boost your channel by gifting your subscribers Telegram Premium. {link}";
 //"lng_boost_channel_gifting_link" = "Get boosts >";
 "lng_boost_group_ask" = "Помолете вашите **Премиум** членове да подкрепят вашата група с тази връзка:";
-//"lng_boost_group_gifting" = "Boost your group by gifting your members Телеграм Премиум. {link}";
+//"lng_boost_group_gifting" = "Boost your group by gifting your members Telegram Premium. {link}";
 
 "lng_boost_channel_title_autotranslate" = "Автоматичен превод на съобщения";
 "lng_boost_channel_needs_level_autotranslate#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да активирате автоматичния превод.";
@@ -3625,14 +3616,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_feature_link_style_channel#one" = "**{count}** стил за връзки и цитати";
 "lng_feature_link_style_channel#other" = "**{count}** стила за връзки и цитати";
 "lng_feature_link_emoji" = "Персонализирано лого за връзки и цитати";
-"lng_feature_emoji_status" = "**1000+** Emoji статуса";
+"lng_feature_emoji_status" = "**1000+** статуса с емотикони";
 "lng_feature_backgrounds_channel#one" = "**{count}** фон на канала";
 "lng_feature_backgrounds_channel#other" = "**{count}** фона на канала";
 "lng_feature_custom_background_channel" = "Персонализиран фон на канала";
 "lng_feature_backgrounds_group#one" = "**{count}** фон на групата";
 "lng_feature_backgrounds_group#other" = "**{count}** фона на групата";
 "lng_feature_custom_background_group" = "Персонализиран фон на групата";
-"lng_feature_custom_emoji_pack" = "Персонализиран Emoji пакет";
+"lng_feature_custom_emoji_pack" = "Персонализиран пакет емотикони";
 "lng_feature_transcribe" = "Преобразуване на глас към текст";
 "lng_feature_autotranslate" = "Автоматичен превод на съобщения";
 "lng_feature_profile_color_channel#one" = "**{count}** цвят за корицата на канала";
@@ -3945,7 +3936,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_buy_resale_button" = "Купете за {cost}";
 "lng_gift_buy_resale_equals" = "Равно на {cost}";
 "lng_gift_buy_resale_only_ton" = "Продавачът приема само TON като плащане.";
-"lng_gift_buy_resale_pay_stars" = "Плащане в Stars";
+"lng_gift_buy_resale_pay_stars" = "Плащайте в Звезди";
 "lng_gift_buy_resale_pay_ton" = "Платете в TON";
 "lng_gift_buy_resale_confirm" = "Искате ли да купите {name} за {price} и да го подарите на {user}?";
 "lng_gift_buy_resale_confirm_self" = "Искате ли да купите {name} за {price}?";
@@ -4905,7 +4896,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bot_no_scan_qr" = "QR кодовете за ботове не се поддържат на настолен компютър. Моля, използвайте едно от мобилните приложения на Телеграм.";
 "lng_bot_no_share_story" = "Споделянето в Истории не се поддържа на настолен компютър. Моля, използвайте едно от мобилните приложения на Телеграм.";
 "lng_bot_emoji_status_confirm" = "Потвърди";
-"lng_bot_emoji_status_title" = "Задаване на Emoji статус";
+"lng_bot_emoji_status_title" = "Задайте статус с емотикони";
 "lng_bot_emoji_status_text" = "Искате ли да зададете този статус на емотикон, предложен от {bot}?";
 "lng_bot_emoji_status_access_text" = "{bot} иска достъп, за да зададе вашия **Emoji статус**. Можете да отмените този достъп по всяко време на страницата на потребителския профил на {name}.";
 "lng_bot_emoji_status_access_allow" = "Позволи";
@@ -5042,7 +5033,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_copy_image" = "Копиране на изображението";
 "lng_context_cancel_download" = "Отказ от изтеглянето";
 "lng_context_show_in_folder" = "Покажи в папката";
-"lng_context_show_in_finder" = "Покажи във Finder";
+"lng_context_show_in_finder" = "Показване във Finder";
 "lng_context_save_video" = "Запиши като...";
 "lng_context_save_audio_file" = "Запиши като...";
 "lng_context_save_audio" = "Запиши като...";
@@ -5198,7 +5189,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_paid_cost_placeholder" = "Звезди за отключване";
 "lng_paid_about" = "Потребителите ще трябва да прехвърлят това количество звезди към вашия канал, за да гледат тази медия. {link}";
 "lng_paid_about_link" = "Още за звездите >";
-"lng_paid_about_link_url" = "https://telegram.org/blog/telegram-stars";
 "lng_paid_price" = "Отключете за {price}";
 
 "lng_paid_react_title" = "Реакция със звезда";
@@ -5423,7 +5413,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_suggest_low_ton_title" = " {amount} TON е необходим";
 "lng_suggest_low_ton_text" = "Можете да добавяте средства към баланса си чрез платформата на трета страна Fragment.";
 "lng_suggest_low_ton_fragment" = "Добавете средства чрез Fragment";
-"lng_suggest_low_ton_fragment_url" = "https://fragment.com/ads/topup";
 
 "lng_reply_in_another_title" = "Отговор в...";
 "lng_reply_in_another_chat" = "Отговор в друг чат";
@@ -5505,7 +5494,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_channel_wallpaper_about_group" = "Задайте тапет, който ще бъде видим за всички, които гледат вашата група.";
 "lng_edit_channel_status" = "Статус с емотикони на канала";
 "lng_edit_channel_status_about" = "Изберете статус, който ще се показва до името на канала.";
-"lng_edit_channel_status_group" = "Задаване на Emoji статус на групата";
+"lng_edit_channel_status_group" = "Задайте статус с емотикони на групата";
 "lng_edit_channel_status_about_group" = "Изберете статус, който ще се показва до името на групата.";
 "lng_edit_channel_personal_channel" = "Задайте като личен канал";
 "lng_edit_self_title" = "Редактирайте вашето име";
@@ -5762,7 +5751,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_payments_webview_no_use" = "За съжаление, не можете да използвате плащания с текущата системна конфигурация.";
 "lng_payments_webview_install_edge" = "Моля, инсталирайте {link}.";
-"lng_payments_webview_install_webkit" = "Моля, инсталирайте WebKitGTK (webkit2gtk-5.0/webkit2gtk-4.1/webkit2gtk-4.0) с вашия мениджър на пакети.";
+"lng_payments_webview_install_webkit" = "Моля, инсталирайте WebKitGTK (webkit2gtk-4.1/webkit2gtk-4.0) с помощта на вашия мениджър на пакети.";
 "lng_payments_webview_update_windows" = "Моля, актуализирайте системата си до Windows 8.1 или по-нова.";
 "lng_payments_sure_close" = "Сигурни ли сте, че искате да затворите този формуляр за плащане? Направените от вас промени ще бъдат загубени.";
 "lng_payments_receipt_label" = "Разписка";
@@ -6255,10 +6244,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_payment_confirm_text#other" = "{name} таксува **{count}** звезди на съобщение.";
 "lng_payment_confirm_amount#one" = "**{count}** звезда";
 "lng_payment_confirm_amount#other" = "**{count}** звезди";
-"lng_payment_confirm_users#one" = "Избрахте **{count}** потребител, който таксува Stars за съобщения.";
-"lng_payment_confirm_users#other" = "Избрахте **{count}** потребители, които таксуват Stars за съобщения.";
-"lng_payment_confirm_chats#one" = "Избрахте **{count}** чат, който таксува Stars за съобщения.";
-"lng_payment_confirm_chats#other" = "Избрахте **{count}** чатове, които таксуват Stars за съобщения.";
+"lng_payment_confirm_users#one" = "Избрахте **{count}** потребител, който таксува Звезди за съобщения.";
+"lng_payment_confirm_users#other" = "Избрахте **{count}** потребители, които таксуват Звезди за съобщения.";
+"lng_payment_confirm_chats#one" = "Избрахте **{count}** чат, където плащате Звезди за съобщения.";
+"lng_payment_confirm_chats#other" = "Избрахте **{count}** чатове, в които плащате със Звезди за съобщения.";
 "lng_payment_confirm_sure#one" = "Искате ли да платите {amount}, за да изпратите **{count}** съобщение?";
 "lng_payment_confirm_sure#other" = "Искате ли да платите {amount}, за да изпратите **{count}** съобщения?";
 "lng_payment_confirm_dont_ask" = "Не ме питай отново";
@@ -6527,8 +6516,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_changed_stickers_set" = "Пакет със стикери";
 "lng_admin_log_removed_stickers_group" = "{from} премахна пакета стикери на групата";
 "lng_admin_log_changed_emoji_group" = "{from} промени {sticker_set} на групата";
-"lng_admin_log_changed_emoji_set" = "emoji пакет";
-"lng_admin_log_removed_emoji_group" = "{from} премахна emoji пакета на групата";
+"lng_admin_log_changed_emoji_set" = "комплект емотикони";
+"lng_admin_log_removed_emoji_group" = "{from} премахна комплекта с емотикони на групата";
 "lng_admin_log_changed_linked_chat" = "{from} промени дискусионната група на «{chat}»";
 "lng_admin_log_removed_linked_chat" = "{from} премахна дискусионната група";
 "lng_admin_log_changed_linked_channel" = "{from} промени свързания канал на «{chat}»";
@@ -6556,23 +6545,23 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_autotranslate_enabled" = "{from} активира автоматичен превод";
 "lng_admin_log_autotranslate_disabled" = "{from} деактивира автоматичния превод";
 "lng_admin_log_change_color" = "{from} промени цвета на канала от {previous} на {color}";
-"lng_admin_log_set_background_emoji" = "{from} зададе emoji фона на канала да е {emoji}";
-"lng_admin_log_change_background_emoji" = "{from} промени emoji фона на канала от {previous} на {emoji}";
-"lng_admin_log_removed_background_emoji" = "{from} премахна emoji фона на канала {emoji}";
+"lng_admin_log_set_background_emoji" = "{from} зададе емотикони за фон на канала {emoji}";
+"lng_admin_log_change_background_emoji" = "{from} промени емотиконите за фона на канала от {previous} на {emoji}";
+"lng_admin_log_removed_background_emoji" = "{from} премахна емотикони за фона на канала {emoji}";
 "lng_admin_log_change_profile_color" = "{from} промени цвета на профила на канала от {previous} на {color}";
-"lng_admin_log_set_profile_background_emoji" = "{from} зададе emoji фона на профила на канала да е {emoji}";
-"lng_admin_log_change_profile_background_emoji" = "{from} промени emoji фона на профила на канала от {previous} на {emoji}";
-"lng_admin_log_removed_profile_background_emoji" = "{from} премахна emoji фона на профила на канала {emoji}";
+"lng_admin_log_set_profile_background_emoji" = "{from} зададе емотикони за фона на профила на канала {emoji}";
+"lng_admin_log_change_profile_background_emoji" = "{from} промени емотиконите за фона на профила на канала от {previous} на {emoji}";
+"lng_admin_log_removed_profile_background_emoji" = "{from} премахна емотиконите за фона на профила на канала {emoji}";
 "lng_admin_log_change_profile_color_group" = "{from} промени цвета на профила на групата от {previous} на {color}";
-"lng_admin_log_set_profile_background_emoji_group" = "{from} зададе emoji фона на профила на групата да е {emoji}";
-"lng_admin_log_change_profile_background_emoji_group" = "{from} промени emoji фона на профила на групата от {previous} на {emoji}";
-"lng_admin_log_removed_profile_background_emoji_group" = "{from} премахна emoji фона на профила на групата {emoji}";
+"lng_admin_log_set_profile_background_emoji_group" = "{from} зададе емотикони за фона на груповия профил във {emoji}";
+"lng_admin_log_change_profile_background_emoji_group" = "{from} промени емотиконите за фона на груповия профил от {previous} на {emoji}";
+"lng_admin_log_removed_profile_background_emoji_group" = "{from} премахна емотиконите за фона на груповия профил {emoji}";
 "lng_admin_log_change_wallpaper" = "{from} промени тапета на канала";
-"lng_admin_log_set_status" = "{from} зададе emoji статуса на канала да е {emoji}";
-"lng_admin_log_change_status" = "{from} промени emoji статуса на канала от {previous} на {emoji}";
-"lng_admin_log_removed_status" = "{from} премахна emoji статуса на канала {emoji}";
-"lng_admin_log_set_status_until" = "{from} зададе emoji статуса на канала на {emoji} до {date}";
-"lng_admin_log_change_status_until" = "{from} промени emoji статуса на канала от {previous} на {emoji} до {date}";
+"lng_admin_log_set_status" = "{from} зададе статус с емотикони на канала във {emoji}";
+"lng_admin_log_change_status" = "{from} промени състоянието с емотикони на канала от {previous} на {emoji}";
+"lng_admin_log_removed_status" = "{from} премахна статуса с емотикони на канала {emoji}";
+"lng_admin_log_set_status_until" = "{from} зададе статус с емотикони на канала във {emoji} до {date}";
+"lng_admin_log_change_status_until" = "{from} промени състоянието с емотикони на канала от {previous} на {emoji} до {date}";
 "lng_admin_log_user_with_username" = "{name} ({mention})";
 "lng_admin_log_messages_ttl_set" = "{from} активира съобщенията да се изтриват автоматично след {duration}";
 "lng_admin_log_messages_ttl_changed" = "{from} период на автоматично изтриване на променени съобщения от {previous} до {duration}";
@@ -7267,7 +7256,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sponsored_title" = "Какво представляват спонсорирани съобщения?";
 "lng_sponsored_info_description1_linked" = "За разлика от други приложения, Телеграм никога не използва вашите лични данни за насочване на реклами. {link}\n\nЗа разлика от други приложения, Телеграм не проследява дали сте докоснали спонсорирано съобщение и не ви профилира въз основа на вашата активност. Ние също така предотвратяваме външни връзки в спонсорирани съобщения, за да гарантираме, че трети страни не могат да шпионират нашите потребители. Вярваме, че всеки има право на поверителност и технологичните платформи трябва да го зачитат.\n\nТелеграм предлага безплатна и неограничена услуга на стотици милиони потребители, което включва значителни разходи за сървър и трафик. За да остане независим и верен на ценностите си, Телеграм разработи платен инструмент за популяризиране на съобщения с оглед на поверителността на потребителите. Приветстваме отговорни рекламодатели на:";
 "lng_sponsored_info_description1_link" = "Научете повече в Политиката за поверителност";
-"lng_sponsored_info_description1_url" = "https://telegram.org/privacy#5-6-no-ads-based-on-user-data";
 "lng_sponsored_info_description2" = "Спонсорираните съобщения в момента са в тестов режим. След като бъдат пуснати напълно и позволят на Телеграм да покрие основните си разходи, ние ще започнем да споделяме приходи от реклами със собствениците на обществени канали, в които се показват спонсорирани съобщения.\n\nОнлайн рекламите вече не трябва да бъдат синоним на злоупотреба с поверителността на потребителите. Нека предефинираме как трябва да работи една технологична компания – заедно.";
 "lng_sponsored_info_menu" = "За тази реклама";
 "lng_sponsored_info_submenu" = "Рекламодател: {text}";
@@ -7294,13 +7282,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sponsored_revenued_footer_search_description" = "Всеки може да създаде реклама, която да се показва в резултатите от търсенето за всяка заявка. Разгледайте **рекламната платформа на Телеграм** за подробности. {link}";
 "lng_sponsored_top_bar_hide" = "премахни";
 
-"lng_telegram_features_url" = "https://t.me/TelegramTips";
 
 "lng_mini_apps_disclaimer_title" = "Предупреждение";
 "lng_mini_apps_disclaimer_text" = "Вие сте на път да използвате мини приложение, управлявано от независима страна, **която не е свързана с Телеграм**. Трябва да приемете Условията за използване на мини приложенията, за да продължите.";
 "lng_mini_apps_disclaimer_button" = "Съгласен съм с {link}";
 "lng_mini_apps_disclaimer_link" = "Условия за ползване";
-"lng_mini_apps_tos_url" = "https://telegram.org/tos/mini-apps";
 
 "lng_ringtones_box_title" = "Звук за известяване";
 "lng_ringtones_box_cloud_subtitle" = "Изберете своя тон";
@@ -7650,7 +7636,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_history_out" = "Взети";
 "lng_channel_earn_history_out_failed" = "Назавършени";
 "lng_channel_earn_history_out_about_failed" = "Наградата не можа да бъде взета";
-"lng_channel_earn_history_out_button" = "Виж в Blockchain Explorer";
+"lng_channel_earn_history_out_button" = "Преглед в Blockchain Explorer";
 "lng_channel_earn_history_return" = "Възстановяване на средства";
 "lng_channel_earn_history_return_about" = "Възстановена сума обратно";
 "lng_channel_earn_history_pending" = "В очакване";
@@ -7674,7 +7660,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_learn_coin_title" = "Какво е {emoji} TON?";
 "lng_channel_earn_learn_coin_about" = "TON е блокчейн платформа и криптовалута, която Телеграм използва поради своята висока скорост и ниски комисионни за транзакции. {link}";
 "lng_channel_earn_learn_close" = "Разбрах";
-"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
 "lng_channel_earn_chart_top_hours" = "Рекламни импресии";
 "lng_channel_earn_chart_revenue" = "Рекламни награди";
 "lng_channel_earn_chart_overriden_detail_credits" = "Награди в Звезди";
@@ -7692,13 +7677,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bot_earn_total" = "Общи приходи";
 "lng_bot_earn_balance_title" = "Наличен баланс";
 "lng_bot_earn_balance_about" = "Звездите от общия ви баланс могат да се използват за реклами или да се изтеглят като награди 21 дни след спечелването им.";
-"lng_bot_earn_balance_about_url" = "https://telegram.org/tos/stars";
 "lng_bot_earn_balance_button#one" = "Изтегли {emoji} {count}";
 "lng_bot_earn_balance_button#other" = "Изтегли {emoji} {count}";
 "lng_bot_earn_balance_button_all" = "Изтегли всички звезди";
 "lng_bot_earn_balance_button_locked" = "Оттегляне";
 "lng_bot_earn_balance_button_buy_ads" = "Купи реклами";
-"lng_bot_earn_learn_credits_out_about" = "Можете да изтеглите Звезди с помощта на Fragment или да използвате Звезди, за да рекламирате своя бот. {link}";
+"lng_bot_earn_learn_credits_out_about" = "Можете да изтеглите Stars с помощта на Fragment или да използвате Stars, за да рекламирате своя бот. {link}";
 "lng_self_earn_learn_credits_out_about" = "Можете да теглите от 10 звезди, като използвате Fragment. {link}";
 "lng_bot_earn_out_ph" = "Въведете сумата за теглене";
 "lng_bot_earn_out_ph_max" = "Въведете сума за теглене (макс. {amount})";
@@ -7788,7 +7772,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_popular_apps_info_text" = "Този каталог класира мини приложенията въз основа на техните дневни приходи, измерени в звезди. За да бъдат включени в списъка, разработчиците трябва да настроят основните си мини приложения в {bot} (както е описано {link}), да имат над **1000** потребители дневно и да печелят дневен приход над **1000** звезди въз основа на средната седмична стойност.";
 "lng_popular_apps_info_bot" = "@botfather";
 "lng_popular_apps_info_here" = "тук";
-"lng_popular_apps_info_url" = "https://core.telegram.org/bots/webapps#launching-the-main-mini-app";
 "lng_popular_apps_info_confirm" = "Разбрах";
 
 "lng_font_box_title" = "Изберете стил на шрифта";
