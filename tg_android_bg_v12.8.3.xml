@@ -38,14 +38,14 @@
     <string name="AIEditorStyleSharedToManyChats_one">Изпратена AI стил връзка към **чата**.</string>
     <string name="AIEditorStyleSharedToManyChats_other">Изпратена  AI стил връзка към **%1$d чата**.</string>
     <string name="AIEditorStyleSharedToSavedMessages">Изпратена AI стил връзка към **Запазени съобщения**</string>
-    <string name="AIEditorStyleText">"Добавете този стил, за да пренапишете \nсъобщенията си незабавно."</string>
+    <string name="AIEditorStyleText">&quot;Добавете този стил, за да пренапишете \nсъобщенията си незабавно.&quot;</string>
     <string name="AIEditorStyleTitleHint">Име на стил (например: Поверителен)</string>
     <string name="AIEditorTabFix">Поправка</string>
     <string name="AIEditorTabStyle">Стил</string>
     <string name="AIEditorTabTranslate">Превод</string>
     <string name="AIEditorTo">Към %s</string>
     <string name="AIEditorToOther">Към %s</string>
-    <string name="AIEditorToneAddedText">"Докоснете \'AI\' &gt; \'%s\', когато пишете следващото си дълго съобщение."</string>
+    <string name="AIEditorToneAddedText">&quot;Докоснете \'AI\' &gt; \'%s\', когато пишете следващото си дълго съобщение.&quot;</string>
     <string name="AIEditorToneAddedTitle">Добавен стил</string>
     <string name="AIEditorToneCreatedText">Натиснете и задръжте стила, за да редактирате или споделите връзката.</string>
     <string name="AIEditorToneCreatedTitle">%s създаден стил</string>
@@ -382,7 +382,7 @@
     <string name="ActionPinnedQuiz">un1 закачи викторина</string>
     <string name="ActionPinnedRound">un1 закачи видео съобщение</string>
     <string name="ActionPinnedSticker">un1 закачи стикер</string>
-    <string name="ActionPinnedText">un1 закачи \"%1$s\"</string>
+    <string name="ActionPinnedText">un1 закачи \&quot;%1$s\&quot;</string>
     <string name="ActionPinnedVideo">un1 закачи видео</string>
     <string name="ActionPinnedVoice">un1 закачи гласово съобщение</string>
     <string name="ActionPrepaidGiftInbound">un1 изпрати надстройка на стойност ** un2 ** за вашия подарък</string>
@@ -589,8 +589,8 @@
     <string name="AddedBy">добавено от %1$s %2$s</string>
     <string name="AddedMembersToGroup_other">**%d членове** са добавени към групата</string>
     <string name="AddedSubscribersToChannel_other">**%d абонати** са добавени към канала</string>
-    <string name="AddedToDoNotTranslate">**%s** е добавен към списъка \"Не превеждай\".</string>
-    <string name="AddedToDoNotTranslateOther">**%s** е добавен към списъка \"Не превеждай\".</string>
+    <string name="AddedToDoNotTranslate">**%s** е добавен към списъка \&quot;Не превеждай\&quot;.</string>
+    <string name="AddedToDoNotTranslateOther">**%s** е добавен към списъка \&quot;Не превеждай\&quot;.</string>
     <string name="AddedToFavorites">Стикерът беше добавен в любими</string>
     <string name="AdditionalReactions">Допълнителни реакции</string>
     <string name="AdditionalReactionsDescription">Отключете по-широк спектър от реакции на съобщения, като се абонирате за Телеграм Премиум.</string>
@@ -635,7 +635,7 @@
     <string name="AgeVerificationFailedTitle">Проверката на възрастта неуспешна</string>
     <string name="AgeVerificationNeedCameraPermission">Телеграм се нуждае от достъп до вашата камера, така че да можете да потвърдите възрастта си.</string>
     <string name="AgeVerificationPassedTitle">Проверка на възрастта премината</string>
-    <string name="AgeVerificationTextGB">"За да получите достъп до такова съдържание, трябва да потвърдите, че имате поне **18** години, както се изисква от законодателството на Обединеното кралство.\n\nТова е еднократен процес с помощта на камерата на вашия телефон. Вашето селфи няма да се съхранява от Телеграм."</string>
+    <string name="AgeVerificationTextGB">&quot;За да получите достъп до такова съдържание, трябва да потвърдите, че имате поне **18** години, както се изисква от законодателството на Обединеното кралство.\n\nТова е еднократен процес с помощта на камерата на вашия телефон. Вашето селфи няма да се съхранява от Телеграм.&quot;</string>
     <string name="AgeVerificationTitle">Проверка на възрастта</string>
     <string name="Agree">Съгласен съм</string>
     <string name="Album">Албум</string>
@@ -732,7 +732,7 @@
     <string name="ApproveNewMembers">Одобряване на нови членове</string>
     <string name="ApproveNewMembers2">Одобряване на нови членове</string>
     <string name="ApproveNewMembersApplyToLinksApply">Приложи</string>
-    <string name="ApproveNewMembersApplyToLinksDontApply">"Не прилагай"</string>
+    <string name="ApproveNewMembersApplyToLinksDontApply">&quot;Не прилагай&quot;</string>
     <string name="ApproveNewMembersApplyToLinksTitle">Прилагане към съществуващи връзки за покани</string>
     <string name="ApproveNewMembersDescription">Включете това, ако искате потребителите да се присъединят само след като бъдат одобрени от администратор.</string>
     <string name="ApproveNewMembersDescription2">Изискване на одобрение от администратор за хора, които се присъединяват чрез тази връзка.</string>
@@ -803,12 +803,12 @@
     <string name="ArchivedMasksAlertInfo">Някои от вашите стари маски бяха архивирани. Може да ги реактивирате от настройки на маски.</string>
     <string name="ArchivedMasksAlertTitle">Архивирани маски</string>
     <string name="ArchivedMasksEmpty">Няма архивирани маски</string>
-    <string name="ArchivedMasksInfo">"Можете да имате до 200 комплекта маски.\nНеизползваните комплекти се архивират, когато добавите още."</string>
+    <string name="ArchivedMasksInfo">&quot;Можете да имате до 200 комплекта маски.\nНеизползваните комплекти се архивират, когато добавите още.&quot;</string>
     <string name="ArchivedStickers">Архивирани стикери</string>
     <string name="ArchivedStickersAlertInfo">Някои от вашите стари стикери бяха архивирани. Може да ги реактивирате от настройки на стикери.</string>
     <string name="ArchivedStickersAlertTitle">Архивирани стикери</string>
     <string name="ArchivedStickersEmpty">Няма архивирани стикери</string>
-    <string name="ArchivedStickersInfo">"Можете да добавите до 200 комплекта стикери.\nНеизползваните комплекти се архивират, когато добавите още."</string>
+    <string name="ArchivedStickersInfo">&quot;Можете да добавите до 200 комплекта стикери.\nНеизползваните комплекти се архивират, когато добавите още.&quot;</string>
     <string name="ArchivedStories">Архивирани истории</string>
     <string name="AreTyping">пишат...</string>
     <string name="AreTypingGroup">%1$s пишат...</string>
@@ -873,7 +873,7 @@
     <string name="ArticleByAuthor">от %1$s</string>
     <string name="ArticleDateByAuthor">%1$s от %2$s</string>
     <string name="AskAQuestion">Задайте въпрос</string>
-    <string name="AskAQuestionInfo">"Моля, имайте предвид, че поддръжката на Telegram се извършва от доброволци. Опитваме се да реагираме възможно най-бързо, но може да отнеме известно време.\n\nМоля, разгледайте &lt;a href=\"https://telegram.org/faq#general-questions\"&gt;често задаваните въпроси за Telegram&lt;/a&gt;: има отговори на повечето въпроси и важни съвети за &lt;a href=\"https://telegram.org/faq#troubleshooting\"&gt;отстраняване на неизправности&lt;/a&gt;."</string>
+    <string name="AskAQuestionInfo">&quot;Моля, имайте предвид, че поддръжката на Telegram се извършва от доброволци. Опитваме се да реагираме възможно най-бързо, но може да отнеме известно време.\n\nМоля, разгледайте &lt;a href=\&quot;https://telegram.org/faq#general-questions\&quot;&gt;често задаваните въпроси за Telegram&lt;/a&gt;: има отговори на повечето въпроси и важни съвети за &lt;a href=\&quot;https://telegram.org/faq#troubleshooting\&quot;&gt;отстраняване на неизправности&lt;/a&gt;.&quot;</string>
     <string name="AskButton">Попитайте доброволец</string>
     <string name="AttachAudio">Гласово съобщение</string>
     <string name="AttachAudioRestricted">Администраторите на тази група са ви забранили да изпращате аудио тук до %1$s</string>
@@ -1096,7 +1096,7 @@
     <string name="BackgroundAnimateInfo">Цветовете ще се движат, когато изпращате съобщения</string>
     <string name="BackgroundBlurred">Замъглен</string>
     <string name="BackgroundChoosePattern">Изберете шаблон</string>
-    <string name="BackgroundColorSinglePreviewLine1">"Натиснете \'Задаване\', за да приложите фона."</string>
+    <string name="BackgroundColorSinglePreviewLine1">&quot;Натиснете \'Задаване\', за да приложите фона.&quot;</string>
     <string name="BackgroundColorSinglePreviewLine2">Насладете се на гледката.</string>
     <string name="BackgroundColorSinglePreviewLine3">Приложи тапета в този чат</string>
     <string name="BackgroundColors">Цветове</string>
@@ -1611,7 +1611,7 @@
     <string name="BotAuthLoggedInFailTitle">Неуспешно влизане</string>
     <string name="BotAuthLoggedInSuccess">Вие успешно влязохте в **%s**.</string>
     <string name="BotAuthLoggedInSuccessTitle">Успешно влизане</string>
-    <string name="BotAuthLoggedInSuccessWithoutPhoneNumber">"Вече сте влезли в **%s**, но не сте предоставили достъп до телефонния си номер."</string>
+    <string name="BotAuthLoggedInSuccessWithoutPhoneNumber">&quot;Вече сте влезли в **%s**, но не сте предоставили достъп до телефонния си номер.&quot;</string>
     <string name="BotAuthLogin">Влизане</string>
     <string name="BotAuthLoginRequestFrom">Заявка за влизане от **%s**</string>
     <string name="BotAuthNotification">Заявка за влизане за %1$s от %2$s</string>
@@ -1634,7 +1634,7 @@
     <string name="BotCantOpenAttachMenuGroup">Този бот не може да се отваря в групи.</string>
     <string name="BotCantOpenAttachMenuSameBot">Този бот не може да бъде отворен в чат със себе си.</string>
     <string name="BotCantOpenAttachMenuUser">Този бот не може да се отваря в чатове с потребители.</string>
-    <string name="BotCantReadChatTooltip">"Този ​​бот не може да чете чата — само съобщението, в което е споменат."</string>
+    <string name="BotCantReadChatTooltip">&quot;Този ​​бот не може да чете чата — само съобщението, в което е споменат.&quot;</string>
     <string name="BotChangeSettings">Промяна на настройките на бота</string>
     <string name="BotChooseChatToVerify">Изберете Чат за проверка</string>
     <string name="BotCloseAllTabs">Затвори всички раздели</string>
@@ -1949,7 +1949,7 @@
     <string name="BusinessHoursClearTitle">Премахване на работно време</string>
     <string name="BusinessHoursCopied">Работното време е копирано</string>
     <string name="BusinessHoursCopyFooter">В %s часова зона</string>
-    <string name="BusinessHoursCopyHeader">"Работно време на %s:"</string>
+    <string name="BusinessHoursCopyHeader">&quot;Работно време на %s:&quot;</string>
     <string name="BusinessHoursDayAdd">Добавете набор от часове</string>
     <string name="BusinessHoursDayCloseHour">Край на работното време</string>
     <string name="BusinessHoursDayCloseHourPicker">Изберете време на затваряне</string>
@@ -2018,9 +2018,9 @@
     <string name="BusinessLocationUnsavedChanges">Променихте местоположението на бизнеса. Прилагане на промените?</string>
     <string name="BusinessProfileLocation">Местоположение</string>
     <string name="BusinessRecipients">Получатели</string>
-    <string name="BusinessRecipientsRemoveExcludeMessage">Сигурни ли сте че искате да премахнете \"%s\" от списъка за изключване?</string>
+    <string name="BusinessRecipientsRemoveExcludeMessage">Сигурни ли сте че искате да премахнете \&quot;%s\&quot; от списъка за изключване?</string>
     <string name="BusinessRecipientsRemoveExcludeTitle">Премахване на получателя</string>
-    <string name="BusinessRecipientsRemoveIncludeMessage">Сигурни ли сте че искате да премахнете \"%s\" от включващия списък?</string>
+    <string name="BusinessRecipientsRemoveIncludeMessage">Сигурни ли сте че искате да премахнете \&quot;%s\&quot; от включващия списък?</string>
     <string name="BusinessRecipientsRemoveIncludeTitle">Премахване на получателя</string>
     <string name="BusinessReplies">Бързи отговори</string>
     <string name="BusinessRepliesAdd">Добавяне на бърз отговор</string>
@@ -2034,7 +2034,7 @@
     <string name="BusinessRepliesEnter">Добавяне на бърз отговор</string>
     <string name="BusinessRepliesHint">За да използвате този бърз отговор в чат, въведете / и изберете прекия път от списъка.</string>
     <string name="BusinessRepliesInfo">Настройте преки пътища с форматиран текст и мултимедия, за да отговаряте на съобщения по-бързо.</string>
-    <string name="BusinessRepliesIntro1">Въведете съобщение по-долу, което ще бъде изпратено в чата, когато пишете \"/**%s**\".</string>
+    <string name="BusinessRepliesIntro1">Въведете съобщение по-долу, което ще бъде изпратено в чата, когато пишете \&quot;/**%s**\&quot;.</string>
     <string name="BusinessRepliesIntro2">Можете да получите достъп до Бързи отговори във всеки чат, като напишете / или използвате менюто за прикачени файлове.</string>
     <string name="BusinessRepliesIntroTitle">Нов бърз отговор</string>
     <string name="BusinessRepliesLimit_other">Ограничение от **%d** достигнати съобщения.</string>
@@ -2112,7 +2112,7 @@
     <string name="CanJoin_other">%1$d може да се присъедини</string>
     <string name="Cancel">Отказ</string>
     <string name="CancelAccountReset">Отмяна на нулирането на профила</string>
-    <string name="CancelAccountResetInfo2">"Някой с достъп до **%1$s** е поискал да изтрие акаунта ви в Телеграм и да нулира паролата ви за потвърждаване в 2 стъпки.\n\nАко това не сте били вие, моля, въведете кода, който току-що ви изпратихме чрез SMS. Можете също да отмените това, като *промените телефонния си номер*."</string>
+    <string name="CancelAccountResetInfo2">&quot;Някой с достъп до **%1$s** е поискал да изтрие акаунта ви в Телеграм и да нулира паролата ви за потвърждаване в 2 стъпки.\n\nАко това не сте били вие, моля, въведете кода, който току-що ви изпратихме чрез SMS. Можете също да отмените това, като *промените телефонния си номер*.&quot;</string>
     <string name="CancelEmailQuestion">Наистина ли искате да спрете настройката на имейл за възстановяване?</string>
     <string name="CancelEmailQuestionTitle">Прекратете настройката</string>
     <string name="CancelForwardChat">Какво бихте искали да направите %1$s от **%2$s**?</string>
@@ -2337,7 +2337,7 @@
     <string name="ChannelMessageVideo">%1$s публикува видео</string>
     <string name="ChannelMute">ЗАГЛУШИ</string>
     <string name="ChannelMuteNoCaps">Заглуши</string>
-    <string name="ChannelNeedBoostsDescription">"Вашият канал се нуждае от %s , за да разреши публикуването на истории.\n\nПомолете вашите **Премиум** абонати да разширят канала ви с тази връзка:"</string>
+    <string name="ChannelNeedBoostsDescription">&quot;Вашият канал се нуждае от %s , за да разреши публикуването на истории.\n\nПомолете вашите **Премиум** абонати да разширят канала ви с тази връзка:&quot;</string>
     <string name="ChannelNeedBoostsDescriptionForNewFeatures">**%1$s** изисква %2$s за отключване на нови функции.</string>
     <string name="ChannelNeedBoostsDescriptionNextLevel">Вашият канал се нуждае от %1$s, за да можете да публикувате **%2$s** на ден.\n\nПомолете вашите Премиум абонати да подкрепят канала ви с тази връзка:</string>
     <string name="ChannelNeedBoostsForAutotranslationDescription">Вашият канал трябва да достигне ** ниво %d** за да активирате автоматично преобразуване на съобщения.\n\nПопитайте вашите ** Премиум ** абонати, за да увеличите канала си с тази връзка:</string>
@@ -2565,7 +2565,7 @@
     <string name="ChooseRecordVideo">Запис на видео</string>
     <string name="ChooseStickerMyEmojiPacks">Моите пакети с емотикони</string>
     <string name="ChooseStickerMyStickerSets">Моите комплекти стикери</string>
-    <string name="ChooseStickerNoResultsFound">Няма намерени резултати за \"%1$s\"</string>
+    <string name="ChooseStickerNoResultsFound">Няма намерени резултати за \&quot;%1$s\&quot;</string>
     <string name="ChooseStickerSet">ИЗБЕРЕТЕ НАБОР ОТ СТИКЕРИ</string>
     <string name="ChooseStickerSetHeader">Изберете комплект стикери</string>
     <string name="ChooseStickerSetMy">Вие можете да създават собствени набори от стикери, използвайки бота @stickers.</string>
@@ -2626,9 +2626,9 @@
     <string name="ClearSearchAlertTitle">Изчистване на историята на търсенията</string>
     <string name="ClearSearchRemove">Премахване</string>
     <string name="ClearSearchSingleAlertTitle">История на търсенията</string>
-    <string name="ClearSearchSingleChatAlertText">Сигурни ли сте че искате да премахнете \"%1$s\" от историята на търсенето?</string>
+    <string name="ClearSearchSingleChatAlertText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от историята на търсенето?</string>
     <string name="ClearSearchSingleHashtagAlertText">Искате ли да премахнете %1$s от историята на търсенията ви?</string>
-    <string name="ClearSearchSingleUserAlertText">Сигурни ли сте че искате да премахнете \"%1$s\" от историята на търсенето?</string>
+    <string name="ClearSearchSingleUserAlertText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от историята на търсенето?</string>
     <string name="ClearSelectedCache">Изчистване на избраното</string>
     <string name="ClearStorageHintMessage">Изчистете място в хранилището на телефона си</string>
     <string name="ClearStorageHintTitle">Освободете до **%s**</string>
@@ -2814,7 +2814,7 @@
     <string name="CustomAvatarTooltip">снимка, зададена от вас</string>
     <string name="CustomAvatarTooltipVideo">видео, зададено от вас</string>
     <string name="CustomCallInfo">Тези потребители ще или няма да могат да ви се обаждат, независимо от настройките по-горе.</string>
-    <string name="CustomHelp">"Няма да виждате статусите на \'Последно посещение\' и \'Онлайн\' за хора, с които не споделяте вашите. Вместо това ще се показва приблизително последно посещение (наскоро, в рамките на една седмица, в рамките на един месец)."</string>
+    <string name="CustomHelp">&quot;Няма да виждате статусите на \'Последно посещение\' и \'Онлайн\' за хора, с които не споделяте вашите. Вместо това ще се показва приблизително последно посещение (наскоро, в рамките на една седмица, в рамките на един месец).&quot;</string>
     <string name="CustomNotifications">Потребителски известия</string>
     <string name="CustomP2PInfo">Обажданията в партньорска мрежа ще се използват или няма да се използват с тези потребители, независимо от настройките по-горе.</string>
     <string name="CustomShareGiftsInfo">Можете да добавяте потребители или цели групи като изключения, които ще заменят настройките по-горе.</string>
@@ -2967,9 +2967,9 @@
     <string name="DeleteMessagesOptionAlso">Изтриване и за %1$s</string>
     <string name="DeleteMessagesOptionAlsoChat">Изчисти също и за всички членове</string>
     <string name="DeleteMessagesOptionsTitleAll">Изтриване на всички съобщения?</string>
-    <string name="DeleteMessagesText">Можете също да изтриете %1$s което изпратихте от **%2$s**\ чрез маркиране на \"Изтриване на съобщенията ми\".</string>
-    <string name="DeleteMessagesTextGroup">Можете също да изтриете %1$s изпратени от входящите кутии на други членове на групата чрез маркиране на \"Изтриване на съобщенията ми\".</string>
-    <string name="DeleteMessagesTextGroupPart">Можете също да изтриете %1$s от пощенските кутии на други членове на групата чрез проверка \"Изтриване за всички членове\".</string>
+    <string name="DeleteMessagesText">Можете също да изтриете %1$s което изпратихте от **%2$s**\ чрез маркиране на \&quot;Изтриване на съобщенията ми\&quot;.</string>
+    <string name="DeleteMessagesTextGroup">Можете също да изтриете %1$s изпратени от входящите кутии на други членове на групата чрез маркиране на \&quot;Изтриване на съобщенията ми\&quot;.</string>
+    <string name="DeleteMessagesTextGroupPart">Можете също да изтриете %1$s от пощенските кутии на други членове на групата чрез проверка \&quot;Изтриване за всички членове\&quot;.</string>
     <string name="DeleteMessagesTitle">Изтриване %1$s</string>
     <string name="DeleteMyAccount">Изтриване на профила ми</string>
     <string name="DeleteOptionsTitle_one">Изтриване на %1$d съобщение?</string>
@@ -3103,7 +3103,7 @@
     <string name="DiscussionInfo">Добавяне на групов чат за коментари</string>
     <string name="DiscussionInfoShort">Добавяне</string>
     <string name="DiscussionLinkGroup">СВЪРЗВАНЕ НА ГРУПАТА</string>
-    <string name="DiscussionLinkGroupAlertHistory">\"Историята на чата за нови членове\" ще бъде направена видима.</string>
+    <string name="DiscussionLinkGroupAlertHistory">\&quot;Историята на чата за нови членове\&quot; ще бъде направена видима.</string>
     <string name="DiscussionLinkGroupPrivateAlert">Искате ли да направите **%1$s** място за дискусия за **%2$s**?\n\nВсеки член на тази група ще може да вижда съобщенията в канала.</string>
     <string name="DiscussionLinkGroupPublicAlert">Искате ли да направите **%1$s** място за дискусия за **%2$s**?</string>
     <string name="DiscussionLinkGroupPublicPrivateAlert">Искате ли да направите **%1$s** място за дискусия за **%2$s**?\n\nВсеки от канала ще може да вижда съобщенията в тази група.</string>
@@ -3173,7 +3173,7 @@
     <string name="EditAdminProcessJoinRequestsInfo">Позволете на този бот да одобрява нови членове, използвайки собствените си интерфейси, като captcha.</string>
     <string name="EditAdminPromotedBy">Добавен от %1$s</string>
     <string name="EditAdminRank">Потребителска титла</string>
-    <string name="EditAdminRankInfo">"Персонализирано заглавие, което ще се показва на всички членове вместо \'%1$s\'."</string>
+    <string name="EditAdminRankInfo">&quot;Персонализирано заглавие, което ще се показва на всички членове вместо \'%1$s\'.&quot;</string>
     <string name="EditAdminRemoveAdmin">Отхвърляне на админ</string>
     <string name="EditAdminRights">Редакция на администраторските права</string>
     <string name="EditAdminSendAnonymously">Анонимно изпращане</string>
@@ -3314,7 +3314,7 @@
     <string name="EmpryUsersPlaceholder">Добавяне</string>
     <string name="Enable">Включи</string>
     <string name="EnableAllReactionsInfo">Членовете на групата могат да използват всякакви емотикони като реакции на съобщения.</string>
-    <string name="EnableAllStreamingInfo">"Някои видеоклипове не могат да се предават поточно – например всички видеоклипове, които са изпратени от Android с помощта на Телеграм 4.7 и по-ранни версии.\n"</string>
+    <string name="EnableAllStreamingInfo">&quot;Някои видеоклипове не могат да се предават поточно – например всички видеоклипове, които са изпратени от Android с помощта на Телеграм 4.7 и по-ранни версии.\n&quot;</string>
     <string name="EnableAnimations">Активиране на анимации</string>
     <string name="EnableAutoDelete">Активиране на автоматично изтриване</string>
     <string name="EnablePasscode">Активирай паролата</string>
@@ -3412,7 +3412,7 @@
     <string name="EventLogChangedGroupLink">un1 промени връзката на групата:</string>
     <string name="EventLogChangedLinkedChannel">un1 свърза тази група с un2</string>
     <string name="EventLogChangedLinkedGroup">un1 направи un2 дискусионната група за този канал</string>
-    <string name="EventLogChangedLocation">un1 променено местоположението на групата на \"%1$s\"</string>
+    <string name="EventLogChangedLocation">un1 променено местоположението на групата на \&quot;%1$s\&quot;</string>
     <string name="EventLogChangedOwnership">прехвърли собствеността на %1$s</string>
     <string name="EventLogChangedPeerColorIcon">un1 промени цвета и иконата на канала от %1$s на %2$s</string>
     <string name="EventLogChangedPeerColorIconGroup">un1 промени цвета на групата и иконата от %1$s на %2$s</string>
@@ -3442,12 +3442,12 @@
     <string name="EventLogEditedChannelDescription">un1 редактира описанието на канала</string>
     <string name="EventLogEditedChannelPhoto">un1 зададе нова снимка на канала</string>
     <string name="EventLogEditedChannelTheme">un1 промени темата на канала:</string>
-    <string name="EventLogEditedChannelTitle">un1 преименува канала на \"%1$s\"</string>
+    <string name="EventLogEditedChannelTitle">un1 преименува канала на \&quot;%1$s\&quot;</string>
     <string name="EventLogEditedChannelVideo">un1 зададе ново видео за канала</string>
     <string name="EventLogEditedGroupDescription">un1 редактира описанието на групата:</string>
     <string name="EventLogEditedGroupPhoto">un1 зададе нова снимка на групата</string>
     <string name="EventLogEditedGroupTheme">un1 промени темата на групата:</string>
-    <string name="EventLogEditedGroupTitle">un1 преименува групата на \"%1$s\"</string>
+    <string name="EventLogEditedGroupTitle">un1 преименува групата на \&quot;%1$s\&quot;</string>
     <string name="EventLogEditedGroupVideo">un1 зададе ново видео за групата</string>
     <string name="EventLogEditedMedia">un1 редактирана медия:</string>
     <string name="EventLogEditedMediaCaption">un1 редактирана медия и надписи:</string>
@@ -3523,7 +3523,7 @@
     <string name="EventLogPromotedTitle">Заглавие: %1$s</string>
     <string name="EventLogRankAdd">un1 зададе етикет «%1$s» на un2</string>
     <string name="EventLogRankEdit">un1 промени етикета на un2 от «%1$s» на «%2$s»</string>
-    <string name="EventLogRankRemove">"un1 премахна на етикета на un2 в «%1$s» "</string>
+    <string name="EventLogRankRemove">&quot;un1 премахна на етикета на un2 в «%1$s» &quot;</string>
     <string name="EventLogRankSelfAdd">un1 зададе «%1$s» като свой етикет</string>
     <string name="EventLogRankSelfEdit">un1 промени етикета си от «%1$s» на «%2$s»</string>
     <string name="EventLogRankSelfRemove">un1 премахна техните «%1$s» етикети</string>
@@ -3739,15 +3739,15 @@
     <string name="FilterRead">Прочетени</string>
     <string name="FilterRecommended">Препоръчителни папки</string>
     <string name="FilterRemoveChats">Премахване на чатовете</string>
-    <string name="FilterRemoveExclusionChatText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги изключени чатове?</string>
-    <string name="FilterRemoveExclusionText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги изключени чатове?</string>
+    <string name="FilterRemoveExclusionChatText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги изключени чатове?</string>
+    <string name="FilterRemoveExclusionText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги изключени чатове?</string>
     <string name="FilterRemoveExclusionTitle">Премахване на изключението</string>
-    <string name="FilterRemoveExclusionUserText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги изключени чатове?</string>
+    <string name="FilterRemoveExclusionUserText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги изключени чатове?</string>
     <string name="FilterRemoveFrom">Премахване от папката</string>
-    <string name="FilterRemoveInclusionChatText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги включени чатове?</string>
-    <string name="FilterRemoveInclusionText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги включени чатове?</string>
+    <string name="FilterRemoveInclusionChatText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги включени чатове?</string>
+    <string name="FilterRemoveInclusionText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги включени чатове?</string>
     <string name="FilterRemoveInclusionTitle">Премахване на изключението</string>
-    <string name="FilterRemoveInclusionUserText">Сигурни ли сте че искате да премахнете \"%1$s\" от винаги включени чатове?</string>
+    <string name="FilterRemoveInclusionUserText">Сигурни ли сте че искате да премахнете \&quot;%1$s\&quot; от винаги включени чатове?</string>
     <string name="FilterReorder">Пренареждане</string>
     <string name="FilterShare">Споделяне на папката</string>
     <string name="FilterShareFolder">Споделяне на папката</string>
@@ -4078,7 +4078,7 @@
     <string name="Gift2AuctionTableCurrentRoundsOneDuration">%1$s + %2$s за закъснели оферти в топ %3$d</string>
     <string name="Gift2AuctionTableCurrentRoundsTwo">Кръгове %1$d-%2$d</string>
     <string name="Gift2AuctionTableCurrentRoundsTwoDuration_one">Всяка %1$d минута</string>
-    <string name="Gift2AuctionTableCurrentRoundsTwoDuration_other">"Всеки %1$d минути "</string>
+    <string name="Gift2AuctionTableCurrentRoundsTwoDuration_other">&quot;Всеки %1$d минути &quot;</string>
     <string name="Gift2AuctionTableEnded">Приключи</string>
     <string name="Gift2AuctionTableStarted">Започна</string>
     <string name="Gift2AuctionTapToBidMore">докоснете, за да предложите повече</string>
@@ -4277,7 +4277,7 @@
     <string name="Gift2PeerColorEmptyButton">** Разгледайте подаръци, достъпни за покупка&gt; **</string>
     <string name="Gift2PeerColorProfileEmptyTitle">Нямате подаръци, които можете да използвате като корици на профила.</string>
     <string name="Gift2PeerColorReplyEmptyTitle">Нямате подаръци, които можете да използвате като цвят на отговор.</string>
-    <string name="Gift2PerUserLimit_one">"Вече изпратихте **%d** от тези подаръци и това е лимитът."</string>
+    <string name="Gift2PerUserLimit_one">&quot;Вече изпратихте **%d** от тези подаръци и това е лимитът.&quot;</string>
     <string name="Gift2PerUserLimit_other">Вече сте изпратили **%d** от тези подаръци и това е лимитът.</string>
     <string name="Gift2Pin">Закачи</string>
     <string name="Gift2PinnedSubtitle">Сега той винаги ще се показва отгоре.</string>
@@ -4520,7 +4520,7 @@
     <string name="GiftAuctionWearInfoText">и получете тези предимства:</string>
     <string name="GiftCollectionSharedTo">Колекция от подаръци, препратена на **%s**.</string>
     <string name="GiftCollectionSharedToManyChats_one">Колекция подаръци, препратена до ** чат **.</string>
-    <string name="GiftCollectionSharedToManyChats_other">"Колекция подаръци, препратена на **%1$d "</string>
+    <string name="GiftCollectionSharedToManyChats_other">&quot;Колекция подаръци, препратена на **%1$d &quot;</string>
     <string name="GiftCollectionSharedToSavedMessages">Колекция подаръци, препратена към ** запазени съобщения **</string>
     <string name="GiftCraft">Изработка</string>
     <string name="GiftCraftBackdropChance_one">**%1$d%%** шанс, че изработеният подарък ще има **%2$s** фон.</string>
@@ -4587,16 +4587,16 @@
     <string name="GiftOfferHours_other">%d часа</string>
     <string name="GiftOfferOfferedTextStars2">Този потребител ви предложи **%2$s Звезди** за **%3$s**.</string>
     <string name="GiftOfferOfferedTextStarsExpired">Вашето предложение за **%1$s** е изтекло. **%2$s Звезди** за **%3$s**.</string>
-    <string name="GiftOfferOfferedTextStarsExpiredOut">"Офертата на **%1$s** е изтекла. **%2$s звезди** за **%3$s**."</string>
+    <string name="GiftOfferOfferedTextStarsExpiredOut">&quot;Офертата на **%1$s** е изтекла. **%2$s звезди** за **%3$s**.&quot;</string>
     <string name="GiftOfferOfferedTextStarsOut">Предложихте **%1$s** **%2$s Звезди** за **%3$s**.</string>
     <string name="GiftOfferOfferedTextStarsRejected">**%1$s** отхвърли офертата ви. **%2$s Звезди** за **%3$s**.</string>
-    <string name="GiftOfferOfferedTextStarsRejectedOut">"Вие отхвърлихте офертата на **%1$s** да закупи вашия **%3$s** за **%2$s звезди**."</string>
+    <string name="GiftOfferOfferedTextStarsRejectedOut">&quot;Вие отхвърлихте офертата на **%1$s** да закупи вашия **%3$s** за **%2$s звезди**.&quot;</string>
     <string name="GiftOfferOfferedTextTON2">Този потребител ви предложи **%2$s TON** за **%3$s**.</string>
     <string name="GiftOfferOfferedTextTONExpired">Вашето предложение за **%1$s** е изтекло. **%2$s TON** за **%3$s**.</string>
-    <string name="GiftOfferOfferedTextTONExpiredOut">"Офертата на **%1$s** е изтекла. **%2$s TON** за **%3$s**."</string>
+    <string name="GiftOfferOfferedTextTONExpiredOut">&quot;Офертата на **%1$s** е изтекла. **%2$s TON** за **%3$s**.&quot;</string>
     <string name="GiftOfferOfferedTextTONOut">Вие предложихте **%1$s** **%2$s TON** за **%3$s**.</string>
     <string name="GiftOfferOfferedTextTONRejected">**%1$s** отхвърли офертата ви. **%2$s TON** за **%3$s**.</string>
-    <string name="GiftOfferOfferedTextTONRejectedOut">"Вие отхвърлихте офертата на **%1$s** да закупи вашия **%3$s** за **%2$s TON**."</string>
+    <string name="GiftOfferOfferedTextTONRejectedOut">&quot;Вие отхвърлихте офертата на **%1$s** да закупи вашия **%3$s** за **%2$s TON**.&quot;</string>
     <string name="GiftOfferPay">Плати ⭐️%s</string>
     <string name="GiftOfferPayMulti">Плати %s и %s</string>
     <string name="GiftOfferRejectConfirmConfirm">Отхвърляне</string>
@@ -4727,7 +4727,7 @@
     <string name="GiftsPinLimit_one">Не можете да закачите повече от %d подарък.</string>
     <string name="GiftsPinLimit_other">Не можете да закачите повече от %d подаръка.</string>
     <string name="GigagroupAlertLearnMore">НАУЧЕТЕ ПОВЕЧЕ</string>
-    <string name="GigagroupAlertText">"Вашата група достигна лимита от **200 000** членове.\n\nМожете да увеличите този лимит, като преобразувате групата в **група за излъчване**, където само администраторите могат да публикуват.\nИнтересуваш ли се?"</string>
+    <string name="GigagroupAlertText">&quot;Вашата група достигна лимита от **200 000** членове.\n\nМожете да увеличите този лимит, като преобразувате групата в **група за излъчване**, където само администраторите могат да публикуват.\nИнтересуваш ли се?&quot;</string>
     <string name="GigagroupAlertTitle">Лимитът е достигнат</string>
     <string name="GigagroupConvertAlertConver">Конвертиране</string>
     <string name="GigagroupConvertAlertText">Редовните членове на групата (не-администратори) ** безвъзвратно** губят правото си да публикуват съобщения в групата.\n\nТова действие ** не може ** да бъде отменено.</string>
@@ -4883,7 +4883,7 @@
     <string name="GroupUserCantAdd">Съжаляваме, но не може да добавяте потребителя в групи.</string>
     <string name="GroupUserCantAdmin">Съжаляваме, твърде много администратори в тази група.</string>
     <string name="GroupUserCantBot">Съжаляваме, твърде много ботове в тази група.</string>
-    <string name="GroupUserLeftError">"Съжаляваме, ако потребител вече не е част от група, трябва да сте в неговите контакти в Телеграм за да го добавите обратно.\n\nИмайте предвид, че те все още могат да се присъединят чрез връзката за покана на групата, стига да не са в списъка с премахнати потребители."</string>
+    <string name="GroupUserLeftError">&quot;Съжаляваме, ако потребител вече не е част от група, трябва да сте в неговите контакти в Телеграм за да го добавите обратно.\n\nИмайте предвид, че те все още могат да се присъединят чрез връзката за покана на групата, стига да не са в списъка с премахнати потребители.&quot;</string>
     <string name="GroupWallpaper">Тапет на групата</string>
     <string name="GroupWallpaper2Info">Задайте тапет, който ще бъде видим за всички, които четат вашата група.</string>
     <string name="GroupWallpaperInfo">Качете свое собствено фоново изображение за групата.</string>
@@ -5276,7 +5276,7 @@
     <string name="LimitReachedPublicLinks">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал или надстройте до **Телеграм Премиум**, за да удвоите лимита до **%2$d** публични връзки.</string>
     <string name="LimitReachedPublicLinksLocked">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал. Работим, за да Ви позволим да увеличите този лимит в бъдеще.</string>
     <string name="LimitReachedPublicLinksPremium">Запазили сте твърде много публични връзки. Опитайте да откажете връзката към по-стара група или канал.</string>
-    <string name="LimitReachedReorderFolder">Абонирайте се за **Телеграм Премиум**, за да преместите папката \"%1$s\".</string>
+    <string name="LimitReachedReorderFolder">Абонирайте се за **Телеграм Премиум**, за да преместите папката \&quot;%1$s\&quot;.</string>
     <string name="LimitReachedSharedFolders">Можете да имате само %1$d папки за споделяне.\nНадстройте до **Телеграм Премиум**, за да увеличите този лимит **%2$d**.</string>
     <string name="LimitReachedSharedFoldersLocked">Можете да имате само %1$d папки за споделяне. Работим, за да ви позволим да увеличите този лимит в бъдеще.</string>
     <string name="LimitReachedSharedFoldersPremium">Можете да имате само %1$d папки за споделяне. Опитайте да изтриете папка за споделяне.</string>
@@ -5562,7 +5562,7 @@
     <string name="MegaPrivateLinkHelp">Хората могат да се присъединяват към групата ви, като последват тази връзка. Можете да анулирате връзката по всяко време.</string>
     <string name="MegaPublic">Публична група</string>
     <string name="MegaPublicInfo">Публичните групи могат да бъдат открити в търсенето, историята на чата е достъпна за всички и всеки може да се присъедини към тях.</string>
-    <string name="MegaUsernameHelp">"Ако зададете постоянна връзка, други хора ще могат да намерят и да се присъединят към вашата група.\n\nМожете да използвате a-z, 0-9 и долни черти.\nМинималната дължина е 5 знака."</string>
+    <string name="MegaUsernameHelp">&quot;Ако зададете постоянна връзка, други хора ще могат да намерят и да се присъединят към вашата група.\n\nМожете да използвате a-z, 0-9 и долни черти.\nМинималната дължина е 5 знака.&quot;</string>
     <string name="MemberRequests">Заявки за членове</string>
     <string name="MemberTagButtonAdd">Добавяне на етикет</string>
     <string name="MemberTagButtonEdit">Редактиране на етикет</string>
@@ -5931,13 +5931,13 @@
     <string name="NoEffectsFound">Няма намерени ефекти</string>
     <string name="NoEmojiFound">Не са намерени емотикони</string>
     <string name="NoEmojiOrStickersFound">Няма намерени емотикони или стикери</string>
-    <string name="NoExceptions">Този раздел съдържа списък на всички чатове с известия които не са по подразбиране.\n\nВие можете да променяте известията за даден чат, като отворите профила му и изберете \"Известия\".</string>
+    <string name="NoExceptions">Този раздел съдържа списък на всички чатове с известия които не са по подразбиране.\n\nВие можете да променяте известията за даден чат, като отворите профила му и изберете \&quot;Известия\&quot;.</string>
     <string name="NoFilteredMessages">Няма намерени съобщения под този етикет или търсене</string>
     <string name="NoFolderFound">Няма намерен списък с чатове.</string>
     <string name="NoGIFs">Няма GIF файлове</string>
     <string name="NoGIFsFound">Не са намерени GIF-ове</string>
     <string name="NoGroupsInCommon">Все още няма общи групи</string>
-    <string name="NoHandleAppInstalled">"Нямате приложения, които могат да обработват файловия тип \'%1$s\', моля, инсталирайте такова, за да продължите"</string>
+    <string name="NoHandleAppInstalled">&quot;Нямате приложения, които могат да обработват файловия тип \'%1$s\', моля, инсталирайте такова, за да продължите&quot;</string>
     <string name="NoHashtagStoriesTitle">Няма намерени истории</string>
     <string name="NoIconsFound">Няма намерени икони</string>
     <string name="NoLimit">Неограничено</string>
@@ -5974,8 +5974,8 @@
     <string name="NoRecentSearches">Няма скорошни търсения</string>
     <string name="NoReplies">Тук все още няма отговори...</string>
     <string name="NoResult">Няма резултати</string>
-    <string name="NoResultFoundFor">Няма намерени резултати за \"%s\".</string>
-    <string name="NoResultFoundFor2">Няма резултати за \"%s\".\nОпитайте с ново търсене.</string>
+    <string name="NoResultFoundFor">Няма намерени резултати за \&quot;%s\&quot;.</string>
+    <string name="NoResultFoundFor2">Няма резултати за \&quot;%s\&quot;.\nОпитайте с ново търсене.</string>
     <string name="NoResultFoundForTag">Няма намерени резултати за %s</string>
     <string name="NoRtmpStreamFromAppOwner">**Ами сега!** Телеграм не вижда излъчване, идващп от приложението ви за излъчване.\n\nМоля, уверете се, че сте въвели правилния URL адрес на сървъра и ключ за излъчване в приложението си.</string>
     <string name="NoRtmpStreamFromAppViewer">%1$s в момента не предава данни за поточно излъчване на живо към Телеграм.</string>
@@ -6072,9 +6072,9 @@
     <string name="NotificationActionPinnedStickerEmojiChannel">%1$s закачи %2$s стикер</string>
     <string name="NotificationActionPinnedStickerEmojiUser">%1$s закачен %2$s стикер</string>
     <string name="NotificationActionPinnedStickerUser">%1$s закачен стикер</string>
-    <string name="NotificationActionPinnedText">%1$s закачи \"%2$s\" в групата %3$s</string>
-    <string name="NotificationActionPinnedTextChannel">%1$s закачи \"%2$s\"</string>
-    <string name="NotificationActionPinnedTextUser">%1$s закачен \"%2$s\"</string>
+    <string name="NotificationActionPinnedText">%1$s закачи \&quot;%2$s\&quot; в групата %3$s</string>
+    <string name="NotificationActionPinnedTextChannel">%1$s закачи \&quot;%2$s\&quot;</string>
+    <string name="NotificationActionPinnedTextUser">%1$s закачен \&quot;%2$s\&quot;</string>
     <string name="NotificationActionPinnedTodo2">%1$s закачи контролен списък %3$s в групата %2$s</string>
     <string name="NotificationActionPinnedTodoChannel2">%1$s закачи контролен списък %2$s</string>
     <string name="NotificationActionPinnedTodoUser">%1$s закачи контролен списък %2$s</string>
@@ -6300,8 +6300,8 @@
     <string name="OnlyAllowThisReactions">Разрешете само тези реакции</string>
     <string name="OnlyIfSilent">Само в тих режим</string>
     <string name="OnlyPremiumCanMessage">Само Премиум потребители могат да изпращат съобщения %s.\n**Научете повече...**</string>
-    <string name="OnlyWhenScreenOff">Само при \"изключен\" екран</string>
-    <string name="OnlyWhenScreenOn">Само при \"включен\" екран</string>
+    <string name="OnlyWhenScreenOff">Само при \&quot;изключен\&quot; екран</string>
+    <string name="OnlyWhenScreenOn">Само при \&quot;включен\&quot; екран</string>
     <string name="Open">Отвори</string>
     <string name="OpenAllTopics">Всички теми</string>
     <string name="OpenBackground">ПРЕГЛЕД НА ЗАДЕН ПЛАН</string>
@@ -6770,7 +6770,7 @@
     <string name="PermanentLinkForThisAdmin">Връзка за покана за този администратор</string>
     <string name="PermissionBackgroundLocation">За да споделите местоположението си на живо в този чат, Телеграм се нуждае от достъп до местоположението Ви през цялото време, включително докато приложението е във фонов режим.\n\nЩе осъществяваме достъп до местоположението Ви само за продължителността, която изберете, и можете да спрете да го споделяте по всяко време. Няма да използваме местоположението Ви за други цели освен за споделянето му в този чат.</string>
     <string name="PermissionDrawAboveOtherApps">Телеграм има нужда от достъп нда се показва над другите приложения, за да възпроизвежда видео и режим Картина-в-картината.</string>
-    <string name="PermissionDrawAboveOtherAppsGroupCall">Режимът за показване върху други приожения ви позволява да използвате \\"натискане за говорене\\" и да видите кой говори, дори когато сте извън Телеграм.</string>
+    <string name="PermissionDrawAboveOtherAppsGroupCall">Режимът за показване върху други приожения ви позволява да използвате \\&quot;натискане за говорене\\&quot; и да видите кой говори, дори когато сте извън Телеграм.</string>
     <string name="PermissionDrawAboveOtherAppsGroupCallTitle">Режим за показване върху други приложения</string>
     <string name="PermissionDrawAboveOtherAppsTitle">Картина в картината</string>
     <string name="PermissionFSILockscreen">Моля, разрешете на Телеграм да се показва на заключен екран, за да могат обажданията да работят правилно.</string>
@@ -6889,13 +6889,16 @@
     <string name="PmReadTodayAt">прочетено днес в %s</string>
     <string name="PmReadUnknown">часът на прочитане е неизвестен</string>
     <string name="PmReadYesterdayAt">прочетено вчера в %s</string>
+    <string name="PmSentDateTimeAt">изпрати %1$s в %2$s</string>
+    <string name="PmSentTodayAt">изпратено в %s</string>
+    <string name="PmSentYesterdayAt">изпратено вчера в %s</string>
     <string name="Poll">Анкета</string>
     <string name="PollAddAnOption">Добавяне на опция</string>
     <string name="PollAddAnOptionHint">Опция...</string>
     <string name="PollAddTextOrRemoveMedia">Първо добавете текст или премахнете мултимедия</string>
     <string name="PollAddedByAtTime">Добавено от **%1$s** %2$s</string>
-    <string name="PollAddingActionOther">%1$s добави \"%2$s\" към анкетата</string>
-    <string name="PollAddingActionYou">Добавихте \"%s\" към анкетата</string>
+    <string name="PollAddingActionOther">%1$s добави \&quot;%2$s\&quot; към анкетата</string>
+    <string name="PollAddingActionYou">Добавихте \&quot;%s\&quot; към анкетата</string>
     <string name="PollAnonymous">Анонимно гласуване</string>
     <string name="PollButtonSave">Запазване</string>
     <string name="PollCantForwardSecretChat">За съжаление анкетите не могат да бъдат препращани към тайни чатове.</string>
@@ -6910,8 +6913,8 @@
     <string name="PollMultiple">Няколко отговора</string>
     <string name="PollQuestion2">Въпрос</string>
     <string name="PollQuiz">Режим викторина</string>
-    <string name="PollRemovedActionOther">%1$s премахна \"%2$s\" от анкетата</string>
-    <string name="PollRemovedActionYou">Премахнахте \"%s\" от анкетата</string>
+    <string name="PollRemovedActionOther">%1$s премахна \&quot;%2$s\&quot; от анкетата</string>
+    <string name="PollRemovedActionYou">Премахнахте \&quot;%s\&quot; от анкетата</string>
     <string name="PollResults">Резултати от анкетите</string>
     <string name="PollResultsIn">резултати след %s</string>
     <string name="PollResultsWillLater">Резултатите ще се появят след приключване на анкетата</string>
@@ -6935,7 +6938,7 @@
     <string name="PollV2HideResults">Скриване на резултатите</string>
     <string name="PollV2HideResultsInfo">Ако включите това, резултатите ще се появят само след затваряне на анкетата.</string>
     <string name="PollV2LimitByCountry">Ограничение по държава</string>
-    <string name="PollV2LimitByCountryInfo">"Само потребители от избраните\nстраните могат да гласуват"</string>
+    <string name="PollV2LimitByCountryInfo">&quot;Само потребители от избраните\nстраните могат да гласуват&quot;</string>
     <string name="PollV2LimitDuration">Продължителност на ограничението</string>
     <string name="PollV2LimitDurationInfo">Автоматично затваряне на анкетата в зададено време</string>
     <string name="PollV2MenuViewStats">Преглед на статистиката</string>
@@ -6943,7 +6946,7 @@
     <string name="PollV2PollDurationOptionCustom">Персонализирано</string>
     <string name="PollV2PollEnds">Анкетата приключва</string>
     <string name="PollV2RestrictToSubscribers">Ограничаване до абонати</string>
-    <string name="PollV2RestrictToSubscribersInfo">"Само присъединилите се абонати\nпреди 24+ часа могат да гласуват"</string>
+    <string name="PollV2RestrictToSubscribersInfo">&quot;Само присъединилите се абонати\nпреди 24+ часа могат да гласуват&quot;</string>
     <string name="PollV2SearchHint">Търсене в държави</string>
     <string name="PollV2SetCorrectAnswer">Задайте правилен отговор</string>
     <string name="PollV2SetCorrectAnswerInfo">Маркирайте една опция като правилен отговор</string>
@@ -7182,7 +7185,7 @@
     <string name="PricePerYear">%1$s/година</string>
     <string name="PrimaryLinkHelp">Всеки в Телеграм ще може да се присъедини към групата Ви, като последва тази връзка.</string>
     <string name="PrimaryLinkHelpChannel">Всеки в Телеграм ще може да се присъедини към канала ви, като последва тази връзка.</string>
-    <string name="PriorityInfo">Известията с по-голям приоритет ще работят независимо дали телефон е в режим \"Не безпокойте\".</string>
+    <string name="PriorityInfo">Известията с по-голям приоритет ще работят независимо дали телефон е в режим \&quot;Не безпокойте\&quot;.</string>
     <string name="PrivacyAddAnException">Добавете потребители или групи</string>
     <string name="PrivacyBio">Биография</string>
     <string name="PrivacyBioInfo">Можете да ограничите кой може да вижда вашата биография с детайлна точност.</string>
@@ -7459,7 +7462,7 @@
     <string name="PublicSharesCount_other">%1$s публични споделяния</string>
     <string name="PublishDayAt">\'Публикувай на\' d MMM \'в\' HH:mm</string>
     <string name="PublishDayYearAt">\'Публикувай на\' d MMM yyyy \'в\' HH:mm</string>
-    <string name="PublishTodayAt">"\'Публикувай днес в\' HH:mm"</string>
+    <string name="PublishTodayAt">&quot;\'Публикувай днес в\' HH:mm&quot;</string>
     <string name="Purple">Лилаво</string>
     <string name="PushChatReactAudio">%3$s към вашето гласово съобщение в %2$s</string>
     <string name="PushChatReactContact">%3$s към вашия контакт %4$s в %2$s</string>
@@ -7616,7 +7619,7 @@
     <string name="RecentlyViewed">Наскоро видяни</string>
     <string name="RecentlyViewedHide">СКРИЙ</string>
     <string name="Recipient_one">%1$d получател</string>
-    <string name="Recipient_other">"%1$d получатели "</string>
+    <string name="Recipient_other">&quot;%1$d получатели &quot;</string>
     <string name="RecorderEditCover">Корица на историята</string>
     <string name="RecorderEditStory">Редактиране</string>
     <string name="RecorderNewStory">Нова история</string>
@@ -7645,9 +7648,9 @@
     <string name="ReleaseToGoNextFolder">Пуснете, за да преминете към следващата непрочетена папка</string>
     <string name="ReleaseToGoNextRecommendedChannel">Пуснете, за да преминете към следващия канал</string>
     <string name="ReleaseToGoNextUnreadTopic">Пуснете, за да преминете към следващата непрочетена тема</string>
-    <string name="RemindDayAt">"\'Напомни на\' d MMM \'в\' HH:mm"</string>
-    <string name="RemindDayYearAt">"\'Напомни на\' d MMM yyyy \'в\' HH:mm"</string>
-    <string name="RemindTodayAt">"\'Remind today at\' HH:mm"</string>
+    <string name="RemindDayAt">&quot;\'Напомни на\' d MMM \'в\' HH:mm&quot;</string>
+    <string name="RemindDayYearAt">&quot;\'Напомни на\' d MMM yyyy \'в\' HH:mm&quot;</string>
+    <string name="RemindTodayAt">&quot;\'Remind today at\' HH:mm&quot;</string>
     <string name="Reminders">Напомняния</string>
     <string name="Remove">Премахване</string>
     <string name="RemoveAds">Премахни рекламите</string>
@@ -7859,7 +7862,7 @@
     <string name="ResetPassword">Нулиране на паролата</string>
     <string name="ResetPasswordWait">Наскоро зачвихте нулиране на парола, което бе отменено. Моля, изчакайте %1$s преди да направите нова заявка.</string>
     <string name="ResetStatistics">Нулиране на статистиката</string>
-    <string name="ResetStatisticsAlert">"Да се нулира ли статистиката за използвани данни? "</string>
+    <string name="ResetStatisticsAlert">&quot;Да се нулира ли статистиката за използвани данни? &quot;</string>
     <string name="ResetStatisticsAlertTitle">Нулиране на статистиката</string>
     <string name="ResetToOriginalPhoto">Нулиране до оригинална снимка</string>
     <string name="ResetToOriginalPhotoMessage">Сигурни ли сте, че искате да възстановите оригиналната снимка от %s?</string>
@@ -7926,8 +7929,8 @@
     <string name="RevokeAlertNewLink">Предишната връзка с покана вече е неактивна. Генерирана е нова връзка.</string>
     <string name="RevokeButton">Анулирай</string>
     <string name="RevokeLink">Анулирай връзката</string>
-    <string name="RevokeLinkAlert">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nГрупата \\"**%2$s**\" ще стане поверителна.</string>
-    <string name="RevokeLinkAlertChannel">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nКаналът \\"**%2$s**\\" ще стане поверителен.</string>
+    <string name="RevokeLinkAlert">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nГрупата \\&quot;**%2$s**\&quot; ще стане поверителна.</string>
+    <string name="RevokeLinkAlertChannel">Сигурни ли сте, че искате да анулирате връзката **%1$s**?\n\nКаналът \\&quot;**%2$s**\\&quot; ще стане поверителен.</string>
     <string name="RevokeLinksAlert">Наистина ли искате да отмените тези връзки?\n\nГрупите ще станат поверителни.</string>
     <string name="RevokeLinksAlertChannel">Наистина ли искате да отмените тези връзки?\n\nКаналите ще станат поверителни.</string>
     <string name="RevokeLinks_one">Отмяна на връзката</string>
@@ -8072,7 +8075,7 @@
     <string name="ScreenCapture">Позволяване на заснемане на екрана</string>
     <string name="ScreenCaptureAlert">Това ще скрие съдържанието на вашите чатове или чат списък от превключвателя на задачи, но няма да можете да направите екранна снимка в Телеграм.\n\nМоже да се наложи да рестартирате приложението, за да влязат в сила.</string>
     <string name="ScreenCaptureHeader">Съдържание на приложението в превключвателя на задачи</string>
-    <string name="ScreenCaptureInfo">"Ако е деактивирано, няма да можете да правите екранни снимки в приложението, но съдържанието на чата ще бъде скрито в превключвателя на задачи."</string>
+    <string name="ScreenCaptureInfo">&quot;Ако е деактивирано, няма да можете да правите екранни снимки в приложението, но съдържанието на чата ще бъде скрито в превключвателя на задачи.&quot;</string>
     <string name="ScreenCaptureShowContent">Покажи съдържанието</string>
     <string name="SdCard">SD карта</string>
     <string name="SdCardAlert">Съхраняването на SD карта ще забави Телеграм. Продължаване въпреки това?</string>
@@ -8149,7 +8152,7 @@
     <string name="SearchMessagesFilterChannels">Канали</string>
     <string name="SearchMessagesFilterChannelsFrom">От канали</string>
     <string name="SearchMessagesFilterEmptySearchAll">Търсете във Всички съобщения</string>
-    <string name="SearchMessagesFilterEmptyText">Нямаше резултати за \"%s\".\nОпитайте с ново търсене.</string>
+    <string name="SearchMessagesFilterEmptyText">Нямаше резултати за \&quot;%s\&quot;.\nОпитайте с ново търсене.</string>
     <string name="SearchMessagesFilterEmptyTitle">Няма резултати</string>
     <string name="SearchMessagesFilterGroup">Групови чатове</string>
     <string name="SearchMessagesFilterGroupFrom">От групи</string>
@@ -8178,7 +8181,7 @@
     <string name="SearchPostsLimitReachedText_one">Можете да направите до %d заявка за търсене на ден.</string>
     <string name="SearchPostsLimitReachedText_other">Можете да направите до %d запитвания за търсене на ден.</string>
     <string name="SearchPostsNotFound">Не е намерен</string>
-    <string name="SearchPostsNotFoundText">Не са намерени публикации със  \"%s\".</string>
+    <string name="SearchPostsNotFoundText">Не са намерени публикации със  \&quot;%s\&quot;.</string>
     <string name="SearchPostsPremium">Глобалното търсене е Премиум функция.</string>
     <string name="SearchPostsText">Въведете ключова дума, за да търсите всички публикации от публични публикации.</string>
     <string name="SearchPostsTitle">Глобално търсене</string>
@@ -8303,7 +8306,7 @@
     <string name="SendSelectedLocation">Изпрати избраната локация</string>
     <string name="SendSticker">ИЗПРАТИ СТИКЕР</string>
     <string name="SendStickerPreview">Изпращане на стикер</string>
-    <string name="SendTodayAt">"\'Send today at\' HH:mm"</string>
+    <string name="SendTodayAt">&quot;\'Send today at\' HH:mm&quot;</string>
     <string name="SendWhenOnline">Изпращане, когато е онлайн</string>
     <string name="SendWithoutCompression">Изпращане без компресия</string>
     <string name="SendWithoutGrouping">Изпращане без групиране</string>
@@ -8986,12 +8989,12 @@
     <string name="StartDayYearAt">\'Започва на\' d MMM yyyy \'в\' HH:mm</string>
     <string name="StartEncryptedChat">Започни таен чат</string>
     <string name="StartMessaging">Да започваме</string>
-    <string name="StartShortDayAt">"d MMM\',\' HH:mm"</string>
-    <string name="StartShortDayYearAt">"d MMM yyyy\',\' HH:mm"</string>
-    <string name="StartShortTodayAt">"Today, HH:mm"</string>
+    <string name="StartShortDayAt">&quot;d MMM\',\' HH:mm&quot;</string>
+    <string name="StartShortDayYearAt">&quot;d MMM yyyy\',\' HH:mm&quot;</string>
+    <string name="StartShortTodayAt">&quot;Today, HH:mm&quot;</string>
     <string name="StartText">Моля, потвърдете кода на държавата си и въведете телефонния си номер.</string>
     <string name="StartTextPasskey">Моля, въведете вашия телефонен номер\nили **влезте с ключ за достъп &gt;**</string>
-    <string name="StartTodayAt">"\'Start today at\' HH:mm"</string>
+    <string name="StartTodayAt">&quot;\'Start today at\' HH:mm&quot;</string>
     <string name="StartVoipChannel">Стартирай излъчване на живо</string>
     <string name="StartVoipChannelTitle">Излъчване на живо</string>
     <string name="StartVoipChat">Стартиране на гласов чат</string>
@@ -8999,7 +9002,7 @@
     <string name="StartVoipChatTitle">Гласов чат</string>
     <string name="StartsDayAt">\'Започва на\' d MMM \'в\' HH:mm</string>
     <string name="StartsDayYearAt">\'Започва на\' d MMM yyyy \'в\' HH:mm</string>
-    <string name="StartsTodayAt">"\'Starts today at\' HH:mm"</string>
+    <string name="StartsTodayAt">&quot;\'Starts today at\' HH:mm&quot;</string>
     <string name="StatisticOpenProfile">Отваряне на профила</string>
     <string name="StatisticOverview">Преглед</string>
     <string name="StatisticSearchUserHistory">Преглед на съобщенията</string>
@@ -9152,7 +9155,7 @@
     <string name="Story">История</string>
     <string name="StoryAddedToAlbumTitle_one">%d история е запазена в **%s**</string>
     <string name="StoryAddedToAlbumTitle_other">%d истории са запазени в **%s**</string>
-    <string name="StoryAddedToAlbumX">"Тази история е добавена към албума **%s** "</string>
+    <string name="StoryAddedToAlbumX">&quot;Тази история е добавена към албума **%s** &quot;</string>
     <string name="StoryAlbumNotFound">Този албум вече не е достъпен</string>
     <string name="StoryAllowScreenshots">Разрешаване на екранни снимки</string>
     <string name="StoryArchivedFromProfile">Тази история е скрита от вашия профил.</string>
@@ -9545,7 +9548,7 @@
     <string name="SyncContacts">Синхронизация на контакти</string>
     <string name="SyncContactsAdded">Контактите от това устройство бяха добавени към вашия профил.</string>
     <string name="SyncContactsDelete">Изтриване на синхронизираните контакти</string>
-    <string name="SyncContactsDeleteText">"Това ще премахне вашите контакти от сървърите на Telegram.\n\nАко \'**Синхронизиране на контакти**\' е активирано, контактите ще бъдат повторно синхронизирани."</string>
+    <string name="SyncContactsDeleteText">&quot;Това ще премахне вашите контакти от сървърите на Telegram.\n\nАко \'**Синхронизиране на контакти**\' е активирано, контактите ще бъдат повторно синхронизирани.&quot;</string>
     <string name="SyncContactsDeleteTitle">Изтриване на контактите</string>
     <string name="SyncContactsInfoOff">Включете, за да синхронизирате контактите от това устройство с профила си.</string>
     <string name="SyncContactsInfoOn">Контактите от това устройство ще бъдат добавени към вашия профил.</string>
@@ -9642,7 +9645,7 @@
     <string name="TerminateWebSessionTitle">Прекъсни уебсайта</string>
     <string name="TerminateWebSessionsTitle">Прекъснете връзките с уебсайтове</string>
     <string name="TermsOfService">Условия за ползване</string>
-    <string name="TermsOfServiceLogin">"Като се регистрирате,\nвие се съгласявате с *Условията за ползване*."</string>
+    <string name="TermsOfServiceLogin">&quot;Като се регистрирате,\nвие се съгласявате с *Условията за ползване*.&quot;</string>
     <string name="TermsOfUse">Условия за ползване</string>
     <string name="TextCopied">Текстът е копиран в буферната памет</string>
     <string name="TextPlaceholder">Добави текст</string>
@@ -9693,7 +9696,7 @@
     <string name="ThemeResetToDefaultsText">Сигурни ли сте, че искате да нулирате размера на текста и настройките на цвета?</string>
     <string name="ThemeResetToDefaultsTitle">Нулиране на настройките</string>
     <string name="ThemeSetUrl">Генериране на връзка</string>
-    <string name="ThemeSetUrlHelp">"Можете да използвате a-z, 0-9 и долни черти.\nМинималната дължина е 5 знака."</string>
+    <string name="ThemeSetUrlHelp">&quot;Можете да използвате a-z, 0-9 и долни черти.\nМинималната дължина е 5 знака.&quot;</string>
     <string name="ThisIsYou">това си ти</string>
     <string name="ThisMedia">Тази медия</string>
     <string name="ThisPhoto">Тази снимка</string>
@@ -9846,7 +9849,7 @@
     <string name="TosAgeText">Натиснете Приемам, за да потвърдите, че сте на %1$s или повече.</string>
     <string name="TosAgeTitle">Проверка на възрастта</string>
     <string name="TosDecline">Много съжаляваме, но това означава, че можете да се регистрирате в Телеграм.\n\nЗа разлика от другите, ние не използваме данните ви за насочване на реклами или други търговски цели. Телеграм съхранява само информацията, от която се нуждае, за да функционира като богата на функции облачна услуга. Можете да коригирате начина, по който използваме данните ви (например изтриване на синхронизирани контакти) в Поверителност и сигурност в Настройки.\n\nНо ако не сте съгласни със скромните нужди на Телеграм, няма да е възможно да предоставим тази услуга.</string>
-    <string name="TosDeclineDeleteAccount">"Внимание, това ще изтрие необратимо вашия акаунт в Telegram заедно с всички данни, които съхранявате в облака на Telegram.\n\nВажно: Можете да се откажете сега и да експортирате данните си, преди да изтриете акаунта си, вместо да ги загубите всички. (За да направите това, отворете най-новата версия на Telegram Desktop и отидете в Настройки &gt; Експортирай Телеграм данни.)"</string>
+    <string name="TosDeclineDeleteAccount">&quot;Внимание, това ще изтрие необратимо вашия акаунт в Telegram заедно с всички данни, които съхранявате в облака на Telegram.\n\nВажно: Можете да се откажете сега и да експортирате данните си, преди да изтриете акаунта си, вместо да ги загубите всички. (За да направите това, отворете най-новата версия на Telegram Desktop и отидете в Настройки &gt; Експортирай Телеграм данни.)&quot;</string>
     <string name="TosUpdateDecline">Много съжаляваме, но това означава, че трябва да се разделим тук. За разлика от другите, ние не използваме данните ви за насочване на реклами или други търговски цели. Телеграм съхранява само информацията, от която се нуждае, за да функционира като богата на функции облачна услуга. Можете да коригирате начина, по който използваме данните ви (например изтриване на синхронизирани контакти) в Поверителност и сигурност в Настройки.\n\nНо ако не сте съгласни със скромните нужди на Телеграм, няма да е възможно да предоставим тази услуга. Можете да деактивирате профила си сега или да разгледате още и да го деактивирате по-късно, ако смятате, че не сте доволни от начина, по който използваме данните ви.</string>
     <string name="TotalDataUsage">Общо</string>
     <string name="TotalDeviceFreeSize">%s свободно</string>
@@ -9865,7 +9868,7 @@
     <string name="TranslateEntireChat">Превод на целия чат</string>
     <string name="TranslateMessage">Превод</string>
     <string name="TranslateMessages">Превеждане на съобщения</string>
-    <string name="TranslateMessagesInfo1">Бутонът \"Превод\" ще се появи, когато направите еднократно докосване на текстово съобщение.</string>
+    <string name="TranslateMessagesInfo1">Бутонът \&quot;Превод\&quot; ще се появи, когато направите еднократно докосване на текстово съобщение.</string>
     <string name="TranslateTo">Превод на</string>
     <string name="TranslateToButton">Превод на %s</string>
     <string name="TranslateToButtonOther">Превод на %s</string>
@@ -9984,7 +9987,7 @@
     <string name="Update">АКТУАЛИЗИРАЙ</string>
     <string name="UpdateApp">Актуализирай приложението</string>
     <string name="UpdateAppAlert">Съжаляваме, вашето приложение Телеграм е остаряло и не може да се справи с тази заявка. Моля обновете го.</string>
-    <string name="UpdateContactsMessage">"Телеграм откри много несинхронизирани контакти, искате ли да ги синхронизирате сега? Изберете \'ОК\', ако използвате собственото си устройство, SIM карта и акаунт в Google."</string>
+    <string name="UpdateContactsMessage">&quot;Телеграм откри много несинхронизирани контакти, искате ли да ги синхронизирате сега? Изберете \'ОК\', ако използвате собственото си устройство, SIM карта и акаунт в Google.&quot;</string>
     <string name="UpdateContactsTitle">Актуализиране на контакти?</string>
     <string name="UpdatePhotoForRest">Актуализиране на публичната снимка</string>
     <string name="UpdateTelegram">Актуализиране на Телеграм</string>
@@ -10122,7 +10125,7 @@
     <string name="UserSetPhoto">Задайте снимка за %s</string>
     <string name="UserSuggestBirthday">Предложете дата на раждане</string>
     <string name="UserSuggestBirthdayButton">Предложете дата на раждане</string>
-    <string name="UserSuggestBirthdayTitle">"Рождената дата на %s"</string>
+    <string name="UserSuggestBirthdayTitle">&quot;Рождената дата на %s&quot;</string>
     <string name="UserUnblocked">Потребителят е деблокиран</string>
     <string name="Username">Потребителско име</string>
     <string name="UsernameActivateErrorMessage">За съжаление вече имате твърде много активни публични връзки. Моля, първо скрийте една от вашите активни публични връзки.</string>
@@ -10584,7 +10587,7 @@
     <string name="Warning">Внимание</string>
     <string name="WearAuthEmojis">Сравнете емотикони на вашия часовник</string>
     <string name="WearAuthEmojisLogIn">Вписване</string>
-    <string name="WearAuthText">"Свържете акаунта си с WatchOS устройството \nда го използвате отделно от часовника си."</string>
+    <string name="WearAuthText">&quot;Свържете акаунта си с WatchOS устройството \nда го използвате отделно от часовника си.&quot;</string>
     <string name="WearAuthTitle">Използвайте Телеграм с WearOS</string>
     <string name="WebBookmark">Отметка</string>
     <string name="WebBookmarkAdd">Добавяне на отметка</string>
@@ -10663,7 +10666,7 @@
     <string name="Yesterday">вчера</string>
     <string name="YesterdayAt">вчера в</string>
     <string name="YesterdayAtFormatted">вчера в %1$s</string>
-    <string name="YouBlockedUser">"За съжаление не можете да добавите този потребител или бот към групи, защото сте ги блокирали. Моля, отблокирайте, за да продължите."</string>
+    <string name="YouBlockedUser">&quot;За съжаление не можете да добавите този потребител или бот към групи, защото сте ги блокирали. Моля, отблокирайте, за да продължите.&quot;</string>
     <string name="YouBoostedChannel">Подкрепихте канала</string>
     <string name="YouBoostedChannel2">Подкрепихте %s!</string>
     <string name="YouBoostedGroup">Подкрепихте групата</string>
@@ -10850,7 +10853,7 @@
     <string name="mr_chooser_looking_for_devices">Търсене на устройства...</string>
     <string name="mr_chooser_searching">Намиране на устройства</string>
     <string name="mr_chooser_title">Споделяне към</string>
-    <string name="mr_chooser_wifi_learn_more">&lt;a href="https://support.google.com/chromecast/?p=trouble-finding-devices"&gt;Научете повече&lt;/a&gt;</string>
+    <string name="mr_chooser_wifi_learn_more">&lt;a href=&quot;https://support.google.com/chromecast/?p=trouble-finding-devices&quot;&gt;Научете повече&lt;/a&gt;</string>
     <string name="mr_chooser_wifi_warning_description_car">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този автомобил</string>
     <string name="mr_chooser_wifi_warning_description_phone">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този телефон</string>
     <string name="mr_chooser_wifi_warning_description_tablet">Уверете се, че другото устройство е в същата Wi-Fi мрежа като този таблет</string>

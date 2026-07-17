@@ -428,9 +428,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bad_photo" = "Съжаляваме, Телеграм не може да обработи този тип изображение.";
 
 "lng_signin_title" = "Проверка на паролата в облака";
-"lng_signin_desc" = "Моля, въведете вашата парола за облак.";
+"lng_signin_desc" = "Моля, въведете вашата парола за облака.";
 "lng_signin_recover_desc" = "Моля, въведете кода от имейла\n{email}";
-"lng_signin_password" = "Вашата парола за облак";
+"lng_signin_password" = "Вашата парола за облака";
 "lng_signin_code" = "Код от имейла";
 "lng_signin_recover" = "Забравена парола?";
 "lng_signin_recover_title" = "Нулиране на парола";
@@ -739,6 +739,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_shortcuts_silent_send" = "Безшумно изпращане";
 "lng_shortcuts_schedule" = "График";
 "lng_shortcuts_ai_compose_apply" = "Прилагане на AI стил към текста";
+"lng_shortcuts_toggle_link_preview" = "Превключи на визуализацията на връзката";
 "lng_shortcuts_read_chat" = "Маркирай чата като прочетен";
 "lng_shortcuts_archive_chat" = "Архивирайте чата";
 "lng_shortcuts_media_fullscreen" = "Превключване на видео на цял екран";
@@ -823,7 +824,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_use_applewatch_about" = "Трябва да въведете паролата си веднъж, преди да отключите Телеграм с Apple Watch.";
 "lng_settings_use_systempwd" = "Отключване с парола на системата";
 "lng_settings_use_systempwd_about" = "Трябва да въведете паролата си веднъж, преди да отключите Телеграм с парола на системата.";
-"lng_settings_password_disable" = "Деактивиране на паролата за облак";
+"lng_settings_password_disable" = "Деактивиране на паролата за облака";
 "lng_settings_password_abort" = "Прекъсване на настройката за потвърждаване в две стъпки";
 "lng_settings_about_bio" = "Всички подробности като възраст, професия или град.\nПример: 23-годишен дизайнер от Сан Франциско";
 "lng_settings_name_label" = "Име";
@@ -1143,10 +1144,18 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_local_storage_round#other" = "{count} видео съобщения";
 "lng_local_storage_animation#one" = "{count} GIF анимация";
 "lng_local_storage_animation#other" = "{count} GIF анимации";
+"lng_local_storage_image_title" = "Изображения";
+"lng_local_storage_sticker_title" = "Стикери";
+"lng_local_storage_voice_title" = "Гласови съобщения";
+"lng_local_storage_round_title" = "Видео съобщения";
+"lng_local_storage_media_title" = "Други медии";
 "lng_local_storage_media" = "Медиен кеш";
 "lng_local_storage_size_limit" = "Ограничение за общ размер: {size}";
 "lng_local_storage_media_limit" = "Ограничение на кеша на медиите: {size}";
 "lng_local_storage_time_limit" = "Изчистване на файлове, по-стари от: {limit}";
+"lng_local_storage_size_limit_title" = "Ограничение за общ размер";
+"lng_local_storage_media_limit_title" = "Лимит на медийния кеш";
+"lng_local_storage_time_limit_title" = "Изчистване на файлове, по-стари от";
 "lng_local_storage_limit_never" = "Никога";
 "lng_local_storage_summary" = "Резюме";
 "lng_local_storage_clear_some" = "Изчистване";
@@ -1161,7 +1170,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_local_storage_clearing_about" = "Моля, дръжте този прозорец отворен, докато кешът се изчиства.";
 "lng_local_storage_cleared" = "{size} е освободен на вашето устройство!";
 "lng_local_storage_about" = "Всички медии ще останат в облака на Телеграм и могат да бъдат изтеглени отново, ако имате нужда от тях отново.";
-"lng_local_storage_max_size_title" = "Максимален размер на кеша";
+"lng_local_storage_manage_title" = "Управление на ограниченията";
 "lng_local_storage_max_size_about" = "Ако размерът на кеша ви надвиши това ограничение, най-старият носител ще бъде премахнат от устройството.";
 
 "lng_passcode_remove_button" = "Премахване";
@@ -1203,9 +1212,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_cloud_password_waiting_code" = "Кодът за потвърждение, изпратен до {email}...";
 "lng_cloud_password_confirm" = "Потвърдете имейл за възстановяване";
-"lng_cloud_password_change" = "Промяна на паролата за облак";
+"lng_cloud_password_change" = "Промяна на паролата за облака";
 "lng_cloud_password_create" = "Парола за Телеграм";
-"lng_cloud_password_remove" = "Премахване на паролата за облак";
+"lng_cloud_password_remove" = "Премахване на паролата за облака";
 "lng_cloud_password_reset_ready" = "Нулиране на парола";
 "lng_cloud_password_enter_old" = "Въведете текущата парола";
 "lng_cloud_password_enter_first" = "Въведете парола";
@@ -1220,10 +1229,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cloud_password_about_recover" = "Предупреждение! Сигурни ли сте, че не искате да\nдобавите имейл за възстановяване на парола?\n\nАко забравите паролата си, ще\nзагубите достъп до профила си в Телеграм.";
 "lng_cloud_password_skip_email" = "Пропускане на имейл";
 "lng_cloud_password_was_set" = "Активирано потвърждаване в две стъпки.";
-"lng_cloud_password_updated" = "Вашата парола за облак беше актуализирана.";
+"lng_cloud_password_updated" = "Вашата парола за облака беше актуализирана.";
 "lng_cloud_password_removed" = "Потвърждаването в две стъпки беше деактивирано.";
 "lng_cloud_password_differ" = "Паролите не съвпадат";
-"lng_cloud_password_wrong" = "Грешна парола за облак";
+"lng_cloud_password_wrong" = "Грешна парола за облака";
 "lng_cloud_password_is_same" = "Паролата не е променена";
 "lng_cloud_password_passport_losing" = "Предупреждение! Всички данни, записани във вашия Телеграм Песпорт, ще бъдат загубени!";
 "lng_cloud_password_resend" = "Повторно изпращане на код";
