@@ -372,9 +372,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_edit_media_album_error" = "Този файл не може да бъде запазен като част от албум.";
 "lng_edit_media_invalid_file" = "Съжаляваме, няма начин да използвам този файл.";
-/*
 "lng_iv_editor_media_invalid_file" = "За съжаление тук се поддържат само снимки, видео и аудио файлове.";
-*/
+"lng_iv_editor_discard_draft_sure" = "Сигурни ли сте, че искате да отхвърлите това съобщение? Това действие не може да бъде отменено.";
+"lng_iv_editor_saving_draft" = "Черновата се запазва...";
+"lng_iv_editor_save_draft_failed" = "Черновата не може да бъде запазена.";
+"lng_iv_editor_save_draft_failed_error" = "Черновата не беше запазена.\n\nГрешка: {error}";
+"lng_iv_editor_close_now" = "Затворете сега";
 "lng_edit_photo_editor_hint" = "Щракнете с левия бутон върху снимката за редактиране.";
 "lng_edit_caption_attach" = "Съжаляваме, не можете да прикачите нова медия, докато редактирате съобщение.";
 "lng_edit_caption_voice" = "Съжаляваме, не можете да редактирате съобщения, когато имате неизпратено гласово съобщение.";
@@ -702,6 +705,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_chat_quick_action_react" = "Изпращане на реакция с двойно кликване";
 "lng_settings_chat_corner_reply" = "Бутон за отговор на съобщения";
 "lng_settings_chat_corner_reaction" = "Бутон за реакция на съобщения";
+"lng_settings_pull_to_next_channel" = "Плъзнете до следващия непрочетен канал";
 
 "lng_settings_shortcuts" = "Клавишни комбинации";
 
@@ -800,8 +804,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_privacy_title" = "Поверителност";
 "lng_settings_last_seen" = "Последна активност";
 "lng_settings_calls" = "Обаждания";
-"lng_settings_calls_peer_to_peer_title" = "";
-"lng_settings_calls_peer_to_peer_button" = "Използване на peer-to-peer с";
+"lng_settings_calls_peer_to_peer_title" = "Равноправна връзка(peer-to-peer)";
+"lng_settings_calls_peer_to_peer_button" = "Използване на равноправна връзка с";
 "lng_settings_groups_invite" = "Групи и канали";
 "lng_settings_phone_number_privacy" = "Телефонен номер";
 "lng_settings_forwards_privacy" = "Препратени съобщения";
@@ -851,7 +855,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_channel_saved" = "Вашият личен канал беше актуализиран.";
 "lng_settings_channel_removed" = "Личният канал е премахнат.";
 "lng_settings_add_account_about" = "Можете да добавите до четири профила с различни телефонни номера.";
-"lng_settings_peer_to_peer_about" = "Деактивирането на peer-to-peer ще препрати всички повиквания към сървърите на Телеграм, за да се избегне разкриването на вашия IP адрес, но може да намали качеството на звука и видеото.";
+"lng_settings_peer_to_peer_about" = "Деактивирането на разноправната връзка ще препрати всички повиквания към сървърите на Телеграм, за да се избегне разкриването на вашия IP адрес, но може да намали качеството на звука и видеото.";
 "lng_settings_advanced" = "Разширени";
 "lng_settings_stickers_emoji" = "Стикери и емотикони";
 "lng_settings_messages" = "Съобщения";
@@ -1350,6 +1354,31 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_passkeys_unsigned_error" = "Ключовете за достъп не са налични в неподписани компилации. Моля, използвайте официална подписана версия на Telegram Desktop.";
 "lng_settings_passkey_unknown" = "Ключ за достъп";
 
+"lng_passkey_touch" = "Докоснете своя ключ за сигурност";
+"lng_passkey_insert" = "Поставете своя ключ за сигурност, след което го докоснете, за да продължите.";
+"lng_passkey_pin_title" = "ПИН на ключа за сигурност";
+"lng_passkey_pin_about" = "Въведете ПИН кода на вашия ключ за сигурност.";
+"lng_passkey_pin_invalid" = "Неправилен ПИН. Моля, опитайте отново.";
+"lng_passkey_pin_blocked" = "ПИН кодът на ключа за сигурност е блокиран. Свържете отново ключа или го нулирайте.";
+"lng_passkey_confirm" = "Потвърди";
+"lng_passkey_error_no_device" = "Няма намерен ключ за сигурност. Поставете един и опитайте отново.";
+"lng_passkey_error_no_credentials" = "Този ключ за сигурност няма ключ за достъп за вашия акаунт.";
+"lng_passkey_error_login" = "Не можах да вляза с ключа за сигурност.";
+"lng_passkey_error_register" = "Не може да се добави ключ за достъп с ключа за сигурност.";
+"lng_passkey_method_key" = "Използвайте ключ за сигурност";
+"lng_passkey_cable_register_title" = "Добавяне на парола";
+"lng_passkey_cable_login_title" = "Влезте с парола";
+"lng_passkey_cable_register_about" = "Сканирайте този QR код с камерата на телефона или таблета, където искате да запазите своя ключ за достъп.";
+"lng_passkey_cable_login_about" = "Сканирайте този QR код с камерата на телефона или таблета, който има вашия ключ за достъп.";
+"lng_passkey_cable_bluetooth" = "Дръжте Bluetooth включен — телефонът ви се свързва с това устройство чрез Bluetooth.";
+"lng_passkey_cable_key_about" = "Поставете и докоснете своя ключ за сигурност.";
+"lng_passkey_cable_connecting" = "Свързване с вашия телефон…";
+"lng_passkey_cable_continue" = "Продължете на телефона си";
+"lng_passkey_cable_follow" = "Следвайте инструкциите на вашия телефон.";
+"lng_passkey_cable_error_title" = "Нещо се обърка";
+"lng_passkey_cable_no_bluetooth" = "Bluetooth не е наличен. Включете Bluetooth, за да влезете с телефон.";
+"lng_passkey_cable_error" = "Не може да се свърже с телефона ви.\nМоля, опитайте отново.";
+
 "lng_settings_quick_dialog_action_title" = "Бързо действие в списъка с чатове";
 "lng_settings_quick_dialog_action_about" = "Изберете действието, което искате да извършите, когато щракнете със средния бутон или плъзнете наляво в списъка за чат.";
 "lng_settings_quick_dialog_action_both" = "Плъзнете наляво и щракнете със средния бутон";
@@ -1525,11 +1554,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_privacy_calls_always_title" = "Винаги позволявай";
 "lng_edit_privacy_calls_never_title" = "Никога не позволявай";
 
-"lng_edit_privacy_calls_p2p_title" = "Peer-to-peer в разговори";
-"lng_edit_privacy_calls_p2p_header" = "Използвайте peer-to-peer с";
+"lng_edit_privacy_calls_p2p_title" = "Равноправна връзка в разговори";
+"lng_edit_privacy_calls_p2p_header" = "Използвайте равноправна връзка с";
 "lng_edit_privacy_calls_p2p_always_empty" = "Винаги позволявай";
 "lng_edit_privacy_calls_p2p_never_empty" = "Никога не позволявай";
-"lng_edit_privacy_calls_p2p_exceptions" = "Peer-to-peer в разговорите ще се използва или няма да се използва с тези потребители, независимо от настройките по-горе.";
+"lng_edit_privacy_calls_p2p_exceptions" = "Равноправна връзка в разговорите ще се използва или няма да се използва с тези потребители, независимо от настройките по-горе.";
 "lng_edit_privacy_calls_p2p_always_title" = "Винаги позволявай";
 "lng_edit_privacy_calls_p2p_never_title" = "Никога не позволявай";
 
@@ -1662,6 +1691,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_direct_messages" = "Директни съобщения";
 "lng_profile_join_channel" = "Присъединете се към канала";
 "lng_profile_join_group" = "Присъединете се към групата";
+
+"lng_pull_next_channel" = "Издърпайте нагоре, за да отидете на следващия непрочетен канал";
+"lng_release_next_channel" = "Отпуснете, за да преминете към следващия непрочетен канал";
+"lng_pull_no_unread_channels" = "Нямате непрочетени канали";
+"lng_pull_next_topic" = "Издърпайте нагоре, за да отидете на следващата непрочетена тема";
+"lng_release_next_topic" = "Пуснете, за да преминете към следващата непрочетена тема";
+"lng_pull_no_unread_topics" = "Няма повече непрочетени теми в {group}";
+
 "lng_profile_apply_to_join_group" = "Кандидатстване за присъединяване към група";
 "lng_profile_kick" = "Премахване";
 "lng_profile_delete_removed" = "Изтриване";
@@ -1675,6 +1712,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_posts#other" = "{count} истории";
 "lng_profile_photos#one" = "{count} снимка";
 "lng_profile_photos#other" = "{count} снимки";
+"lng_profile_media#one" = "{count} медия";
+"lng_profile_media#other" = "{count} медии";
 "lng_profile_gifs#one" = "{count} GIF файла";
 "lng_profile_gifs#other" = "{count} GIF файла";
 "lng_profile_polls#one" = "{count} анкета";
@@ -1839,7 +1878,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_action_short_leave" = "Напускане";
 "lng_profile_action_short_more" = "Още";
 "lng_profile_action_short_manage" = "Управление";
+"lng_profile_action_short_live_stream" = "Излъчване на живо";
+"lng_profile_action_short_video_chat" = "Видео чат";
 
+"lng_media_type_media" = "Медия";
 "lng_media_type_photos" = "Снимки";
 "lng_media_type_gifs" = "GIF файлове";
 "lng_media_type_videos" = "Видеоклипове";
@@ -1848,8 +1890,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_media_type_audios" = "Гласови съобщения";
 "lng_media_type_links" = "Споделени връзки";
 "lng_media_type_polls" = "анкети";
+"lng_media_type_stories" = "Истории";
+"lng_media_type_posts" = "Публикации";
+"lng_media_type_groups" = "Групи";
+"lng_media_type_similar" = "Подобни";
+"lng_media_type_gifts" = "Подаръци";
+"lng_media_type_saved" = "Запазено";
+"lng_profile_tab_set_as_main" = "Задаване като основен раздел";
 "lng_polls_search_none" = "Няма намерени анкети";
 "lng_media_type_rounds" = "Видео съобщения";
+"lng_media_zoom_in" = "Увеличаване";
+"lng_media_zoom_out" = "Отдалечаване";
 "lng_media_saved_music_your" = "Вашият плейлист";
 "lng_media_saved_music_title" = "Плейлист";
 "lng_profile_common_groups_section" = "Общи групи";
@@ -1863,6 +1914,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_export_chat" = "Експортиране на хронологията";
 "lng_profile_export_topic" = "Експортирай историята на темите";
 "lng_profile_gift_premium" = "Премиум подарък";
+"lng_media_selected_media#one" = "{count} медия";
+"lng_media_selected_media#other" = "{count} медии";
 "lng_media_selected_photo#one" = "{count} снимка";
 "lng_media_selected_photo#other" = "{count} снимки";
 "lng_media_selected_gif#one" = "{count} GIF";
@@ -1879,6 +1932,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_media_selected_link#other" = "{count} споделени връзки";
 "lng_media_selected_poll#one" = "{count} анкета";
 "lng_media_selected_poll#other" = "{count} анкети";
+"lng_media_selected_message#one" = "{count} съобщение";
+"lng_media_selected_message#other" = "{count} съобщения";
 "lng_media_photo_empty" = "Все още няма снимки тук";
 "lng_media_gif_empty" = "Все още няма GIF файлове тук";
 "lng_media_video_empty" = "Все още няма видеоклипове тук";
@@ -1892,6 +1947,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_manage_group_title" = "Управление на групата";
 "lng_manage_channel_title" = "Управление на канала";
+"lng_manage_community_title" = "Управление на общността";
 "lng_manage_bot_title" = "Управление на бот";
 "lng_manage_peer_recent_actions" = "Скорошни действия";
 "lng_manage_peer_star_ref" = "Партньорски програми";
@@ -2179,6 +2235,140 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_manage_linked_channel_unlink" = "Прекратяване на връзката";
 "lng_manage_linked_channel_posted" = "Всички нови публикации от този канал се препращат към групата.";
 "lng_manage_discussion_group_warning" = "\"Историята на чатовете за нови членове\" ще бъде превключена на **Видима**.";
+
+"lng_community_title" = "Общност";
+"lng_community_view" = "Преглед";
+"lng_community_manage" = "Управление на общността";
+"lng_community_add_button" = "Добавете група към общност";
+"lng_community_add_button_channel" = "Добавете канал към общност";
+"lng_community_add_button_bot" = "Добавете бот към общност";
+"lng_community_remove_button" = "Премахване на групата от общността";
+"lng_community_remove_button_channel" = "Премахване на канала от общността";
+"lng_community_remove_button_bot" = "Премахване на бота от общността";
+"lng_community_remove_done" = "Премахнат от общността.";
+"lng_community_remove_sure" = "Премахване на {group} от общността?";
+"lng_community_add_about" = "Направете групата си част от общност с множество свързани чатове.";
+"lng_community_add_about_channel" = "Направете канала си част от общност с множество свързани чатове.";
+"lng_community_add_about_bot" = "Направете вашия бот част от общност с множество свързани чатове.";
+"lng_community_create" = "Създаване на общност";
+"lng_community_existing" = "Добавете към съществуваща общност";
+"lng_community_status" = "общност";
+"lng_community_chats#one" = "{count} чат";
+"lng_community_chats#other" = "{count} чата";
+"lng_community_create_title" = "Нова общност";
+"lng_community_create_name" = "Име на общността";
+"lng_community_created" = "Общността е създадена";
+"lng_community_create_hidden" = "Скрита група";
+"lng_community_create_hidden_channel" = "Скрит канал";
+"lng_community_create_hidden_bot" = "Скрит бот";
+"lng_community_visibility_title" = "Видимост в чата";
+"lng_community_visibility_visible" = "Видим";
+"lng_community_visibility_visible_about" = "Всеки в общността ще може да види този чат.";
+"lng_community_visibility_hidden" = "Скрит";
+"lng_community_visibility_hidden_about" = "Само поканените членове и администраторите на общността ще виждат този чат.";
+"lng_community_visibility_note" = "Няма да можете да промените това по-късно.";
+"lng_community_add_to" = "Добавяне към общността";
+"lng_community_add_confirm" = "Ако тази група е одобрена от администратор на общността, нейните членове ще могат да се присъединят или да поискат присъединяване към други чатове в общността.";
+"lng_community_add_confirm_channel" = "Ако този канал е одобрен от администратор на общността, абонатите му ще могат да се присъединят или да поискат да се присъединят към други чатове в общността.";
+"lng_community_add_confirm_bot" = "Ако този бот е одобрен от администратор на общността, членовете на общността ще могат да го видят и използват.";
+"lng_community_add_confirm_add" = "Добавяне";
+"lng_community_add_done" = "Групата е добавена към общността.";
+"lng_community_add_done_channel" = "Каналът е добавен към общността.";
+"lng_community_add_done_bot" = "Ботът е добавен към общността.";
+"lng_community_request_sent" = "Вашата заявка беше изпратена до администраторите на общността.";
+"lng_community_manage_name" = "Име на общността";
+"lng_community_manage_who_add" = "Кой може да добавя чатове";
+"lng_community_manage_all_members" = "Всички членове";
+"lng_community_manage_all_members_about" = "Позволете на членовете да добавят своите групи и канали към общността.";
+"lng_community_manage_only_admins" = "Само администратори";
+"lng_community_manage_only_admins_about" = "Чатовете, предложени от членове на общността, изискват одобрение от администратор.";
+"lng_community_delete" = "Изтриване на общността";
+"lng_community_delete_sure" = "Сигурни ли сте, че искате да изтриете тази общност? Това ще откачи нейни чатове.";
+"lng_rights_community_info" = "Редактиране на името на общността";
+"lng_rights_community_linked" = "Редактиране на списъка с групи";
+"lng_rights_community_ban" = "Блокиране на членове";
+"lng_community_admin_promote_title" = "Направете администратор на общността";
+"lng_community_admin_promote_sure" = "{user} ще може да редактира информация за общността и да използва други администраторски инструменти.";
+"lng_community_admin_promote" = "Повишаване";
+"lng_community_show_as_one" = "Показване като един чат";
+"lng_community_show_as_one_about" = "Групирайте всички чатове на общността в един елемент в списъка за чат.";
+"lng_community_ungroup_title" = "Разгрупиране на чатовете";
+"lng_community_ungroup_text" = "Чатовете от тази общност ще се показват отделно във вашия списък с чатове.";
+"lng_community_ungroup" = "Разгрупиране";
+"lng_community_chats_joined" = "Чатове, в които участвате";
+"lng_community_chats_viewable" = "Чатове, които можете да видите";
+"lng_community_chats_requestable" = "Скрити чатове";
+"lng_community_add_chat" = "Добавете чат към общността";
+"lng_community_add_chat_title" = "Добавете чат към общността";
+"lng_community_create_chat" = "Създайте нов чат";
+"lng_community_requests_title" = "Чакащи заявки";
+"lng_community_requests_about" = "Чатовете изискват одобрение от администратор, преди да бъдат добавени към общността. {link}";
+"lng_community_requests_about_link" = "Промяна на настройките.";
+"lng_community_requests_count#one" = "{count} чат, предложен за тази общност";
+"lng_community_requests_count#other" = "{count} чата, предложени за тази общност";
+"lng_community_requests_button#one" = "{count} чкаща заявка";
+"lng_community_requests_button#other" = "{count} чакащи заявки";
+"lng_community_request_suggested_group" = "{user} предложи тази група";
+"lng_community_request_suggested_channel" = "{user} предложи този канал";
+"lng_community_request_suggested_bot" = "{user} предложи този бот";
+"lng_community_request_only_members" = "Вижда се само от членовете";
+"lng_community_request_add" = "Добави";
+"lng_community_request_decline" = "Откажи";
+"lng_community_request_invite_only" = "Тази група е само с покани. Само найните членове могат да я видят.";
+"lng_community_request_invite_only_channel" = "Този канал е само с покани. Само абонатите му могат да го видят.";
+"lng_community_request_invite_only_bot" = "Този бот е само с покана. Само поканени членове могат да го използват.";
+"lng_community_request_message_owner" = "Съобщение до собственика на групата";
+"lng_community_request_message_owner_channel" = "Съобщение до собственика на канала";
+"lng_community_request_message_owner_bot" = "Съобщение до собственика на бота";
+"lng_community_requests_add_all" = "Добавяне на всички";
+"lng_community_requests_decline_all" = "Откажи всички";
+"lng_community_requests_add_all_title" = "Добавете всички чатове";
+"lng_community_requests_add_all_sure#one" = "Искате ли да добавите {count} чат към общността?";
+"lng_community_requests_add_all_sure#other" = "Искате ли да добавите {count} чата към общността?";
+"lng_community_requests_decline_all_title" = "Откажи всички";
+"lng_community_requests_decline_all_sure#one" = "Искате ли да отхвърлите {count} заявки за присъединяване към общността?";
+"lng_community_requests_decline_all_sure#other" = "Искате ли да отхвърлите всички {count} заявки за присъединяване към общността?";
+"lng_community_request_added_toast#one" = "Чатът беше добавен към общността.";
+"lng_community_request_added_toast#other" = "{count} чата бяха добавени към общността.";
+"lng_community_request_declined_toast#one" = "Заявката за добавяне на чат беше отхвърлена.";
+"lng_community_request_declined_toast#other" = "{count} заявки за добавяне на чатове бяха отхвърлени.";
+"lng_community_request_added_toast_undo" = "Вие одобрихте искането за добавяне на {chat} към общността.";
+"lng_community_request_declined_toast_undo" = "Вие отхвърлихте искането за добавяне на {chat} към общността.";
+"lng_community_ban_toggle" = "Блокиране от Общността";
+"lng_community_ban_about#one" = "Потребителят ще бъде премахнат от чата {count} .";
+"lng_community_ban_about#other" = "Потребителят ще бъде премахнат от {count} чата.";
+"lng_community_ban_warning_title" = "Предупреждение";
+"lng_community_ban_warning#one" = "Блокирането на {user} също ще премахне {count} негови чатове от общността.";
+"lng_community_ban_warning#other" = "Блокирането на {user} също ще премахне {count} от неговите чатове от общността.";
+"lng_community_ban_button" = "Блокирай";
+"lng_community_ban_done" = "{user} беше блокиран от общността.";
+"lng_community_profile_status#one" = "Общност с {count} чат";
+"lng_community_profile_status#other" = "Общност с {count} чата";
+"lng_community_hidden_chat_about" = "Само поканените членове и администраторите на общността ще виждат този чат.";
+"lng_community_hidden_status" = "Скрито";
+"lng_community_hidden_chat_title" = "Скрит чатове";
+"lng_community_hidden_not_accessible" = "Не можете да се присъедините или да видите тази група, докато администратор не ви покани.";
+"lng_community_hidden_not_accessible_channel" = "Не можете да се присъедините или да видите този канал, докато администратор не ви покани.";
+"lng_community_hidden_not_accessible_bot" = "Не можете да използвате този бот, докато администратор не ви покани.";
+"lng_community_join_sure" = "Искате ли да се присъедините към {group}?";
+"lng_community_admin_title" = "Вие сте администратор на общността";
+"lng_community_admin_about" = "Вече можете да редактирате информацията на {community} и да използвате други администраторски инструменти.";
+"lng_community_admin_continue" = "Продължи";
+"lng_community_admin_decline" = "Не благодаря";
+"lng_community_admin_dismiss_title" = "Отхвърлете себе си като администратор на общността";
+"lng_community_admin_dismiss_text" = "Ще загубите достъп до инструментите за администриране на общността, но ще запазите администраторските си права в собствените си чатове.";
+"lng_community_removed_list_about" = "Потребителите, премахнати от общността, ще бъдат показани тук.";
+"lng_community_chat_view_channel" = "Преглед на канала";
+"lng_community_chat_view_group" = "Преглед на групата";
+"lng_community_chat_view_bot" = "Преглед на бота";
+"lng_community_chat_remove_channel" = "Премахване на канала";
+"lng_community_chat_remove_group" = "Премахване на групата";
+"lng_community_chat_remove_bot" = "Премахване на бот";
+"lng_community_chat_loading" = "Зареждане...";
+"lng_community_peers_limit#one" = "Достигнат е лимитът от {count} чат.";
+"lng_community_peers_limit#other" = "Достигнат е лимитът от {count} чата.";
+"lng_community_bot_peers_limit#one" = "Достигнат е лимитът от {count} бот.";
+"lng_community_bot_peers_limit#other" = "Достигнат е лимитът от {count} бота.";
 
 "lng_manage_monoforum" = "Директни съобщения";
 "lng_manage_monoforum_off" = "Изкл";
@@ -2629,6 +2819,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_change_creator" = "{from} направи {user} новият собственик на групата.";
 "lng_action_new_creator_pending" = "{user} ще стане нов собственик след 7 дни, ако {from} не се върне.";
 "lng_action_managed_bot_created" = "{from} създаде бота {bot}.";
+"lng_action_community_added" = "{from} добави тази група към общността {community} .";
+"lng_action_community_added_chat" = "Този чат беше добавен към общността {community} .";
+"lng_action_community_added_channel" = "Този канал беше добавен към общността {community} .";
+"lng_action_community_added_unknown" = "{from} добави тази група към общност.";
+"lng_action_community_added_unknown_chat" = "Този чат беше добавен към общност.";
+"lng_action_community_added_unknown_channel" = "Този канал беше добавен към общност.";
+"lng_action_community_removed" = "{from} премахна тази група от общността.";
+"lng_action_community_removed_chat" = "Този чат беше премахнат от общността.";
+"lng_action_community_removed_channel" = "Този канал беше премахнат от общността.";
 
 "lng_create_bot_title" = "Създаване на бот";
 "lng_create_bot_subtitle" = "{bot} иска да създаде и управлява чатбот от ваше име.";
@@ -2891,6 +3090,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_repeated_yearly" = "годишно";
 "lng_edited_date" = "Редактирано: {date}";
 "lng_sent_date" = "Изпратено: {date}";
+"lng_edited_at" = "редактирано в {time}";
+"lng_edited_on" = "редактирано на {date} в {time}";
+"lng_sent_on" = "изпратено на {date} в {time}";
 "lng_approximate_about" = "Приблизителна дата на публикуване на видеото.";
 "lng_views_tooltip#one" = "Прегледи: {count}";
 "lng_views_tooltip#other" = "Прегледи: {count}";
@@ -3081,6 +3283,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_summary_about_no_forwards" = "Ограничете препращането, копирането и запазването на съдържание от вашите лични чатове.";
 "lng_premium_summary_subtitle_ai_compose" = "AI инструменти";
 "lng_premium_summary_about_ai_compose" = "Преобразувайте вашите съобщения и цели чатове в предпочитания от вас стил и език.";
+"lng_premium_summary_subtitle_rich_formatting" = "Богато форматиране";
+"lng_premium_summary_about_rich_formatting" = "Добавете заглавни полета, таблици, списъци, AI и вградени медии към съобщенията.";
 "lng_premium_summary_bottom_subtitle" = "Относно Телеграм Премиум";
 "lng_premium_summary_bottom_about" = "Докато безплатната версия на Телеграм вече дава на своите потребители повече от всяко друго приложение за съобщения, **Телеграм Премиум** разширява възможностите си още повече.\n\n**Телеграм Премиум** е платена опция, т.к. повечето Премиум функции изискват допълнителни разходи от Телеграм към трети страни, като например доставчици на центрове за данни и производители на сървъри. Приносът на потребителите на **Телеграм Премиум** ни позволява да покриваме такива разходи и също така помагаме на Телеграм да остане безплатен за всички.";
 "lng_premium_summary_button" = "Абонирайте се за {cost} на месец";
@@ -3371,6 +3575,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_small_balance_for_search" = "Купете **Звезди**, за да търсите в обществени публикации.";
 "lng_credits_small_balance_fallback" = "Купете **Звезди**, за да отключите съдържание и услуги в Телеграм.";
 "lng_credits_purchase_blocked" = "За съжаление не можете да закупите този артикул с Телеграм Звезди.";
+"lng_credits_topup_disabled" = "За съжаление нямате достатъчно Telegram Stars в баланса си.";
 "lng_credits_enough" = "Имате достатъчно звезди в момента. {link}";
 "lng_credits_enough_link" = "Купете все пак";
 
@@ -4561,6 +4766,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_emoji_remove_group_set" = "Да се премахне ли пакета с емотикони на групата?";
 "lng_emoji_group_from_your" = "Изберете от вашите емотикони";
 "lng_emoji_group_from_featured" = "Изберете от популярните емотикони";
+"lng_emoji_group_badge" = "Групови емотикони";
 "lng_masks_archive_pack" = "Архивни маски";
 "lng_masks_has_been_archived" = "Пакетът с маски е архивиран.";
 "lng_masks_installed" = "Пакетът с маски е инсталиран.";
@@ -4582,6 +4788,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_stickers_create_new" = "Създай нов стикер";
 "lng_stickers_add_existing" = "Добавяне на съществуващ стикер";
+"lng_emoji_create_new" = "Създайте ново емоджи";
+"lng_emoji_add_existing" = "Добавяне на съществуващо емоджи";
+"lng_emoji_adapt_sticker" = "Адаптиране от стикер";
+"lng_emoji_adapt_no_video" = "Видео стикерите все още не се поддържат.";
 "lng_stickers_add_to_set" = "Добавете към комплекта стикери";
 "lng_stickers_already_in_set" = "Този стикер вече е в комплекта.";
 "lng_stickers_set_is_full" = "Този комплект стикери е пълен.";
@@ -4589,6 +4799,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_emoji_already_in_set" = "Тази емотикона вече е в комплекта.";
 "lng_emoji_set_is_full" = "Този набор от емотикони е пълен.";
 "lng_emoji_added" = "Емотикони са добавени.";
+"lng_emoji_create_image_title" = "Нови емотикони";
+"lng_emoji_create_emoji_about" = "Изберете емотикони, които отговарят на вашите емотикони";
 "lng_stickers_pack_choose_emoji_title" = "Изберете емотикона";
 "lng_stickers_pack_choose_emoji_about" = "Изберете емотикона, която съответства на този стикер.";
 "lng_stickers_pick_existing_title" = "Изберете Стикер";
@@ -4621,6 +4833,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_in_dlg_sticker" = "Стикер";
 "lng_in_dlg_sticker_emoji" = "{emoji} стикер";
 "lng_in_dlg_poll" = "Анкета";
+"lng_in_dlg_table" = "Таблица";
 "lng_in_dlg_story" = "История";
 "lng_in_dlg_todo_list" = "Контролен списък";
 "lng_in_dlg_story_expired" = "Изтекла история";
@@ -4782,6 +4995,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_from_you" = "Вие";
 "lng_from_draft" = "Чернова";
 "lng_bot_description" = "Какво може да прави този бот?";
+"lng_ephemeral_visible_you" = "Видимо само за вас";
+"lng_ephemeral_visible_to" = "Видимо само за {user}";
+"lng_ephemeral_about" = "Само вие виждате това съобщение. Ще изчезне, след като рестартирате приложението.";
+"lng_ephemeral_command_tooltip" = "Други членове няма да видят това съобщение";
+"lng_ephemeral_reply_text_only" = "Този тип съобщение не може да бъде изпратено в отговор на това съобщение.";
+"lng_ephemeral_reply_single_message" = "Можете да изпратите само едно съобщение в отговор на това съобщение.";
+"lng_ephemeral_cant_schedule" = "Ефимерните съобщения не могат да бъдат планирани.";
 "lng_unblock_button" = "Деблокиране";
 "lng_restart_button" = "Рестартиране";
 "lng_channel_mute" = "Заглушаване";
@@ -4847,8 +5067,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_dialogs_text_media" = "{media_part} {caption}";
 "lng_dialogs_text_media_wrapped" = "{media},";
 "lng_dialogs_text_from_in_topic" = "{from} {topic}";
-"lng_dialogs_skip_archive_in_search" = "Пропускане на резултатите от архива";
-"lng_dialogs_show_archive_in_search" = "С резултати от архив";
 
 "lng_dialogs_suggestions_birthday_title" = "Добавете своя рожден ден! 🎂";
 "lng_dialogs_suggestions_birthday_about" = "Уведомете контактите си, когато празнувате.";
@@ -5062,6 +5280,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_send_message" = "Изпращане на съобщение";
 "lng_context_view_group" = "Информация за групата";
 "lng_context_view_channel" = "Информация за канала";
+"lng_context_view_community" = "Преглед на информацията за общността";
 "lng_context_view_topic" = "Преглед на информацията за темата";
 "lng_context_view_thread" = "Вижте информацията за темата";
 "lng_context_hide_psa" = "Скриване на това съобщение";
@@ -5128,6 +5347,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_delete_gif" = "Изтриване";
 "lng_context_open_channel" = "Отвори канала";
 "lng_context_open_group" = "Отвори групата";
+"lng_context_open_community" = "Отворена общност";
 "lng_context_attached_stickers" = "Прикачени стикери";
 "lng_context_to_msg" = "Отидете на съобщението";
 "lng_context_reply_msg" = "Отговор";
@@ -5159,12 +5379,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_upload_edit_caption" = "Редактиране на надпис";
 "lng_context_copy_selected" = "Копиране на избрания текст";
 "lng_context_copy_selected_items" = "Копиране на избраното като текст";
+"lng_context_copy_in_reply_to" = "в отговор на {name}";
 "lng_context_forward_selected" = "Препращане на избраното";
 "lng_context_send_now_selected" = "Изпрати избраното сега";
 "lng_context_reschedule_selected" = "Пренасрочване на избраното";
 "lng_context_delete_selected" = "Изтриване на избраното";
 "lng_context_save_images_selected" = "Запазване на избраното";
 "lng_context_save_documents_selected" = "Изтегляне на избраните";
+"lng_context_save_html" = "Запази като HTML";
 "lng_context_clear_selection" = "Изчистване на селекцията";
 "lng_context_seen_loading" = "Зарежда се...";
 "lng_context_seen_text#one" = "{count} прочитане";
@@ -5327,7 +5549,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_translate_cocoon_link" = "Как работи?";
 "lng_translate_cocoon_title" = "Cocoon";
 "lng_translate_cocoon_subtitle" = "**Cocoon** ({text}) се справя със задачите на AI **безопасно** и **ефективно**.";
-"lng_translate_cocoon_explain" = "";
+"lng_translate_cocoon_explain" = "**По**верителна **Из**числителна **От**ворена **М**режа";
 "lng_translate_cocoon_private_title" = "Поверително";
 "lng_translate_cocoon_private_text" = "Никоя трета страна няма достъп до никакви данни, като например преводи вътре в {mention}.";
 "lng_translate_cocoon_private_mention" = "@cocoon";
@@ -5672,6 +5894,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_search_filter_private" = "Лични чатове";
 "lng_search_filter_group" = "Групови чатове";
 "lng_search_filter_channel" = "Канали";
+"lng_search_filter_from_archive" = "От архив";
+"lng_search_filter_non_archived" = "Неархивиран";
 "lng_search_sponsored_button" = "Реклама ⋮";
 "lng_sr_chat_channel" = "Канал";
 "lng_sr_chat_group" = "Група";
@@ -5781,6 +6005,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sr_message_invoice_paid" = "Платено";
 "lng_sr_message_invoice_unpaid" = "Неплатено";
 
+"lng_sr_folder_locked" = "{text}, Премиум се изисква";
+"lng_sr_folder_locked_about" = "Натиснете, за да видите опциите за абонамент.";
+
 "lng_media_save_progress" = "{ready} от {total} {mb}";
 "lng_mediaview_save_as" = "Запиши като...";
 "lng_mediaview_copy" = "Копиране";
@@ -5806,6 +6033,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mediaview_single_photo" = "Единична снимка";
 "lng_mediaview_group_photo" = "Групова снимка";
 "lng_mediaview_channel_photo" = "Снимка на канала";
+"lng_mediaview_community_photo" = "Снимка на общността";
 "lng_mediaview_profile_photo" = "Профилна снимка";
 "lng_mediaview_profile_public_photo" = "Публична снимка";
 "lng_mediaview_profile_photo_by_you" = "Снимка, зададена от вас";
@@ -5828,6 +6056,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mediaview_saved_images_to" = "Изображенията бяха запазени във вашата папка {downloads}";
 "lng_mediaview_video_saved_to" = "Видео файлът беше записан във вашата папка {downloads}";
 "lng_mediaview_downloads" = "Изтегляния";
+"lng_export_html_saved_to" = "Съобщението беше запазено във вашата папка {downloads}";
+"lng_export_html_failed" = "Съобщението не може да бъде запазено като HTML.";
+"lng_export_html_media_missing" = "Медията е недостъпна";
+"lng_export_html_embed" = "Вградено съдържание";
 "lng_mediaview_playback_speed" = "Скорост на възпроизвеждане: {speed}";
 "lng_mediaview_rotate_video" = "Завъртане на видео";
 "lng_mediaview_quality_auto" = "Авто";
@@ -5852,6 +6084,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_menu_formatting_blockquote" = "Цитат";
 "lng_menu_formatting_monospace" = "Моно шрифт";
 "lng_menu_formatting_spoiler" = "Спойлер";
+"lng_menu_formatting_subscript" = "Долен индекс";
+"lng_menu_formatting_superscript" = "Горен индекс";
+"lng_menu_formatting_marked" = "Маркирано";
+"lng_menu_formatting_plain_text" = "Обикновен текст";
 "lng_menu_formatting_date" = "Дата";
 "lng_menu_formatting_link_create" = "Създаване на връзка";
 "lng_menu_formatting_link_edit" = "Редактиране на връзката";
@@ -5861,6 +6097,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_formatting_link_edit_title" = "Редактиране на връзката";
 "lng_formatting_link_text" = "Текст";
 "lng_formatting_link_url" = "Уеб адрес";
+"lng_formatting_math_create_title" = "Вмъкване на формула";
+"lng_formatting_math_edit_title" = "Редактиране на формула";
+"lng_formatting_math_source" = "Формула";
+"lng_formatting_math_source_placeholder" = "Източник на формулата";
+"lng_formatting_math_separate_line" = "Формула за отделен ред";
+"lng_formatting_math_result_label" = "Резултат";
 "lng_formatting_link_create" = "Създаване";
 "lng_formatting_code_title" = "Код на езика";
 "lng_formatting_code_language" = "Език за подчертаване на синтаксис.";
@@ -7167,9 +7409,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_polls_stop_warning" = "Ако спрете тази анкета сега, никой повече няма да може да гласува в нея. Това действие не може да бъде отменено.";
 "lng_polls_stop_sure" = "Спри";
 "lng_article_menu_item" = "Статия";
-/*
 "lng_article_editor_title" = "Статия";
+"lng_article_editor_title_editing" = "Редактиране";
 "lng_article_insert_heading" = "Заглавие";
+"lng_article_insert_text" = "Текст";
 "lng_article_insert_heading1" = "Заглавие 1";
 "lng_article_insert_heading2" = "Заглавие 2";
 "lng_article_insert_heading3" = "Заглавие 3";
@@ -7177,43 +7420,82 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_article_insert_heading5" = "Заглавие 5";
 "lng_article_insert_heading6" = "Заглавие 6";
 "lng_article_insert_emoji" = "Емотикони";
-"lng_article_insert_blockquote" = "Блоков цитат";
 "lng_article_insert_code" = "Кодов блок";
 "lng_article_insert_math" = "Математика";
+"lng_article_insert_footer" = "Долно поле";
 "lng_article_insert_divider" = "Разделител";
 "lng_article_insert_ordered_list" = "Подреден списък";
 "lng_article_insert_bullet_list" = "Списък с точки";
 "lng_article_insert_task_list" = "Списък със задачи";
+"lng_article_list_change" = "Списък с промени";
+"lng_article_list_insert" = "Вмъкване на списък";
+"lng_article_tooltip_text_style" = "Текстов стил";
+"lng_article_tooltip_list_style" = "Стил на списък";
+"lng_article_tooltip_table_insert" = "Вмъкване на таблица";
+"lng_article_tooltip_table_style" = "Стил на таблицата";
+"lng_article_tooltip_link" = "Вмъкване на връзка";
+"lng_article_tooltip_media" = "Вмъкване на медия";
+"lng_article_tooltip_formula" = "Вмъкване на формула";
+"lng_article_tooltip_emoji" = "Панел с емотикони";
+"lng_article_list_item_change" = "Промяна на елемент от списъка";
+"lng_article_list_numbers" = "Числа";
+"lng_article_list_lowercase_letters" = "Малки букви";
+"lng_article_list_uppercase_letters" = "Главни букви";
+"lng_article_list_lowercase_roman" = "Малка римска буква";
+"lng_article_list_uppercase_roman" = "Римски с главни букви";
+"lng_article_list_reversed" = "Обърнато";
 "lng_article_insert_pullquote" = "Издърпайте цитат";
 "lng_article_insert_media" = "Прикачете медия";
+"lng_article_media_ungroup" = "Разгрупиране";
+"lng_article_media_collage" = "Колаж";
+"lng_article_media_slideshow" = "Слайдшоу";
 "lng_article_insert_details" = "Подробности";
 "lng_article_insert_table" = "Таблица";
-"lng_article_insert_map" = "Карта";
+"lng_article_placeholder_cell" = "Клетка";
+"lng_article_placeholder_quote" = "Въведете цитат";
+"lng_article_placeholder_author" = "Добавяне на автор";
+"lng_article_placeholder_title" = "Заглавие";
 "lng_article_limit_length" = "Статията е твърде дълга.";
 "lng_article_limit_depth" = "Статията е вложена твърде дълбоко.";
 "lng_article_limit_blocks" = "Статията има твърде много блокове.";
 "lng_article_limit_columns" = "Таблицата със статии има твърде много колони.";
 "lng_article_limit_media" = "Статията има твърде много мултимедийни файлове.";
+"lng_article_table_truncated" = "Поставената таблица не пасна и беше съкратена.";
+"lng_article_paste_truncated" = "Поставеното съдържание не пасна и беше съкратено.";
+"lng_article_submit_empty" = "Статията не може да бъде празна.";
 "lng_article_premium_required" = "Абонирайте се за {link} , за да можете да изпращате обогатени статии.";
 "lng_article_premium_required_link" = "Телеграм Премиум";
+"lng_article_premium_choice_title" = "Премахване на форматирането";
+"lng_article_premium_choice_about" = "Това съобщение използва богато форматиране, което изисква {link}.";
+"lng_article_premium_choice_about_link" = "Телеграм Премиум";
+"lng_article_premium_choice_plain" = "Изпращане без форматиране";
+"lng_article_premium_choice_plain_save" = "Запазване без форматиране";
 "lng_article_table_change" = "Промяна на таблицата";
-"lng_article_table_add_row" = "Добавяне на ред";
-"lng_article_table_add_column" = "Добавяне на колона";
+"lng_article_table_add_cells" = "Добавяне на клетки";
+"lng_article_table_add_row_above" = "Добавяне на ред отгоре";
+"lng_article_table_add_row_below" = "Добави ред отдолу";
+"lng_article_table_add_column_left" = "Добавяне на колона отляво";
+"lng_article_table_add_column_right" = "Добавяне на колона вдясно";
 "lng_article_table_header" = "Заглавие";
+"lng_article_table_header_cell" = "Заглавна клетка";
+"lng_article_table_header_cells" = "Заглавни клетки";
+"lng_article_table_alignment" = "Подравняване";
+"lng_article_table_align_left" = "Подравняване отляво";
 "lng_article_table_align_center" = "Подравни центъра";
 "lng_article_table_align_right" = "Подравни вдясно";
+"lng_article_table_align_top" = "Подравни отгоре";
 "lng_article_table_align_middle" = "Подравни средата";
 "lng_article_table_align_bottom" = "Подравни отдолу";
 "lng_article_table_split_cell" = "Разделена клетка";
 "lng_article_table_unite_cells" = "Обединяване на клетки";
+"lng_article_table_delete_cells" = "Изтриване на клетки";
 "lng_article_table_delete_row" = "Изтриване на ред";
 "lng_article_table_delete_rows" = "Изтриване на редове";
 "lng_article_table_delete_column" = "Изтриване на колона";
 "lng_article_table_delete_columns" = "Изтриване на колони";
 "lng_article_table_delete_table" = "Изтриване на таблица";
-"lng_article_table_bordered" = "Таблица с граници";
+"lng_article_table_borderless" = "Таблица без граници";
 "lng_article_table_striped" = "Раирана таблица";
-*/
 "lng_polls_menu_item" = "Анкета";
 "lng_polls_create" = "Създаване на анкета";
 "lng_polls_create_title" = "Нова анкета";
@@ -7401,6 +7683,11 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_filters_view_subtitle" = "Изглед на разделите";
 "lng_filters_vertical" = "Разделите да са отляво";
 "lng_filters_horizontal" = "Разделите да са отгоре";
+"lng_filters_tabs_subtitle" = "Изглед на разделите";
+"lng_filters_tabs_default" = "По подразбиране";
+"lng_filters_tabs_text" = "Само текст";
+"lng_filters_tabs_text_icons" = "Текст и икони";
+"lng_filters_tabs_icons" = "Само икони";
 "lng_filters_enable_tags" = "Показване на етикети на папка";
 "lng_filters_enable_tags_about" = "Показване на имена на папки за всеки чат в списъка с чатове.";
 "lng_filters_enable_tags_about_premium" = "Абонирайте се за **{link}** показване на имена на папки за всеки чат в списъка с чатове.";
@@ -7507,6 +7794,14 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_photo_editor_corners_medium" = "Среден";
 "lng_photo_editor_corners_small" = "Малък";
 "lng_photo_editor_corners_none" = "Без";
+"lng_photo_editor_keep_ratio" = "Запази оригиналното съотношение";
+
+"lng_photo_editor_shape_circle" = "Кръг";
+"lng_photo_editor_shape_rectangle" = "Правоъгълник";
+"lng_photo_editor_shape_star" = "Звезда";
+"lng_photo_editor_shape_bubble" = "Балонче";
+"lng_photo_editor_shape_arrow" = "Стрелка";
+"lng_photo_editor_shape_filled" = "Запълнено";
 
 "lng_voice_speed_slow" = "Бавно";
 "lng_voice_speed_normal" = "Нормално";
@@ -8078,6 +8373,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_search_tab_this_channel" = "Този канал";
 "lng_search_tab_this_group" = "Тази група";
 "lng_search_tab_public_posts" = "Публични публикации";
+"lng_search_tab_archive" = "Архив";
+"lng_search_tab_this_community" = "Тази общност";
 "lng_search_tab_no_results" = "Няма резултати";
 "lng_search_tab_no_results_text" = "Нямаше никакви резултати за \"{query}\".";
 "lng_search_tab_no_results_retry" = "Опитайте друг хаштаг.";
@@ -8161,6 +8458,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_ai_compose_before" = "Преди";
 "lng_ai_compose_after" = "След";
 "lng_ai_compose_to_language" = "На {language}";
+"lng_ai_compose_in_language" = "На {language}";
 "lng_ai_compose_name_style" = "{name} ({style})";
 "lng_ai_compose_style_neutral" = "Неутрален";
 "lng_ai_compose_emojify" = "емотикони";
@@ -8179,8 +8477,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_ai_compose_select_style" = "Изберете стил";
 "lng_ai_compose_apply_style" = "Прилагане на стил";
 "lng_ai_compose_style_tooltip" = "Изберете стил";
+"lng_ai_compose_style_prompt_placeholder" = "Напишете подкана...";
 "lng_ai_compose_create_tone_title" = "Нов стил";
 "lng_ai_compose_edit_tone_title" = "Редактиране на стил";
+"lng_ai_compose_create_title" = "Създавайте с AI";
+"lng_ai_compose_create_placeholder" = "Кажете ни какво да генерираме...";
+"lng_ai_compose_generate" = "Генерирай";
+"lng_ai_compose_add_to_page" = "Добавяне към страницата";
 "lng_ai_compose_tone_icon_title" = "Икона на стил";
 "lng_ai_compose_tone_name" = "Име";
 "lng_ai_compose_tone_prompt" = "Подкана";
@@ -8514,4 +8817,5 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 // "cloud_lng_language_zh-CN" = "Chinese (Simplified)";
 // "cloud_lng_language_zh-TW" = "Chinese (Traditional)";
 "cloud_lng_language_zu" = "Зулу";
+
 // Keys finished
