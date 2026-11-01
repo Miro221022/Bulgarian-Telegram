@@ -144,7 +144,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_status_service_notifications" = "сервизни известия";
 "lng_status_support" = "поддръжка";
 "lng_status_bot" = "бот";
-"lng_status_bot_agent" = "";
+"lng_status_bot_agent" = "агент";
+"lng_status_bot_ai" = "ИИ";
+"lng_status_bot_game" = "игра";
+"lng_status_bot_gay" = "небинарен";
 "lng_status_bot_reads_all" = "има достъп до съобщенията";
 "lng_status_bot_not_reads_all" = "няма достъп до съобщенията";
 "lng_status_offline" = "последно видян доста отдавна";
@@ -2430,10 +2433,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_manage_messages_ttl_title" = "Автоматично изтриване";
 "lng_manage_messages_ttl_disable" = "Деактивиране";
-"lng_manage_messages_ttl_after1" = "1 ден";
-"lng_manage_messages_ttl_after2" = "1 седмица";
-"lng_manage_messages_ttl_after3" = "1 месец";
-"lng_manage_messages_ttl_after4" = "1 месец";
 "lng_manage_messages_ttl_after_custom" = "Персонализирано";
 "lng_manage_messages_ttl_menu" = "Автоматично изтриване";
 
@@ -3671,7 +3670,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_small_balance_for_search" = "Купете **Звезди**, за да търсите в обществени публикации.";
 "lng_credits_small_balance_fallback" = "Купете **Звезди**, за да отключите съдържание и услуги в Телеграм.";
 "lng_credits_purchase_blocked" = "За съжаление не можете да закупите този артикул с Телеграм Звезди.";
-"lng_credits_topup_disabled" = "За съжаление нямате достатъчно Telegram Stars в баланса си.";
+"lng_credits_topup_disabled" = "За съжаление нямате достатъчно Телеграм Звезди в баланса си.";
 "lng_credits_enough" = "Имате достатъчно звезди в момента. {link}";
 "lng_credits_enough_link" = "Купете все пак";
 
@@ -3967,10 +3966,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_channel_ask" = "Помолете вашите **Премиум** абонати да подкрепят канала ви с тази връзка:";
 "lng_boost_channel_ask_button" = "Копиране на връзката";
 //"lng_boost_channel_or" = "or";
-//"lng_boost_channel_gifting" = "Boost your channel by gifting your subscribers Telegram Premium. {link}";
+//"lng_boost_channel_gifting" = "Boost your channel by gifting your subscribers Телеграм Премиум. {link}";
 //"lng_boost_channel_gifting_link" = "Get boosts >";
 "lng_boost_group_ask" = "Помолете вашите **Премиум** членове да подкрепят вашата група с тази връзка:";
-//"lng_boost_group_gifting" = "Boost your group by gifting your members Telegram Premium. {link}";
+//"lng_boost_group_gifting" = "Boost your group by gifting your members Телеграм Премиум. {link}";
 
 "lng_boost_channel_title_autotranslate" = "Автоматичен превод на съобщения";
 "lng_boost_channel_needs_level_autotranslate#one" = "Вашият канал трябва да достигне **Ниво {count}**, за да активирате автоматичния превод.";
@@ -5244,6 +5243,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_open_this_link" = "Отваряне на тази връзка?";
 "lng_open_link" = "Отвори";
+"lng_open_link_unsupported" = "Телеграм не може да отвори тази връзка.";
 "lng_open_link_suspicious_chars" = "Подчертаните символи са от различна азбука в сравнение с останалата част от адреса.";
 "lng_allow_bot_pass" = "Разрешаване на {bot_name} да предава вашето име и ID в Телеграм (а не вашия телефонен номер) към уеб страниците, които отваряте чрез този бот?";
 "lng_allow_bot" = "Разрешаване";
@@ -7690,6 +7690,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_article_limit_buttons" = "В този ред има прекалено много бутони.";
 "lng_article_table_truncated" = "Поставената таблица не пасна и беше съкратена.";
 "lng_article_paste_truncated" = "Поставеното съдържание не пасна и беше съкратено.";
+"lng_article_paste_attach_files#one" = "Поставянето на това съдържание ще прикачи {count} файл от вашия компютър към съобщението:";
+"lng_article_paste_attach_files#other" = "Поставянето на това съдържание ще прикачи {count} файлове от вашия компютър към съобщението:";
 "lng_article_submit_empty" = "Статията не може да бъде празна.";
 "lng_article_premium_required" = "Абонирайте се за {link} , за да можете да изпращате обогатени статии.";
 "lng_article_premium_required_link" = "Телеграм Премиум";
@@ -8264,9 +8266,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_request_peer_requirements" = "Изисквания";
 "lng_request_peer_rights" = "Трябва да имате администраторски права за {rights}.";
 "lng_request_peer_rights_and" = "{rights} и {last}";
+"lng_request_peer_rights_other" = "други администраторски права";
 "lng_request_peer_confirm" = "Сигурни ли сте, че искате да изпратите {chat} на {bot}?";
 "lng_request_peer_confirm_add" = "Това също ще добави {bot} към {chat}.";
+"lng_request_peer_confirm_add_maybe" = "Това ще добави {bot} към {chat} , ако той все още не е член.";
 "lng_request_peer_confirm_rights" = "Това също ще добави {bot} към {chat} със следните права: {rights}.";
+"lng_request_peer_confirm_many#one" = "Сигурни ли сте, че искате да изпратите {count} чат до {bot}?";
+"lng_request_peer_confirm_many#other" = "Сигурни ли сте, че искате да изпратите {count} чата до {bot}?";
 "lng_request_peer_confirm_send" = "Изпращане";
 "lng_request_user_title" = "Избор на потребител";
 "lng_request_users_title" = "Избор на потребители";
@@ -8294,6 +8300,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_request_group_manage_video_chats" = "управление на видео чатове";
 "lng_request_group_anonymous" = "остани анонимен";
 "lng_request_group_add_admins" = "добавяне на нови администратори";
+"lng_request_group_post_stories" = "публикуване на истории";
+"lng_request_group_edit_stories" = "редактиране на истории на други хора";
+"lng_request_group_delete_stories" = "изтриване на истории на други хора";
 "lng_request_group_create" = "Създайте нова група за това";
 "lng_request_channel_title" = "Избор на канал";
 "lng_request_channel_no" = "Няма такива канали";
@@ -8309,6 +8318,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_request_channel_manage_livestreams" = "управление на потоци на живо";
 "lng_request_channel_manage_direct" = "управление на директни съобщения";
 "lng_request_channel_add_admins" = "добавяне на нови администратори";
+"lng_request_channel_post_stories" = "публикуване на истории";
+"lng_request_channel_edit_stories" = "редактиране на истории на други хора";
+"lng_request_channel_delete_stories" = "изтриване на истории на други хора";
 "lng_request_channel_create" = "Създаване на нов канал за това";
 
 "lng_userpic_builder_color_subtitle" = "Избор на фон";
@@ -8949,8 +8961,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_wallet_details_fee" = "Такса";
 "lng_wallet_details_fee_free" = "Безплатно (платено от Телеграм)";
 "lng_wallet_fees_title" = "Мрежови такси";
-"lng_wallet_fees_text#one" = "Всеки превод струва малка мрежова такса.\n\nTelegram покрива първия ви {count} трансфер всеки ден.";
-"lng_wallet_fees_text#other" = "Всеки превод струва малка мрежова такса.\n\nTelegram покрива първите ви {count} превода всеки ден.";
+"lng_wallet_fees_text#one" = "Всеки превод струва малка мрежова такса.\n\nТелеграм покрива първия ви {count} трансфер всеки ден.";
+"lng_wallet_fees_text#other" = "Всеки превод струва малка мрежова такса.\n\nТелеграм покрива първите ви {count} превода всеки ден.";
 "lng_wallet_details_open_wallet" = "Отвори My Money";
 "lng_wallet_details_date" = "Дата";
 "lng_wallet_details_status" = "Статус";
@@ -9062,7 +9074,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_wallet_protection_touchid_reason" = "отключете ключа на портфейла си";
 "lng_wallet_protection_hello_about" = "Потвърждавайте всички разходи с вашия ПИН код за Windows.";
 "lng_wallet_protection_hello_label" = "Windows Hello";
-"lng_wallet_protection_retained" = "Telegram няма да поиска {provider} отново в продължение на 15 минути. {link}";
+"lng_wallet_protection_retained" = "Телеграм няма да поиска {provider} отново в продължение на 15 минути. {link}";
 "lng_wallet_protection_retained_ask" = "Попитай следващия път";
 "lng_wallet_protection_hardware_failed" = "{provider} не потвърди, че това сте вие. Нищо не беше променено.";
 "lng_wallet_protection_hardware_unavailable" = "Ключът на портфейла ви на това устройство е защитен от {provider}, който не може да се използва в момента. Рестартирайте Телеграм, за да опитате отново, или възстановете портфейла от криптираното архивно копие на Телеграм или с вашата секретна фраза, за да го защитите по друг начин.";
@@ -9215,6 +9227,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_always_open_with" = "Винаги отваряй с";
 "lng_mac_this_app_can_open" = "Това приложение може да отваря \"{file}\".";
 "lng_mac_not_known_app" = "Не е известно дали това приложение може да отваря \"{file}\".";
+"lng_mac_cant_open_chooser" = "Не можа да се отвори селекторът на приложения.";
 
 "lng_mac_menu_services" = "Услуги";
 "lng_mac_menu_hide_telegram" = "Скриване на {telegram}";
