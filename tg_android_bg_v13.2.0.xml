@@ -7108,7 +7108,7 @@
     <string name="HeaderDoneButtonColorInfo">Белият бутон се появява само когато има нещо за запазване. Синият бутон се показва винаги и е затъмнен дотогава.</string>
     <string name="HeaderDoneButtonPreview">Преглед</string>
     <string name="HeaderDoneButtonPreviewChanges">Има промени</string>
-    <string name="HeaderDoneButtonPreviewInfo">Превключите, за да видите как бутонът в заглавието по-горе реагира на промените.</string>
+    <string name="HeaderDoneButtonPreviewInfo">Превключите, за да видите как бутонът в заглавната част по-горе реагира на промените.</string>
     <string name="HeaderDoneButtonShape">Форма на бутона „Готово“</string>
     <string name="HeaderDoneButtonShapeIcon">Кръгъл с отметка</string>
     <string name="HeaderDoneButtonShapeText">Текст</string>
